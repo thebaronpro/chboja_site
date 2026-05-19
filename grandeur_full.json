@@ -1,0 +1,392 @@
+{
+  "name": "그랜저",
+  "slug": "grandeur",
+  "category": "sedan",
+  "trims": [
+    {
+      "name": "가솔린 터보 1.6 하이브리드 프리미엄 A/T",
+      "base_price": 43540000,
+      "engine": "가솔린 터보 1.6 하이브리드",
+      "fuel_type": "hybrid",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": [
+        "세레니티 화이트 펄 외장컬러 (10만원)",
+        "녹턴 그레이 매트 외장컬러 (20만원)",
+        "파노라마 선루프 (117만원)",
+        "헤드업 디스플레이 (97만원)",
+        "파킹 어시스트 (141만원)",
+        "현대 스마트센스Ⅰ (83만원)",
+        "컨비니언스 (59만원)",
+        "플래티넘 (127만원)",
+        "[HGA] 차량 보호 필름 (44만원)",
+        "[HGA] 빌트인 공기청정기 2.0 (58만원)",
+        "[HGA] LED 메탈 패키지 (53만원)"
+      ]
+    },
+    {
+      "name": "가솔린 터보 1.6 하이브리드 익스클루시브 A/T",
+      "base_price": 48430000,
+      "engine": "가솔린 터보 1.6 하이브리드",
+      "fuel_type": "hybrid",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": [
+        "세레니티 화이트 펄 외장컬러 (10만원)",
+        "녹턴 그레이 매트 외장컬러 (20만원)",
+        "파노라마 선루프 (117만원)",
+        "헤드업 디스플레이 (97만원)",
+        "현대 스마트센스Ⅱ 플러스 (133만원)",
+        "BOSE 프리미엄 사운드 패키지 (117만원)",
+        "프리뷰 전자제어 서스펜션Ⅰ (127만원)",
+        "19인치 알로이 휠 &amp; 타이어 (25만원)",
+        "[HGA] 차량 보호 필름 (44만원)",
+        "[HGA] 20인치 고휘도 스퍼터링 휠 (94만원)",
+        "[HGA] 빌트인 공기청정기 2.0 (58만원)",
+        "[HGA] LED 메탈 패키지 (53만원)"
+      ]
+    },
+    {
+      "name": "가솔린 터보 1.6 하이브리드 아너스 A/T",
+      "base_price": 50690000,
+      "engine": "가솔린 터보 1.6 하이브리드",
+      "fuel_type": "hybrid",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": [
+        "세레니티 화이트 펄 외장컬러 (10만원)",
+        "파노라마 선루프 (117만원)",
+        "헤드업 디스플레이 (97만원)",
+        "프리뷰 전자제어 서스펜션Ⅱ (127만원)",
+        "[HGA] 차량 보호 필름 (44만원)",
+        "[HGA] 20인치 고휘도 스퍼터링 휠 (94만원)",
+        "[HGA] 빌트인 공기청정기 2.0 (58만원)",
+        "[HGA] LED 메탈 패키지 (53만원)"
+      ]
+    },
+    {
+      "name": "가솔린 터보 1.6 하이브리드 캘리그래피 A/T",
+      "base_price": 52660000,
+      "engine": "가솔린 터보 1.6 하이브리드",
+      "fuel_type": "hybrid",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 터보 1.6 하이브리드 캘리그래피 (블랙익스테리어) A/T",
+      "base_price": 52660000,
+      "engine": "가솔린 터보 1.6 하이브리드",
+      "fuel_type": "hybrid",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 터보 1.6 하이브리드 캘리그래피 (블랙잉크) A/T",
+      "base_price": 53930000,
+      "engine": "가솔린 터보 1.6 하이브리드",
+      "fuel_type": "hybrid",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 2.5 프리미엄 A/T",
+      "base_price": 37980000,
+      "engine": "가솔린 2.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": [
+        "세레니티 화이트 펄 외장컬러 (10만원)",
+        "녹턴 그레이 매트 외장컬러 (20만원)",
+        "파노라마 선루프 (117만원)",
+        "헤드업 디스플레이 (97만원)",
+        "파킹 어시스트 (141만원)",
+        "현대 스마트센스Ⅰ (83만원)",
+        "컨비니언스 (59만원)",
+        "플래티넘 (127만원)",
+        "[HGA] 차량 보호 필름 (44만원)",
+        "[HGA] 빌트인 공기청정기 2.0 (58만원)",
+        "[HGA] LED 메탈 패키지 (53만원)"
+      ]
+    },
+    {
+      "name": "가솔린 2.5 익스클루시브 A/T",
+      "base_price": 42870000,
+      "engine": "가솔린 2.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 2.5 아너스 A/T",
+      "base_price": 45130000,
+      "engine": "가솔린 2.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 2.5 캘리그래피 A/T",
+      "base_price": 47100000,
+      "engine": "가솔린 2.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 2.5 캘리그래피 (블랙익스테리어) A/T",
+      "base_price": 47100000,
+      "engine": "가솔린 2.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 2.5 캘리그래피 (블랙잉크) A/T",
+      "base_price": 48370000,
+      "engine": "가솔린 2.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 프리미엄 2WD A/T",
+      "base_price": 40420000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": [
+        "세레니티 화이트 펄 외장컬러 (10만원)",
+        "녹턴 그레이 매트 외장컬러 (20만원)",
+        "파노라마 선루프 (117만원)",
+        "헤드업 디스플레이 (97만원)",
+        "파킹 어시스트 (141만원)",
+        "현대 스마트센스Ⅰ (83만원)",
+        "컨비니언스 (59만원)",
+        "플래티넘 (127만원)",
+        "[HGA] 차량 보호 필름 (44만원)",
+        "[HGA] 빌트인 공기청정기 2.0 (58만원)",
+        "[HGA] LED 메탈 패키지 (53만원)"
+      ]
+    },
+    {
+      "name": "가솔린 3.5 프리미엄 AWD A/T",
+      "base_price": 42560000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 익스클루시브 2WD A/T",
+      "base_price": 45300000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 익스클루시브 AWD A/T",
+      "base_price": 47450000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 아너스 2WD A/T",
+      "base_price": 47570000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 아너스 AWD A/T",
+      "base_price": 49710000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 캘리그래피 2WD A/T",
+      "base_price": 49540000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 캘리그래피 AWD A/T",
+      "base_price": 51680000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 캘리그래피 (블랙익스테리어) 2WD A/T",
+      "base_price": 49540000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 캘리그래피 (블랙익스테리어) AWD A/T",
+      "base_price": 51680000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 캘리그래피 (블랙잉크) 2WD A/T",
+      "base_price": 50810000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "가솔린 3.5 캘리그래피 (블랙잉크) AWD A/T",
+      "base_price": 52950000,
+      "engine": "가솔린 3.5",
+      "fuel_type": "gasoline",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "LPG 3.5 (일반판매용) 프리미엄 A/T",
+      "base_price": 38650000,
+      "engine": "LPG 3.5 (일반판매용)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": [
+        "세레니티 화이트 펄 외장컬러 (10만원)",
+        "녹턴 그레이 매트 외장컬러 (20만원)",
+        "파노라마 선루프 (117만원)",
+        "헤드업 디스플레이 (97만원)",
+        "플래티넘 (127만원)",
+        "파킹 어시스트 (141만원)",
+        "현대 스마트센스Ⅰ (83만원)",
+        "프리미엄 초이스 (127만원)",
+        "[HGA] 차량 보호 필름 (44만원)",
+        "[HGA] 빌트인 공기청정기 2.0 (58만원)"
+      ]
+    },
+    {
+      "name": "LPG 3.5 (일반판매용) 익스클루시브 A/T",
+      "base_price": 43480000,
+      "engine": "LPG 3.5 (일반판매용)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "LPG 3.5 (장애인용/택시) 장애인용 익스클루시브 플러스 왼발장애 A/T",
+      "base_price": 42500000,
+      "engine": "LPG 3.5 (장애인용/택시)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": [
+        "세레니티 화이트 펄 외장컬러 (10만원)",
+        "녹턴 그레이 매트 외장컬러 (20만원)",
+        "파노라마 선루프 (113만원)",
+        "플래티넘 플러스 (216만원)",
+        "BOSE 프리미엄 사운드 패키지 (113만원)",
+        "프리뷰 전자제어 서스펜션Ⅰ (103만원)"
+      ]
+    },
+    {
+      "name": "LPG 3.5 (장애인용/택시) 장애인용 익스클루시브 플러스 왼손왼발장애 A/T",
+      "base_price": 41300000,
+      "engine": "LPG 3.5 (장애인용/택시)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "LPG 3.5 (장애인용/택시) 장애인용 익스클루시브 플러스 왼손오른발장애 A/T",
+      "base_price": 41200000,
+      "engine": "LPG 3.5 (장애인용/택시)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "LPG 3.5 (장애인용/택시) 장애인용 익스클루시브 플러스 오른손오른발장애 A/T",
+      "base_price": 41200000,
+      "engine": "LPG 3.5 (장애인용/택시)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "LPG 3.5 (장애인용/택시) 장애인용 익스클루시브 플러스 오른발장애 A/T",
+      "base_price": 42400000,
+      "engine": "LPG 3.5 (장애인용/택시)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "LPG 3.5 (장애인용/택시) 장애인용 익스클루시브 플러스 양발장애 A/T",
+      "base_price": 41000000,
+      "engine": "LPG 3.5 (장애인용/택시)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "LPG 3.5 (장애인용/택시) 장애인용 익스클루시브 플러스 오른손장애 A/T",
+      "base_price": 41300000,
+      "engine": "LPG 3.5 (장애인용/택시)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    },
+    {
+      "name": "LPG 3.5 (장애인용/택시) 택시 VIP A/T",
+      "base_price": 37120000,
+      "engine": "LPG 3.5 (장애인용/택시)",
+      "fuel_type": "lpg",
+      "transmission": "A/T",
+      "standard_options": [],
+      "option_packages": []
+    }
+  ],
+  "image_url": "https://autoimg.danawa.com/photo/4188/model_360.png",
+  "image_local_path": null,
+  "scraped_at": "2026-04-03"
+}

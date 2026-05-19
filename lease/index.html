@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=1280"/>
+  <title>화물리스 — CHABOZA</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <style>body { font-family: 'Noto Sans KR', sans-serif; } .whitespace-pre-line { white-space: pre-line; }
+.mob-bottom-nav{position:fixed;bottom:0;left:0;right:0;z-index:9999;background:#fff;border-top:1px solid #e5e5e5;padding-bottom:env(safe-area-inset-bottom);display:block}
+.bnav-inner{display:flex;align-items:stretch}
+.bnav-item{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:.55rem .25rem .45rem;gap:.18rem;text-decoration:none;color:#a3a3a3;font-size:.65rem;font-weight:600;font-family:inherit}
+.bnav-item.active{color:#dc2626}
+.bnav-quick{color:#0a0a0a!important}
+.bnav-quick-bar{position:absolute;top:0;left:50%;transform:translateX(-50%);width:2rem;height:3px;background:#0a0a0a;border-radius:0 0 3px 3px}
+</style>
+</head>
+<body style="padding-bottom:4rem">
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin></script>
+  <script src="../data.js"></script>
+  <script type="text/babel" data-presets="env,react">
+    const { useState, useEffect, useRef, useMemo } = React;
+    const BASE = "../";
+    const NAV = [
+      { label:"홈",         href: BASE+"index.html" },
+      { label:"장기렌트",   href: BASE+"rental/" },
+      { label:"할부",       href: BASE+"installment/" },
+      { label:"중고차",     href: BASE+"used-car/" },
+      { label:"화물리스",   href: BASE+"lease/" },
+      { label:"자동차용품", href: BASE+"shop/" },
+      { label:"이벤트&혜택",href: BASE+"event/" },
+      { label:"고객센터",   href: BASE+"contact/" },
+    ];
+    const CURRENT = "화물리스";
+
+    function Icon({ name, size=18, className="" }) {
+      return <span className={`inline-flex items-center justify-center leading-none ${className}`} style={{width:size,height:size,fontSize:size}}>{ICONS[name]||"•"}</span>;
+    }
+    function Btn({ children, dark=true, className="", onClick }) {
+      return <button onClick={onClick} className={`${dark?"bg-neutral-900 text-white hover:bg-red-600":"bg-white text-neutral-900 hover:bg-neutral-100"} inline-flex items-center gap-2 px-7 py-3 text-sm font-bold transition ${className}`}>{children}</button>;
+    }
+    function Img({ src, className="" }) {
+      return src ? <img src={src} alt="" className={`object-cover ${className}`}/> : <div className={`bg-slate-200 ${className}`}/>;
+    }
+    function SecHeader({ title, desc, right }) {
+      return <div className="mb-8 flex items-end justify-between gap-4"><div><h2 className="text-3xl font-black tracking-tight text-neutral-950">{title}</h2>{desc&&<p className="mt-2 text-sm font-semibold text-neutral-400">{desc}</p>}</div>{right&&<div className="text-sm font-bold text-neutral-500">{right}</div>}</div>;
+    }
+    function CarCard({ item, button="견적 신청하기", tall=false }) {
+      return <article className="border border-neutral-200 bg-white"><Img src={item.image} className={`${tall?"h-72":"h-48"} w-full`}/><div className="p-5">{item.tag&&<span className="mb-3 inline-flex bg-neutral-800 px-3 py-1 text-xs font-black text-white">{item.tag}</span>}<h3 className="font-black">{item.name}</h3><p className="mt-1 font-black">{item.price}</p><p className="mt-1 text-sm text-neutral-500">{item.meta}</p>{button&&<button className="mt-8 w-full bg-neutral-900 py-3 text-sm font-bold text-white hover:bg-red-600 transition">{button}</button>}</div></article>;
+    }
+    function Header() {
+            return (
+        <header className="sticky top-0 z-50 border-t-4 border-neutral-900 bg-white/95 backdrop-blur">
+          <div className="mx-auto flex h-11 max-w-7xl items-center justify-center px-4 relative">
+            <a href={BASE+"index.html"} className="text-3xl font-black tracking-tight text-red-600">CHABOZA</a>
+            <div className="absolute right-8 top-4 hidden text-xs text-neutral-500 md:block">로그인&nbsp;|&nbsp;KR</div>
+          </div>
+          <nav className="border-y border-neutral-200">
+            <div className="mx-auto flex max-w-7xl justify-center px-4">
+              {NAV.map(n=><a key={n.label} href={n.href}} className={`min-w-fit px-8 py-4 text-sm font-semibold transition whitespace-nowrap ${CURRENT===n.label?"border-b-4 border-neutral-900 text-neutral-950":"border-b-4 border-transparent text-neutral-500 hover:text-neutral-900"}`}>{n.label}</a>)}
+            </div>
+            
+          </nav>
+        </header>
+      );
+    }
+    function Footer() {
+      return (
+        <footer className="bg-neutral-950 text-neutral-400">
+          <div className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-6 py-10 md:grid-cols-4">
+            <div><p className="mb-2 font-bold text-white">차보자</p><p className="text-xs leading-6">서울특별시 금천구 가산동<br/>사업자등록번호 000-00-00000<br/>대표 임운호</p></div>
+            <a href={BASE+"rental/"} className="text-left"><p className="mb-2 font-bold text-red-600">회사소개</p><p className="text-xs">신규 입점 문의</p></a>
+            <a href={BASE+"contact/"} className="text-left"><p className="mb-2 font-bold text-red-600">고객센터</p><p className="text-xs">상담신청 및 자주 묻는 질문</p></a>
+            <div><p className="mb-2 font-bold text-red-600">대표전화</p><p className="text-xs">1661-3583</p></div>
+          </div>
+          <div className="mx-auto max-w-7xl border-t border-neutral-800 px-6 py-6 text-xs text-neutral-500">이용약관&nbsp;&nbsp;개인정보처리방침<br/>Copyright © 2026 CHABOZA. All Rights Reserved.</div>
+        </footer>
+      );
+    }
+
+    function Page() {
+      const tabs = ["1톤 리스","2.5톤 리스","5톤 리스","특장차 리스","냉동탑차"];
+      const [activeTab, setActiveTab] = useState(0);
+
+      return <>
+        <section className="bg-slate-950 py-20 text-white">
+          <div className="mx-auto max-w-7xl px-6">
+            <div className="grid gap-10 md:grid-cols-2 md:items-center">
+              <div>
+                <p className="mb-3 text-sm font-black tracking-widest text-slate-400 uppercase">TRUCK LEASE</p>
+                <h1 className="text-5xl font-black leading-tight">사업용 화물차 리스로<br/>세금 혜택까지</h1>
+                <p className="mt-5 text-base font-semibold text-slate-300">부가세 환급 · 비용 처리 · 보증금 0원 가능</p>
+                <div className="mt-8 flex gap-3">
+                  <Btn dark={false}>사업자 견적받기</Btn>
+                  <Btn>세금 혜택 안내</Btn>
+                </div>
+              </div>
+              <div className="grid grid-cols-3 gap-4 text-center">
+                {[["부가세","환급 가능"],["비용","100% 처리"],["보증금","0원 가능"]].map(([a,b])=><div key={a} className="border border-slate-700 p-6"><p className="text-2xl font-black text-white">{a}</p><p className="mt-1 text-xs text-slate-400">{b}</p></div>)}
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <div className="border-b border-neutral-200 bg-white">
+          <div className="mx-auto flex max-w-7xl overflow-x-auto px-4">
+            {tabs.map((t,i)=><button key={t} onClick={()=>setActiveTab(i)} className={`min-w-fit px-8 py-4 text-sm font-bold whitespace-nowrap ${activeTab===i?"border-b-4 border-neutral-900 text-neutral-950":"text-neutral-500 hover:text-neutral-900"}`}>{t}</button>)}
+          </div>
+        </div>
+
+        <section className="mx-auto max-w-7xl px-6 py-16">
+          <SecHeader title="화물차 리스 라인업" desc="전 차종 보증금 0원 옵션 · 부가세 환급 안내 포함" right="전체 보기 →"/>
+          <div className="grid gap-6 md:grid-cols-4">
+            {TRUCKS.map(c=><CarCard key={c.name} item={c} button={null} tall={true}/>)}
+          </div>
+        </section>
+
+        <section className="bg-neutral-100 py-16">
+          <div className="mx-auto max-w-7xl px-6">
+            <SecHeader title="화물리스 주요 혜택" desc="사업자라면 꼭 확인하세요"/>
+            <div className="grid gap-6 md:grid-cols-3">
+              {[
+                { num:"01", title:"부가세 환급", desc:"사업자 명의 리스 계약 시 차량 부가세(VAT) 전액 환급 가능합니다. 취득 비용을 크게 줄일 수 있습니다." },
+                { num:"02", title:"비용처리 100%", desc:"리스료 전액을 법인·개인사업자 비용으로 처리해 과세 소득을 줄이고 절세 효과를 누릴 수 있습니다." },
+                { num:"03", title:"보증금 0원 출고", desc:"신용 조건 충족 시 보증금 없이 즉시 출고 가능. 초기 자금 부담 없이 사업을 시작하세요." },
+              ].map(b=><div key={b.num} className="bg-white p-8">
+                <p className="mb-4 text-5xl font-black text-neutral-200">{b.num}</p>
+                <h3 className="mb-3 text-lg font-black">{b.title}</h3>
+                <p className="text-sm text-neutral-500 leading-relaxed">{b.desc}</p>
+                <button className="mt-6 text-sm font-black text-red-600 hover:underline">자세히 보기 →</button>
+              </div>)}
+            </div>
+          </div>
+        </section>
+
+        <section className="bg-neutral-900 py-16 text-white">
+          <div className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 md:grid-cols-[1.3fr_.8fr] md:items-center">
+            <div>
+              <h2 className="mb-3 text-4xl font-black">화물리스 무료 상담</h2>
+              <p className="font-semibold text-neutral-400">사업자 맞춤 리스 조건을 빠르게 안내해드립니다.</p>
+              <div className="mt-8 grid gap-4 bg-white p-8 md:grid-cols-2">
+                <input className="border border-neutral-200 px-5 py-4 text-sm text-neutral-900" placeholder="성함 / 상호명"/>
+                <input className="border border-neutral-200 px-5 py-4 text-sm text-neutral-900" placeholder="휴대폰 번호"/>
+                <input className="border border-neutral-200 px-5 py-4 text-sm text-neutral-900 md:col-span-2" placeholder="관심 차종 (예: 포터 EV, 봉고3)"/>
+                <button className="bg-neutral-900 py-4 text-sm font-black text-white md:col-span-2">무료 상담 신청하기</button>
+              </div>
+            </div>
+            <div className="bg-neutral-700 p-10">
+              <p className="mb-5 text-lg font-bold text-white">전화 상담</p>
+              <p className="mb-2 text-5xl font-black text-white">1661-3583</p>
+              <p className="mb-8 text-sm text-neutral-300">평일 09:00 ~ 18:00</p>
+            </div>
+          </div>
+        </section>
+      </>;
+    }
+
+    ReactDOM.createRoot(document.getElementById("root")).render(
+      <div className="min-h-screen bg-white text-neutral-950"><Header/><main><Page/></main><Footer/></div>
+    );
+  </script>
+<nav class="mob-bottom-nav"><div class="bnav-inner"><a href="../index.html" class="bnav-item"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span>홈</span></a><a href="../rental/search.html" class="bnav-item active"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg><span>차량검색</span></a><a href="../rental/limited.html" class="bnav-item bnav-quick" style="position:relative"><span class="bnav-quick-bar"></span><span style="font-size:1.25rem">⚡</span><span>빠른출고</span></a><a href="#" class="bnav-item"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><span>내 견적</span></a><a href="#" class="bnav-item"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg><span>마이</span></a></div></nav>
+</body>
+</html>

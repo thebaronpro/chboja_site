@@ -1,0 +1,1252 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>장기렌트 — CHABOZA</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+body { font-family: 'Noto Sans KR', -apple-system, sans-serif; }
+.mob-bottom-nav{position:fixed!important;bottom:0!important;left:0;right:0;z-index:9999;background:#fff;border-top:1px solid #e5e5e5;padding-bottom:env(safe-area-inset-bottom);display:block!important}
+.bnav-item{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:.6rem .25rem .5rem;gap:.2rem;text-decoration:none;color:#a3a3a3;font-size:.65rem;font-weight:600}
+.bnav-item.active{color:#dc2626}
+.bnav-quick{color:#0a0a0a!important}
+.bnav-quick-bar{position:absolute;top:0;left:50%;transform:translateX(-50%);width:2rem;height:3px;background:#0a0a0a;border-radius:0 0 3px 3px}
+body{padding-bottom:4rem}
+.whitespace-pre-line { white-space: pre-line; }
+.td-bottom-btn { display: none; }  /* 데스크탑에서 숨김 */
+.limited-trim-info { display: block; }
+.popular-arrows { display: flex; }
+.hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:6px;background:none;border:none;position:absolute;right:1rem}
+.hamburger span{display:block;width:22px;height:2px;background:#0a0a0a}
+@media (max-width: 768px) {
+  .popular-arrows { display: none !important; }
+  .rental-subnav a { padding: .5rem .85rem !important; font-size: .75rem !important; }
+  .hamburger { display: flex !important; }
+  .gnb-nav { display: none !important; }
+}
+@media (max-width: 768px) {
+  /* 빠른출고 한정재고: 차 사진 위 가로 배치 */
+  .limited-section {
+    grid-template-columns: 1fr !important;
+    padding: 1.5rem 1rem !important;
+    gap: .5rem !important;
+  }
+  .limited-section > div:last-child {
+    order: -1 !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    gap: .4rem !important;
+  }
+  .limited-title {
+    font-size: 1.42rem !important;
+    line-height: 1 !important;
+    display: flex !important;
+    gap: .5rem !important;
+    flex-direction: row !important;
+    align-items: center !important;
+  }
+  .limited-title br { display: none !important; }
+  .limited-title span { font-size: 1.42rem !important; }
+  .limited-sub { display: none !important; }
+  .limited-trim-info { display: none !important; }
+  .limited-section > div:last-child > a { display: none !important; }
+
+  /* 타임딜 모바일 */
+  .td-inner { display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 1rem .5rem !important; padding: 1.25rem 1rem !important; }
+  .td-inner > div:nth-child(3) { justify-self: end !important; }
+  .td-img { justify-self: start !important; }
+  .td-top-row { grid-column: 1/3 !important; }
+  .td-inner > div:nth-child(2) { grid-column: 1/3 !important; }
+  .td-inner > div:nth-child(3) { grid-column: 1 !important; align-self: center !important; }
+  .td-img { grid-column: 2 !important; align-self: center !important; }
+  .td-top-row { text-align: center !important; }
+  .td-top-row h3 { font-size: 2rem !important; display: flex !important; justify-content: center !important; }
+  .td-top-row p { display: none !important; }
+  /* 시계: 가로폭 꽉 채워 크게 */
+  .td-inner > div:nth-child(2) { justify-content: stretch !important; gap: .5rem !important; width: 100% !important; }
+  .td-inner > div:nth-child(2) > div { flex: 1 !important; padding: 1.25rem .5rem !important; text-align: center !important; }
+  .td-inner > div:nth-child(2) > div p:first-child { font-size: 2.75rem !important; }
+  .td-inner > div:nth-child(2) > div p:last-child { font-size: .9rem !important; }
+  .td-bottom-btn { display: flex !important; width: 100% !important; align-items: center; justify-content: center; padding: .75rem; font-size: .875rem; font-weight: 700; background: #dc2626; color: #fff; border: none; cursor: pointer; margin-top: .5rem; }
+  .td-orig-btn { display: none !important; }
+  /* 차량명+버튼 / 차 이미지: 좌우 나란히 */
+  .td-inner > div:nth-child(3) { flex: 1 !important; }
+  .td-img {
+    display: flex !important; align-items: center !important; justify-content: center !important;
+    height: 90px !important; overflow: visible !important; flex: 1 !important;
+  }
+  .td-img img, .td-img span {
+    position: static !important; transform: none !important;
+    height: 80px !important; animation: none !important; opacity: 1 !important;
+  }
+  /* 차량명+이미지 행을 flex row로 */
+  .td-car-row { display: flex !important; flex-direction: row !important; align-items: center !important; gap: .5rem !important; }
+  .zoom-card { width: 100% !important; min-width: unset !important; }
+
+  /* 한정재고 모바일 리스트형 */
+  .limited-grid {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0 !important;
+    border-top: 1px solid #e5e5e5;
+  }
+  .limited-grid article {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    border: none !important;
+    border-bottom: 1px solid #f0f0f0 !important;
+    border-radius: 0 !important;
+    transform: none !important;
+    box-shadow: none !important;
+    padding: .7rem 1rem !important;
+    gap: .5rem !important;
+  }
+  .limited-grid article .overflow-hidden {
+    width: 110px !important;
+    height: 75px !important;
+    flex-shrink: 0 !important;
+    align-self: center !important;
+  }
+  .limited-grid article .overflow-hidden img {
+    width: 100% !important; height: 100% !important;
+    transform: none !important; object-fit: contain !important;
+  }
+  /* info 섹션: 3열 그리드 (이름+가격+메타 / 선납금0% / 대수버튼) */
+  .limited-grid article > div.p-4 {
+    display: grid !important;
+    grid-template-columns: 1fr auto auto !important;
+    grid-template-rows: auto auto auto !important;
+    align-items: center !important;
+    align-content: center !important;
+    gap: .1rem 1rem !important;
+    padding: 0 0 0 2.5rem !important;
+    flex: 1 !important;
+  }
+  .limited-grid article > div.p-4 > p:nth-child(1) { grid-column:1; grid-row:1; font-size:.85rem !important; font-weight:900 !important; }
+  .limited-grid article > div.p-4 > p:nth-child(2) { grid-column:1; grid-row:2; font-size:1.25rem !important; font-weight:900 !important; }
+  .limited-grid article > div.p-4 > p:nth-child(3) { grid-column:1; grid-row:3; font-size:.68rem !important; color:#a3a3a3 !important; }
+  .limited-grid article > div.p-4 > div {
+    grid-column:2; grid-row:1/4;
+    border-top: none !important; padding-top:0 !important; margin-top:0 !important;
+    display:flex; flex-direction:column; justify-content:center; gap:.1rem;
+  }
+  .limited-grid article > div.p-4 > div > p:first-child { font-size:.68rem !important; }
+  .limited-grid article > div.p-4 > div > p:last-child { font-size:.8rem !important; font-weight:400 !important; }
+  .limited-grid article > div.p-4 > button {
+    grid-column:3; grid-row:1/4;
+    width:auto !important; margin-top:0 !important;
+    padding:.5rem .9rem !important; font-size:.9rem !important;
+    align-self:center !important;
+  }
+}
+@keyframes carDriveIn {
+  0%   { transform: translateY(-50%) translateX(260px); opacity: 0; }
+  12%  { opacity: 1; }
+  68%  { transform: translateY(-50%) translateX(-22px); }
+  80%  { transform: translateY(-50%) translateX(9px); }
+  90%  { transform: translateY(-50%) translateX(-4px); }
+  100% { transform: translateY(-50%) translateX(0); }
+}
+.car-drive-in { animation: carDriveIn 0.9s ease-out forwards; }
+
+.zoom-card { transition: transform 0.6s cubic-bezier(0.16,1,0.3,1), box-shadow 0.6s cubic-bezier(0.16,1,0.3,1); }
+.zoom-card:hover { transform: scale(1.05); z-index: 10; position: relative; box-shadow: 0 8px 32px rgba(0,0,0,.15); }
+.zoom-card .zoom-img { transition: transform 0.6s cubic-bezier(0.16,1,0.3,1); transform: scale(1); object-fit: cover; }
+.zoom-card:hover .zoom-img { transform: scale(0.82); object-fit: contain; background: #fff; }
+
+@keyframes carRide {
+  0%   { transform: translateY(-50%); }
+  4%   { transform: translateY(-51.2%); }
+  8%   { transform: translateY(-49.2%); }
+  12%  { transform: translateY(-51.2%); }
+  16%  { transform: translateY(-49.2%); }
+  20%  { transform: translateY(-51.2%); }
+  24%  { transform: translateY(-49.2%); }
+  28%  { transform: translateY(-51%); }
+  32%  { transform: translateY(-49.5%); }
+  /* 덜컹! */
+  36%  { transform: translateY(-56%); }
+  40%  { transform: translateY(-43%); }
+  43%  { transform: translateY(-52%); }
+  46%  { transform: translateY(-49%); }
+  /* 달달달 재개 */
+  52%  { transform: translateY(-51.2%); }
+  56%  { transform: translateY(-49.2%); }
+  60%  { transform: translateY(-51.2%); }
+  64%  { transform: translateY(-49.2%); }
+  68%  { transform: translateY(-51%); }
+  72%  { transform: translateY(-49.5%); }
+  76%  { transform: translateY(-51%); }
+  /* 작은 덜컹 */
+  80%  { transform: translateY(-53.5%); }
+  83%  { transform: translateY(-47%); }
+  86%  { transform: translateY(-50.5%); }
+  /* 달달 마무리 */
+  90%  { transform: translateY(-51%); }
+  94%  { transform: translateY(-49.5%); }
+  97%  { transform: translateY(-51%); }
+  100% { transform: translateY(-50%); }
+}
+.car-ride { animation: carRide 3s linear infinite; }
+@keyframes chargePulse {
+  0%,100% { opacity:.3; transform:scale(1); }
+  50%      { opacity:1;  transform:scale(1.15); }
+}
+@keyframes chargeBar {
+  0%   { width:0%; }
+  100% { width:100%; }
+}
+@keyframes evGlow {
+  0%,100% { filter: drop-shadow(0 0 0px #4ade80); }
+  50%      { filter: drop-shadow(0 0 18px #4ade80); }
+}
+.ev-banner:hover .ev-car { animation: evGlow 1.2s ease-in-out infinite; }
+.ev-banner:hover .ev-bolt { animation: chargePulse .7s ease-in-out infinite; }
+.ev-banner:hover .ev-bar  { animation: chargeBar 1.8s ease-out forwards; }
+
+@keyframes streak {
+  0%   { transform: translateX(-400%); opacity: 0; }
+  8%   { opacity: 1; }
+  88%  { opacity: 1; }
+  100% { transform: translateX(120%); opacity: 0; }
+}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin></script>
+<script type="text/babel" data-presets="env,react">
+const { useState, useEffect, useMemo, useRef } = React;
+/* ===================== DATA.JS ===================== */
+
+const NAV_ITEMS = ["홈", "장기렌트", "할부", "중고차", "화물리스", "자동차용품", "이벤트&혜택", "고객센터"];
+
+const ICONS = {
+  left: "←", right: "→", down: "⌄", arrow: "→", search: "⌕",
+  phone: "☎", mail: "✉", chat: "●", plus: "+", zap: "⚡", send: "↗"
+};
+
+const IMG = {
+  avante:   "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&w=700&h=420&q=80",
+  grandeur: "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=700&h=420&q=80",
+  k8:       "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=700&h=420&q=80",
+  carnival: "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=700&h=420&q=80",
+  genesis:  "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=700&h=420&q=80",
+  palisade: "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=700&h=420&q=80",
+  stinger:  "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=700&h=420&q=80",
+  bmw5:     "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=700&h=420&q=80",
+  truck1:   "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=700&h=420&q=80",
+  truck2:   "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?auto=format&fit=crop&w=700&h=420&q=80",
+  ev:       "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=700&h=420&q=80",
+  tesla:    "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=700&h=420&q=80",
+  tint:     "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?auto=format&fit=crop&w=700&h=420&q=80",
+  product:  "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=600&h=380&q=80",
+};
+
+const CARS = [
+  { tag: "특가", name: "현대 아반떼",  price: "월 320,000원", price30: "월 280,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4455.png", stock: 98, trimRange: "프리미엄 ~ 인스퍼레이션 터보", carPrice: "2,094만원~2,801만원", colors: ["아틀라스 화이트","세니트 블랙","문라이트 블루","미스틱 그레이","어비스 블랙펄"] },
+  { tag: "인기", name: "현대 그랜저",  price: "월 650,000원", price30: "월 570,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4188.png", stock: 43, trimRange: "프리미엄 ~ 캘리그래피",       carPrice: "4,218만원~5,512만원", colors: ["아틀라스 화이트","미스틱 그레이","어비스 블랙펄","문라이트 블루","그라파이트 그레이"] },
+  { tag: "인기", name: "기아 K8",     price: "월 580,000원", price30: "월 510,000원", meta: "선납금 0원 · 36개월", image: "../cars/cdn_4665.png", stock: 27, trimRange: "프레스티지 ~ 시그니처",       carPrice: "3,876만원~5,224만원", colors: ["스노우 화이트펄","오로라 블랙펄","갤럭시아 블루","문라이트 블루","실버리 라임"] },
+  { tag: "신차", name: "기아 카니발",  price: "월 720,000원", price30: "월 630,000원", meta: "선납금 0원 · 60개월", image: "../cars/cdn_4586.png", stock: 15, trimRange: "프레스티지 ~ 시그니처",       carPrice: "4,156만원~5,638만원", colors: ["스노우 화이트펄","어비스 블랙펄","실버리 라임","카키 그린"] },
+  { tag: "인기", name: "현대 싼타페",  price: "월 560,000원", price30: "월 490,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4435.png", stock: 62, trimRange: "인스퍼레이션 ~ 캘리그래피",   carPrice: "3,524만원~4,792만원", colors: ["어비스 블랙펄","테라 브라운","아틀라스 화이트","갤럭시아 블루","그라파이트 그레이"] },
+];
+const MOB_CARS = [
+  { tag: "특가", name: "현대 아반떼",    price: "월 320,000원", price30: "월 280,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4455.png", stock: 98, cat: ["인기차종","세단","생에 첫 차"] },
+  { tag: "인기", name: "현대 그랜저",    price: "월 650,000원", price30: "월 570,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4188.png", stock: 43, cat: ["인기차종","세단"] },
+  { tag: "인기", name: "기아 K8",       price: "월 580,000원", price30: "월 510,000원", meta: "선납금 0원 · 36개월", image: "../cars/cdn_4665.png", stock: 27, cat: ["인기차종","세단"] },
+  { tag: "신차", name: "기아 카니발",    price: "월 720,000원", price30: "월 630,000원", meta: "선납금 0원 · 60개월", image: "../cars/cdn_4586.png", stock: 15, cat: ["인기차종","SUV"] },
+  { tag: "인기", name: "현대 싼타페",    price: "월 560,000원", price30: "월 490,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4435.png", stock: 62, cat: ["인기차종","SUV"] },
+  { tag: "인기", name: "기아 스포티지",  price: "월 480,000원", price30: "월 420,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4684.png", stock: 38, cat: ["SUV","생에 첫 차"] },
+  { tag: "특가", name: "현대 투싼",      price: "월 430,000원", price30: "월 380,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4592.png", stock: 54, cat: ["SUV"] },
+  { tag: "신차", name: "현대 팰리세이드", price: "월 780,000원", price30: "월 690,000원", meta: "선납금 0원 · 60개월", image: "../cars/cdn_4699.png", stock: 9,  cat: ["SUV"] },
+  { tag: "인기", name: "현대 아이오닉5", price: "월 580,000원", price30: "월 510,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4624.png",  stock: 21, cat: ["전기차"] },
+  { tag: "신차", name: "기아 EV6",      price: "월 620,000원", price30: "월 545,000원", meta: "선납금 0원 · 48개월", image: "../cars/307_4641.png",  stock: 14, cat: ["전기차"] },
+  { tag: "특가", name: "현대 캐스퍼",    price: "월 250,000원", price30: "월 220,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4455.png", stock: 76, cat: ["생에 첫 차"] },
+  { tag: "특가", name: "기아 레이",      price: "월 230,000원", price30: "월 200,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4665.png", stock: 88, cat: ["생에 첫 차"] },
+  { tag: "인기", name: "현대 그랜저 HEV", price: "월 680,000원", price30: "월 600,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4188.png", stock: 31, cat: ["하이브리드","세단"] },
+  { tag: "인기", name: "기아 K8 HEV",   price: "월 610,000원", price30: "월 535,000원", meta: "선납금 0원 · 36개월", image: "../cars/cdn_4665.png", stock: 19, cat: ["하이브리드","세단"] },
+  { tag: "신차", name: "현대 싼타페 HEV", price: "월 590,000원", price30: "월 520,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4435.png", stock: 24, cat: ["하이브리드","SUV"] },
+  { tag: "인기", name: "기아 스포티지 HEV", price: "월 510,000원", price30: "월 450,000원", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4684.png", stock: 17, cat: ["하이브리드","SUV"] },
+];
+const WEEKLY_CARS = [
+  ...CARS,
+  { tag: "인기", name: "기아 스포티지",  price: "월 480,000원~", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4684.png" },
+  { tag: "인기", name: "현대 투싼",      price: "월 430,000원~", meta: "선납금 0원 · 48개월", image: "../cars/cdn_4592.png" },
+  { tag: "신차", name: "현대 팰리세이드", price: "월 780,000원~", meta: "선납금 0원 · 60개월", image: "../cars/cdn_4699.png" },
+];
+
+const USED_CARS = [
+  { tag: "무사고", name: "제네시스 G80 (2022)",    price: "월 680,000원~", meta: "금리 4.5% · 48개월 · 1인 소유", image: IMG.genesis },
+  { tag: "인증",   name: "현대 팰리세이드 (2023)", price: "월 720,000원~", meta: "금리 3.9% · 60개월 · 무사고",   image: IMG.palisade },
+  { tag: "직거래", name: "기아 스팅어 (2022)",     price: "월 520,000원~", meta: "금리 4.2% · 48개월 · 1인 소유", image: IMG.stinger },
+  { tag: "무사고", name: "BMW 5시리즈 (2021)",     price: "월 860,000원~", meta: "금리 4.8% · 60개월 · 무사고",   image: IMG.bmw5 },
+];
+
+const TRUCKS = [
+  { tag: "인기", name: "현대 포터 전기",  price: "월 580,000원~", meta: "보증금 0원 · 48개월",  image: IMG.ev },
+  { tag: "특가", name: "기아 봉고3 EV",  price: "월 560,000원~", meta: "보증금 0원 · 48개월",  image: IMG.truck1 },
+  { tag: "신차", name: "현대 포터 디젤", price: "월 420,000원~", meta: "보증금 100만 · 60개월", image: IMG.truck2 },
+  { tag: "냉동", name: "기아 봉고3 냉동탑", price: "월 680,000원~", meta: "보증금 0원 · 48개월", image: IMG.truck1 },
+];
+
+const PRODUCTS = [
+  "3M Crystalline 70", "LLumar CTX 70", "V-KOOL 40", "Huper Optik Neo 65",
+  "Solar Gard Stratos", "XPEL Prime XR Plus", "3M Ceramic IR 40", "Johnson Window Films",
+].map((name, i) => ({
+  name,
+  rating: i < 2 ? "★★★★★" : "★★★★☆",
+  price: ["720,000원~","580,000원~","490,000원~","420,000원~","380,000원~","850,000원~","620,000원~","320,000원~"][i],
+  image: [IMG.tint, IMG.product, IMG.tint, IMG.product, IMG.tint, IMG.product, IMG.tint, IMG.product][i],
+}));
+
+const EVENTS = [
+  { title: "장기렌트 첫 달 무료",     desc: "선납금 없이 첫 달 렌트비 100% 면제",     date: "2026.04.01 ~ 2026.04.30", open: true,  image: IMG.grandeur },
+  { title: "3M 썬팅 최대 30% 할인",  desc: "크리스탈린 전 제품 특가 진행",           date: "2026.04.01 ~ 2026.04.30", open: true,  image: IMG.tint },
+  { title: "할부 무이자 36개월",      desc: "현대·기아 전 차종 무이자 할부 적용",     date: "2026.04.15 ~ 2026.05.15", open: true,  image: IMG.stinger },
+  { title: "봄맞이 중고차 특가전",    desc: "전국 인증 중고차 최대 200만원 할인",     date: "2026.04.01 ~ 2026.05.31", open: true,  image: IMG.genesis },
+  { title: "화물리스 보증금 면제",    desc: "1톤~5톤 전 차종 보증금 0원 적용",        date: "2026.04.01 ~ 2026.06.30", open: true },
+  { title: "블랙박스 무료 설치",      desc: "장기렌트 계약 시 블랙박스 무상 설치",    date: "2026.04.10 ~ 2026.04.30", open: true },
+  { title: "카시트 구매 20% 할인",    desc: "렌트 계약 고객 카시트 할인권 제공",      date: "2026.04.01 ~ 2026.05.31", open: true },
+  { title: "전기차 충전기 설치비 지원", desc: "EV 렌트 계약 고객 50% 지원",          date: "2026.04.01 ~ 2026.06.30", open: true },
+  { title: "신차 할부 금리 우대",     desc: "KB·현대캐피탈 금리 0.5% 추가 인하",     date: "2026.02.01 ~ 2026.03.31", open: false },
+  { title: "용품점 연결 첫 이용 혜택", desc: "첫 이용 시 5만원 즉시 할인",           date: "2026.01.01 ~ 2026.03.31", open: false },
+  { title: "카카오 간편 상담 이벤트", desc: "카카오톡 상담 신청 시 견적 즉시 발송",   date: "2026.01.15 ~ 2026.03.15", open: false },
+  { title: "렌트·리스 패키지 특가",   desc: "출고 후 용품 패키지 세트 30% 할인",     date: "2026.02.01 ~ 2026.03.31", open: false },
+];
+
+const FAQS = [
+  ["장기렌트와 리스의 차이점이 무엇인가요?", "장기렌트는 보험·세금·정비를 포함해 월 납입금으로 차량을 이용하는 방식이고, 리스는 금융상품 성격이 강해 비용처리와 소유 옵션에 장점이 있습니다."],
+  ["선납금 없이 계약이 가능한가요?",          "가능합니다. 차종과 신용 조건에 따라 보증금 0원 또는 선납금 0원 상품을 안내해드립니다."],
+  ["계약 중 차량 교체가 가능한가요?",         "계약 조건에 따라 중도 변경 또는 승계가 가능합니다."],
+  ["견적 신청 후 얼마나 걸리나요?",           "영업시간 기준 평균 30분~2시간 안에 1차 견적을 안내드립니다."],
+];
+
+const RENTAL_BANNERS = [
+  { label: "장기렌트",  badge: "bg-neutral-900", title: "선납금 없이, 월 납입금으로\n내 차를 타는 스마트한 방법", desc: "보험료 · 세금 · 유지비 포함 / 전국 무료 배송 / 계약 12~60개월", button: "무료 견적 신청",  target: "고객센터", image: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1600&auto=format", mobCardImg:"../cars/cdn_4188.png", mobIconBg:"#eff6ff" },
+  { label: "전기차 렌트", badge: "bg-red-600",   title: "전기차 장기렌트\n충전비 걱정 없이 타세요",           desc: "EV 보조금 적용 · 충전카드 포함 · 선납금 0원",             button: "전기차 견적보기", target: "고객센터", image: "banners/전기차.png", mobCardImg:"../cars/cdn_4624.png", mobIconBg:"#f0fdf4",
+    overlayDesk: "linear-gradient(to right, rgba(0,0,0,0.88) 45%, rgba(0,0,0,0.5) 100%)",
+    overlayMob:  "linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.55) 55%, rgba(0,0,0,0.15) 100%)" },
+  { label: "수입차 렌트", badge: "bg-neutral-700", title: "수입차도 월 납입금으로\n부담 없이 시작하세요",      desc: "BMW · 벤츠 · 아우디 전 차종 / 보험 포함",                button: "수입차 견적보기", target: "고객센터", image: "banners/벥츠.jpg", mobCardImg:"../cars/349_4516.png", mobIconBg:"#f8fafc" },
+  { label: "SUV 특가",  badge: "bg-neutral-600", title: "팰리세이드 · 카니발\n가족을 위한 SUV 렌트 특가",   desc: "대형 SUV · 승합 전 차종 / 선납금 0원 · 보험 포함",       button: "SUV 견적보기",  target: "고객센터", image: "banners/팰리세이드.jpg", mobCardImg:"../cars/cdn_4699.png", mobIconBg:"#fffbeb" },
+  { label: "한정 특가",  badge: "bg-red-700",    title: "이번 주 한정 재고 특가\n지금 바로 출고 가능",       desc: "소진 시 즉시 종료 · 월 납입금 최저가 보장",              button: "특가 보러가기", target: "고객센터", image: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&auto=format", mobCardImg:"../cars/cdn_4665.png", mobIconBg:"#fff1f2" },
+];
+
+const INSTALLMENT_BANNERS = [
+  { label: "할부 특가",  badge: "bg-red-600",     title: "무이자 36개월\n신차 구매 부담을 낮추다",   desc: "현대·기아 인기 차종 대상 특별 금융 혜택",      button: "할부 계산하기",    target: "고객센터", image: IMG.stinger },
+  { label: "전기차 할부", badge: "bg-neutral-900", title: "전기차 할부\n보조금까지 한 번에",         desc: "EV6 · 아이오닉6 · 코나EV / 보조금 상담 포함", button: "전기차 할부 보기", target: "고객센터", image: IMG.ev },
+  { label: "중고차 할부", badge: "bg-neutral-700", title: "인증 중고차 할부\n최저 금리 3.9%",        desc: "전국 인증 딜러 보증 · 즉시 출고 가능",        button: "중고차 할부 보기", target: "고객센터", image: IMG.genesis },
+];
+
+const MAIN_BANNERS = [
+  { label: "장기렌트",  title: "첫 달 렌트비 0원\n지금 가장 가볍게 시작하세요",  desc: "선납금 0원 · 보험료 포함 · 전국 무료 배송",    button: "장기렌트 견적보기", target: "장기렌트", badge: "bg-neutral-900", image: IMG.grandeur },
+  { label: "할부 특가", title: "무이자 36개월\n신차 구매 부담을 낮추다",         desc: "현대·기아 인기 차종 대상 특별 금융 혜택",      button: "할부 계산하기",    target: "할부",    badge: "bg-red-600",     image: IMG.stinger },
+  { label: "인증 중고차", title: "허위매물 없이\n검증된 중고차만 모았습니다",    desc: "무사고 우선 · 인증 딜러 보증 · 직거래 상담",   button: "중고차 둘러보기", target: "중고차",  badge: "bg-neutral-800", image: IMG.genesis },
+  { label: "화물리스",  title: "사업용 차량 리스\n세금 혜택까지 한 번에",        desc: "1톤·2.5톤·5톤 전 차종 / 보증금 0원 가능",     button: "사업자 견적받기", target: "화물리스", badge: "bg-neutral-600", image: IMG.truck1, dark: true },
+];
+
+const HOT_DEALS = [
+  { title: "현대 그랜저\n장기렌트 특가", price: "월 650,000원~", meta: "선납금 0원 · 48개월 · 보험 포함", target: "장기렌트",  tone: "bg-neutral-900 text-white",      image: IMG.grandeur },
+  { title: "기아 EV6\n전기차 할부",     price: "월 580,000원~", meta: "무이자 36개월 · 보조금 상담",    target: "할부",      tone: "bg-slate-200 text-neutral-950",  image: IMG.ev },
+  { title: "테슬라 모델Y\n인증 중고차", price: "월 720,000원~", meta: "무사고 · 즉시 출고 가능",        target: "중고차",    tone: "bg-neutral-300 text-neutral-950", image: IMG.tesla },
+  { title: "포터 EV\n사업자 화물리스",  price: "월 560,000원~", meta: "부가세 환급 · 비용처리 가능",    target: "화물리스",  tone: "bg-neutral-800 text-white",      image: IMG.truck1 },
+  { title: "3M 썬팅\n패키지 할인",     price: "최대 30% OFF",  meta: "계약 고객 전용 시공 혜택",       target: "자동차용품", tone: "bg-slate-300 text-neutral-950",  image: IMG.tint },
+  { title: "기아 K8\n장기렌트 특가",   price: "월 580,000원~", meta: "선납금 0원 · 36개월 · 보험 포함", target: "장기렌트", tone: "bg-neutral-700 text-white",      image: IMG.k8 },
+];
+
+const POPULAR_CARS = [
+  { rank: 1,  name: "현대 그랜저",   price: "월 650,000원~", meta: "선납금 0원 · 48개월", image: IMG.grandeur },
+  { rank: 2,  name: "기아 K8",      price: "월 580,000원~", meta: "선납금 0원 · 36개월", image: IMG.k8 },
+  { rank: 3,  name: "현대 팰리세이드", price: "월 720,000원~", meta: "선납금 0원 · 60개월", image: IMG.palisade },
+  { rank: 4,  name: "기아 카니발",   price: "월 720,000원~", meta: "선납금 0원 · 60개월", image: IMG.carnival },
+  { rank: 5,  name: "제네시스 G80",  price: "월 680,000원~", meta: "선납금 0원 · 48개월", image: IMG.genesis },
+  { rank: 6,  name: "현대 아반떼",   price: "월 320,000원~", meta: "선납금 0원 · 48개월", image: IMG.avante },
+  { rank: 7,  name: "기아 스팅어",   price: "월 520,000원~", meta: "선납금 0원 · 48개월", image: IMG.stinger },
+  { rank: 8,  name: "BMW 5시리즈",   price: "월 860,000원~", meta: "선납금 0원 · 60개월", image: IMG.bmw5 },
+  { rank: 9,  name: "테슬라 모델Y",  price: "월 720,000원~", meta: "선납금 0원 · 48개월", image: IMG.tesla },
+  { rank: 10, name: "현대 포터 EV",  price: "월 580,000원~", meta: "보증금 0원 · 48개월", image: IMG.ev },
+];
+
+const MEGA_MENU = {
+  "장기렌트": [
+    { title: "차종별 렌트", items: ["국산차 렌트", "수입차 렌트", "전기차 렌트", "승합·SUV 렌트"] },
+    { title: "특가 상품",   items: ["이번 주 특가", "한정 재고 특가", "타임딜", "신규 출고 특가"] },
+    { title: "견적·상담",   items: ["간편 견적 신청", "렌트 VS 리스 비교", "장기렌트 안내"] },
+  ],
+  "할부": [
+    { title: "신차 할부",   items: ["국산차 할부", "수입차 할부", "전기차 할부", "상용차 할부"] },
+    { title: "중고차 할부", items: ["인증 중고차 할부", "직거래 할부 상담"] },
+    { title: "금융 안내",   items: ["할부 계산기", "금리 비교", "제휴 금융사 안내"] },
+  ],
+  "중고차": [
+    { title: "차종별",   items: ["국산 중고차", "수입 중고차", "전기 중고차", "SUV·RV"] },
+    { title: "거래 유형", items: ["인증 중고차", "직거래", "무사고 차량"] },
+    { title: "시세·정보", items: ["중고차 시세 조회", "차량 상태 확인", "매입 문의"] },
+  ],
+  "화물리스": [
+    { title: "차급별",     items: ["1톤 리스", "2.5톤 리스", "5톤 리스", "특장차 리스"] },
+    { title: "차종별",     items: ["냉동탑차", "윙바디", "카고 트럭", "탑차"] },
+    { title: "사업자 안내", items: ["세금 혜택 안내", "부가세 환급", "비용처리 안내"] },
+  ],
+  "자동차용품": [
+    { title: "시공 서비스", items: ["썬팅 필름", "블랙박스 설치", "차량 코팅"] },
+    { title: "편의 용품",   items: ["카시트", "내비게이션", "차량용 매트"] },
+    { title: "관리 용품",   items: ["세차용품", "흠집 제거제", "방향제·탈취제"] },
+  ],
+  "이벤트&혜택": [
+    { title: "이벤트", items: ["진행 중 이벤트", "종료된 이벤트"] },
+    { title: "혜택",   items: ["쿠폰 받기", "멤버십 혜택", "첫 가입 혜택"] },
+  ],
+  "고객센터": [
+    { title: "고객 지원", items: ["공지사항", "자주 묻는 질문", "1:1 문의"] },
+    { title: "상담 채널", items: ["전화 상담", "카카오 상담", "이메일 문의"] },
+  ],
+};
+
+/* UTILS */
+function calculateMonthlyPayment(price, deposit, rate, months) {
+  const principal = Math.max((Number(price)||0) - (Number(deposit)||0), 0);
+  const r = (Number(rate)||0) / 100 / 12;
+  const n = Math.max(Number(months)||1, 1);
+  return Math.round(r ? principal * r / (1 - Math.pow(1 + r, -n)) : principal / n);
+}
+function wrapIndex(current, delta, length) {
+  if (!length) return 0;
+  return ((current + delta) % length + length) % length;
+}
+
+/* ===================== COMPONENTS.JS ===================== */
+
+function CarDriveIn({ src, alt, className, style }) {
+  const ref = useRef(null);
+  const [go, setGo] = useState(false);
+  const [ride, setRide] = useState(false);
+  useEffect(() => {
+    if (!ref.current) return;
+    const obs = new IntersectionObserver(([e]) => {
+      if (e.isIntersecting) {
+        obs.disconnect();
+        setTimeout(() => setGo(true), 500);
+        setTimeout(() => setRide(true), 1400);
+      }
+    }, { threshold: 0.4 });
+    obs.observe(ref.current);
+    return () => obs.disconnect();
+  }, []);
+  return (
+    <img ref={ref} src={src} alt={alt}
+      className={`${className} ${!go ? 'opacity-0' : ride ? 'car-ride' : 'car-drive-in'}`}
+      style={style} />
+  );
+}
+
+function Icon({ name, size = 18, className = "" }) {
+  return (
+    <span aria-hidden="true"
+      className={`inline-flex items-center justify-center leading-none ${className}`}
+      style={{ width: size, height: size, fontSize: size }}>
+      {ICONS[name] || "•"}
+    </span>
+  );
+}
+
+function Placeholder({ dark = false, label, className = "", src, contain = false }) {
+  if (src) return <img src={src} alt="" className={`${contain ? 'object-contain bg-white' : 'object-cover'} ${className}`} />;
+  return (
+    <div className={`flex items-center justify-center ${dark ? "bg-neutral-700" : "bg-slate-200"} ${className}`}>
+      {label && <span className="text-xs font-bold text-white/80">{label}</span>}
+    </div>
+  );
+}
+
+function Button({ children, dark = true, className = "", onClick }) {
+  return (
+    <button onClick={onClick}
+      className={`${dark ? "bg-neutral-900 text-white hover:bg-red-600" : "bg-white text-neutral-900 hover:bg-neutral-100"} inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition ${className}`}>
+      {children}
+    </button>
+  );
+}
+
+function SectionHeader({ eyebrow, title, desc, right, big = false }) {
+  return (
+    <div className="mb-8 flex items-end justify-between gap-4">
+      <div>
+        {eyebrow && <p className="mb-2 text-sm font-bold text-neutral-500">{eyebrow}</p>}
+        <h2 className={`${big ? "text-6xl" : "text-3xl"} font-black tracking-tight text-neutral-950`}>{title}</h2>
+        {desc && <p className="mt-2 text-sm font-semibold text-neutral-400">{desc}</p>}
+      </div>
+      {right && <div className="text-sm font-bold text-neutral-500">{right}</div>}
+    </div>
+  );
+}
+
+function QuickTabs({ tabs }) {
+  return (
+    <div className="border-b border-neutral-200 bg-white">
+      <div className="mx-auto flex max-w-7xl overflow-x-auto px-4">
+        {tabs.map((tab, idx) =>
+          <button key={tab} className={`min-w-fit px-8 py-4 text-sm font-bold whitespace-nowrap ${idx === 0 ? "border-b-4 border-neutral-900 text-neutral-950" : "text-neutral-500"}`}>{tab}</button>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function CarCard({ item, button = "견적 신청하기", tall = false, contain = false, zoomOut = false }) {
+  return (
+    <article className={`border border-neutral-200 bg-white overflow-hidden${zoomOut ? ' zoom-card' : ''}`}>
+      <div className="overflow-hidden">
+        <Placeholder src={item.image} className={`${tall ? "h-72" : "h-48"} w-full${zoomOut ? ' zoom-img' : ''}`} contain={contain} />
+      </div>
+      <div className="p-5">
+        {(item.tag || item.type) && <span className="car-badge mb-3 inline-flex bg-neutral-800 px-3 py-1 text-xs font-black text-white">{item.tag || item.type}</span>}
+        <h3 className="font-black text-neutral-950">{item.name}</h3>
+        <p className="mt-1 font-black text-neutral-950">{item.price}</p>
+        <p className="mt-1 text-sm font-semibold text-neutral-500">{item.meta}</p>
+        {button && <button className="mt-8 w-full bg-neutral-900 py-3 text-sm font-bold text-white transition hover:bg-red-600">{button}</button>}
+      </div>
+    </article>
+  );
+}
+
+function ProductCard({ item }) {
+  return (
+    <article className="border border-neutral-200 bg-white">
+      <Placeholder src={item.image} className="h-44" />
+      <div className="p-5">
+        <h3 className="text-sm font-black text-neutral-950">{item.name}</h3>
+        <p className="mt-1 text-xs font-bold text-neutral-700">{item.rating}</p>
+        <p className="mt-1 text-sm font-black text-neutral-950">{item.price}</p>
+        <button className="mt-7 w-full bg-neutral-900 py-3 text-xs font-bold text-white transition hover:bg-red-600">시공점 예약 · 구매하기</button>
+      </div>
+    </article>
+  );
+}
+
+const POPULAR = [
+  { rank:1,  name:"현대 그랜저",        price:"월 237,000원~", rate:34, img:"../cars/cdn_4188.png" },
+  { rank:2,  name:"기아 카니발",         price:"월 228,000원~", rate:31, img:"../cars/cdn_4586.png" },
+  { rank:3,  name:"현대 팰리세이드",     price:"월 272,000원~", rate:29, img:"../cars/cdn_4699.png" },
+  { rank:4,  name:"르노 그랑 콜레오스",  price:"월 279,000원~", rate:24, img:"../cars/cdn_4659.png" },
+  { rank:5,  name:"현대 싼타페",         price:"월 209,000원~", rate:22, img:"../cars/cdn_4435.png" },
+  { rank:6,  name:"기아 스포티지",       price:"월 198,000원~", rate:19, img:"../cars/cdn_4684.png" },
+  { rank:7,  name:"기아 K8",             price:"월 245,000원~", rate:17, img:"../cars/cdn_4665.png" },
+  { rank:8,  name:"현대 투싼",           price:"월 185,000원~", rate:15, img:"../cars/cdn_4592.png" },
+  { rank:9,  name:"기아 쏘렌토",         price:"월 221,000원~", rate:13, img:"../cars/cdn_4563.png" },
+  { rank:10, name:"현대 아반떼",         price:"월 167,000원~", rate:11, img:"../cars/cdn_4455.png" },
+];
+
+function EVBanner() {
+  const [popup, setPopup] = useState(false);
+  const [hovering, setHovering] = useState(false);
+  const [dots, setDots] = useState('.');
+  const timer = useRef(null);
+  const dotsTimer = useRef(null);
+  const DOTS_SEQ = ['.', '..', '...', '.', '..', '...'];
+
+  useEffect(() => {
+    if (hovering) {
+      let i = 0;
+      dotsTimer.current = setInterval(() => {
+        i = (i + 1) % DOTS_SEQ.length;
+        setDots(DOTS_SEQ[i]);
+      }, 180);
+    } else {
+      clearInterval(dotsTimer.current);
+      setDots('.');
+    }
+    return () => clearInterval(dotsTimer.current);
+  }, [hovering]);
+  const bannerRef = useRef(null);
+  const isMobile = typeof window !== 'undefined' && window.matchMedia('(hover: none)').matches;
+
+  useEffect(() => {
+    if (!isMobile || !bannerRef.current) return;
+    const obs = new IntersectionObserver(([e]) => {
+      if (e.isIntersecting) {
+        timer.current = setTimeout(() => setPopup(true), 1800);
+      } else {
+        clearTimeout(timer.current);
+      }
+    }, { threshold: 0.6 });
+    obs.observe(bannerRef.current);
+    return () => { obs.disconnect(); clearTimeout(timer.current); };
+  }, []);
+
+  const onEnter = () => {
+    if (isMobile) return;
+    setHovering(true);
+    timer.current = setTimeout(() => setPopup(true), 1800);
+  };
+  const onLeave = () => {
+    if (isMobile) return;
+    setHovering(false);
+    clearTimeout(timer.current);
+  };
+
+  return (
+    <>
+    {popup && (
+      <div style={{ position:'fixed', inset:0, background:'rgba(0,0,0,.5)', zIndex:9999, display:'flex', alignItems:'center', justifyContent:'center' }}
+        onClick={() => setPopup(false)}>
+        <div style={{ background:'#fff', borderRadius:16, padding:'2rem 2.5rem', maxWidth:360, width:'90%', textAlign:'center', boxShadow:'0 24px 64px rgba(0,0,0,.25)' }}
+          onClick={e => e.stopPropagation()}>
+          <span style={{ fontSize:'2rem' }}>⚡</span>
+          <p style={{ marginTop:'.75rem', fontSize:'1rem', fontWeight:900, color:'#0a0a0a' }}>충전 완료!</p>
+          <p style={{ marginTop:'.5rem', fontSize:'.875rem', color:'#737373' }}>친환경 전기차 특가 페이지로<br/>이동하시겠습니까?</p>
+          <div style={{ display:'flex', gap:'.75rem', marginTop:'1.5rem' }}>
+            <button onClick={() => setPopup(false)}
+              style={{ flex:1, padding:'.75rem', border:'1px solid #e5e5e5', borderRadius:8, fontSize:'.875rem', fontWeight:700, color:'#737373', cursor:'pointer', background:'#fff' }}>
+              취소
+            </button>
+            <button onClick={() => { setPopup(false); window.location.href='ev.html'; }}
+              style={{ flex:1, padding:'.75rem', borderRadius:8, fontSize:'.875rem', fontWeight:700, color:'#fff', cursor:'pointer', background:'linear-gradient(135deg,#0d3b2e,#0a2818)', border:'none' }}>
+              이동하기
+            </button>
+          </div>
+        </div>
+      </div>
+    )}
+    <div className="ev-banner mx-auto max-w-7xl px-6 py-4 cursor-pointer"
+      onMouseEnter={onEnter} onMouseLeave={onLeave}
+      onClick={() => { clearTimeout(timer.current); window.location.href='ev.html'; }}>
+      <div className="relative overflow-hidden rounded-2xl flex items-center justify-between"
+        style={{ background:'linear-gradient(135deg, #0a1628 0%, #0d3b2e 50%, #0a2818 100%)', minHeight:160, padding:'2rem 3rem' }}>
+
+        {/* 배경 원형 장식 */}
+        <div style={{ position:'absolute', right:320, top:-60, width:280, height:280, borderRadius:'50%', background:'rgba(74,222,128,.06)' }} />
+        <div style={{ position:'absolute', right:200, bottom:-80, width:200, height:200, borderRadius:'50%', background:'rgba(74,222,128,.04)' }} />
+
+        {/* 텍스트 */}
+        <div style={{ position:'relative', zIndex:2 }}>
+          <div className="flex items-center gap-2 mb-2">
+            <span className="ev-bolt text-2xl">⚡</span>
+            <span style={{ fontSize:'.8rem', fontWeight:700, color:'#4ade80', letterSpacing:'.12em', textTransform:'uppercase' }}>친환경 전기차</span>
+          </div>
+          <h2 style={{ fontSize:'2rem', fontWeight:900, color:'#fff', lineHeight:1.2, marginBottom:'.75rem' }}>특가차량</h2>
+          <p style={{ fontSize:'.875rem', color:'rgba(255,255,255,.55)', marginBottom:'1rem' }}>지금 바로 전기차 렌트, 보조금 + 선납금 0원</p>
+          {/* 충전 바 */}
+          <div style={{ width:180, height:4, background:'rgba(255,255,255,.15)', borderRadius:999, overflow:'hidden' }}>
+            <div className="ev-bar" style={{ height:'100%', background:'linear-gradient(to right,#4ade80,#22d3ee)', borderRadius:999, width:0 }} />
+          </div>
+          <p style={{ fontSize:'.7rem', color: hovering ? 'rgba(74,222,128,.8)' : 'transparent', marginTop:'.4rem', letterSpacing:'.12em', fontFamily:'monospace', transition:'color 0.15s' }}>Charging{dots}</p>
+        </div>
+
+        {/* 전기차 이미지 */}
+        <div style={{ position:'relative', zIndex:2, flexShrink:0 }}>
+          <img className="ev-car" src="../cars/cdn_4624.png" alt="아이오닉 5"
+            style={{ height:170, objectFit:'contain', marginRight:'-1rem', filter:'drop-shadow(0 8px 24px rgba(0,0,0,.4))' }} />
+        </div>
+      </div>
+    </div>
+    </>
+  );
+}
+
+function PopularCars() {
+  const scrollRef = useRef(null);
+  const scroll = (dir) => {
+    const el = scrollRef.current;
+    if (!el) return;
+    if (dir === -1) el.scrollTo({ left: 0, behavior: 'smooth' });
+    else el.scrollTo({ left: el.scrollWidth, behavior: 'smooth' });
+  };
+  return (
+    <section className="py-16 bg-white">
+      <div className="mx-auto max-w-7xl px-6">
+        <div className="mb-8 flex items-end justify-between">
+          <div className="flex items-end gap-3">
+            <h2 className="text-3xl font-black">인기 차량</h2>
+            <p className="mb-1 text-sm font-semibold text-neutral-400">이번 달 가장 많이 선택한 차량</p>
+          </div>
+          <div className="popular-arrows flex gap-2">
+            <button onClick={() => scroll(-1)} className="h-9 w-9 flex items-center justify-center border border-neutral-200 hover:bg-neutral-900 hover:text-white transition">
+              <span style={{display:'inline-block',width:9,height:9,borderLeft:'2px solid currentColor',borderBottom:'2px solid currentColor',transform:'rotate(45deg) translate(2px,-2px)'}}/>
+            </button>
+            <button onClick={() => scroll(1)} className="h-9 w-9 flex items-center justify-center border border-neutral-200 hover:bg-neutral-900 hover:text-white transition">
+              <span style={{display:'inline-block',width:9,height:9,borderRight:'2px solid currentColor',borderTop:'2px solid currentColor',transform:'rotate(45deg) translate(-2px,2px)'}}/>
+            </button>
+          </div>
+        </div>
+        <div ref={scrollRef} className="flex gap-4 overflow-x-auto pb-2" style={{ scrollbarWidth:'none' }}>
+          {POPULAR.map(car => (
+            <div key={car.rank} className="shrink-0 w-56 border border-neutral-100 rounded-xl bg-neutral-50 overflow-hidden cursor-pointer transition-all duration-300 hover:scale-110 hover:shadow-2xl hover:z-10 group" style={{ minWidth:'14rem' }}>
+              {/* 이미지 + 배경 숫자 */}
+              <div className="relative bg-white px-4 pt-3 pb-2 overflow-hidden">
+                <span className="absolute font-black select-none leading-none transition-all duration-400"
+                  style={{ fontSize:'11rem', color: car.rank<=3 ? 'rgba(220,38,38,1)' : 'rgba(0,0,0,1)', zIndex:1, letterSpacing:'-0.05em', right:'-20%', top:'50%', transform:'translateY(-50%)', whiteSpace:'nowrap' }}
+                  ref={el => { if(el){ const p=el.closest('.group'); if(p){ p.addEventListener('mouseenter',()=>{ el.style.color=car.rank<=3?'rgba(220,38,38,.5)':'rgba(0,0,0,.5)'; el.style.zIndex=20; el.style.right='-4%'; }); p.addEventListener('mouseleave',()=>{ el.style.color=car.rank<=3?'rgba(220,38,38,1)':'rgba(0,0,0,1)'; el.style.zIndex=1; el.style.right='-20%'; }); } }}}>
+                  {car.rank}
+                </span>
+                <img src={car.img} alt={car.name} className="w-full h-32 object-contain" style={{position:'relative',zIndex:10}} onError={e => e.currentTarget.style.opacity='.2'} />
+              </div>
+              {/* 정보 */}
+              <div className="px-4 pb-4 pt-2">
+                <p className="text-sm font-black text-neutral-900 leading-tight">{car.name}</p>
+                <p className="mt-1 text-base font-black text-neutral-950">{car.price}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function ConsultationBand({ title, desc }) {
+  return (
+    <section className="bg-neutral-900 py-16 text-white">
+      <div className="mx-auto max-w-7xl px-6">
+        <h2 className="mb-3 text-4xl font-black whitespace-pre-line">{title}</h2>
+        <p className="mb-8 font-semibold text-neutral-400">{desc}</p>
+        <div className="grid grid-cols-1 gap-6 md:grid-cols-[1.3fr_.8fr] md:items-stretch">
+          <div className="grid gap-4 bg-white p-8 md:grid-cols-2 content-start">
+            <input className="border border-neutral-200 px-5 py-4 text-sm text-neutral-900" placeholder="성함을 입력해주세요" />
+            <input className="border border-neutral-200 px-5 py-4 text-sm text-neutral-900" placeholder="휴대폰 번호를 입력해주세요" />
+            <input className="border border-neutral-200 px-5 py-4 text-sm text-neutral-900 md:col-span-2" placeholder="관심 차량을 선택해주세요" />
+            <button className="bg-neutral-900 py-4 text-sm font-black text-white md:col-span-2">무료 상담 신청하기</button>
+          </div>
+          <div className="bg-neutral-700 p-10 flex flex-col justify-center">
+            <p className="mb-5 text-lg font-bold text-white">전화 상담</p>
+            <p className="mb-2 text-5xl font-black text-white">1661-3583</p>
+            <p className="mb-8 text-sm text-neutral-300">평일 09:00 ~ 18:00 (주말·공휴일 휴무)</p>
+            <button className="bg-neutral-400 px-10 py-4 text-sm font-bold text-white"><Icon name="chat" className="mr-2" size={16} />카카오 상담</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function MobIllust({ label, bg }) {
+  const c = {
+    '장기렌트':   { b:'#2563eb', cab:'#3b82f6', w:'#1e3a8a', g:'#dbeafe', accent: <><rect x="36" y="4" width="17" height="14" rx="2" fill="#eff6ff" stroke="#2563eb" strokeWidth="1.5"/><line x1="36" y1="10" x2="53" y2="10" stroke="#2563eb" strokeWidth="1.5"/><line x1="40" y1="4" x2="40" y2="8" stroke="#2563eb" strokeWidth="1.5"/><line x1="45" y1="4" x2="45" y2="8" stroke="#2563eb" strokeWidth="1.5"/><rect x="39" y="12" width="2" height="2" rx=".5" fill="#2563eb"/><rect x="43" y="12" width="2" height="2" rx=".5" fill="#2563eb"/><rect x="47" y="12" width="2" height="2" rx=".5" fill="#2563eb"/></> },
+    '전기차 렌트':{ b:'#15803d', cab:'#22c55e', w:'#14532d', g:'#dcfce7', accent: <path d="M40 3 L34 16 H39 L37 25 L48 10 H43 L46 3Z" fill="#fbbf24" stroke="#f59e0b" strokeWidth=".5"/> },
+    '수입차 렌트':{ b:'#475569', cab:'#64748b', w:'#0f172a', g:'#e2e8f0', accent: <path d="M44 3 L45.5 7.5 H50.5 L46.5 10.3 L48 15 L44 12.5 L40 15 L41.5 10.3 L37.5 7.5 H42.5Z" fill="#f59e0b"/> },
+    'SUV 특가':  { b:'#b45309', cab:'#d97706', w:'#78350f', g:'#fef3c7', suv:true, accent: <><rect x="14" y="7" width="28" height="2.5" rx="1.2" fill="#92400e"/><line x1="19" y1="5" x2="19" y2="10" stroke="#92400e" strokeWidth="1.5" strokeLinecap="round"/><line x1="28" y1="5" x2="28" y2="10" stroke="#92400e" strokeWidth="1.5" strokeLinecap="round"/><line x1="37" y1="5" x2="37" y2="10" stroke="#92400e" strokeWidth="1.5" strokeLinecap="round"/></> },
+    '한정 특가': { b:'#dc2626', cab:'#ef4444', w:'#7f1d1d', g:'#fee2e2', accent: <><path d="M38 3 L39.3 7 H43.5 L40.1 9.5 L41.4 13.5 L38 11 L34.6 13.5 L35.9 9.5 L32.5 7 H36.7Z" fill="#fbbf24"/><path d="M46 13 L46.8 15.5 H49.5 L47.3 17 L48.1 19.5 L46 18 L43.9 19.5 L44.7 17 L42.5 15.5 H45.2Z" fill="#fbbf24" opacity=".75"/></> },
+  };
+  const s = c[label] || c['장기렌트'];
+  const yB = s.suv ? 28 : 31, hB = s.suv ? 14 : 11, yC = s.suv ? 15 : 18, rW = s.suv ? 6 : 5;
+  return (
+    <div style={{width:64,height:64,borderRadius:16,background:bg||'#f1f5f9',display:'flex',alignItems:'center',justifyContent:'center',flexShrink:0}}>
+      <svg width="56" height="56" viewBox="0 0 56 56" fill="none">
+        {s.accent}
+        <rect x="2" y={yB} width="52" height={hB} rx="3" fill={s.b}/>
+        <path d={s.suv ? `M9 ${yB} L13 ${yC} H43 L47 ${yB}Z` : `M8 ${yB} L13 ${yC} H43 L48 ${yB}Z`} fill={s.cab}/>
+        <path d={s.suv ? `M14 ${yB-1} L17 ${yC+1} H39 L42 ${yB-1}Z` : `M14 ${yB-1} L18 ${yC+1} H38 L42 ${yB-1}Z`} fill={s.g} opacity=".9"/>
+        <circle cx="14" cy="43" r={rW} fill={s.w}/>
+        <circle cx="14" cy="43" r={rW-2.5} fill={bg||'#f1f5f9'}/>
+        <circle cx="42" cy="43" r={rW} fill={s.w}/>
+        <circle cx="42" cy="43" r={rW-2.5} fill={bg||'#f1f5f9'}/>
+        <rect x="51" y={yB+2} width="3" height="4" rx="1" fill="#fef9c3" opacity=".9"/>
+      </svg>
+    </div>
+  );
+}
+
+function SubCarousel({ banners, setActive }) {
+  const [current, setCurrent] = useState(0);
+  const [progress, setProgress] = useState(0);
+  const [paused, setPaused] = useState(false);
+  const [isMob, setIsMob] = useState(typeof window !== 'undefined' && window.innerWidth <= 768);
+  const touchX = useRef(null);
+  const prevCurrentRef = useRef(0);
+  const DURATION = 4000;
+  useEffect(() => {
+    const onResize = () => setIsMob(window.innerWidth <= 768);
+    window.addEventListener('resize', onResize);
+    return () => window.removeEventListener('resize', onResize);
+  }, []);
+  useEffect(() => {
+    if (paused) return;
+    if (!isMob) {
+      setProgress(0);
+      let start = null, raf;
+      const tick = ts => {
+        if (!start) start = ts;
+        const p = Math.min((ts - start) / DURATION, 1);
+        setProgress(p);
+        if (p < 1) raf = requestAnimationFrame(tick);
+      };
+      raf = requestAnimationFrame(tick);
+      const t = window.setInterval(() => { setCurrent(i => wrapIndex(i, 1, banners.length)); start = null; }, DURATION);
+      return () => { window.clearInterval(t); cancelAnimationFrame(raf); };
+    } else {
+      const t = window.setInterval(() => {
+        prevCurrentRef.current = current;
+        setCurrent(i => wrapIndex(i, 1, banners.length));
+      }, DURATION);
+      return () => window.clearInterval(t);
+    }
+  }, [current, isMob, paused]);
+  const move = d => { prevCurrentRef.current = current; setCurrent(i => wrapIndex(i, d, banners.length)); };
+  const onTouchStart = e => { touchX.current = e.touches[0].clientX; };
+  const onTouchEnd = e => {
+    if (touchX.current === null) return;
+    const diff = touchX.current - e.changedTouches[0].clientX;
+    if (Math.abs(diff) > 40) move(diff > 0 ? 1 : -1);
+    touchX.current = null;
+  };
+  const containerH = isMob ? 340 : 500;
+  const aw = 72, sw = 13;
+  const cur = banners[current];
+  return (
+    <>
+      <section className="relative bg-white" onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
+        <div className="relative mx-auto overflow-hidden" style={{ height: containerH }}>
+          {banners.map((banner, index) => {
+            let offset = index - current;
+            if (offset > banners.length / 2) offset -= banners.length;
+            if (offset < -banners.length / 2) offset += banners.length;
+            const isActive = offset === 0;
+            const visible = Math.abs(offset) <= 1;
+            let prevOffset = index - prevCurrentRef.current;
+            if (prevOffset > banners.length / 2) prevOffset -= banners.length;
+            if (prevOffset < -banners.length / 2) prevOffset += banners.length;
+            const isJumping = isMob && Math.abs(offset - prevOffset) > 1;
+
+            // 데스크탑: peek 포지셔닝 / 모바일: 풀위드
+            const lp = 50 + offset * (aw / 2 + sw / 2 + 1);
+            const transform = isMob
+              ? `translateX(${offset * 100}%)`
+              : `translateX(-50%) scale(${isActive ? 1 : 0.93})`;
+            const cardW = isMob ? '100%' : (isActive ? `${aw}%` : `${sw}%`);
+            const cardLeft = isMob ? 0 : `${lp}%`;
+            const cardTop = isMob ? 0 : 20;
+            const cardH = isMob ? containerH : containerH - 40;
+
+            return (
+              <button key={banner.title}
+                onClick={() => isActive ? setActive(banner.target) : move(offset)}
+                className="absolute overflow-hidden text-left"
+                style={{
+                  top: cardTop, left: cardLeft, width: cardW, height: cardH,
+                  borderRadius: isMob ? 0 : 8,
+                  transform,
+                  zIndex: isActive ? 20 : 10,
+                  opacity: !visible ? 0 : (!isMob && !isActive) ? 0.75 : 1,
+                  pointerEvents: visible ? 'auto' : 'none',
+                  filter: (!isMob && !isActive) ? 'saturate(0.6)' : 'none',
+                  transition: isJumping ? 'none' : isMob ? 'transform 0.42s cubic-bezier(0.4,0,0.2,1)' : 'all 0.6s ease-out',
+                  overflow: 'hidden',
+                }}
+                aria-label={banner.label}>
+                {banner.image && <img src={banner.image} alt={banner.label} className="absolute inset-0 w-full h-full object-cover" />}
+                <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(0,0,0,0.82) 0%, rgba(0,0,0,0.2) 55%, transparent 100%)' }} />
+
+                {/* 모바일 텍스트 */}
+                {isMob && isActive && (
+                  <>
+                    {/* 상단 라벨 + 타이틀 */}
+                    <div style={{ position:'absolute', top:'1.25rem', left:'1rem', right:'1rem', zIndex:10 }}>
+                      <p style={{ fontSize:'.7rem', fontWeight:700, color:'rgba(255,255,255,.85)', marginBottom:'.35rem', letterSpacing:'.05em' }}>{banner.label}</p>
+                      <h1 style={{ fontSize:'1.35rem', fontWeight:900, lineHeight:1.25, color:'#fff', textShadow:'0 2px 8px rgba(0,0,0,.3)' }}>
+                        {banner.title.split('\n')[0]}
+                      </h1>
+                    </div>
+
+                    {/* 모바일 인포카드 (배너 안 하단) */}
+                    <div onClick={e => { e.stopPropagation(); setActive(banner.target); }}
+                      style={{ position:'absolute', bottom:'1rem', left:'2.5rem', right:'2.5rem', background:'#fff', borderRadius:12, padding:'.7rem 1rem', boxShadow:'0 6px 24px rgba(0,0,0,.15)', zIndex:30, cursor:'pointer', display:'flex', alignItems:'center', gap:'.85rem' }}>
+                      <div style={{ flex:1 }}>
+                        <p style={{ fontSize:'.8rem', fontWeight:700, color:'#0a0a0a', lineHeight:1.35 }}>{banner.title.replace('\n', ' ')}</p>
+                        <p style={{ marginTop:'.35rem', fontSize:'.75rem', fontWeight:700, color:'#2563eb' }}>신청 바로가기 &rsaquo;</p>
+                      </div>
+                      <div style={{ width:68, height:54, borderRadius:10, background:banner.mobIconBg||'#f1f5f9', display:'flex', alignItems:'center', justifyContent:'center', flexShrink:0, overflow:'hidden' }}>
+                        <img src={banner.mobCardImg} alt={banner.label} style={{ width:'100%', height:'100%', objectFit:'contain', padding:'3px' }} />
+                      </div>
+                    </div>
+                  </>
+                )}
+
+                {/* 데스크탑 액티브 카드: 텍스트(좌하단) + 인포카드(우하단) */}
+                {!isMob && isActive && (
+                  <>
+                    {/* 텍스트 — 좌하단 */}
+                    <div style={{ position:'absolute', bottom:'2rem', left:'2rem', right:'360px', zIndex:10 }}>
+                      <span style={{ display:'inline-block', fontSize:'.72rem', fontWeight:900, color:'rgba(255,255,255,.85)', letterSpacing:'.1em', marginBottom:'.5rem', background:'rgba(255,255,255,.18)', padding:'.2rem .75rem', borderRadius:999 }}>{banner.label}</span>
+                      <h1 style={{ fontSize:'2.25rem', fontWeight:900, lineHeight:1.25, color:'#fff', whiteSpace:'pre-line' }}>{banner.title}</h1>
+                      <p style={{ marginTop:'.5rem', fontSize:'.875rem', fontWeight:500, color:'rgba(255,255,255,.72)' }}>{banner.desc}</p>
+                      {/* 도트 페이지네이션 */}
+                      <div style={{ display:'flex', alignItems:'center', gap:6, marginTop:'1.25rem' }}>
+                        {banners.map((_, i) => (
+                          <span key={i} onClick={e => { e.stopPropagation(); move(i - current); }}
+                            style={{ width:i===current?24:7, height:7, borderRadius:999, background:i===current?'#fff':'rgba(255,255,255,.35)', transition:'all .3s', display:'inline-block', cursor:'pointer' }} />
+                        ))}
+                        <button onClick={e => { e.stopPropagation(); setPaused(p => !p); }}
+                          style={{ marginLeft:8, background:'rgba(0,0,0,.35)', border:'1px solid rgba(255,255,255,.3)', color:'#fff', width:26, height:26, borderRadius:4, fontSize:'.65rem', cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'center' }}>
+                          {paused ? '▶' : '⏸'}
+                        </button>
+                      </div>
+                    </div>
+                    {/* 인포카드 — 우하단 (배너 안) */}
+                    <div onClick={e => { e.stopPropagation(); setActive(banner.target); }}
+                      style={{ position:'absolute', bottom:'2rem', right:'2rem', width:320, background:'rgba(255,255,255,.96)', borderRadius:14, padding:'1rem 1.25rem', boxShadow:'0 8px 32px rgba(0,0,0,.25)', zIndex:30, display:'flex', alignItems:'center', gap:'1rem', backdropFilter:'blur(8px)', cursor:'pointer' }}>
+                      <div style={{ width:90, height:66, borderRadius:10, background:banner.mobIconBg||'#f1f5f9', display:'flex', alignItems:'center', justifyContent:'center', overflow:'hidden', flexShrink:0 }}>
+                        <img src={banner.mobCardImg} alt={banner.label} style={{ width:'100%', height:'100%', objectFit:'contain', padding:'4px' }} />
+                      </div>
+                      <div style={{ flex:1, minWidth:0 }}>
+                        <p style={{ fontSize:'.8rem', fontWeight:900, color:'#0a0a0a', lineHeight:1.35, overflow:'hidden', display:'-webkit-box', WebkitLineClamp:2, WebkitBoxOrient:'vertical' }}>{banner.title.replace('\n',' ')}</p>
+                        <button onClick={e => { e.stopPropagation(); setActive(banner.target); }}
+                          style={{ marginTop:'.5rem', background:'#0a0a0a', color:'#fff', padding:'.45rem 1rem', fontSize:'.72rem', fontWeight:900, border:'none', borderRadius:6, cursor:'pointer', transition:'background .15s' }}
+                          onMouseEnter={e=>e.currentTarget.style.background='#dc2626'}
+                          onMouseLeave={e=>e.currentTarget.style.background='#0a0a0a'}>
+                          {banner.button}
+                        </button>
+                      </div>
+                    </div>
+                  </>
+                )}
+
+                {/* 데스크탑 사이드 카드: 라벨만 표시 */}
+                {!isMob && !isActive && (
+                  <div style={{ position:'absolute', bottom:'1.5rem', left:'1rem', right:'1rem', zIndex:10 }}>
+                    <p style={{ fontSize:'.8rem', fontWeight:900, color:'rgba(255,255,255,.9)' }}>{banner.label}</p>
+                    <p style={{ fontSize:'.72rem', color:'rgba(255,255,255,.65)', marginTop:'.2rem', overflow:'hidden', whiteSpace:'nowrap', textOverflow:'ellipsis' }}>{banner.title.split('\n')[0]}</p>
+                  </div>
+                )}
+              </button>
+            );
+          })}
+
+          {/* 데스크탑 화살표 */}
+          {!isMob && (<>
+            <button onClick={() => move(-1)} className="absolute z-30" aria-label="이전"
+              style={{ top:'50%', left:8, transform:'translateY(-50%)', background:'rgba(0,0,0,.4)', border:'1px solid rgba(255,255,255,.2)', borderRadius:8, width:40, height:40, display:'flex', alignItems:'center', justifyContent:'center', cursor:'pointer' }}>
+              <span style={{ display:'inline-block', width:9, height:9, borderLeft:'2.5px solid #fff', borderBottom:'2.5px solid #fff', transform:'rotate(45deg) translate(2px,-2px)' }} />
+            </button>
+            <button onClick={() => move(1)} className="absolute z-30" aria-label="다음"
+              style={{ top:'50%', right:8, transform:'translateY(-50%)', background:'rgba(0,0,0,.4)', border:'1px solid rgba(255,255,255,.2)', borderRadius:8, width:40, height:40, display:'flex', alignItems:'center', justifyContent:'center', cursor:'pointer' }}>
+              <span style={{ display:'inline-block', width:9, height:9, borderRight:'2.5px solid #fff', borderTop:'2.5px solid #fff', transform:'rotate(45deg) translate(-2px,2px)' }} />
+            </button>
+          </>)}
+
+          {/* 모바일 페이지네이션 (화면 고정) */}
+          {isMob && (
+            <div style={{ position:'absolute', bottom:'100px', left:'2.5rem', right:'2.5rem', zIndex:40, display:'flex', alignItems:'center', gap:5 }}>
+              {banners.map((_, i) => (
+                <span key={i} onClick={() => move(i - current)}
+                  style={{ width:i===current?20:6, height:6, borderRadius:999, background:i===current?'#fff':'rgba(255,255,255,.5)', transition:'all .3s', display:'inline-block', cursor:'pointer', boxShadow:'0 1px 3px rgba(0,0,0,.2)' }} />
+              ))}
+              <button onClick={() => setPaused(p => !p)}
+                style={{ marginLeft:'auto', background:'rgba(0,0,0,.4)', border:'1px solid rgba(255,255,255,.35)', color:'#fff', width:24, height:24, borderRadius:5, fontSize:'.65rem', cursor:'pointer', display:'flex', alignItems:'center', justifyContent:'center', boxShadow:'0 2px 6px rgba(0,0,0,.2)' }}>
+                {paused ? '▶' : '⏸'}
+              </button>
+            </div>
+          )}
+        </div>
+        {/* 데스크탑 프로그레스바 */}
+        {!isMob && <div className="h-[3px] bg-neutral-700"><div className="h-full bg-white transition-none" style={{ width:`${progress * 100}%` }} /></div>}
+      </section>
+    </>
+  );
+}
+
+function Header({ active, setActive, onHamburger }) {
+  return (
+    <header className="sticky top-0 z-50 border-t-4 border-neutral-900 bg-white/95 backdrop-blur">
+      <div className="mx-auto flex h-11 max-w-7xl items-center justify-center px-4 relative">
+        <button onClick={() => setActive("홈")} className="text-3xl font-black tracking-tight text-red-600">CHABOZA</button>
+        <div className="absolute right-8 top-4 hidden text-xs text-neutral-500 md:block">로그인&nbsp;&nbsp;|&nbsp;&nbsp;KR&nbsp;&nbsp;|&nbsp;&nbsp;⌕</div>
+        <button onClick={onHamburger} className="hamburger" aria-label="메뉴">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+      <nav className="gnb-nav border-y border-neutral-200">
+        <div className="mx-auto flex max-w-7xl justify-center overflow-x-auto px-4">
+          {NAV_ITEMS.map(item =>
+            <button key={item} onClick={() => setActive(item)}
+              className={`gnb-item min-w-fit px-8 py-4 text-base font-semibold transition whitespace-nowrap ${active === item ? "border-b-4 border-neutral-900 text-neutral-950" : "border-b-4 border-transparent text-neutral-500 hover:text-neutral-900"}`}>
+              {item}
+            </button>
+          )}
+        </div>
+      </nav>
+    </header>
+  );
+}
+
+function Footer({ setActive }) {
+  return (
+    <footer className="bg-neutral-950 text-neutral-400">
+      <div className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-6 py-10 md:grid-cols-4">
+        <div><p className="mb-2 font-bold text-white">차보자</p><p className="text-xs leading-6">서울특별시 금천구 가산동<br />사업자등록번호 000-00-00000<br />대표 임운호</p></div>
+        <button onClick={() => setActive("장기렌트")} className="text-left"><p className="mb-2 font-bold text-red-600">회사소개</p><p className="text-xs">신규 입점 문의</p></button>
+        <button onClick={() => setActive("고객센터")} className="text-left"><p className="mb-2 font-bold text-red-600">고객센터</p><p className="text-xs">상담신청 및 자주 묻는 질문</p></button>
+        <div><p className="mb-2 font-bold text-red-600">대표전화</p><p className="text-xs">1661-3583</p></div>
+      </div>
+      <div className="mx-auto max-w-7xl border-t border-neutral-800 px-6 py-6 text-xs text-neutral-500">
+        이용약관&nbsp;&nbsp;&nbsp;개인정보처리방침<br />Copyright © 2026 AutoPortal. All Rights Reserved.
+      </div>
+    </footer>
+  );
+}
+
+/* ===================== PAGES/RENTAL.JS ===================== */
+
+function useCountdown() {
+  const getRemaining = () => {
+    const now = new Date();
+    const end = new Date();
+    end.setHours(23, 59, 59, 999);
+    const diff = Math.max(0, end - now);
+    return {
+      h: String(Math.floor(diff / 3600000)).padStart(2, '0'),
+      m: String(Math.floor((diff % 3600000) / 60000)).padStart(2, '0'),
+      s: String(Math.floor((diff % 60000) / 1000)).padStart(2, '0'),
+    };
+  };
+  const [time, setTime] = useState(getRemaining);
+  useEffect(() => {
+    const t = setInterval(() => setTime(getRemaining()), 1000);
+    return () => clearInterval(t);
+  }, []);
+  return time;
+}
+
+const MOB_CATS = ["인기차종","SUV","세단","전기차","하이브리드","생에 첫 차"];
+function RentalPage({ setActive }) {
+  const countdown = useCountdown();
+  const [isMob, setIsMob] = useState(typeof window !== 'undefined' && window.innerWidth <= 768);
+  const [mobFilter, setMobFilter] = useState("인기차종");
+  useEffect(() => {
+    const onResize = () => setIsMob(window.innerWidth <= 768);
+    window.addEventListener('resize', onResize);
+    return () => window.removeEventListener('resize', onResize);
+  }, []);
+  const filteredCars = MOB_CARS.filter(c => c.cat.includes(mobFilter));
+  return (
+    <>
+      <SubCarousel banners={RENTAL_BANNERS} setActive={setActive} />
+      <section className="limited-section mx-auto grid max-w-[1428px] grid-cols-1 gap-10 px-6 md:grid-cols-[1fr_280px] md:items-center" style={isMob ? {paddingTop:'2.4rem', paddingBottom:'4rem'} : {paddingTop:'4.8rem', paddingBottom:'4rem'}}>
+        <div>
+          {isMob && (
+            <div style={{ marginBottom:'1.2rem' }}>
+              <div style={{ display:'flex', gap:'.5rem', overflowX:'auto', paddingBottom:'.25rem' }}>
+                {MOB_CATS.map(cat => (
+                  <button key={cat} onClick={() => setMobFilter(cat)}
+                    style={{ flexShrink:0, padding:'.45rem 1rem', fontSize:'.8rem', fontWeight:700, border:'1.5px solid', borderRadius:'999px', borderColor: mobFilter===cat ? '#0a0a0a' : '#e5e5e5', background: mobFilter===cat ? '#0a0a0a' : '#fff', color: mobFilter===cat ? '#fff' : '#737373', cursor:'pointer', whiteSpace:'nowrap', transition:'all .15s', fontFamily:'inherit' }}>
+                    {cat}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+          <div className="limited-grid grid grid-cols-1 gap-5 md:grid-cols-5">
+            {(isMob ? filteredCars : CARS).map(car => (
+              <article key={car.name} className="border border-neutral-200 bg-white overflow-hidden zoom-card" style={{cursor:'pointer'}} onClick={() => window.location.href=`car.html?name=${encodeURIComponent(car.name)}`}>
+                <div className="overflow-hidden">
+                  <img src={car.image} alt={car.name} className="h-48 w-full zoom-img" onError={e=>e.currentTarget.style.opacity='.2'} />
+                </div>
+                {car.colors && (
+                  <div className="limited-trim-info px-4 pt-3 pb-1">
+                    <p style={{fontSize:'.72rem', color:'#0a0a0a', marginBottom:'.35rem'}}>{car.trimRange}</p>
+                    <div style={{display:'flex', flexWrap:'wrap', gap:'.25rem', marginBottom:'.4rem'}}>
+                      {car.colors.map(c => (
+                        <span key={c} style={{fontSize:'.62rem', color:'#525252', border:'1px solid #e5e5e5', padding:'.1rem .4rem', whiteSpace:'nowrap'}}>{c}</span>
+                      ))}
+                    </div>
+                    <p style={{fontSize:'.85rem', fontWeight:700, color:'#0a0a0a'}}>{car.carPrice}</p>
+                  </div>
+                )}
+                <div className="p-4" style={{display:'flex', justifyContent:'space-between', alignItems:'center'}}>
+                  <p className="font-black text-neutral-950 text-base">{car.price30}</p>
+                  <span className="bg-neutral-900 text-white text-sm font-black px-3 py-1">{car.stock}대</span>
+                </div>
+              </article>
+            ))}
+            <a href="limited.html" style={{ gridColumn:'1 / -1', display:'flex', alignItems:'center', justifyContent:'center', gap:'.5rem', padding:'.9rem', border:'1px solid #e5e5e5', background:'#fafafa', textDecoration:'none', fontWeight:700, fontSize:'.875rem', color:'#0a0a0a', transition:'all .15s' }}
+              onMouseEnter={e=>{e.currentTarget.style.background='#0a0a0a';e.currentTarget.style.color='#fff'}} onMouseLeave={e=>{e.currentTarget.style.background='#fafafa';e.currentTarget.style.color='#0a0a0a'}}>
+              빠른출고 차량 전체보기 →
+            </a>
+          </div>
+        </div>
+        <div>
+          <h2 className="limited-title text-7xl font-black leading-tight"><span className="text-red-600">빠른출고</span><br /><span className="font-light text-neutral-900">한정재고</span></h2>
+          <p className="limited-sub mt-4 text-sm font-semibold text-neutral-400">수량 한정 · 소진 시 종료</p>
+        </div>
+      </section>
+
+      <section className="bg-neutral-900 py-12 text-white overflow-hidden" style={{position:'relative'}}>
+        {[
+          {top:'18%', w:180, h:2,   op:0.55, dur:'1.4s', delay:'0s'},
+          {top:'28%', w:120, h:1.5, op:0.35, dur:'1.1s', delay:'0.5s'},
+          {top:'40%', w:260, h:2.5, op:0.7,  dur:'1.8s', delay:'0.2s'},
+          {top:'52%', w:90,  h:1,   op:0.3,  dur:'0.9s', delay:'0.8s'},
+          {top:'62%', w:200, h:2,   op:0.5,  dur:'1.5s', delay:'0.35s'},
+          {top:'72%', w:140, h:1.5, op:0.45, dur:'1.2s', delay:'0.9s'},
+          {top:'33%', w:80,  h:1,   op:0.25, dur:'0.8s', delay:'1.2s'},
+          {top:'58%', w:320, h:3,   op:0.6,  dur:'2.0s', delay:'0.6s'},
+        ].map((s,i) => (
+          <div key={i} style={{
+            position:'absolute', top:s.top, right:0,
+            width: s.w, height: s.h,
+            background: `linear-gradient(to left, transparent, rgba(255,255,220,${s.op}) 40%, rgba(255,255,255,${s.op*0.6}) 70%, transparent)`,
+            animation: `streak ${s.dur} linear ${s.delay} infinite`,
+            pointerEvents: 'none',
+            zIndex: 0,
+          }} />
+        ))}
+        <div className="td-inner mx-auto grid max-w-7xl grid-cols-1 items-center gap-10 px-6 md:grid-cols-[1fr_auto_1fr_320px]" style={{position:'relative',zIndex:1}}>
+          <div className="td-top-row" style={{}}>
+            <h3 className="text-3xl font-black"><Icon name="zap" className="mr-2 text-yellow-400" />타임딜</h3>
+            <p className="text-sm text-neutral-400">오늘 차량재고만 · 선착순 마감</p>
+          </div>
+          <div className="flex justify-center gap-5 text-center">
+            {[[countdown.h,"시간"],[countdown.m,"분"],[countdown.s,"초"]].map(([n, t]) => (
+              <div key={t} className="bg-neutral-700 px-8 py-5">
+                <p className="text-4xl font-black">{n}</p>
+                <p className="text-xs text-neutral-400">{t}</p>
+              </div>
+            ))}
+          </div>
+          <div>
+            <p className="font-black">현대 캐스퍼 일렉트릭</p>
+            <p className="text-sm text-neutral-400">월 380,000원~ · 선납금 0원</p>
+            <button className="td-orig-btn mt-4 inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition bg-red-600 text-white" onMouseEnter={e=>e.currentTarget.style.boxShadow='inset 0 0 0 2px #fff'} onMouseLeave={e=>e.currentTarget.style.boxShadow='none'}>지금 혜택 신청</button>
+          </div>
+          <div className="td-img relative h-48 overflow-visible">
+            <CarDriveIn
+              src="casper.png"
+              alt="현대 캐스퍼 일렉트릭"
+              className="absolute top-1/2 object-contain drop-shadow-2xl"
+              style={{ height: '104px', right: '0' }} />
+          </div>
+        </div>
+        <button className="td-bottom-btn" onMouseEnter={e=>e.currentTarget.style.boxShadow='inset 0 0 0 2px #fff'} onMouseLeave={e=>e.currentTarget.style.boxShadow='none'}>지금 혜택 신청</button>
+      </section>
+
+      <PopularCars />
+      <EVBanner />
+      <section className="mx-auto max-w-7xl px-6 py-16">
+        <SectionHeader title="이번 주 국산차 특가" desc="선납금 0원, 월 납입금 패키지 포함" right="전체 보기 →" />
+        <div className="grid grid-cols-2 gap-4 md:grid-cols-4 md:gap-6">
+          {WEEKLY_CARS.map(car => <CarCard key={car.name} item={car} contain />)}
+        </div>
+      </section>
+      <ConsultationBand title="장기렌트,\n아직 고민중이신가요?" desc="전문 상담사가 최적 차량을 빠르게 안내해드립니다. 평일 09:00 - 18:00" />
+    </>
+  );
+}
+
+
+const MAIN_TABS = ["장기렌트 홈","차량검색","빠른출고","전기차특가","특가차량"];
+
+function RentalSubNav() {
+  const path = window.location.pathname;
+  const activeTab = path.includes('search') ? '차량검색' : path.includes('limited') ? '빠른출고' : path.includes('ev.') ? '전기차특가' : path.includes('special') ? '특가차량' : '장기렌트 홈';
+  return (
+    <>
+      <div className="rental-subnav bg-neutral-50 border-b border-neutral-200">
+        <div className="mx-auto flex max-w-7xl justify-center px-4">
+          {MAIN_TABS.map(t => {
+            const isActive = t === activeTab;
+            const isQuick = t === '빠른출고';
+            return (
+              <a key={t} href={t==="차량검색"?"search.html":t==="빠른출고"?"limited.html":t==="전기차특가"?"ev.html":t==="특가차량"?"special.html":"#"}
+                className={`min-w-fit px-6 py-3 whitespace-nowrap transition font-semibold ${isQuick ? (isActive ? "text-sm font-black text-red-600 border-b-2 border-red-400" : "text-sm font-black text-red-600 border-b-2 border-transparent hover:text-red-700") : isActive ? "text-sm text-neutral-900 font-black border-b-2 border-neutral-400" : "text-sm text-neutral-500 border-b-2 border-transparent hover:text-neutral-900"}`}>
+                {isQuick ? <>⚡ {t}</> : t}
+              </a>
+            );
+          })}
+        </div>
+      </div>
+      <div className="bg-neutral-100 border-b border-neutral-200 cursor-pointer" onClick={() => window.location.href='search.html'}>
+        <div className="mx-auto flex max-w-7xl items-center gap-3 px-6 py-3">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <span className="text-sm text-neutral-400">차량명을 입력해주세요</span>
+        </div>
+      </div>
+    </>
+  );
+}
+
+
+const navFn = (p) => { window.location.href = { "홈":"../index.html", "장기렌트":"index.html", "할부":"../installment/", "중고차":"../used-car/", "화물리스":"../lease/", "자동차용품":"../shop/", "이벤트&혜택":"../event/", "고객센터":"../contact/" }[p] || "#"; };
+
+function AppRoot() {
+  const [mobOpen, setMobOpen] = React.useState(false);
+  return (
+    <div className="min-h-screen bg-white text-neutral-950">
+      <div className="sticky top-0 z-50">
+        <Header active="장기렌트" setActive={navFn} onHamburger={() => setMobOpen(true)} />
+        <RentalSubNav />
+      </div>
+      <main style={{paddingBottom:'4.5rem'}}><RentalPage setActive={navFn} /></main>
+      <Footer setActive={navFn} />
+      {mobOpen && (
+        <div style={{position:'fixed',top:0,left:0,right:0,bottom:0,background:'#fff',zIndex:9999,overflowY:'auto'}}>
+          <div style={{padding:'1.5rem 1.5rem 3rem'}}>
+            <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',paddingBottom:'1.5rem',borderBottom:'1px solid #f0f0f0',marginBottom:'1rem'}}>
+              <span style={{fontSize:'1.5rem',fontWeight:900,color:'#dc2626',letterSpacing:'-.03em'}}>CHABOZA</span>
+              <button onClick={() => setMobOpen(false)} style={{fontSize:'2rem',background:'none',border:'none',cursor:'pointer',color:'#0a0a0a',lineHeight:1,padding:'0 .25rem'}}>×</button>
+            </div>
+            {NAV_ITEMS.map(item => (
+              <button key={item} onClick={() => { navFn(item); setMobOpen(false); }}
+                style={{display:'block',width:'100%',padding:'1rem 0',fontSize:'1rem',fontWeight:item==='장기렌트'?900:600,color:item==='장기렌트'?'#0a0a0a':'#525252',borderBottom:'1px solid #f5f5f5',background:'none',textAlign:'left',cursor:'pointer',fontFamily:'inherit'}}>
+                {item}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<AppRoot />);
+</script>
+<!-- 하단 앱 내비 -->
+<nav class="mob-bottom-nav" style="position:fixed;bottom:0;left:0;right:0;z-index:9999;background:#fff;border-top:1px solid #e5e5e5;display:block;padding-bottom:env(safe-area-inset-bottom)">
+  <div style="display:flex;align-items:stretch">
+    <a href="index.html" class="bnav-item active" data-tab="홈">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      <span>홈</span>
+    </a>
+    <a href="search.html" class="bnav-item" data-tab="차량검색">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <span>차량검색</span>
+    </a>
+    <a href="limited.html" class="bnav-item bnav-quick" data-tab="빠른출고" style="position:relative">
+      <span class="bnav-quick-bar"></span>
+      <span style="font-size:1.25rem">⚡</span>
+      <span>빠른출고</span>
+    </a>
+    <a href="#" class="bnav-item" data-tab="내 견적">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+      <span>내 견적</span>
+    </a>
+    <a href="#" class="bnav-item" data-tab="마이">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+      <span>마이</span>
+    </a>
+  </div>
+</nav>
+<script>
+(function(){
+  function applyFixed(){
+    var n=document.querySelector('.mob-bottom-nav');
+    if(!n)return;
+    n.style.setProperty('position','fixed','important');
+    n.style.setProperty('bottom','0','important');
+    n.style.setProperty('left','0','important');
+    n.style.setProperty('right','0','important');
+    n.style.setProperty('z-index','99999','important');
+    n.style.setProperty('transform','none','important');
+    n.style.setProperty('display','block','important');
+  }
+  applyFixed();
+  document.addEventListener('DOMContentLoaded',applyFixed);
+  window.addEventListener('load',applyFixed);
+  window.addEventListener('scroll',applyFixed,{passive:true});
+  window.addEventListener('resize',applyFixed);
+})();
+</script>
+</body>
+</html>
