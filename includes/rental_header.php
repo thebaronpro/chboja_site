@@ -3,15 +3,36 @@ require_once __DIR__ . '/functions.php';
 
 $top_active    ??= '장기렌트';
 $subnav_active ??= 'home';
+$site_root     ??= '../';   // path to site root (sub-folder default)
 ?>
 <style>
+/* ===== View Transitions API: GNB가 페이지 이동 시 정지된 상태로 유지 ===== */
+@view-transition { navigation: auto; }
+::view-transition-group(top-gnb),
+::view-transition-group(mob-bnav) {
+  animation-duration: 0s !important;
+}
+::view-transition-old(top-gnb),
+::view-transition-new(top-gnb),
+::view-transition-old(mob-bnav),
+::view-transition-new(mob-bnav) {
+  animation: none !important;
+  mix-blend-mode: normal;
+}
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: .18s;
+}
+
 /* ===== 공유 헤더 베이스 ===== */
 html { scrollbar-gutter: stable; overflow-x: clip; }
 body { overflow-x: clip; padding-bottom: 4rem; width: 100%; }
-header { position:sticky !important; top:0 !important; left:0 !important; right:0 !important; z-index:50 !important; background:#fff !important; width:100% !important; }
-.logo { font-size:1.65rem; font-weight:900; color:#dc2626; letter-spacing:-.03em; text-decoration:none; }
-.logo-bar { display:flex; align-items:center; justify-content:center; height:52px; position:relative; }
-@media (min-width:769px) { .logo-bar { justify-content:space-between; height:44px; } }
+header { position:sticky !important; top:0 !important; left:0 !important; right:0 !important; z-index:50 !important; background:#fff !important; width:100% !important; view-transition-name: top-gnb; }
+@media (max-width:768px) { header { position:static !important; } }
+.logo { display:inline-flex; align-items:center; text-decoration:none; line-height:1; }
+.logo img { height:24px; width:auto; display:block; }
+.logo-bar { display:flex; align-items:center; justify-content:flex-start; height:52px; position:relative; padding-left:1rem; }
+@media (min-width:769px) { .logo-bar { justify-content:space-between; height:44px; padding-left:0; } }
 .topright { display:none; }
 header > nav { display:none !important; }
 .navlist { display:none; list-style:none; }
@@ -21,12 +42,13 @@ header > nav { display:none !important; }
 .mob-overlay.open { display:block; }
 .mob-ov-inner { padding:1.5rem 1.5rem 3rem; }
 .mob-ov-head { display:flex; align-items:center; justify-content:space-between; padding-bottom:1.5rem; border-bottom:1px solid #f0f0f0; margin-bottom:1rem; }
-.mob-ov-logo { font-size:1.5rem; font-weight:900; color:#dc2626; letter-spacing:-.03em; text-decoration:none; }
+.mob-ov-logo { display:inline-flex; align-items:center; text-decoration:none; line-height:1; }
+.mob-ov-logo img { height:30px; width:auto; display:block; }
 .mob-ov-close { font-size:1.5rem; background:none; border:none; cursor:pointer; color:#0a0a0a; line-height:1; }
 .mob-nav-link { display:block; padding:1rem 0; font-size:1rem; font-weight:600; color:#525252; border-bottom:1px solid #f5f5f5; text-decoration:none; }
 .mob-nav-link.active { color:#0a0a0a; font-weight:900; }
 @media (max-width:768px) {
-  .hamburger { display:flex !important; }
+  .hamburger { display:none !important; } /* 나중에 사용 예정 — flex로 되돌리면 노출 */
   .topright { display:none !important; }
 }
 
@@ -98,6 +120,14 @@ header > nav { display:none !important; }
 }
 .event-text { font-size:.78rem; color:#525252; }
 @media (max-width:768px) { .header-right { display:none; } }
+
+/* 모바일 전용 이벤트 표시 (로고 옆, 우측 정렬, 2줄 배지+텍스트) */
+.mob-event { display:none; }
+@media (max-width:768px) {
+  .mob-event { display:flex; flex-direction:column; align-items:flex-end; gap:.05rem; margin-left:auto; margin-right:1rem; overflow:hidden; min-width:0; line-height:1.2; }
+  .mob-event-label { display:inline-block; font-size:.58rem; font-weight:900; color:#fff; background:#2563eb; letter-spacing:.14em; padding:.15rem .42rem; border-radius:3px; line-height:1.1; }
+  .mob-event .event-text { font-size:.72rem; color:#0a0a0a; font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+}
 </style>
 <div class="util-bar">
   <div class="util-bar-inner">
@@ -117,35 +147,39 @@ header > nav { display:none !important; }
 <header>
   <div class="header-inner">
     <div class="logo-bar">
-      <a class="logo" href="index.php">CHABOZA</a>
+      <a class="logo" href="<?= h($site_root) ?>rental/index.php" aria-label="RENT insight"><img src="<?= h($site_root) ?>rental/logo/rent_insight_logo_vector.svg" alt="RENT insight"></a>
+      <div class="mob-event">
+        <span class="mob-event-label">EVENT</span>
+        <span class="event-text">운전자보험 3년 무료 가입</span>
+      </div>
       <button class="hamburger" onclick="document.getElementById('mobNav').classList.add('open')" aria-label="메뉴">
         <span></span><span></span><span></span>
       </button>
     </div>
     <nav class="main-nav">
-      <a href="index.php"<?= active_if($subnav_active === 'home') ?>>홈</a>
-      <a href="search.php"<?= active_if($subnav_active === 'search') ?>>전체차량</a>
-      <a href="limited.php"<?= active_if($subnav_active === 'quick') ?>>빠른출고</a>
-      <a href="special.php"<?= active_if($subnav_active === 'special') ?>>특가차량</a>
-      <a href="biz.php"<?= active_if($subnav_active === 'biz') ?>>사업자렌트</a>
-      <a href="import.php"<?= active_if($subnav_active === 'import') ?>>수입차</a>
-      <a href="ev.php"<?= active_if($subnav_active === 'ev') ?>>전기차</a>
-      <a href="../event/"<?= active_if($top_active === '이벤트&혜택') ?>>이벤트</a>
+      <a href="<?= h($site_root) ?>rental/index.php"<?= active_if($subnav_active === 'home') ?>>홈</a>
+      <a href="<?= h($site_root) ?>rental/search.php"<?= active_if($subnav_active === 'search') ?>>전체차량</a>
+      <a href="<?= h($site_root) ?>rental/limited.php"<?= active_if($subnav_active === 'quick') ?>>빠른출고</a>
+      <a href="<?= h($site_root) ?>rental/direct.php"<?= active_if($subnav_active === 'direct') ?>>다이렉트존</a>
+      <a href="<?= h($site_root) ?>rental/special.php"<?= active_if($subnav_active === 'special') ?>>특가차량</a>
+      <a href="<?= h($site_root) ?>rental/biz.php"<?= active_if($subnav_active === 'biz') ?>>사업자혜택</a>
+      <a href="<?= h($site_root) ?>event/"<?= active_if($top_active === '이벤트&혜택') ?>>이벤트</a>
+      <a href="<?= h($site_root) ?>rental/insight.php"<?= active_if($subnav_active === 'insight') ?>>RENT <span style="color:#2563eb">insight</span></a>
     </nav>
     <div class="header-right">
       <span class="event-badge">EVENT</span>
-      <span class="event-text">5월 한정 EV 보조금 행사</span>
+      <span class="event-text">운전자보험 3년 무료 가입</span>
     </div>
   </div>
   <nav style="display:none"><ul class="navlist">
-    <li><a href="../index.php"<?= active_if($top_active === '홈') ?>>홈</a></li>
-    <li><a href="index.php"<?= active_if($top_active === '장기렌트') ?>>장기렌트</a></li>
-    <li><a href="../installment/"<?= active_if($top_active === '할부') ?>>할부</a></li>
-    <li><a href="../used-car/"<?= active_if($top_active === '중고차') ?>>중고차</a></li>
-    <li><a href="../lease/"<?= active_if($top_active === '화물리스') ?>>화물리스</a></li>
-    <li><a href="../shop/"<?= active_if($top_active === '자동차용품') ?>>자동차용품</a></li>
-    <li><a href="../event/"<?= active_if($top_active === '이벤트&혜택') ?>>이벤트&혜택</a></li>
-    <li><a href="../contact/"<?= active_if($top_active === '고객센터') ?>>고객센터</a></li>
+    <li><a href="<?= h($site_root) ?>index.php"<?= active_if($top_active === '홈') ?>>홈</a></li>
+    <li><a href="<?= h($site_root) ?>rental/index.php"<?= active_if($top_active === '장기렌트') ?>>장기렌트</a></li>
+    <li><a href="<?= h($site_root) ?>installment/"<?= active_if($top_active === '할부') ?>>할부</a></li>
+    <li><a href="<?= h($site_root) ?>used-car/"<?= active_if($top_active === '중고차') ?>>중고차</a></li>
+    <li><a href="<?= h($site_root) ?>lease/"<?= active_if($top_active === '화물리스') ?>>화물리스</a></li>
+    <li><a href="<?= h($site_root) ?>shop/"<?= active_if($top_active === '자동차용품') ?>>자동차용품</a></li>
+    <li><a href="<?= h($site_root) ?>event/"<?= active_if($top_active === '이벤트&혜택') ?>>이벤트&혜택</a></li>
+    <li><a href="<?= h($site_root) ?>contact/"<?= active_if($top_active === '고객센터') ?>>고객센터</a></li>
   </ul></nav>
 </header>
 <?php
@@ -160,7 +194,7 @@ $_searchPlaceholders = [
 $_isInlineSearch = isset($_searchPlaceholders[$subnav_active]);
 $_searchPh = $_searchPlaceholders[$subnav_active] ?? '전체 차종 검색(전체차량, 빠른출고, 특가차량)';
 ?>
-<div class="page-search-wrap"<?= $_isInlineSearch ? '' : ' onclick="window.location.href=\'search.php\'"' ?>>
+<div class="page-search-wrap"<?= $_isInlineSearch ? '' : ' onclick="window.location.href=\'' . h($site_root) . 'rental/search.php\'"' ?>>
   <div class="page-search-inner">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
     <?php if ($_isInlineSearch): ?>
@@ -175,17 +209,18 @@ $_searchPh = $_searchPlaceholders[$subnav_active] ?? '전체 차종 검색(전�
 <div class="mob-overlay" id="mobNav">
   <div class="mob-ov-inner">
     <div class="mob-ov-head">
-      <a class="mob-ov-logo" href="../index.php">CHABOZA</a>
+      <a class="mob-ov-logo" href="<?= h($site_root) ?>index.php" aria-label="RENT insight"><img src="<?= h($site_root) ?>rental/logo/rent_insight_logo_vector.svg" alt="RENT insight"></a>
       <button class="mob-ov-close" onclick="document.getElementById('mobNav').classList.remove('open')">&#215;</button>
     </div>
-    <a class="mob-nav-link" href="../index.php"<?= active_if($top_active === '홈') ?>>홈</a>
-    <a class="mob-nav-link" href="index.php"<?= active_if($top_active === '장기렌트') ?>>장기렌트</a>
-    <a class="mob-nav-link" href="../installment/"<?= active_if($top_active === '할부') ?>>할부</a>
-    <a class="mob-nav-link" href="../used-car/"<?= active_if($top_active === '중고차') ?>>중고차</a>
-    <a class="mob-nav-link" href="../lease/"<?= active_if($top_active === '화물리스') ?>>화물리스</a>
-    <a class="mob-nav-link" href="../shop/"<?= active_if($top_active === '자동차용품') ?>>자동차용품</a>
-    <a class="mob-nav-link" href="../event/"<?= active_if($top_active === '이벤트&혜택') ?>>이벤트&혜택</a>
-    <a class="mob-nav-link" href="../contact/"<?= active_if($top_active === '고객센터') ?>>고객센터</a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>index.php"<?= active_if($top_active === '홈') ?>>홈</a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>rental/index.php"<?= active_if($top_active === '장기렌트') ?>>장기렌트</a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>installment/"<?= active_if($top_active === '할부') ?>>할부</a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>used-car/"<?= active_if($top_active === '중고차') ?>>중고차</a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>lease/"<?= active_if($top_active === '화물리스') ?>>화물리스</a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>shop/"<?= active_if($top_active === '자동차용품') ?>>자동차용품</a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>event/"<?= active_if($top_active === '이벤트&혜택') ?>>이벤트&혜택</a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>rental/insight.php"<?= active_if($subnav_active === 'insight') ?>>RENT <span style="color:#2563eb">insight</span></a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>contact/"<?= active_if($top_active === '고객센터') ?>>고객센터</a>
   </div>
 </div>
 <script>

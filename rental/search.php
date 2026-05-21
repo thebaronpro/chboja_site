@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>차량검색 — CHABOZA</title>
+<title>차량검색 — RENT insight</title>
 <script src="https://cdn.tailwindcss.com"></script>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Noto Sans KR',-apple-system,sans-serif;background:#fff;color:#0a0a0a}
+body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,sans-serif;background:#fff;color:#0a0a0a}
 a{text-decoration:none;color:inherit}
 main{max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 4rem}
 .sw{background:#f5f5f5;border-bottom:1px solid #e5e5e5}
@@ -19,10 +19,16 @@ main{max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 4rem}
 .tabs{display:flex;gap:.5rem;margin-bottom:1.25rem}
 .tab{padding:.5rem 1.25rem;font-size:.875rem;font-weight:700;border-radius:999px;border:1.5px solid #d4d4d4;background:#fff;color:#525252;cursor:pointer;transition:all .15s}
 .tab.on{background:#0a0a0a;color:#fff;border-color:#0a0a0a}
-.brands{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:2rem}
+.brands{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem}
 .brand{padding:.45rem 1.1rem;font-size:.875rem;font-weight:700;border-radius:999px;border:1.5px solid #e5e5e5;background:#fff;color:#404040;cursor:pointer;transition:all .15s}
 .brand:hover{border-color:#0a0a0a}.brand.on{background:#0a0a0a;color:#fff;border-color:#0a0a0a}
 .brand span{opacity:.55;font-size:.8rem}
+.types{display:flex;flex-wrap:wrap;gap:.45rem;margin-bottom:2rem;padding-top:1rem;border-top:1px dashed #e5e5e5}
+.type-pill{padding:.4rem 1rem;font-size:.82rem;font-weight:700;border-radius:999px;border:1.5px solid #d4d4d4;background:#fff;color:#525252;cursor:pointer;transition:all .15s;display:inline-flex;align-items:center;gap:.3rem}
+.type-pill:hover{border-color:#0a0a0a;color:#0a0a0a}
+.type-pill.on{background:#2563eb;color:#fff;border-color:#2563eb}
+.type-pill span{opacity:.7;font-size:.75rem}
+.type-pill.on span{opacity:.85}
 .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:1rem}
 @media(max-width:900px){.grid{grid-template-columns:repeat(4,1fr)}}
 .card{border:1.5px solid #e5e5e5;border-radius:.75rem;background:#fff;padding:.75rem;text-align:center;cursor:pointer;transition:border-color .15s,box-shadow .15s}
@@ -104,6 +110,7 @@ require __DIR__ . '/../includes/rental_header.php';
       <button class="tab" data-t="수입차">수입차</button>
     </div>
     <div class="brands" id="brands"></div>
+    <div class="types" id="types"></div>
     <div class="grid" id="grid"></div>
   </div>
   <div id="results" style="display:none">
@@ -172,8 +179,155 @@ const SPECIAL_CARS=[
   {name:"캐스퍼 일렉트릭",img:"../cars/cdn_4653.png",price:"월 320,000원~",tag:"EV",type:"ev"},
   {name:"테슬라 모델Y",img:"../cars/cdn_4667.png",price:"월 650,000원~",tag:"EV",type:"ev"},
 ];
-let tab='국산차', brand=DOMESTIC_BRANDS.find(b=>ALL_BRAND_CARS[b])||'';
-function blist(){return(tab==='국산차'?DOMESTIC_BRANDS:IMPORT_BRANDS).filter(b=>ALL_BRAND_CARS[b]).slice().sort((a,b)=>a.localeCompare(b,'ko'));}
+let tab='국산차', brand=DOMESTIC_BRANDS.find(b=>ALL_BRAND_CARS[b])||'', typeFilter=null;
+
+/* 2026년 5월 기준 인기 순위 (한국 시장 등록/판매) */
+const BRAND_POPULARITY={
+  '현대':1,'기아':2,'제네시스':3,'KG모빌리티':4,'쉐보레':5,'르노코리아':6,
+  'BMW':1,'메르세데스-벤츠':2,'테슬라':3,'아우디':4,'볼보':5,
+  '렉서스':6,'미니':7,'포르쉐':8,'토요타':9,'폭스바겐':10,
+  '랜드로버':11,'포드':12,'폴스타':13,'지프':14,'BYD':15,
+  '캐딜락':16,'혼다':17,'푸조':18,'마세라티':19,'페라리':20,
+  '람보르기니':21,'벤틀리':22,'롤스로이스':23,'애스턴마틴':24,'맥라렌':25,
+  '로터스':26,'링컨':27,'GMC':28,'이스즈':29,'동풍':30,'이네오스':31
+};
+const MODEL_POPULARITY={
+  '현대':['그랜저','싼타페','디 올 뉴 팰리세이드','투싼','쏘나타 디 엣지','아반떼','아이오닉 5','캐스퍼','코나','캐스퍼 일렉트릭','아이오닉 9','베뉴','더 뉴 아이오닉 6','코나 일렉트릭','디 올 뉴 넥쏘','아이오닉 5 N','아이오닉 6 N','아반떼 N','스타리아','더 뉴 스타리아','포터2','포터2 일렉트릭','ST1','쏠라티','마이티','카운티','카운티 일렉트릭','파비스'],
+  '기아':['카니발','쏘렌토','스포티지','K8','K5','셀토스','디 올 뉴 셀토스','모닝','EV6','EV9','레이','EV3','EV4','K9','니로','더 뉴 니로','EV5','니로 EV','레이 EV','타스만','PV5','봉고 3','봉고 3 EV'],
+  '제네시스':['G80','GV80','GV70','GV60','G90','G70','Electrified GV70','Electrified G80','GV60 MAGMA'],
+  'KG모빌리티':['토레스','토레스 EVX','액티언','무쏘','무쏘 EV','티볼리','렉스턴 뉴 아레나','무쏘 스포츠','무쏘 칸'],
+  '쉐보레':['트랙스 크로스오버','트레일블레이저','콜로라도'],
+  '르노코리아':['그랑 콜레오스','아르카나','필랑트','세닉 E-테크 일렉트릭'],
+  'BMW':['5 Series','3 Series','X3','X5','i5','i4','X1','4 Series','1 Series','X4','iX1','i7','7 Series','iX','X6','X7','M3','M4','2 Series','iX2','X2','2 Series Gran Coupe','2 Series Active Tourer','M5','M2','8 Series','M8','XM','X5 M','X6 M','X4 M','Z4','The New iX3'],
+  '메르세데스-벤츠':['E-Class','S-Class','GLC-Class','GLE-Class','C-Class','EQE','EQS','EQS SUV','EQE SUV','A-Class','CLA-Class','GLA-Class','GLB-Class','GLS-Class','EQA','EQB','CLE','AMG GT','The New AMG GT','SL-Class','G-Class','Electric G-Class','Maybach S-Class','Maybach GLS','Maybach EQS SUV','Maybach SL'],
+  '테슬라':['Model Y','Model 3','Model S','Model X','Cybertruck','Roadster'],
+  '아우디':['A6','Q5','The new Q5','A4','Q7','Q8','A8','Q4 e-tron','A3','Q3','Q8 e-tron','Q6 e-tron','A6 e-tron','A7','The new A5','The new e-tron GT'],
+  '볼보':['XC60','XC90','S90','XC40','EX30','EX90','V90 Cross Country','V60 Cross Country','EX30 CC'],
+  '렉서스':['ES','RX','NX','UX','LS','LM','LX'],
+  '미니':['Cooper','Countryman','Countryman Electric','Aceman','Mini Electric','Convertible'],
+  '포르쉐':['Cayenne','Macan Electric','Taycan','Panamera','911','The New 911','718 Boxster','718 Cayman','Cayenne Electric'],
+  '토요타':['Camry','RAV4','Sienna','Alphard','Highlander','Crown','Prius','GR 86'],
+  '폭스바겐':['Touareg','ID.4','ID.5','Atlas','Golf'],
+  '랜드로버':['Range Rover Sport','Range Rover','Range Rover Velar','Discovery','Range Rover Evoque','Discovery Sport','New Defender'],
+  '포드':['Explorer','Bronco','Mustang','Expedition','Ranger'],
+  '폴스타':['Polestar 4','Polestar 2'],
+  '지프':['Wrangler','Grand Cherokee','Gladiator'],
+  'BYD':['ATTO 3','SEAL','SEALION 7','Dolphin','T4K'],
+  '캐딜락':['Escalade','Escalade IQ'],
+  '혼다':['Accord','CR-V','Pilot','Odyssey'],
+  '푸조':['3008','All New 5008','408','308'],
+  '마세라티':['Grecale','GranTurismo','GranCabrio','MC20','Grecale Folgore','GranTurismo Folgore','GranCabrio Folgore','MC20 Cielo','GT2 Stradale'],
+  '페라리':['Purosangue','296 GTB','296 GTS','Roma Spider','SF90 Stradale','SF90 Spider','12Cilindri','Amalfi','812 GTS'],
+  '람보르기니':['Urus','Urus S','Revuelto','Huracan EVO'],
+  '벤틀리':['Bentayga','The new Continental','The New Flying Spur'],
+  '롤스로이스':['Cullinan Series2','Spectre','Ghost Series II','Phantom Series II'],
+  '애스턴마틴':['DBX','DB12','Vantage'],
+  '맥라렌':['Artura'],
+  '로터스':['Eletre','Emeya','Emira'],
+  '링컨':['Aviator','Navigator','Nautilus'],
+  'GMC':['Sierra','Acadia','Canyon'],
+  '이스즈':['ELF','Forward'],
+  '동풍':['Fengon ix5','Rich6 EV','C35','C31','C32'],
+  '이네오스':['Grenadier']
+};
+function brandRank(b){return BRAND_POPULARITY[b]||999;}
+function modelRank(brand,name){
+  const list=MODEL_POPULARITY[brand];
+  if(!list) return 999;
+  const i=list.indexOf(name);
+  return i===-1?998:i;
+}
+function popularitySort(brand, cars){
+  return cars.slice().sort((a,b)=>{
+    const ra=modelRank(brand,a.n), rb=modelRank(brand,b.n);
+    if(ra!==rb) return ra-rb;
+    return a.n.localeCompare(b.n,'ko');
+  });
+}
+
+/* 차종 명시적 분류 (트럭은 어느 카테고리에도 포함 안 함) */
+const TYPE_MEMBERSHIP={
+  '국산세단':{
+    '현대':['그랜저','쏘나타 디 엣지','아반떼','아반떼 N','더 뉴 아이오닉 6','아이오닉 6 N'],
+    '기아':['K5','K8','K9','EV4'],
+    '제네시스':['G70','G80','G90','Electrified G80'],
+    '르노코리아':[]
+  },
+  '국산SUV':{
+    '현대':['싼타페','투싼','디 올 뉴 팰리세이드','코나','베뉴','캐스퍼','디 올 뉴 넥쏘','아이오닉 5','아이오닉 5 N','아이오닉 9','코나 일렉트릭','캐스퍼 일렉트릭'],
+    '기아':['쏘렌토','스포티지','셀토스','디 올 뉴 셀토스','니로','더 뉴 니로','EV3','EV5','EV6','EV9','니로 EV'],
+    '제네시스':['GV80','GV70','GV60','GV60 MAGMA','Electrified GV70'],
+    'KG모빌리티':['토레스','액티언','티볼리','무쏘','무쏘 칸','렉스턴 뉴 아레나','토레스 EVX','무쏘 EV'],
+    '쉐보레':['트랙스 크로스오버','트레일블레이저'],
+    '르노코리아':['아르카나','그랑 콜레오스','세닉 E-테크 일렉트릭','필랑트']
+  },
+  '승합':{
+    '현대':['스타리아','더 뉴 스타리아','쏠라티','카운티','카운티 일렉트릭'],
+    '기아':['카니발','PV5']
+  },
+  '전기차':{
+    '현대':['아이오닉 5','아이오닉 5 N','아이오닉 6 N','더 뉴 아이오닉 6','아이오닉 9','코나 일렉트릭','캐스퍼 일렉트릭','ST1','포터2 일렉트릭','카운티 일렉트릭'],
+    '기아':['EV3','EV4','EV5','EV6','EV9','니로 EV','봉고 3 EV','레이 EV'],
+    '제네시스':['Electrified G80','Electrified GV70','GV60','GV60 MAGMA'],
+    'KG모빌리티':['토레스 EVX','무쏘 EV'],
+    '르노코리아':['세닉 E-테크 일렉트릭'],
+    '테슬라':['Model Y','Model 3','Model S','Model X','Cybertruck','Roadster'],
+    '폴스타':['Polestar 4','Polestar 2'],
+    'BYD':['ATTO 3','SEAL','SEALION 7','Dolphin','T4K'],
+    'BMW':['iX','iX1','iX2','The New iX3','i4','i5','i7'],
+    '메르세데스-벤츠':['EQE','EQS','EQS SUV','EQE SUV','EQA','EQB','Electric G-Class','Maybach EQS SUV'],
+    '포르쉐':['Taycan','Macan Electric','Cayenne Electric'],
+    '아우디':['Q4 e-tron','Q8 e-tron','Q6 e-tron','A6 e-tron','The new e-tron GT'],
+    '볼보':['EX90','EX30','EX30 CC'],
+    '미니':['Mini Electric','Countryman Electric'],
+    '캐딜락':['Escalade IQ'],
+    '롤스로이스':['Spectre'],
+    '로터스':['Eletre','Emeya'],
+    '마세라티':['Grecale Folgore','GranTurismo Folgore','GranCabrio Folgore'],
+    '폭스바겐':['ID.4','ID.5'],
+    '동풍':['Rich6 EV']
+  },
+  '하이브리드':{
+    '현대':['그랜저','싼타페','투싼','코나','아반떼'],
+    '기아':['K5','K8','쏘렌토','스포티지','니로','더 뉴 니로'],
+    '토요타':['Camry','Prius','RAV4','Highlander','Crown','Sienna','Alphard'],
+    '렉서스':['ES','RX','NX','UX','LM','LX','LS'],
+    '혼다':['Accord','CR-V','Pilot','Odyssey'],
+    '볼보':['XC60','XC90','S90','XC40','V60 Cross Country','V90 Cross Country'],
+    '메르세데스-벤츠':['E-Class','S-Class','GLE-Class','GLC-Class','C-Class','CLE'],
+    'BMW':['5 Series','7 Series','X5','X3','XM'],
+    '포르쉐':['Cayenne','Panamera'],
+    '아우디':['A6','A7','Q5','The new Q5'],
+    '폭스바겐':['Touareg'],
+    '랜드로버':['Range Rover','Range Rover Sport','Range Rover Velar','Range Rover Evoque'],
+    '푸조':['3008','All New 5008','408','308'],
+    '미니':['Countryman','Cooper'],
+    '지프':['Wrangler','Grand Cherokee']
+  }
+};
+
+function carMatchesType(carName, brand, type){
+  if(!type) return true;
+  const list=TYPE_MEMBERSHIP[type]?.[brand];
+  if(!list) return false;
+  return list.includes(carName);
+}
+
+function typeCount(type){
+  let n=0;
+  Object.keys(ALL_BRAND_CARS).forEach(b=>{
+    (ALL_BRAND_CARS[b]||[]).forEach(c=>{ if(carMatchesType(c.n,b,type)) n++; });
+  });
+  return n;
+}
+
+function blist(){
+  return(tab==='국산차'?DOMESTIC_BRANDS:IMPORT_BRANDS).filter(b=>ALL_BRAND_CARS[b]).slice().sort((a,b)=>{
+    const ra=brandRank(a), rb=brandRank(b);
+    if(ra!==rb) return ra-rb;
+    return a.localeCompare(b,'ko');
+  });
+}
 function card(c){const d=document.createElement('div');d.className='card';d.onclick=()=>location.href='car.php?name='+encodeURIComponent(c.n);d.innerHTML='<img src="'+c.i+'" alt="'+c.n+'" loading="lazy" onerror="this.style.opacity=.25"><p>'+c.n+'</p>';return d;}
 function qcard(c){
   const d=document.createElement('div');d.className='q-card';
@@ -194,22 +348,51 @@ function rBrands(){
   const el=document.getElementById('brands');el.innerHTML='';
   blist().forEach(b=>{
     const bt=document.createElement('button');bt.className='brand'+(b===brand?' on':'');
+    if(typeFilter) bt.style.opacity='.45';
     const cnt=(ALL_BRAND_CARS[b]||[]).length;
     bt.innerHTML=b+(cnt?'<span> ('+cnt+')</span>':'');
-    bt.onclick=()=>{brand=b;rBrands();rCars();};
+    bt.onclick=()=>{typeFilter=null;brand=b;rBrands();rTypes();rCars();};
+    el.appendChild(bt);
+  });
+}
+const TYPE_LIST=['국산세단','국산SUV','승합','전기차','하이브리드'];
+function rTypes(){
+  const el=document.getElementById('types');if(!el) return;el.innerHTML='';
+  TYPE_LIST.forEach(t=>{
+    const bt=document.createElement('button');
+    bt.className='type-pill'+(t===typeFilter?' on':'');
+    const cnt=typeCount(t);
+    bt.innerHTML=t+(cnt?'<span>('+cnt+')</span>':'');
+    bt.onclick=()=>{
+      typeFilter=(t===typeFilter?null:t);
+      rBrands();rTypes();rCars();
+    };
     el.appendChild(bt);
   });
 }
 function rCars(){
   const g=document.getElementById('grid');g.innerHTML='';
-  (ALL_BRAND_CARS[brand]||[]).slice().sort((a,b)=>a.n.localeCompare(b.n,'ko')).forEach(c=>g.appendChild(card(c)));
+  if(typeFilter){
+    const blistAll=Object.keys(ALL_BRAND_CARS).slice().sort((a,b)=>{
+      const ra=brandRank(a), rb=brandRank(b);
+      if(ra!==rb) return ra-rb;
+      return a.localeCompare(b,'ko');
+    });
+    blistAll.forEach(b=>{
+      const matches=(ALL_BRAND_CARS[b]||[]).filter(c=>carMatchesType(c.n,b,typeFilter));
+      popularitySort(b, matches).forEach(c=>g.appendChild(card(c)));
+    });
+  } else {
+    popularitySort(brand, ALL_BRAND_CARS[brand]||[]).forEach(c=>g.appendChild(card(c)));
+  }
 }
 document.querySelectorAll('.tab').forEach(bt=>{
   bt.onclick=()=>{
     tab=bt.dataset.t;
+    typeFilter=null;
     document.querySelectorAll('.tab').forEach(b=>b.classList.remove('on'));
     bt.classList.add('on');
-    const l=blist();brand=l[0]||'';rBrands();rCars();
+    const l=blist();brand=l[0]||'';rBrands();rTypes();rCars();
   };
 });
 const qi=document.getElementById('qi'),qc=document.getElementById('qc');
@@ -261,7 +444,25 @@ qi.addEventListener('input',()=>{
   }
 });
 qc.onclick=()=>{qi.value='';qi.dispatchEvent(new Event('input'));qi.focus();};
-rBrands();rCars();
+
+// URL 파라미터로 진입한 경우 필터 자동 적용
+(function applyUrlFilter(){
+  const params=new URLSearchParams(location.search);
+  const urlTab=params.get('tab');
+  const urlType=params.get('type');
+  if(urlTab==='수입차'||urlTab==='import'){
+    tab='수입차';
+    document.querySelectorAll('.tab').forEach(b=>{
+      b.classList.toggle('on', b.dataset.t==='수입차');
+    });
+    const l=blist();brand=l[0]||'';
+  }
+  if(urlType && ['국산세단','국산SUV','승합','전기차','하이브리드'].includes(urlType)){
+    typeFilter=urlType;
+  }
+})();
+
+rBrands();rTypes();rCars();
 </script>
 
 <?php

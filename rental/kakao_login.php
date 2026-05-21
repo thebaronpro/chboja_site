@@ -14,10 +14,10 @@ if (kakao_oauth_configured()) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>kakao</title>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Noto Sans KR',-apple-system,sans-serif;background:#fff;color:#191919;padding-bottom:0;animation:fadeIn .18s ease}
+body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,sans-serif;background:#fff;color:#191919;padding-bottom:0;animation:fadeIn .18s ease}
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
 a{text-decoration:none;color:inherit}
 .kk-wrap{max-width:480px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
@@ -28,7 +28,9 @@ a{text-decoration:none;color:inherit}
 .kk-close svg{width:2.2rem;height:2.2rem;stroke:currentColor;stroke-width:2.6}
 .kk-body{flex:1;padding:1.1rem 1.25rem 1rem;overflow-y:auto}
 .kk-app{display:flex;align-items:center;gap:.75rem;padding:.4rem 0 1rem}
-.kk-app-logo{width:48px;height:48px;border-radius:50%;background:#fff;border:1px solid #ececec;display:flex;align-items:center;justify-content:center;color:#dc2626;font-size:.78rem;font-weight:900;letter-spacing:-.05em}
+.kk-app-logo{width:48px;height:48px;border-radius:50%;background:#fff;border:1px solid #ececec;display:flex;align-items:center;justify-content:center;color:#0a0a0a;font-size:.68rem;font-weight:900;letter-spacing:-.05em}
+.kk-app-logo .lg-i{color:#2563eb}
+.kk-app-name .lg-i{color:#2563eb}
 .kk-app-name{font-size:1.1rem;font-weight:900;color:#191919;letter-spacing:-.02em}
 .kk-app-sub{font-size:.78rem;color:#7d7d7d;margin-top:.15rem}
 .kk-divider{height:1px;background:#f0f0f0;margin:.25rem 0 1rem}
@@ -70,9 +72,9 @@ a{text-decoration:none;color:inherit}
   </div>
   <div class="kk-body">
     <div class="kk-app">
-      <div class="kk-app-logo">CHABOZA</div>
+      <div class="kk-app-logo">RENT<span class="lg-i">inside</span></div>
       <div>
-        <div class="kk-app-name">CHABOZA</div>
+        <div class="kk-app-name">RENT<span class="lg-i">inside</span></div>
         <div class="kk-app-sub">(주)차보자</div>
       </div>
     </div>

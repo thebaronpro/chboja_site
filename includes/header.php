@@ -2,22 +2,29 @@
 require_once __DIR__ . '/functions.php';
 require_once __DIR__ . '/data.php';
 
-$page_title  ??= 'CHABOZA';
+$page_title  ??= 'RENT insight';
 $current_nav ??= '';
 $BASE        ??= '../';
-$viewport    ??= 'width=1280';
+$viewport    ??= 'width=device-width, initial-scale=1';
 $extra_head  ??= '';
+
+// Map root-page conventions to rental_header conventions
+$top_active     = $current_nav ?: ($top_active ?? '');
+$subnav_active  ??= '';
+$site_root       = $BASE;
 ?>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8"/><meta name="viewport" content="<?= h($viewport) ?>"/>
-  <title><?= h($page_title) ?> — CHABOZA</title>
+  <title><?= h($page_title) ?> — RENT insight</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <style>
-    body { font-family: 'Noto Sans KR', sans-serif; }
+    *{box-sizing:border-box;margin:0;padding:0}
+    body { font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif; color:#0a0a0a; background:#fff; }
+    a { text-decoration:none; color:inherit; }
     .whitespace-pre-line { white-space: pre-line; }
     .mob-bottom-nav{position:fixed;bottom:0;left:0;right:0;z-index:9999;background:#fff;border-top:1px solid #e5e5e5;padding-bottom:env(safe-area-inset-bottom);display:block}
     .bnav-inner{display:flex;align-items:stretch}
@@ -28,18 +35,6 @@ $extra_head  ??= '';
   </style>
   <?= $extra_head ?>
 </head>
-<body style="padding-bottom:4rem">
-<header class="sticky top-0 z-50 border-t-4 border-neutral-900 bg-white/95 backdrop-blur">
-  <div class="mx-auto flex h-11 max-w-7xl items-center justify-center px-4 relative">
-    <a href="<?= h($BASE) ?>index.php" class="text-3xl font-black tracking-tight text-red-600">CHABOZA</a>
-    <div class="absolute right-8 top-4 hidden text-xs text-neutral-500 md:block">로그인&nbsp;|&nbsp;KR</div>
-  </div>
-  <nav class="border-y border-neutral-200">
-    <div class="mx-auto flex max-w-7xl justify-center px-4">
-      <?php foreach (NAV_ITEMS as $n): $active = ($current_nav === $n['label']); ?>
-        <a href="<?= h($BASE . $n['href']) ?>" class="min-w-fit px-8 py-4 text-sm font-semibold transition whitespace-nowrap <?= $active ? 'border-b-4 border-neutral-900 text-neutral-950' : 'border-b-4 border-transparent text-neutral-500 hover:text-neutral-900' ?>"><?= h($n['label']) ?></a>
-      <?php endforeach; ?>
-    </div>
-  </nav>
-</header>
+<body>
+<?php require __DIR__ . '/rental_header.php'; ?>
 <main>

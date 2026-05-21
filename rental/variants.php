@@ -1,12 +1,17 @@
+<?php
+$top_active    = '장기렌트';
+$subnav_active = 'quick';
+$bnav_active   = 'quick';
+?>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>차량 옵션 선택 — CHABOZA</title>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<title>차량 옵션 선택 — RENT insight</title>
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Noto Sans KR',-apple-system,sans-serif;background:#fff;color:#0a0a0a;padding-bottom:4rem}
+body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,sans-serif;background:#fff;color:#0a0a0a;padding-bottom:4rem}
 a{text-decoration:none;color:inherit}
 main{max-width:1200px;margin:0 auto;padding:0 1rem 3rem}
 .back-bar{padding:.75rem 0 .25rem}
@@ -57,12 +62,7 @@ body{padding-bottom:4rem}
 </style>
 </head>
 <body>
-<header>
-  <div class="logo-bar">
-    <a class="logo" href="index.php">CHABOZA</a>
-    <button class="hamburger" aria-label="메뉴"><span></span><span></span><span></span></button>
-  </div>
-</header>
+<?php require __DIR__ . '/../includes/rental_header.php'; ?>
 
 <main>
   <div class="back-bar">
@@ -222,32 +222,7 @@ if (!modelName || variants.length === 0) {
 }
 </script>
 
-<!-- 하단 앱 내비 -->
-<nav class="mob-bottom-nav">
-  <div style="display:flex;align-items:stretch">
-    <a href="index.php" class="bnav-item" data-tab="홈">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
-      <span>홈</span>
-    </a>
-    <a href="search.php" class="bnav-item" data-tab="차량검색">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      <span>차량검색</span>
-    </a>
-    <a href="limited.php" class="bnav-item bnav-quick active" data-tab="빠른출고" style="position:relative;color:#dc2626 !important">
-      <span class="bnav-quick-bar" style="background:#dc2626"></span>
-      <span style="font-size:1.25rem">⚡</span>
-      <span>빠른출고</span>
-    </a>
-    <a href="special.php" class="bnav-item" data-tab="특가">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
-      <span>특가</span>
-    </a>
-    <a href="#" class="bnav-item" data-tab="마이">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-      <span>마이</span>
-    </a>
-  </div>
-</nav>
+<?php require __DIR__ . '/../includes/rental_bnav.php'; ?>
 
 </body>
 </html>

@@ -9,10 +9,10 @@ $bnav_active   = 'search';
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>사업자렌트 — CHABOZA</title>
 <script src="https://cdn.tailwindcss.com"></script>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Noto Sans KR',-apple-system,sans-serif;background:#fff;color:#0a0a0a;padding-bottom:4rem}
+body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,sans-serif;background:#fff;color:#0a0a0a;padding-bottom:4rem}
 a{text-decoration:none;color:inherit}
 .car-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1.5rem}
 @media(max-width:768px){.car-grid{grid-template-columns:1fr;gap:.75rem}}
@@ -38,7 +38,6 @@ a{text-decoration:none;color:inherit}
 
 <main style="max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 3rem">
   <div style="margin-bottom:1.75rem">
-    <p style="font-size:.72rem;font-weight:800;color:#16a34a;letter-spacing:.08em;margin-bottom:.45rem">— BUSINESS</p>
     <h1 style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em">사업자 <span style="color:#16a34a">렌트</span></h1>
     <p style="margin-top:.55rem;font-size:.95rem;color:#737373;font-weight:500">법인·개인사업자 전용 세제 혜택 차량</p>
   </div>

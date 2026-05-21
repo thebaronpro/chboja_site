@@ -1,18 +1,27 @@
+<?php
+$top_active    = '장기렌트';
+$subnav_active = '';
+$bnav_active   = '';
+?>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>차량 상세 — CHABOZA</title>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<title>차량 상세 — RENT insight</title>
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 html{overflow-x:clip}
-body{font-family:'Noto Sans KR',-apple-system,sans-serif;background:#f9f9f9;color:#0a0a0a;overflow-x:clip}
+body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,sans-serif;background:#f9f9f9;color:#0a0a0a;overflow-x:clip}
 a{text-decoration:none;color:inherit}
-/* GNB — index.html과 동일 */
-.gnb-header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);backdrop-filter:blur(8px)}
-.gnb-logo-row{display:flex;height:2.75rem;align-items:center;justify-content:center;max-width:80rem;margin:0 auto;padding:0 1rem;position:relative}
-.gnb-logo{font-size:1.875rem;font-weight:900;letter-spacing:-.025em;color:#dc2626;text-decoration:none}
+.page-backbar{max-width:1200px;margin:0 auto;padding:.75rem 1rem .25rem}
+@media(max-width:768px){
+  .page-backbar{position:sticky;top:0;z-index:40;max-width:none;margin:0;padding:.55rem 1rem;background:rgba(255,255,255,.96);backdrop-filter:saturate(140%) blur(6px);-webkit-backdrop-filter:saturate(140%) blur(6px);border-bottom:1px solid #f0f0f0}
+}
+.back-btn{display:inline-flex;align-items:center;gap:.25rem;background:none;border:none;color:#171717;font-size:.95rem;font-weight:500;cursor:pointer;padding:.4rem .25rem;font-family:inherit;letter-spacing:-.01em}
+.back-btn:hover{color:#525252}
+/* === 구 GNB (사용 안 함, 호환을 위해 빈 셀렉터로 무효화) === */
+.gnb-header,.gnb-logo-row,.gnb-logo,.gnb-topright,.gnb-nav,.gnb-nav-inner,.gnb-item,.gnb-subnav,.gnb-subnav-inner,.gnb-tab,.gnb-search,.gnb-search-inner,.gnb-search-text{display:none}
 .gnb-topright{position:absolute;right:2rem;font-size:.75rem;color:#737373}
 .hamburger{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:6px;background:none;border:none;position:absolute;right:1rem}
 .hamburger span{display:block;width:22px;height:2px;background:#0a0a0a}
@@ -392,34 +401,7 @@ a{text-decoration:none;color:inherit}
 </style>
 </head>
 <body>
-<header class="gnb-header">
-  <div class="gnb-logo-row">
-    <a href="index.php" class="gnb-logo">CHABOZA</a>
-    <span class="gnb-topright">로그인&nbsp;&nbsp;|&nbsp;&nbsp;KR</span>
-    <button class="hamburger" aria-label="메뉴"><span></span><span></span><span></span></button>
-  </div>
-  <nav class="gnb-nav">
-    <div class="gnb-nav-inner">
-      <a href="../index.php"   class="gnb-item">홈</a>
-      <a href="index.php"      class="gnb-item active">장기렌트</a>
-      <a href="../installment/" class="gnb-item">할부</a>
-      <a href="../used-car/"    class="gnb-item">중고차</a>
-      <a href="../lease/"       class="gnb-item">화물리스</a>
-      <a href="../shop/"        class="gnb-item">자동차용품</a>
-      <a href="../event/"       class="gnb-item">이벤트&amp;혜택</a>
-      <a href="../contact/"     class="gnb-item">고객센터</a>
-    </div>
-  </nav>
-  <div class="gnb-subnav">
-    <div class="gnb-subnav-inner">
-      <a href="index.php"   class="gnb-tab active">장기렌트 홈</a>
-      <a href="search.php"  class="gnb-tab">차량검색</a>
-      <a href="limited.php" class="gnb-tab quick">⚡ 빠른출고</a>
-      <a href="special.php" class="gnb-tab">특가차량</a>
-      <a href="#"            class="gnb-tab">마이</a>
-    </div>
-  </div>
-</header>
+<?php require __DIR__ . '/../includes/rental_header.php'; ?>
 
 <div class="page-backbar">
   <button class="back-btn" id="backBtn" onclick="history.length>1?history.back():(window.location.href='index.php')" aria-label="목록으로">

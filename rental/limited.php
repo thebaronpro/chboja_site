@@ -4,10 +4,10 @@
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>한정재고 특가차량 — CHABOZA</title>
 <script src="https://cdn.tailwindcss.com"></script>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Noto Sans KR',-apple-system,sans-serif;background:#fff;color:#0a0a0a}
+body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,sans-serif;background:#fff;color:#0a0a0a}
 a{text-decoration:none;color:inherit}
 .car-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1.5rem}
 .car-card{border:1px solid #e5e5e5;background:#fff;cursor:pointer;transition:box-shadow .2s,transform .2s}
@@ -135,7 +135,6 @@ require __DIR__ . '/../includes/rental_header.php';
 ?>
 <main style="max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 3rem">
   <div style="margin-bottom:1.75rem">
-    <p style="font-size:.72rem;font-weight:800;color:#dc2626;letter-spacing:.08em;margin-bottom:.45rem">— FAST DELIVERY</p>
     <h1 style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em">빠른출고 <span style="color:#dc2626">특가차량</span></h1>
     <p style="margin-top:.55rem;font-size:.95rem;color:#737373;font-weight:500">수량 한정 · 소진 시 종료</p>
   </div>

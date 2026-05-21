@@ -5,12 +5,12 @@
 <meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<title>장기렌트 — CHABOZA</title>
+<title>장기렌트 — RENT insight</title>
 <script src="https://cdn.tailwindcss.com"></script>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body { font-family: 'Noto Sans KR', -apple-system, sans-serif; background:#fff; color:#0a0a0a; padding-bottom:4rem; }
+body { font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif; background:#fff; color:#0a0a0a; padding-bottom:4rem; }
 a{text-decoration:none;color:inherit}
 
 /* Bottom nav */
@@ -171,10 +171,27 @@ a{text-decoration:none;color:inherit}
 }
 .mob-card-info { display: none; }
 .limited-grid article > .m-stock { display: none; }
+.limited-bg-name {
+  position: absolute; top: 21%; left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2.2rem; font-weight: 900; letter-spacing: -.05em;
+  color: rgba(0,0,0,.32); white-space: nowrap; pointer-events: none;
+  text-shadow: 0 1px 2px rgba(255,255,255,.4); font-family: inherit;
+  z-index: 1;
+  transition: font-size .45s cubic-bezier(.2,.7,.2,1), color .3s ease, text-shadow .3s ease, z-index 0s linear .45s;
+}
+.zoom-card:hover .limited-bg-name {
+  font-size: 2.6rem;
+  color: rgba(0,0,0,.7);
+  text-shadow: 0 1.5px 2px rgba(255,255,255,.6);
+  z-index: 5;
+  transition: font-size .45s cubic-bezier(.2,.7,.2,1), color .3s ease, text-shadow .3s ease, z-index 0s linear 0s;
+}
 @media (max-width: 768px) {
   .limited-grid article > div.mob-card-info { display: flex !important; }
   .limited-grid article > .m-stock { display: inline-flex !important; }
   .limited-grid article > div.desktop-bottom { display: none !important; }
+  .limited-bg-name { display: none !important; }
 
   /* SubCarousel 모바일: 상하좌우 여백 + 트랙 라운드 */
   #subcar-section { padding: 0 1rem 1rem !important; background: #fff; }
@@ -192,7 +209,7 @@ a{text-decoration:none;color:inherit}
 .car-drive-in { animation: carDriveIn 0.9s ease-out forwards; }
 
 .zoom-card { transition: transform 0.6s cubic-bezier(0.16,1,0.3,1), box-shadow 0.6s cubic-bezier(0.16,1,0.3,1); }
-.zoom-card:hover { transform: scale(1.05); z-index: 10; position: relative; box-shadow: 0 8px 32px rgba(0,0,0,.15); }
+.zoom-card:hover { transform: translateY(-6px); z-index: 10; position: relative; box-shadow: 0 12px 36px rgba(0,0,0,.16); }
 .zoom-card .zoom-img { transition: transform 0.6s cubic-bezier(0.16,1,0.3,1); transform: scale(1); object-fit: cover; }
 .zoom-card:hover .zoom-img { transform: scale(0.82); object-fit: contain; background: #fff; }
 
@@ -258,6 +275,11 @@ a{text-decoration:none;color:inherit}
 .popular-bignum{position:absolute;font-weight:900;user-select:none;line-height:1;font-size:11rem;letter-spacing:-.05em;right:-20%;top:50%;transform:translateY(-50%);white-space:nowrap;z-index:1;transition:all .4s}
 .popular-bignum.top3{color:rgba(220,38,38,1)}
 .popular-bignum.normal{color:rgba(0,0,0,1)}
+@media (max-width:768px) {
+  .popular-bignum{right:5% !important;font-size:13rem !important;z-index:1 !important}
+  .popular-bignum.top3{color:rgba(220,38,38,.18) !important}
+  .popular-bignum.normal{color:rgba(0,0,0,.13) !important}
+}
 @media (hover: hover) and (pointer: fine) {
   .popular-card:hover{transform:scale(1.1);box-shadow:0 12px 32px rgba(0,0,0,.18);z-index:10}
   .popular-card:hover .popular-bignum.top3{color:rgba(220,38,38,.5);z-index:20;right:-4%}
@@ -298,9 +320,23 @@ a{text-decoration:none;color:inherit}
 /* 모바일 카테고리 (캐러셀 아래 4개) */
 .mob-cat-row { display:none; }
 @media (max-width:768px) {
-  .mob-cat-row { display:grid; grid-template-columns:repeat(4,1fr); gap:.4rem; padding:0 1rem 1rem; background:#fff; }
-  .mob-cat-btn { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:.35rem; text-decoration:none; color:#0a0a0a; font-size:.75rem; font-weight:700; }
-  .mob-cat-btn img { width:62px; height:62px; object-fit:contain; pointer-events:none; }
+  .mob-cat-row { display:flex; gap:.7rem; padding:0 1rem 1rem; background:#fff; overflow-x:auto; -webkit-overflow-scrolling:touch; scrollbar-width:none; }
+  .mob-cat-row::-webkit-scrollbar { display:none; }
+  .mob-cat-btn { flex:0 0 auto; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:.4rem; text-decoration:none; color:#0a0a0a; font-size:.74rem; font-weight:700; min-width:5.2rem; white-space:nowrap; }
+  .mob-cat-btn img { width:68px; height:68px; object-fit:contain; pointer-events:none; }
+
+  /* 이번 주 특가: 모바일 1컬럼 가로 카드 */
+  #weekly-grid{grid-template-columns:1fr !important;gap:.6rem !important}
+  #weekly-grid article{display:flex !important;flex-direction:row !important;align-items:center !important;border-radius:14px !important;overflow:hidden !important;padding:0 !important;position:relative;cursor:pointer}
+  #weekly-grid article > div:first-child{order:2;width:48%;flex-shrink:0;padding:0}
+  #weekly-grid article > div:first-child img{height:5.2rem !important;width:100% !important;object-fit:contain !important;padding:.25rem .35rem !important}
+  #weekly-grid article > div:last-child{order:1;flex:1;padding:.85rem 1rem !important;min-width:0}
+  #weekly-grid article > div:last-child .car-badge{margin-bottom:.45rem !important;padding:.18rem .55rem !important;font-size:.65rem !important;border-radius:4px}
+  #weekly-grid article > div:last-child h3{font-size:.92rem !important;font-weight:800 !important;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  #weekly-grid article > div:last-child p:nth-of-type(1){font-size:1.05rem !important;font-weight:900 !important;margin-top:.15rem !important}
+  #weekly-grid article > div:last-child p:nth-of-type(2){font-size:.7rem !important;margin-top:.15rem !important;color:#737373 !important}
+  #weekly-grid article > div:last-child button{display:none !important}
+  #weekly-grid article::after{content:"›";position:absolute;right:.7rem;top:50%;transform:translateY(-50%);color:#a3a3a3;font-size:1.4rem;line-height:1;font-weight:600;pointer-events:none}
 }
 
 
@@ -342,11 +378,11 @@ require __DIR__ . '/../includes/rental_header.php';
 
     <!-- 우측: 2개 프로모션 카드 -->
     <div class="hero-promos">
-      <a href="limited.php" class="promo-card promo-orange">
-        <span class="promo-badge">한정 30대</span>
-        <h3>현대 그랜저</h3>
-        <p>월 237,000원~</p>
-        <img src="../cars/cdn_4188.png" alt="그랜저" onerror="this.style.opacity='.2'">
+      <a href="variants.php?name=<?= rawurlencode('테슬라 모델Y') ?>" class="promo-card promo-orange">
+        <span class="promo-badge">10대 한정</span>
+        <h3>모델Y 롱레인지 출시</h3>
+        <p>월 800,000원~</p>
+        <img src="../cars/cdn_4667.png" alt="테슬라 모델Y" onerror="this.style.opacity='.2'">
       </a>
       <a href="ev.php" class="promo-card promo-green">
         <span class="promo-badge">⚡ 전기차</span>
@@ -357,24 +393,28 @@ require __DIR__ . '/../includes/rental_header.php';
     </div>
   </div>
 
-  <!-- ============== 모바일 카테고리 (4개) ============== -->
+  <!-- ============== 모바일 카테고리 (가로 슬라이드) ============== -->
   <section class="mob-cat-row md:hidden">
-    <a href="search.php?type=suv" class="mob-cat-btn"><img src="sub/k_suv.png" alt=""><span>국산 SUV</span></a>
-    <a href="import.php" class="mob-cat-btn"><img src="sub/w_car.png" alt=""><span>수입차</span></a>
-    <a href="biz.php" class="mob-cat-btn"><img src="sub/busi_car.png" alt=""><span>법인렌트</span></a>
-    <a href="search.php?type=van" class="mob-cat-btn"><img src="sub/k_van.png" alt=""><span>승합</span></a>
+    <a href="direct.php" class="mob-cat-btn"><img src="sub/dt.png" alt=""><span>다이렉트</span></a>
+    <a href="search.php?type=국산세단" class="mob-cat-btn"><img src="sub/k_sed.png" alt=""><span>국산 세단</span></a>
+    <a href="search.php?type=국산SUV" class="mob-cat-btn"><img src="sub/k_suv.png" alt=""><span>국산 SUV</span></a>
+    <a href="biz.php" class="mob-cat-btn"><img src="sub/busi_car.png" alt=""><span>사업자혜택</span></a>
+    <a href="search.php?type=승합" class="mob-cat-btn"><img src="sub/k_van.png" alt=""><span>승합</span></a>
+    <a href="search.php?type=전기차" class="mob-cat-btn"><img src="sub/k_elec.png" alt=""><span>전기차</span></a>
+    <a href="search.php?type=하이브리드" class="mob-cat-btn"><img src="sub/k_hev.png" alt=""><span>하이브리드</span></a>
+    <a href="search.php?tab=수입차" class="mob-cat-btn"><img src="sub/w_car.png" alt=""><span>수입차</span></a>
   </section>
 
   <!-- ============== 카테고리 버튼 ============== -->
   <section class="cat-row">
-    <a href="search.php?type=sedan" class="cat-btn"><img src="sub/k_sed.png" alt=""><span>국산 세단</span></a>
-    <a href="search.php?type=suv" class="cat-btn"><img src="sub/k_suv.png" alt=""><span>국산 SUV</span></a>
-    <a href="search.php?type=van" class="cat-btn"><img src="sub/k_van.png" alt=""><span>승합</span></a>
-    <a href="ev.php" class="cat-btn"><img src="sub/k_elec.png" alt=""><span>전기차</span></a>
-    <a href="#" class="cat-btn"><img src="sub/k_hev.png" alt=""><span>하이브리드</span></a>
-    <a href="import.php" class="cat-btn"><img src="sub/w_car.png" alt=""><span>수입차</span></a>
-    <a href="biz.php" class="cat-btn"><img src="sub/busi_car.png" alt=""><span>법인렌트</span></a>
-    <a href="limited.php" class="cat-btn"><img src="sub/fast_car.png" alt=""><span>빠른출고</span></a>
+    <a href="direct.php" class="cat-btn"><img src="sub/dt.png" alt=""><span>다이렉트</span></a>
+    <a href="search.php?type=국산세단" class="cat-btn"><img src="sub/k_sed.png" alt=""><span>국산 세단</span></a>
+    <a href="search.php?type=국산SUV" class="cat-btn"><img src="sub/k_suv.png" alt=""><span>국산 SUV</span></a>
+    <a href="biz.php" class="cat-btn"><img src="sub/busi_car.png" alt=""><span>사업자혜택</span></a>
+    <a href="search.php?type=승합" class="cat-btn"><img src="sub/k_van.png" alt=""><span>승합</span></a>
+    <a href="search.php?type=전기차" class="cat-btn"><img src="sub/k_elec.png" alt=""><span>전기차</span></a>
+    <a href="search.php?type=하이브리드" class="cat-btn"><img src="sub/k_hev.png" alt=""><span>하이브리드</span></a>
+    <a href="search.php?tab=수입차" class="cat-btn"><img src="sub/w_car.png" alt=""><span>수입차</span></a>
   </section>
 
   <!-- ============== 모바일 빠른액션 (캐러셀 아래) ============== -->
@@ -415,7 +455,6 @@ require __DIR__ . '/../includes/rental_header.php';
   <!-- ============== 빠른출고 한정재고 ============== -->
   <section class="limited-section mx-auto max-w-7xl px-6" style="padding-top:1.5rem;padding-bottom:4rem" id="limited-section">
     <div class="limited-head" style="margin-bottom:2rem">
-      <p class="limited-eyebrow" style="font-size:.72rem;font-weight:800;color:#dc2626;letter-spacing:.08em;margin-bottom:.4rem">— FAST DELIVERY</p>
       <h2 class="limited-title text-3xl font-black" style="letter-spacing:-.02em"><span class="text-red-600">빠른출고</span> <span class="font-light text-neutral-900">한정재고</span></h2>
       <p class="limited-sub mt-1 text-sm font-semibold text-neutral-400">수량 한정 · 소진 시 종료</p>
       <p class="limited-sub-mob" style="display:none;font-size:.78rem;color:#737373;margin-top:.35rem">오늘 즉시 출고 가능한 차량만</p>
@@ -459,7 +498,6 @@ require __DIR__ . '/../includes/rental_header.php';
     <div class="mx-auto max-w-7xl px-6">
       <div class="mb-8 flex items-end justify-between">
         <div>
-          <p style="font-size:.72rem;font-weight:800;color:#dc2626;letter-spacing:.08em;margin-bottom:.4rem">— POPULAR</p>
           <h2 class="text-3xl font-black" style="letter-spacing:-.02em">인기 차량</h2>
           <p class="mt-1 text-sm font-semibold text-neutral-400">이번 달 가장 많이 선택한 차량</p>
         </div>
@@ -503,7 +541,6 @@ require __DIR__ . '/../includes/rental_header.php';
   <section class="mx-auto max-w-7xl px-6 py-16">
     <div class="mb-8 flex items-end justify-between gap-4">
       <div>
-        <p style="font-size:.72rem;font-weight:800;color:#dc2626;letter-spacing:.08em;margin-bottom:.4rem">— THIS WEEK</p>
         <h2 class="text-3xl font-black tracking-tight text-neutral-950" style="letter-spacing:-.02em">국산차 특가</h2>
         <p class="mt-1 text-sm font-semibold text-neutral-400">선납금 0원, 월 납입금 패키지 포함</p>
       </div>
@@ -513,24 +550,24 @@ require __DIR__ . '/../includes/rental_header.php';
   </section>
 
   <!-- ============== 상담 신청 ============== -->
-  <section class="bg-neutral-900 py-16 text-white">
+  <section class="py-16" style="background:linear-gradient(135deg,#eff6ff 0%,#dbeafe 100%)">
     <div class="mx-auto max-w-7xl px-6">
-      <h2 class="mb-3 text-4xl font-black whitespace-pre-line">장기렌트,
-아직 고민중이신가요?</h2>
-      <p class="mb-8 font-semibold text-neutral-400">전문 상담사가 최적 차량을 빠르게 안내해드립니다. 평일 09:00 - 18:00</p>
+      <h2 class="mb-3 text-4xl font-black whitespace-pre-line" style="color:#0a0a0a;letter-spacing:-.02em">장기렌트,
+아직 <span style="color:#2563eb">고민중</span>이신가요?</h2>
+      <p class="mb-8 font-semibold" style="color:#525252">전문 상담사가 최적 차량을 빠르게 안내해드립니다. 평일 09:00 - 18:00</p>
       <div class="grid grid-cols-1 gap-6 md:grid-cols-[1.3fr_.8fr] md:items-stretch">
-        <form id="rentalBottomForm" class="grid gap-4 bg-white p-8 md:grid-cols-2 content-start">
-          <input name="name"  class="border border-neutral-200 px-5 py-4 text-sm text-neutral-900" placeholder="성함을 입력해주세요">
-          <input name="phone" class="border border-neutral-200 px-5 py-4 text-sm text-neutral-900" placeholder="휴대폰 번호를 입력해주세요">
-          <input name="car"   class="border border-neutral-200 px-5 py-4 text-sm text-neutral-900 md:col-span-2" placeholder="관심 차량을 선택해주세요">
-          <button type="submit" class="bg-neutral-900 py-4 text-sm font-black text-white md:col-span-2">무료 상담 신청하기</button>
+        <form id="rentalBottomForm" class="grid gap-4 p-8 md:grid-cols-2 content-start" style="background:#fff;border-radius:16px;box-shadow:0 4px 20px rgba(37,99,235,.08)">
+          <input name="name"  class="px-5 py-4 text-sm" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="성함을 입력해주세요">
+          <input name="phone" class="px-5 py-4 text-sm" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="휴대폰 번호를 입력해주세요">
+          <input name="car"   class="px-5 py-4 text-sm md:col-span-2" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="관심 차량을 선택해주세요">
+          <button type="submit" class="py-4 text-sm font-black text-white md:col-span-2" style="background:linear-gradient(135deg,#3b82f6 0%,#2563eb 100%);border:none;border-radius:10px;cursor:pointer;box-shadow:0 4px 14px rgba(37,99,235,.25);transition:all .2s" onmouseover="this.style.boxShadow='0 6px 20px rgba(37,99,235,.4)';this.style.transform='translateY(-1px)'" onmouseout="this.style.boxShadow='0 4px 14px rgba(37,99,235,.25)';this.style.transform='translateY(0)'">무료 상담 신청하기</button>
           <div id="rentalBottomMsg" class="md:col-span-2 text-sm font-bold" style="display:none"></div>
         </form>
-        <div class="bg-neutral-700 p-10 flex flex-col justify-center">
-          <p class="mb-5 text-lg font-bold text-white">전화 상담</p>
-          <p class="mb-2 text-5xl font-black text-white">1661-3583</p>
-          <p class="mb-8 text-sm text-neutral-300">평일 09:00 ~ 18:00 (주말·공휴일 휴무)</p>
-          <button class="bg-neutral-400 px-10 py-4 text-sm font-bold text-white"><span aria-hidden="true" class="inline-flex items-center justify-center leading-none mr-2" style="width:16px;height:16px;font-size:16px">●</span>카카오 상담</button>
+        <div class="p-10 flex flex-col justify-center" style="background:#fff;border-radius:16px;box-shadow:0 4px 20px rgba(37,99,235,.08)">
+          <p class="mb-5 text-lg font-bold" style="color:#2563eb">전화 상담</p>
+          <p class="mb-2 text-5xl font-black" style="color:#0a0a0a;letter-spacing:-.02em">1661-3583</p>
+          <p class="mb-8 text-sm" style="color:#737373">평일 09:00 ~ 18:00 (주말·공휴일 휴무)</p>
+          <button class="px-10 py-4 text-sm font-bold" style="background:#FEE500;color:#191919;border:none;border-radius:10px;cursor:pointer;transition:background .15s" onmouseover="this.style.background='#f0d800'" onmouseout="this.style.background='#FEE500'"><span aria-hidden="true" class="inline-flex items-center justify-center leading-none mr-2" style="width:16px;height:16px;font-size:16px">●</span>카카오 상담</button>
         </div>
       </div>
     </div>
@@ -972,9 +1009,9 @@ function renderLimitedCards() {
   let html = list.map(car => `
     <article class="border border-neutral-200 bg-white overflow-hidden zoom-card" style="cursor:pointer;position:relative;border-radius:14px" onclick="location.href='variants.php?name=${encodeURIComponent(car.name)}'">
       <div class="limited-img-wrap" style="position:relative;background:${getLimitedBg(car.name)};height:200px;overflow:hidden">
-        <img src="${car.image}" alt="${car.name}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain" onerror="this.style.opacity='.2'">
+        <span class="limited-bg-name">${car.name}</span>
+        <img src="${car.image}" alt="${car.name}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;z-index:2" onerror="this.style.opacity='.2'">
       </div>
-      <div class="limited-name-row" style="padding:.9rem 1rem .25rem;font-size:1.05rem;font-weight:900;color:#0a0a0a;letter-spacing:-.01em">${car.name}</div>
       ${car.colors ? `
       <div class="limited-trim-info px-4 pt-1 pb-1">
         ${car.tagline ? `<div style="display:inline-flex;align-items:center;gap:.3rem;background:#fef2f2;color:#dc2626;font-size:.65rem;font-weight:800;padding:.18rem .5rem;border-radius:4px;margin-bottom:.4rem;letter-spacing:-.01em">${car.tagline}</div>` : ''}
@@ -982,7 +1019,6 @@ function renderLimitedCards() {
         <div style="display:flex;flex-wrap:wrap;gap:.25rem;margin-bottom:.4rem;min-height:4.6rem;align-content:flex-start;overflow:hidden">
           ${car.colors.map(c => { const cc = getColorChip(c); const lt = cc.bg === '#ffffff' ? 'border:1px solid #d4d4d4;' : ''; return `<span style="font-size:.65rem;color:#404040;display:inline-flex;align-items:center;gap:.3rem;white-space:nowrap;padding:.1rem .15rem"><span style="display:inline-block;width:.6rem;height:.6rem;border-radius:50%;background:${cc.bg};${lt}flex-shrink:0"></span>${c}</span>`; }).join('')}
         </div>
-        ${car.rating ? `<div style="display:flex;align-items:center;gap:.3rem;font-size:.7rem;color:#737373;margin-bottom:.3rem"><span style="color:#fbbf24">★</span><span style="color:#0a0a0a;font-weight:700">${car.rating}</span><span>(${car.reviews ? car.reviews.toLocaleString() : 0}건)</span></div>` : ''}
         <p style="font-size:.85rem;font-weight:700;color:#0a0a0a">${car.carPrice}</p>
       </div>` : ''}
       <div class="p-4 desktop-bottom" style="display:flex;justify-content:space-between;align-items:center">
@@ -996,7 +1032,7 @@ function renderLimitedCards() {
       <span class="m-stock">${car.stock}대</span>
     </article>
   `).join('');
-  html += `<a href="limited.php" style="grid-column:1 / -1;display:flex;align-items:center;justify-content:center;gap:.5rem;padding:.9rem;border:1px solid #0a0a0a;background:#0a0a0a;text-decoration:none;font-weight:700;font-size:.875rem;color:#fff;transition:all .15s" onmouseenter="this.style.background='#262626'" onmouseleave="this.style.background='#0a0a0a'">빠른출고 차량 전체보기 →</a>`;
+  html += `<a href="limited.php" style="grid-column:1 / -1;display:flex;align-items:center;justify-content:center;gap:.5rem;padding:.95rem;border:1px solid #0a0a0a;background:#0a0a0a;text-decoration:none;font-weight:700;font-size:.875rem;color:#fff;transition:background .15s;border-radius:12px" onmouseenter="this.style.background='#262626'" onmouseleave="this.style.background='#0a0a0a'">빠른출고 차량 전체보기 →</a>`;
   grid.innerHTML = html;
 }
 
@@ -1384,6 +1420,79 @@ renderMobCats();
 adjustLimitedPadding();
 renderPopular();
 renderWeekly();
+
+/* ===================== 모바일 카테고리: 자동 사이클 + 스크롤 연동 ===================== */
+(function setupMobCatHint(){
+  if (window.innerWidth > 768) return;
+  const row = document.querySelector('.mob-cat-row');
+  if (!row) return;
+
+  const MAX_OFFSET    = 95;
+  const TRIGGER_RANGE = 400;
+
+  let userInteracted = false;
+  let autoRunning    = false;
+  ['touchstart','pointerdown','wheel'].forEach(ev =>
+    row.addEventListener(ev, () => { userInteracted = true; }, { once:true, passive:true })
+  );
+
+  function easeInOutCubic(t){
+    return t < 0.5 ? 4*t*t*t : 1 - Math.pow(-2*t + 2, 3) / 2;
+  }
+
+  function runAutoCycle(){
+    autoRunning = true;
+    const outDur  = 850;
+    const holdDur = 380;
+    const backDur = 800;
+
+    return new Promise(resolve => {
+      const t0 = performance.now();
+      function phaseOut(now){
+        if (userInteracted) { autoRunning = false; resolve(); return; }
+        const t = Math.min((now - t0) / outDur, 1);
+        row.scrollLeft = MAX_OFFSET * easeInOutCubic(t);
+        if (t < 1) requestAnimationFrame(phaseOut);
+        else setTimeout(() => requestAnimationFrame(phaseBack), holdDur);
+      }
+      let t1 = 0;
+      function phaseBack(now){
+        if (userInteracted) { autoRunning = false; resolve(); return; }
+        if (!t1) t1 = now;
+        const t = Math.min((now - t1) / backDur, 1);
+        row.scrollLeft = MAX_OFFSET * (1 - easeInOutCubic(t));
+        if (t < 1) requestAnimationFrame(phaseBack);
+        else { row.scrollLeft = 0; autoRunning = false; resolve(); }
+      }
+      requestAnimationFrame(phaseOut);
+    });
+  }
+
+  let rafId = null;
+  let lastY = -1;
+  function scrollLinkedLoop(){
+    if (userInteracted || autoRunning) { rafId = null; return; }
+    const y = window.scrollY || window.pageYOffset || 0;
+    if (y !== lastY) {
+      lastY = y;
+      const ratio = Math.max(0, Math.min(y / TRIGGER_RANGE, 1));
+      const eased = 1 - Math.pow(1 - ratio, 4);
+      row.scrollLeft = MAX_OFFSET * eased;
+    }
+    rafId = requestAnimationFrame(scrollLinkedLoop);
+  }
+
+  setTimeout(() => {
+    runAutoCycle().then(() => {
+      if (!userInteracted && rafId == null) {
+        rafId = requestAnimationFrame(scrollLinkedLoop);
+        window.addEventListener('scroll', () => {
+          if (rafId == null && !userInteracted) rafId = requestAnimationFrame(scrollLinkedLoop);
+        }, { passive: true });
+      }
+    });
+  }, 600);
+})();
 </script>
 
 </body>
