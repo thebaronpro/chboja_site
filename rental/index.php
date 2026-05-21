@@ -291,8 +291,11 @@ a{text-decoration:none;color:inherit}
 .popular-info p:last-child{margin-top:.25rem;font-size:1rem;font-weight:900;color:#0a0a0a}
 
 /* Sub-carousel base */
-.subcar-card-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.subcar-card-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;image-rendering:high-quality;image-rendering:-webkit-optimize-contrast;backface-visibility:hidden;-webkit-backface-visibility:hidden;transform:translateZ(0);-webkit-transform:translateZ(0)}
 @media (max-width:768px) { .subcar-card-img { object-position: right center; } }
+.subcar-slide { border-radius: 16px !important; overflow: hidden !important; -webkit-mask-image: -webkit-radial-gradient(white, black); box-shadow: 0 0 0 1px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.06); }
+.subcar-slide > img.subcar-card-img { border-radius: 16px !important; }
+.subcar-slide > div { border-radius: inherit; }
 .subcar-card-overlay{display:none}
 
 /* Desktop carousel: 1280px wide, 4:1 ratio */
@@ -1214,7 +1217,8 @@ function renderSubCarousel() {
     const cardH = containerH;
 
     let inner = '';
-    if (banner.image) inner += `<img src="${banner.image}" alt="${banner.label}" class="subcar-card-img">`;
+    const imgSrc = (mob && banner.mobImage) ? banner.mobImage : banner.image;
+    if (imgSrc) inner += `<img src="${imgSrc}" alt="${banner.label}" class="subcar-card-img">`;
     inner += `<div class="subcar-card-overlay"></div>`;
 
     const titleEsc = banner.title.replace(/'/g, "\\'");
@@ -1243,7 +1247,7 @@ function renderSubCarousel() {
         </div>`;
     }
 
-    return `<div onclick="subCardClick(${index},${isActive ? 'true' : 'false'},'${banner.target}')" class="absolute text-left" aria-label="${banner.label}" style="position:absolute;top:${cardTop};left:${cardLeft};width:${cardW};height:${cardH}px;border-radius:${mob?0:'8px'};transform:${transform};z-index:${isActive?20:10};opacity:${!visible?0:(!mob&&!isActive)?0.75:1};pointer-events:${visible?'auto':'none'};filter:${(!mob&&!isActive)?'saturate(0.6)':'none'};transition:${isJumping?'none':mob?'transform 0.42s cubic-bezier(0.4,0,0.2,1)':'all 0.6s ease-out'};overflow:hidden;cursor:pointer">${inner}</div>`;
+    return `<div onclick="subCardClick(${index},${isActive ? 'true' : 'false'},'${banner.target}')" class="subcar-slide absolute text-left" aria-label="${banner.label}" style="position:absolute;top:${cardTop};left:${cardLeft};width:${cardW};height:${cardH}px;border-radius:16px;overflow:hidden;transform:${transform};z-index:${isActive?20:10};opacity:${!visible?0:(!mob&&!isActive)?0.75:1};pointer-events:${visible?'auto':'none'};filter:${(!mob&&!isActive)?'saturate(0.6)':'none'};transition:${isJumping?'none':mob?'transform 0.42s cubic-bezier(0.4,0,0.2,1)':'all 0.6s ease-out'};cursor:pointer">${inner}</div>`;
   }).join('');
 
   if (!mob) {

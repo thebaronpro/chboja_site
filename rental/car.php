@@ -56,15 +56,39 @@ a{text-decoration:none;color:inherit}
 .car-hero{background:#fff;padding:1.5rem 2rem 2rem;margin-bottom:1.5rem;border-radius:1rem}
 
 .rental-options{padding:1.5rem 1.25rem;background:#fff;margin-bottom:1.5rem;border-radius:1rem;border:1px solid #f0f0f0}
+
+/* ===== 아코디언 (모바일 전용) ===== */
+.acc-block{margin-bottom:.75rem}
+.acc-header{display:none;width:100%;background:#fff;border:1px solid #f0f0f0;border-radius:1rem;padding:1.05rem 1.25rem;font-family:inherit;font-size:1.02rem;font-weight:800;color:#0a0a0a;letter-spacing:-.01em;cursor:pointer;text-align:left;align-items:center;justify-content:space-between;gap:.6rem;transition:border-color .15s}
+.acc-header:hover{border-color:#d4d4d4}
+.acc-header-title{flex:1;min-width:0;display:flex;align-items:center;gap:.5rem}
+.acc-chevron{width:1rem;height:1rem;flex-shrink:0;transition:transform .25s ease;color:#737373}
+.acc-block.open .acc-chevron{transform:rotate(180deg)}
+.acc-body{transition:max-height .3s ease}
+
+@media(max-width:768px){
+  .acc-header{display:flex}
+  .acc-block{margin-bottom:.65rem}
+  .acc-block:not(.open) > .acc-body{display:none}
+  .acc-block.open > .acc-header{border-bottom-left-radius:0;border-bottom-right-radius:0;border-bottom:none;margin-bottom:0}
+  .acc-block.open > .acc-body > .section,
+  .acc-block.open > .acc-body > .color-section,
+  .acc-block.open > .acc-body > .rental-options{border-top-left-radius:0;border-top-right-radius:0;margin-bottom:0;border-top:none}
+}
 .rental-row{padding:1.1rem 0;border-bottom:1px solid #f0f0f0}
 .rental-row:first-child{padding-top:.25rem}
 .rental-row:last-child{border-bottom:none;padding-bottom:.25rem}
 .rental-label{font-size:1rem;font-weight:800;color:#171717;margin-bottom:.7rem;display:flex;align-items:center;gap:.4rem;letter-spacing:-.01em}
 .rental-label-desc{font-size:.72rem;font-weight:400;color:#a3a3a3;font-weight:500}
+.rental-help{display:inline-flex;align-items:center;justify-content:center;width:1.15rem;height:1.15rem;border-radius:50%;background:#e5e5e5;color:#525252;font-size:.72rem;font-weight:800;border:none;cursor:pointer;font-family:inherit;line-height:1;padding:0;transition:background .15s;flex-shrink:0}
+.rental-help:hover{background:#d4d4d4;color:#0a0a0a}
+.rental-tip{position:absolute;background:#1c1917;color:#fff;padding:.6rem .8rem;border-radius:.5rem;font-size:.78rem;font-weight:500;max-width:260px;line-height:1.45;z-index:999;box-shadow:0 6px 18px rgba(0,0,0,.25);letter-spacing:-.01em;animation:tipFade .15s ease-out}
+.rental-tip::after{content:'';position:absolute;bottom:100%;left:.85rem;border:6px solid transparent;border-bottom-color:#1c1917}
+@keyframes tipFade{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
 .rental-btns{display:flex;flex-direction:row;gap:.5rem;flex-wrap:wrap}
 .rental-btn{flex:1;min-width:0;padding:.8rem .25rem;border:1px solid transparent;background:#f3f4f6;font-size:.88rem;font-weight:600;color:#525252;cursor:pointer;border-radius:.65rem;transition:all .15s;font-family:inherit;text-align:center;line-height:1.2}
 .rental-btn:hover{background:#e5e7eb;color:#0a0a0a}
-.rental-btn.selected{border-color:#171717;background:#fff;color:#0a0a0a;font-weight:800;border-width:2px;padding:calc(.8rem - 1px) .25rem}
+.rental-btn.selected{border-color:#dc2626;background:#fff;color:#0a0a0a;font-weight:800;border-width:2px;padding:calc(.8rem - 1px) .25rem}
 .car-image{width:100%;max-width:600px;margin:0 auto;display:block}
 .car-info-row{display:flex;align-items:center;justify-content:space-between;margin-top:1.25rem;padding-top:1.25rem;border-top:2px solid #0a0a0a;gap:1rem}
 .car-title{font-size:1.4rem;font-weight:900;position:relative}
@@ -102,7 +126,7 @@ a{text-decoration:none;color:inherit}
 }
 
 /* 선택 요약 패널 (차량 사진 아래 컴팩트 박스) */
-.sel-summary{background:#fafafa;border:1px solid #f0f0f0;border-radius:.7rem;padding:.7rem .9rem;margin-top:1rem;font-size:.78rem}
+.sel-summary{position:fixed;right:1.5rem;top:7rem;width:17rem;max-height:calc(100vh - 10rem);overflow-y:auto;z-index:90;background:#fff;border:1px solid #f0f0f0;border-radius:14px;padding:1rem 1.1rem;font-size:.78rem;box-shadow:0 10px 32px rgba(0,0,0,.12),0 1px 4px rgba(0,0,0,.06)}
 .sel-summary-title{font-size:.78rem;font-weight:800;color:#0a0a0a;letter-spacing:-.01em;margin-bottom:.45rem}
 .sel-summary-rows{display:flex;flex-direction:column;gap:.15rem}
 .sel-summary-row{display:flex;align-items:flex-start;gap:.5rem;font-size:.76rem;padding:.22rem 0;border-bottom:1px dashed #ececec}
@@ -119,6 +143,34 @@ a{text-decoration:none;color:inherit}
 @media (max-width: 768px) {
   .sel-summary { display: none !important; }
   .hero-color-name { display: none !important; }
+  .hero-colors { display: none !important; }
+  /* car-hero: 이미지 좌측 / 차량명+가격 우측 */
+  .car-hero:not([style*="display: none"]):not([style*="display:none"]) {
+    display: grid !important;
+    grid-template-columns: 130px 1fr !important;
+    gap: 1rem !important;
+    align-items: center !important;
+    padding: 1rem 1.25rem !important;
+    margin-bottom: 1rem !important;
+  }
+  .car-hero > img.car-image {
+    width: 100% !important;
+    max-width: 130px !important;
+    height: auto !important;
+    object-fit: contain !important;
+    margin: 0 !important;
+  }
+  .car-hero > .car-info-row {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    border-top: none !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: .5rem !important;
+  }
+  .car-hero > .car-info-row .car-price-wrap {
+    text-align: left !important;
+  }
 }
 .hero-swatch.two-tone{background:linear-gradient(135deg,var(--c1) 50%,var(--c2) 50%)}
 .car-brand{display:none}
@@ -213,11 +265,11 @@ a{text-decoration:none;color:inherit}
 .options-panel{margin-top:.5rem;padding-left:1.5rem;animation:slideDown .2s ease}
 .options-title{font-size:.85rem;font-weight:700;color:#4f46e5;margin-bottom:.5rem}
 .options-box{display:flex;flex-direction:column;gap:.5rem}
-.option-item{border:2px solid #e0e7ff;border-radius:.75rem;padding:.85rem 1rem;cursor:pointer;transition:all .2s;background:#eef2ff;position:relative;padding-left:2.75rem}
+.option-item{border:2px solid #e5e5e5;border-radius:.75rem;padding:.85rem 1rem;cursor:pointer;transition:all .2s;background:#f5f5f5;position:relative;padding-left:2.75rem}
 .option-item.standard{cursor:default;opacity:.6}
-.option-item:hover:not(.standard){background:#e0e7ff}
-.option-item.selected{background:#c7d2fe!important;border-color:#0a0a0a!important}
-.option-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#0a0a0a;font-weight:900;font-size:1.1rem}
+.option-item:hover:not(.standard){background:#ececec}
+.option-item.selected{background:#fff!important;border-color:#dc2626!important}
+.option-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#dc2626;font-weight:900;font-size:1.1rem}
 .option-name{font-size:.85rem;font-weight:400;color:#0a0a0a}
 .option-desc{font-size:.8rem;color:#737373;margin-top:.25rem}
 @keyframes slideDown{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:translateY(0)}}
@@ -227,9 +279,10 @@ a{text-decoration:none;color:inherit}
 .color-group:last-child{margin-bottom:0}
 .color-group-title{font-size:1rem;font-weight:700;color:#0a0a0a;margin-bottom:.85rem}
 .color-list{display:flex;flex-direction:column;gap:.4rem}
-.color-item{border:2px solid #e5e5e5;border-radius:.75rem;padding:.75rem 1rem .75rem 1rem;cursor:pointer;transition:all .2s;background:#f5f5f5;display:flex;align-items:center;gap:.85rem}
+.color-item{border:2px solid #e5e5e5;border-radius:.75rem;padding:.75rem 1rem .75rem 2.75rem;cursor:pointer;transition:all .2s;background:#f5f5f5;display:flex;align-items:center;gap:.85rem;position:relative}
 .color-item:hover{background:#ececec}
 .color-item.selected{border-color:#dc2626;background:#fff}
+.color-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#dc2626;font-weight:900;font-size:1.1rem}
 .color-swatch{width:28px;height:28px;border-radius:50%;border:2px solid rgba(0,0,0,.08);flex-shrink:0}
 .color-swatch.two-tone{background:linear-gradient(135deg,var(--c1) 50%,var(--c2) 50%)}
 .color-name{font-size:.85rem;font-weight:400;color:#0a0a0a}
@@ -508,22 +561,34 @@ a{text-decoration:none;color:inherit}
       </div><!-- /lim-body -->
     </div>
 
-    <!-- 트림 선택 (일반 검색 차량용) -->
-    <div class="section" id="modelContainer"></div>
-
-    <!-- 색상 선택 (일반 검색 차량용) -->
-    <div class="color-section" id="colorSection" style="display:none">
-      <div class="color-group" id="exteriorColorGroup">
-        <div class="color-group-title">외장 색상</div>
-        <div class="color-list" id="exteriorColorList"></div>
-      </div>
-      <div class="color-group" id="interiorColorGroup" style="display:none">
-        <div class="color-group-title">내장 색상</div>
-        <div class="color-list" id="interiorColorList"></div>
+    <!-- 트림 선택 + 색상 선택 통합 아코디언 (모바일 전용 접힘) -->
+    <div class="acc-block" data-acc="trim">
+      <button class="acc-header" type="button" onclick="toggleAcc(this)">
+        <span class="acc-header-title">세부모델·트림·색상 선택</span>
+        <svg class="acc-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <div class="acc-body">
+        <div class="section" id="modelContainer"></div>
+        <div class="color-section" id="colorSection" style="display:none">
+          <div class="color-group" id="exteriorColorGroup">
+            <div class="color-group-title">외장 색상</div>
+            <div class="color-list" id="exteriorColorList"></div>
+          </div>
+          <div class="color-group" id="interiorColorGroup" style="display:none">
+            <div class="color-group-title">내장 색상</div>
+            <div class="color-list" id="interiorColorList"></div>
+          </div>
+        </div>
       </div>
     </div>
 
-    <!-- 렌탈 조건 -->
+    <!-- 렌탈 조건 아코디언 -->
+    <div class="acc-block open" data-acc="rental">
+      <button class="acc-header" type="button" onclick="toggleAcc(this)">
+        <span class="acc-header-title">렌탈 조건</span>
+        <svg class="acc-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <div class="acc-body">
     <div class="rental-options">
       <div class="rental-row">
         <div class="rental-label">이용기간</div>
@@ -534,7 +599,7 @@ a{text-decoration:none;color:inherit}
         </div>
       </div>
       <div class="rental-row" id="mileageRow">
-        <div class="rental-label">연간 약정 주행거리 <span class="rental-label-desc">계약 만료 후, 총 누적거리 기준 km당 추가 비용 발생</span></div>
+        <div class="rental-label">연간 약정 주행거리<button class="rental-help" type="button" data-tip="계약 만료 후, 총 누적거리 기준 km당 추가 비용 발생" aria-label="설명 보기">?</button></div>
         <div class="rental-btns" data-group="mileage">
           <button class="rental-btn" data-value="10000">1만km</button>
           <button class="rental-btn selected" data-value="20000">2만km</button>
@@ -544,7 +609,7 @@ a{text-decoration:none;color:inherit}
         </div>
       </div>
       <div class="rental-row" id="prepayRow">
-        <div class="rental-label">선납금 <span class="rental-label-desc">미리 납부해 월 렌트료를 낮추는 금액</span></div>
+        <div class="rental-label">선납금<button class="rental-help" type="button" data-tip="미리 납부해 월 렌트료를 낮추는 금액" aria-label="설명 보기">?</button></div>
         <div class="rental-btns" data-group="prepay">
           <button class="rental-btn selected" data-value="0">없음</button>
           <button class="rental-btn" data-value="10">10%</button>
@@ -553,7 +618,7 @@ a{text-decoration:none;color:inherit}
         </div>
       </div>
       <div class="rental-row">
-        <div class="rental-label">보증금 <span class="rental-label-desc">계약 시 맡기고 만기 후 돌려받는 금액(보증금 이자 만큼 일부 할인)</span></div>
+        <div class="rental-label">보증금<button class="rental-help" type="button" data-tip="계약 시 맡기고 만기 후 돌려받는 금액 (보증금 이자만큼 일부 할인)" aria-label="설명 보기">?</button></div>
         <div class="rental-btns" data-group="deposit">
           <button class="rental-btn selected" data-value="0">없음</button>
           <button class="rental-btn" data-value="10">10%</button>
@@ -562,6 +627,8 @@ a{text-decoration:none;color:inherit}
         </div>
       </div>
     </div>
+      </div><!-- /acc-body 렌탈 -->
+    </div><!-- /acc-block 렌탈 -->
   </div>
 
   <!-- CTA -->
@@ -1154,7 +1221,9 @@ function parseOptionPrice(label){
 }
 
 function updateSelectionSummary(){
-  // 모바일에서는 선택 요약/가격 동적 갱신 비활성 (원래 디자인 유지)
+  // 월 기본료는 데스크탑/모바일 공통 갱신
+  if (typeof updateCarMonthly === 'function') updateCarMonthly();
+  // 모바일에서는 선택 요약 패널 갱신 비활성 (원래 디자인 유지)
   if (window.matchMedia && window.matchMedia('(max-width: 768px)').matches) return;
   const wrap = document.getElementById('selSummary');
   const rowsEl = document.getElementById('selSummaryRows');
@@ -1365,6 +1434,41 @@ function submitQuote() {
   showQuoteModal(rows);
 }
 
+// 아코디언 토글 (모바일 전용)
+function toggleAcc(btn) {
+  const block = btn.closest('.acc-block');
+  if (block) block.classList.toggle('open');
+}
+
+// 일반 차량 월 기본료 자동 계산
+function updateCarMonthly() {
+  if (typeof isLimited !== 'undefined' && isLimited) return;
+  const ctaEl = document.getElementById('ctaPriceValue');
+  if (!ctaEl) return;
+  if (typeof selectedTrim === 'undefined' || !selectedTrim) { ctaEl.textContent = '-'; return; }
+  const basePriceWon = selectedTrim.base_price || 0;
+  let optTotalManwon = 0;
+  (selectedOptions||[]).forEach(idx => {
+    const opt = selectedTrim.option_packages?.[idx];
+    if (!opt) return;
+    const m = opt.match(/\(([\d,]+)\s*만원\)/);
+    if (m) optTotalManwon += parseInt(m[1].replace(/,/g,''), 10) || 0;
+  });
+  const vehicleWon = basePriceWon + optTotalManwon * 10000;
+  const depositPct = parseInt(document.querySelector('.rental-btns[data-group="deposit"] .rental-btn.selected')?.dataset.value || '0');
+  const periodVal  = document.querySelector('.rental-btns[data-group="period"] .rental-btn.selected')?.dataset.value || '48';
+  const mileageVal = document.querySelector('.rental-btns[data-group="mileage"] .rental-btn.selected')?.dataset.value || '20000';
+  const prepayVal  = document.querySelector('.rental-btns[data-group="prepay"] .rental-btn.selected')?.dataset.value || '0';
+  const price0  = Math.round(vehicleWon * 0.0145);
+  const price30 = Math.round(vehicleWon * 0.0109);
+  let monthly = price0 - (price0 - price30) * (depositPct / 30);
+  const PERIOD_MULT  = { '36':1.08, '48':1.00, '60':0.93 };
+  const MILEAGE_MULT = { '10000':0.95, '20000':1.00, '30000':1.05, '40000':1.10, 'unlimited':1.18 };
+  const PREPAY_MULT  = { '0':1.00, '10':0.95, '20':0.90, '30':0.85 };
+  monthly = Math.round(monthly * (PERIOD_MULT[periodVal]||1) * (MILEAGE_MULT[mileageVal]||1) * (PREPAY_MULT[prepayVal]||1));
+  ctaEl.textContent = monthly.toLocaleString() + '원';
+}
+
 // 렌탈 옵션 버튼 클릭
 document.querySelectorAll('.rental-btns').forEach(group => {
   group.addEventListener('click', e => {
@@ -1372,7 +1476,34 @@ document.querySelectorAll('.rental-btns').forEach(group => {
     if (!btn) return;
     group.querySelectorAll('.rental-btn').forEach(b => b.classList.remove('selected'));
     btn.classList.add('selected');
+    updateCarMonthly();
   });
+});
+
+// 도움말 툴팁 토글
+let activeTip = null;
+document.addEventListener('click', e => {
+  const btn = e.target.closest('.rental-help');
+  if (activeTip) {
+    activeTip.remove();
+    activeTip = null;
+    if (!btn) return;
+  }
+  if (!btn) return;
+  e.stopPropagation();
+  const tip = document.createElement('div');
+  tip.className = 'rental-tip';
+  tip.textContent = btn.dataset.tip || '';
+  document.body.appendChild(tip);
+  const rect = btn.getBoundingClientRect();
+  const tipRect = tip.getBoundingClientRect();
+  let left = rect.left + window.scrollX - 8;
+  const maxLeft = window.innerWidth - tipRect.width - 12;
+  if (left > maxLeft) left = maxLeft;
+  if (left < 8) left = 8;
+  tip.style.top = (rect.bottom + window.scrollY + 8) + 'px';
+  tip.style.left = left + 'px';
+  activeTip = tip;
 });
 
 </script>
