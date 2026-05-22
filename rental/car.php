@@ -226,8 +226,8 @@ a{text-decoration:none;color:inherit}
 .lim-row-value{color:#0a0a0a;font-weight:800;font-size:1rem}
 .lim-row-stack{align-items:center;flex-direction:row;justify-content:space-between;gap:.75rem;padding-top:.3rem}
 .lim-price-col{display:flex;flex-direction:column;align-items:flex-end;gap:.25rem}
-.lim-discount-badge{display:inline-flex;align-items:center;gap:.25rem;background:#eff6ff;color:#1d4ed8;font-size:.72rem;font-weight:800;padding:.22rem .55rem;border-radius:999px;line-height:1}
-.lim-discount-badge::before{content:"✦";color:#1d4ed8}
+.lim-discount-badge{display:inline-flex;align-items:center;gap:.25rem;background:#DEE7FB;color:#1E4FCC;font-size:.72rem;font-weight:800;padding:.22rem .55rem;border-radius:999px;line-height:1}
+.lim-discount-badge::before{content:"✦";color:#1E4FCC}
 .lim-price-orig{color:#a3a3a3;text-decoration:line-through;font-size:.88rem;font-weight:600}
 .lim-price-final{color:#0a0a0a;font-weight:900;font-size:1.15rem;letter-spacing:-.01em}
 

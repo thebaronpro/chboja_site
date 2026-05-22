@@ -480,14 +480,14 @@ require __DIR__ . '/../includes/rental_header.php';
         <p class="text-sm text-neutral-400">오늘 차량재고만 · 선착순 마감</p>
       </div>
       <div class="flex justify-center gap-5 text-center">
-        <div class="bg-neutral-700 px-8 py-5"><p class="text-4xl font-black" id="cd-h">00</p><p class="text-xs text-neutral-400">시간</p></div>
-        <div class="bg-neutral-700 px-8 py-5"><p class="text-4xl font-black" id="cd-m">00</p><p class="text-xs text-neutral-400">분</p></div>
-        <div class="bg-neutral-700 px-8 py-5"><p class="text-4xl font-black" id="cd-s">00</p><p class="text-xs text-neutral-400">초</p></div>
+        <div class="bg-neutral-700 py-5 flex flex-col items-center justify-center" style="width:6.5rem"><p class="text-4xl font-black font-mono" id="cd-h" style="font-variant-numeric:tabular-nums;letter-spacing:.02em">00</p><p class="text-xs text-neutral-400">시간</p></div>
+        <div class="bg-neutral-700 py-5 flex flex-col items-center justify-center" style="width:6.5rem"><p class="text-4xl font-black font-mono" id="cd-m" style="font-variant-numeric:tabular-nums;letter-spacing:.02em">00</p><p class="text-xs text-neutral-400">분</p></div>
+        <div class="bg-neutral-700 py-5 flex flex-col items-center justify-center" style="width:6.5rem"><p class="text-4xl font-black font-mono" id="cd-s" style="font-variant-numeric:tabular-nums;letter-spacing:.02em">00</p><p class="text-xs text-neutral-400">초</p></div>
       </div>
       <div>
         <p class="font-black">현대 캐스퍼 일렉트릭</p>
         <p class="text-sm text-neutral-400">월 380,000원~ · 선납금 0원</p>
-        <button class="td-orig-btn mt-4 inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition bg-red-600 text-white" onmouseenter="this.style.boxShadow='inset 0 0 0 2px #fff'" onmouseleave="this.style.boxShadow='none'">지금 혜택 신청</button>
+        <button class="td-orig-btn mt-4 inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition text-white" style="background:#2858E0" onmouseenter="this.style.background='#1E4FCC'" onmouseleave="this.style.background='#2858E0'">지금 혜택 신청</button>
       </div>
       <div class="td-img relative h-48 overflow-visible">
         <img id="td-car" src="casper.png" alt="현대 캐스퍼 일렉트릭" class="absolute top-1/2 object-contain drop-shadow-2xl opacity-0" style="height:104px;right:0">
@@ -563,7 +563,7 @@ require __DIR__ . '/../includes/rental_header.php';
           <input name="name"  class="px-5 py-4 text-sm" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="성함을 입력해주세요">
           <input name="phone" class="px-5 py-4 text-sm" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="휴대폰 번호를 입력해주세요">
           <input name="car"   class="px-5 py-4 text-sm md:col-span-2" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="관심 차량을 선택해주세요">
-          <button type="submit" class="py-4 text-sm font-black text-white md:col-span-2" style="background:linear-gradient(135deg,#3b82f6 0%,#2858E0 100%);border:none;border-radius:10px;cursor:pointer;box-shadow:0 4px 14px rgba(37,99,235,.25);transition:all .2s" onmouseover="this.style.boxShadow='0 6px 20px rgba(37,99,235,.4)';this.style.transform='translateY(-1px)'" onmouseout="this.style.boxShadow='0 4px 14px rgba(37,99,235,.25)';this.style.transform='translateY(0)'">무료 상담 신청하기</button>
+          <button type="submit" class="py-4 text-sm font-black text-white md:col-span-2" style="background:#2858E0;border:none;border-radius:10px;cursor:pointer;box-shadow:0 4px 14px rgba(40,88,224,.25);transition:all .2s" onmouseover="this.style.background='#1E4FCC';this.style.boxShadow='0 6px 20px rgba(40,88,224,.4)';this.style.transform='translateY(-1px)'" onmouseout="this.style.background='#2858E0';this.style.boxShadow='0 4px 14px rgba(40,88,224,.25)';this.style.transform='translateY(0)'">무료 상담 신청하기</button>
           <div id="rentalBottomMsg" class="md:col-span-2 text-sm font-bold" style="display:none"></div>
         </form>
         <div class="p-10 flex flex-col justify-center" style="background:#fff;border-radius:16px;box-shadow:0 4px 20px rgba(37,99,235,.08)">
@@ -1108,7 +1108,7 @@ function renderWeekly() {
         <h3 class="font-black text-neutral-950">${car.name}</h3>
         <p class="mt-1 font-black text-neutral-950">${car.price}</p>
         <p class="mt-1 text-sm font-semibold text-neutral-500">${car.meta}</p>
-        <button class="mt-8 w-full bg-neutral-900 py-3 text-sm font-bold text-white transition hover:bg-red-600">견적 신청하기</button>
+        <button class="mt-8 w-full py-3 text-sm font-bold text-white transition" style="background:#2858E0" onmouseover="this.style.background='#1E4FCC'" onmouseout="this.style.background='#2858E0'">견적 신청하기</button>
       </div>
     </article>
   `).join('');

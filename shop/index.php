@@ -29,7 +29,7 @@ require __DIR__ . '/../includes/header.php';
     <p class="mt-5 text-base font-semibold text-neutral-400">썬팅 · 블랙박스 · 코팅 · 카매트 · 전국 시공점 연결</p>
     <div class="mt-10 flex justify-center gap-3">
       <button class="bg-white text-neutral-900 hover:bg-neutral-100 inline-flex items-center gap-2 px-7 py-3 text-sm font-bold transition">전체 상품 보기</button>
-      <button class="bg-red-600 hover:bg-red-700 text-white inline-flex items-center gap-2 px-7 py-3 text-sm font-bold transition">시공점 찾기</button>
+      <button class="text-white inline-flex items-center gap-2 px-7 py-3 text-sm font-bold transition" style="background:#2858E0" onmouseover="this.style.background='#1E4FCC'" onmouseout="this.style.background='#2858E0'">시공점 찾기</button>
     </div>
   </div>
 </section>
