@@ -36,7 +36,7 @@ require __DIR__ . '/../includes/header.php';
     <p class="mt-5 text-base font-semibold text-neutral-300">허위 매물 없이, 검증된 딜러와 직접 연결해드립니다.</p>
     <div class="mt-10 flex justify-center gap-3">
       <button class="bg-white text-neutral-900 hover:bg-neutral-100 inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition">인증 중고차 보기</button>
-      <button class="bg-neutral-900 text-white hover:bg-red-600 inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition">매입 문의하기</button>
+      <button class="bg-neutral-900 text-white hover:bg-[#1E4FCC] inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition">매입 문의하기</button>
     </div>
   </div>
 </section>
@@ -55,7 +55,7 @@ require __DIR__ . '/../includes/header.php';
         />
       </div>
       <input type="hidden" name="f" value="<?= h($active_filter) ?>"/>
-      <button type="submit" class="bg-neutral-900 px-8 py-4 text-sm font-black text-white hover:bg-red-600 transition">검색</button>
+      <button type="submit" class="bg-neutral-900 px-8 py-4 text-sm font-black text-white hover:bg-[#1E4FCC] transition">검색</button>
     </form>
     <div class="mt-4 flex gap-2">
       <?php foreach ($filters as $f): $on = ($f === $active_filter); ?>
@@ -87,7 +87,7 @@ require __DIR__ . '/../includes/header.php';
             <h3 class="font-black text-neutral-950"><?= h($c['name']) ?></h3>
             <p class="mt-1 font-black text-neutral-950"><?= h($c['price']) ?></p>
             <p class="mt-1 text-sm text-neutral-500"><?= h($c['meta']) ?></p>
-            <button class="mt-8 w-full bg-neutral-900 py-3 text-sm font-bold text-white hover:bg-red-600 transition">상세보기</button>
+            <button class="mt-8 w-full bg-neutral-900 py-3 text-sm font-bold text-white hover:bg-[#1E4FCC] transition">상세보기</button>
           </div>
         </article>
       <?php endforeach; ?>

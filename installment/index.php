@@ -99,7 +99,7 @@ require __DIR__ . '/../includes/header.php';
           <h3 class="font-black text-neutral-950"><?= h($c['name']) ?></h3>
           <p class="mt-1 font-black text-neutral-950"><?= h($c['price']) ?></p>
           <p class="mt-1 text-sm text-neutral-500"><?= h($c['meta']) ?></p>
-          <button class="mt-8 w-full bg-neutral-900 py-3 text-sm font-bold text-white hover:bg-red-600 transition">할부 신청하기</button>
+          <button class="mt-8 w-full bg-neutral-900 py-3 text-sm font-bold text-white hover:bg-[#1E4FCC] transition">할부 신청하기</button>
         </div>
       </article>
     <?php endforeach; ?>
@@ -141,7 +141,7 @@ require __DIR__ . '/../includes/header.php';
         <p class="text-sm font-bold text-neutral-500">예상 월 납입금</p>
         <p class="mt-2 text-5xl font-black text-neutral-950"><span id="calc-monthly">0</span><span class="text-2xl font-bold text-neutral-400">원</span></p>
         <p class="mt-3 text-xs text-neutral-400">※ 실제 금융 조건에 따라 다를 수 있습니다. 정확한 견적은 상담을 통해 확인하세요.</p>
-        <button class="mt-6 bg-neutral-900 px-12 py-4 text-sm font-black text-white hover:bg-red-600 transition">할부 상담 신청하기</button>
+        <button class="mt-6 bg-neutral-900 px-12 py-4 text-sm font-black text-white hover:bg-[#1E4FCC] transition">할부 상담 신청하기</button>
       </div>
     </div>
   </div>

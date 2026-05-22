@@ -132,7 +132,7 @@ require __DIR__ . '/includes/header.php';
     <?php foreach ($events as $idx => $e): ?>
       <a href="event/" class="group h-56 bg-neutral-200 p-6 text-left transition hover:bg-neutral-800 hover:text-white block">
         <?php if ($idx === 1): ?>
-          <span class="mb-8 inline-flex bg-neutral-800 px-3 py-1 text-xs font-bold text-white group-hover:bg-red-600">NOW OPEN</span>
+          <span class="mb-8 inline-flex bg-neutral-800 px-3 py-1 text-xs font-bold text-white group-hover:bg-[#1E4FCC]">NOW OPEN</span>
         <?php endif; ?>
         <p class="mt-20 text-xs font-black">4.1 - 4.30</p>
         <h3 class="font-black"><?= h($e['title']) ?></h3>
@@ -155,7 +155,7 @@ require __DIR__ . '/includes/header.php';
             <img src="<?= h($d['image']) ?>" alt="" class="w-full object-cover" style="height:195px"/>
           <?php endif; ?>
           <div class="flex flex-col justify-end p-6" style="height:125px">
-            <p class="mb-1 text-xs font-black text-red-500">HOT DEAL</p>
+            <p class="mb-1 text-xs font-black" style="color:#E11D2A">HOT DEAL</p>
             <h3 class="whitespace-pre-line text-2xl font-black leading-tight"><?= h($d['title']) ?></h3>
             <p class="mt-2 text-lg font-black"><?= h($d['price']) ?></p>
             <p class="mt-1 text-xs font-bold opacity-60"><?= h($d['meta']) ?></p>

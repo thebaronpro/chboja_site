@@ -48,7 +48,7 @@ require __DIR__ . '/../includes/header.php';
         <p class="mt-5 text-base font-semibold text-slate-300">부가세 환급 · 비용 처리 · 보증금 0원 가능</p>
         <div class="mt-8 flex gap-3">
           <button class="bg-white text-neutral-900 hover:bg-neutral-100 inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition">사업자 견적받기</button>
-          <button class="bg-neutral-900 text-white hover:bg-red-600 inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition">세금 혜택 안내</button>
+          <button class="bg-neutral-900 text-white hover:bg-[#1E4FCC] inline-flex items-center justify-center gap-2 px-7 py-3 text-sm font-bold transition">세금 혜택 안내</button>
         </div>
       </div>
       <div class="grid grid-cols-3 gap-4 text-center">
@@ -114,7 +114,7 @@ require __DIR__ . '/../includes/header.php';
           <p class="mb-4 text-5xl font-black text-neutral-200"><?= h($b['num']) ?></p>
           <h3 class="mb-3 text-lg font-black"><?= h($b['title']) ?></h3>
           <p class="text-sm text-neutral-500 leading-relaxed"><?= h($b['desc']) ?></p>
-          <button class="mt-6 text-sm font-black text-red-600 hover:underline">자세히 보기 →</button>
+          <button class="mt-6 text-sm font-black hover:underline" style="color:#2858E0">자세히 보기 →</button>
         </div>
       <?php endforeach; ?>
     </div>

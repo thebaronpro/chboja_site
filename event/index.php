@@ -49,14 +49,14 @@ require __DIR__ . '/../includes/header.php';
               <?php else: ?>
                 <div class="bg-slate-200 h-48 w-full"></div>
               <?php endif; ?>
-              <span class="absolute left-4 top-4 px-3 py-1 text-xs font-black text-white <?= $e['open'] ? 'bg-red-600' : 'bg-neutral-400' ?>"><?= $e['open'] ? '진행 중' : '종료' ?></span>
+              <span class="absolute left-4 top-4 px-3 py-1 text-xs font-black text-white" style="background:<?= $e['open'] ? '#2858E0' : '#9A9AA0' ?>"><?= $e['open'] ? '진행 중' : '종료' ?></span>
             </div>
             <div class="p-6">
               <h3 class="text-base font-black text-neutral-950"><?= h($e['title']) ?></h3>
               <p class="mt-2 text-sm text-neutral-500"><?= h($e['desc']) ?></p>
               <p class="mt-3 text-xs font-bold text-neutral-400"><?= h($e['date']) ?></p>
               <?php if ($e['open']): ?>
-                <button class="mt-5 w-full bg-neutral-900 py-3 text-sm font-bold text-white hover:bg-red-600 transition">혜택 신청하기</button>
+                <button class="mt-5 w-full bg-neutral-900 py-3 text-sm font-bold text-white hover:bg-[#1E4FCC] transition">혜택 신청하기</button>
               <?php endif; ?>
             </div>
           </article>

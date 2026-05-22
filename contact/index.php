@@ -53,7 +53,7 @@ require __DIR__ . '/../includes/header.php';
       $channels = [
           ['icon'=>'☎','title'=>'전화 상담','main'=>'1661-3583','sub'=>'평일 09:00 ~ 18:00','note'=>'점심시간 12:00 ~ 13:00 제외','btn'=>'전화하기','color'=>'bg-neutral-900','textDark'=>false],
           ['icon'=>'●','title'=>'카카오 상담','main'=>'@차보자','sub'=>'평일 09:00 ~ 20:00','note'=>'채팅으로 빠르게 상담받으세요','btn'=>'카카오 상담하기','color'=>'bg-yellow-400','textDark'=>true],
-          ['icon'=>'✉','title'=>'이메일 문의','main'=>'help@chaboza.kr','sub'=>'24시간 접수','note'=>'영업일 기준 1일 이내 답변','btn'=>'이메일 보내기','color'=>'bg-red-600','textDark'=>false],
+          ['icon'=>'✉','title'=>'이메일 문의','main'=>'help@chaboza.kr','sub'=>'24시간 접수','note'=>'영업일 기준 1일 이내 답변','btn'=>'이메일 보내기','color'=>'bg-[#2858E0]','textDark'=>false],
       ];
       foreach ($channels as $c): ?>
         <div class="border border-neutral-200 p-8">
@@ -82,7 +82,7 @@ require __DIR__ . '/../includes/header.php';
         <div class="bg-white border border-neutral-200 faq-item">
           <button type="button" class="faq-toggle flex w-full items-center justify-between px-6 py-5 text-left font-black hover:bg-neutral-50 transition" data-idx="<?= $i ?>">
             <span class="flex items-center gap-3">
-              <span class="text-red-600 font-black text-sm">Q</span>
+              <span class="font-black text-sm" style="color:#2858E0">Q</span>
               <?= h($q) ?>
             </span>
             <span class="faq-caret ml-4 flex-shrink-0 text-neutral-400 transition-transform" style="display:inline-block">⌄</span>
@@ -140,7 +140,7 @@ require __DIR__ . '/../includes/header.php';
         <textarea name="message" rows="6" class="w-full border border-neutral-200 px-5 py-4 text-sm focus:outline-none focus:border-neutral-900 resize-none" placeholder="문의하실 내용을 자유롭게 입력해주세요."><?= h($form['message']) ?></textarea>
       </div>
       <p class="text-xs text-neutral-400">개인정보 수집 및 이용에 동의합니다. (필수)</p>
-      <button type="submit" class="w-full bg-neutral-900 py-4 text-sm font-black text-white hover:bg-red-600 transition">문의 접수하기</button>
+      <button type="submit" class="w-full bg-neutral-900 py-4 text-sm font-black text-white hover:bg-[#1E4FCC] transition">문의 접수하기</button>
     </form>
   </div>
 </section>

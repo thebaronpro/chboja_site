@@ -62,7 +62,7 @@ require __DIR__ . '/../includes/header.php';
           <h3 class="text-sm font-black"><?= h($p['name']) ?></h3>
           <p class="mt-1 text-xs font-bold text-neutral-700"><?= h($p['rating']) ?></p>
           <p class="mt-1 text-sm font-black"><?= h($p['price']) ?></p>
-          <button class="mt-7 w-full bg-neutral-900 py-3 text-xs font-bold text-white hover:bg-red-600 transition">시공점 예약 · 구매하기</button>
+          <button class="mt-7 w-full bg-neutral-900 py-3 text-xs font-bold text-white hover:bg-[#1E4FCC] transition">시공점 예약 · 구매하기</button>
         </div>
       </article>
     <?php endforeach; ?>
@@ -80,7 +80,7 @@ require __DIR__ . '/../includes/header.php';
     <div class="grid gap-6 md:grid-cols-3">
       <?php foreach ($steps as $s): ?>
         <div class="bg-white p-8">
-          <p class="mb-3 text-xs font-black tracking-widest text-red-600"><?= h($s['step']) ?></p>
+          <p class="mb-3 text-xs font-black tracking-widest" style="color:#2858E0"><?= h($s['step']) ?></p>
           <h3 class="mb-3 text-xl font-black"><?= h($s['title']) ?></h3>
           <p class="text-sm text-neutral-500 leading-relaxed"><?= h($s['desc']) ?></p>
         </div>
