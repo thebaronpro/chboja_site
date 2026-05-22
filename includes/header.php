@@ -29,7 +29,7 @@ $site_root       = $BASE;
     .mob-bottom-nav{position:fixed;bottom:0;left:0;right:0;z-index:9999;background:#fff;border-top:1px solid #e5e5e5;padding-bottom:env(safe-area-inset-bottom);display:block}
     .bnav-inner{display:flex;align-items:stretch}
     .bnav-item{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:.55rem .25rem .45rem;gap:.18rem;text-decoration:none;color:#a3a3a3;font-size:.65rem;font-weight:600;font-family:inherit}
-    .bnav-item.active{color:#dc2626}
+    .bnav-item.active{color:#2858E0}
     .bnav-quick{color:#0a0a0a!important}
     .bnav-quick-bar{position:absolute;top:0;left:50%;transform:translateX(-50%);width:2rem;height:3px;background:#0a0a0a;border-radius:0 0 3px 3px}
   </style>

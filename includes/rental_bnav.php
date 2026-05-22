@@ -9,8 +9,8 @@ $site_root   ??= '../';
 @media(max-width:768px){.mob-bottom-nav{display:block}}
 .mob-bottom-nav-inner{display:flex;align-items:stretch}
 .mob-bottom-nav .bnav-item{position:relative;flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:.6rem .25rem .5rem;gap:.2rem;text-decoration:none;color:#525252;font-size:.65rem;font-weight:600;font-family:inherit;transition:color .15s}
-.mob-bottom-nav .bnav-item.active{color:#dc2626}
-.mob-bottom-nav .bnav-item.active::before{content:"";position:absolute;top:0;left:50%;transform:translateX(-50%);width:1.8rem;height:2.5px;background:#dc2626;border-radius:0 0 3px 3px}
+.mob-bottom-nav .bnav-item.active{color:#2858E0}
+.mob-bottom-nav .bnav-item.active::before{content:"";position:absolute;top:0;left:50%;transform:translateX(-50%);width:1.8rem;height:2.5px;background:#2858E0;border-radius:0 0 3px 3px}
 .mob-bottom-nav .bnav-quick{color:#0a0a0a!important}
 .mob-bottom-nav .bnav-quick-bar{position:absolute;top:0;left:50%;transform:translateX(-50%);width:2rem;height:3px;background:#0a0a0a;border-radius:0 0 3px 3px}
 </style>

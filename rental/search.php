@@ -26,7 +26,7 @@ main{max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 4rem}
 .types{display:flex;flex-wrap:wrap;gap:.45rem;margin-bottom:2rem;padding-top:1rem;border-top:1px dashed #e5e5e5}
 .type-pill{padding:.4rem 1rem;font-size:.82rem;font-weight:700;border-radius:999px;border:1.5px solid #d4d4d4;background:#fff;color:#525252;cursor:pointer;transition:all .15s;display:inline-flex;align-items:center;gap:.3rem}
 .type-pill:hover{border-color:#0a0a0a;color:#0a0a0a}
-.type-pill.on{background:#2563eb;color:#fff;border-color:#2563eb}
+.type-pill.on{background:#2858E0;color:#fff;border-color:#2858E0}
 .type-pill span{opacity:.7;font-size:.75rem}
 .type-pill.on span{opacity:.85}
 .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:1rem}

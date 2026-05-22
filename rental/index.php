@@ -273,17 +273,17 @@ a{text-decoration:none;color:inherit}
 .popular-card{flex-shrink:0;width:14rem;min-width:14rem;border:1px solid #f5f5f5;border-radius:.75rem;background:#fafafa;overflow:hidden;cursor:pointer;transition:transform .3s,box-shadow .3s;position:relative}
 .popular-img-wrap{position:relative;background:#fff;padding:.75rem 1rem .5rem;overflow:hidden}
 .popular-bignum{position:absolute;font-weight:900;user-select:none;line-height:1;font-size:11rem;letter-spacing:-.05em;right:-20%;top:50%;transform:translateY(-50%);white-space:nowrap;z-index:1;transition:all .4s}
-.popular-bignum.top3{color:rgba(220,38,38,1)}
-.popular-bignum.normal{color:rgba(0,0,0,1)}
+.popular-bignum.top3{color:rgba(200,199,205,1)}
+.popular-bignum.normal{color:rgba(200,199,205,1)}
 @media (max-width:768px) {
   .popular-bignum{right:5% !important;font-size:13rem !important;z-index:1 !important}
-  .popular-bignum.top3{color:rgba(220,38,38,.18) !important}
-  .popular-bignum.normal{color:rgba(0,0,0,.13) !important}
+  .popular-bignum.top3{color:rgba(200,199,205,.45) !important}
+  .popular-bignum.normal{color:rgba(200,199,205,.4) !important}
 }
 @media (hover: hover) and (pointer: fine) {
   .popular-card:hover{transform:scale(1.1);box-shadow:0 12px 32px rgba(0,0,0,.18);z-index:10}
-  .popular-card:hover .popular-bignum.top3{color:rgba(220,38,38,.5);z-index:20;right:-4%}
-  .popular-card:hover .popular-bignum.normal{color:rgba(0,0,0,.5);z-index:20;right:-4%}
+  .popular-card:hover .popular-bignum.top3{color:rgba(160,159,165,.75);z-index:20;right:-4%}
+  .popular-card:hover .popular-bignum.normal{color:rgba(160,159,165,.7);z-index:20;right:-4%}
 }
 .popular-img{width:100%;height:8rem;object-fit:contain;position:relative;z-index:10}
 .popular-info{padding:.5rem 1rem 1rem}
@@ -305,8 +305,8 @@ a{text-decoration:none;color:inherit}
 .hero-promos { position:absolute; top:0; right:0; bottom:0; width:calc(30% - 0.5rem); display:flex; flex-direction:column; gap:1rem; height:100%; }
 .promo-card { position:relative; display:block; padding:1.4rem 1.3rem; border-radius:14px; overflow:hidden; color:#fff; text-decoration:none; min-height:0; flex:1; transition:transform .15s ease, box-shadow .15s ease; }
 .promo-card:hover { transform:translateY(-2px); box-shadow:0 8px 24px rgba(0,0,0,.15); }
-.promo-orange { background:linear-gradient(135deg,#ff8a3d 0%,#f0671e 100%); }
-.promo-green { background:linear-gradient(135deg,#16a34a 0%,#0e7c39 100%); }
+.promo-orange { background:linear-gradient(135deg,#2858E0 0%,#1E4FCC 100%); }
+.promo-green { background:linear-gradient(135deg,#1F8A5B 0%,#176C46 100%); }
 .promo-badge { display:inline-flex; align-items:center; background:rgba(0,0,0,.28); color:#fff; font-size:.7rem; font-weight:700; padding:.22rem .65rem; border-radius:999px; margin-bottom:.7rem; letter-spacing:-.01em; }
 .promo-card h3 { font-size:1.1rem; font-weight:900; letter-spacing:-.02em; line-height:1.2; }
 .promo-card p { font-size:1rem; font-weight:800; margin-top:.25rem; letter-spacing:-.01em; }
@@ -556,18 +556,18 @@ require __DIR__ . '/../includes/rental_header.php';
   <section class="py-16" style="background:linear-gradient(135deg,#eff6ff 0%,#dbeafe 100%)">
     <div class="mx-auto max-w-7xl px-6">
       <h2 class="mb-3 text-4xl font-black whitespace-pre-line" style="color:#0a0a0a;letter-spacing:-.02em">장기렌트,
-아직 <span style="color:#2563eb">고민중</span>이신가요?</h2>
+아직 <span style="color:#2858E0">고민중</span>이신가요?</h2>
       <p class="mb-8 font-semibold" style="color:#525252">전문 상담사가 최적 차량을 빠르게 안내해드립니다. 평일 09:00 - 18:00</p>
       <div class="grid grid-cols-1 gap-6 md:grid-cols-[1.3fr_.8fr] md:items-stretch">
         <form id="rentalBottomForm" class="grid gap-4 p-8 md:grid-cols-2 content-start" style="background:#fff;border-radius:16px;box-shadow:0 4px 20px rgba(37,99,235,.08)">
           <input name="name"  class="px-5 py-4 text-sm" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="성함을 입력해주세요">
           <input name="phone" class="px-5 py-4 text-sm" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="휴대폰 번호를 입력해주세요">
           <input name="car"   class="px-5 py-4 text-sm md:col-span-2" style="border:1px solid #e5e7eb;border-radius:10px;color:#0a0a0a;outline:none" placeholder="관심 차량을 선택해주세요">
-          <button type="submit" class="py-4 text-sm font-black text-white md:col-span-2" style="background:linear-gradient(135deg,#3b82f6 0%,#2563eb 100%);border:none;border-radius:10px;cursor:pointer;box-shadow:0 4px 14px rgba(37,99,235,.25);transition:all .2s" onmouseover="this.style.boxShadow='0 6px 20px rgba(37,99,235,.4)';this.style.transform='translateY(-1px)'" onmouseout="this.style.boxShadow='0 4px 14px rgba(37,99,235,.25)';this.style.transform='translateY(0)'">무료 상담 신청하기</button>
+          <button type="submit" class="py-4 text-sm font-black text-white md:col-span-2" style="background:linear-gradient(135deg,#3b82f6 0%,#2858E0 100%);border:none;border-radius:10px;cursor:pointer;box-shadow:0 4px 14px rgba(37,99,235,.25);transition:all .2s" onmouseover="this.style.boxShadow='0 6px 20px rgba(37,99,235,.4)';this.style.transform='translateY(-1px)'" onmouseout="this.style.boxShadow='0 4px 14px rgba(37,99,235,.25)';this.style.transform='translateY(0)'">무료 상담 신청하기</button>
           <div id="rentalBottomMsg" class="md:col-span-2 text-sm font-bold" style="display:none"></div>
         </form>
         <div class="p-10 flex flex-col justify-center" style="background:#fff;border-radius:16px;box-shadow:0 4px 20px rgba(37,99,235,.08)">
-          <p class="mb-5 text-lg font-bold" style="color:#2563eb">전화 상담</p>
+          <p class="mb-5 text-lg font-bold" style="color:#2858E0">전화 상담</p>
           <p class="mb-2 text-5xl font-black" style="color:#0a0a0a;letter-spacing:-.02em">1661-3583</p>
           <p class="mb-8 text-sm" style="color:#737373">평일 09:00 ~ 18:00 (주말·공휴일 휴무)</p>
           <button class="px-10 py-4 text-sm font-bold" style="background:#FEE500;color:#191919;border:none;border-radius:10px;cursor:pointer;transition:background .15s" onmouseover="this.style.background='#f0d800'" onmouseout="this.style.background='#FEE500'"><span aria-hidden="true" class="inline-flex items-center justify-center leading-none mr-2" style="width:16px;height:16px;font-size:16px">●</span>카카오 상담</button>
@@ -628,8 +628,8 @@ require __DIR__ . '/../includes/rental_footer.php';
 .qc-field input{width:100%;padding:.7rem .8rem;font-size:.92rem;border:1px solid #e5e7eb;border-radius:.55rem;font-family:inherit;color:#0a0a0a;outline:none;transition:border-color .15s;box-sizing:border-box}
 .qc-field input:focus{border-color:#0a0a0a}
 .qc-field input::placeholder{color:#a3a3a3}
-.qc-cta{margin-top:.4rem;padding:.85rem;font-size:.95rem;font-weight:800;background:#0a0a0a;color:#fff;border:none;border-radius:.6rem;cursor:pointer;font-family:inherit;letter-spacing:-.01em;transition:background .15s}
-.qc-cta:hover{background:#dc2626}
+.qc-cta{margin-top:.4rem;padding:.85rem;font-size:.95rem;font-weight:800;background:#2858E0;color:#fff;border:none;border-radius:.6rem;cursor:pointer;font-family:inherit;letter-spacing:-.01em;transition:background .15s}
+.qc-cta:hover{background:#1E4FCC}
 .qc-cta:disabled{opacity:.6;cursor:wait}
 
 /* 간편상담 모달 */
@@ -989,7 +989,7 @@ const COLOR_CHIP_MAP = [
   { k: ['갤럭시아'],                bg:'#1e3a5f', tx:'#fff',    bd:'transparent' },
   { k: ['문라이트'],                bg:'#3a5070', tx:'#fff',    bd:'transparent' },
   { k: ['오로라'],                  bg:'#1a1f2e', tx:'#fff',    bd:'transparent' },
-  { k: ['블루','blue'],             bg:'#2563eb', tx:'#fff',    bd:'transparent' },
+  { k: ['블루','blue'],             bg:'#2858E0', tx:'#fff',    bd:'transparent' },
   { k: ['실버리 라임','라임'],       bg:'#b8c08c', tx:'#2d3a1a', bd:'transparent' },
   { k: ['그라파이트'],              bg:'#3a3a3a', tx:'#fff',    bd:'transparent' },
   { k: ['미스틱'],                  bg:'#6b7280', tx:'#fff',    bd:'transparent' },

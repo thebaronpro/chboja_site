@@ -1018,7 +1018,7 @@ function renderCar() {
     item.dataset.engineKey = engineKey;
     item.onclick = () => selectModel(engineKey, groupedTrims);
 
-    const displayName = engineKey.replace(/하이브리드/g, '<span style="color:#3b82f6;font-weight:900">하이브리드</span>');
+    const displayName = engineKey.replace(/하이브리드/g, '<span style="color:#2858E0;font-weight:900">하이브리드</span>');
     item.innerHTML = `<div class="model-item-name">${displayName}</div>`;
     modelList.appendChild(item);
   });
@@ -1052,7 +1052,7 @@ function selectModel(engineKey, groupedTrims) {
     card.onclick = () => selectTrim(idx);
 
     const price = (trim.base_price / 10000).toLocaleString(undefined, {maximumFractionDigits: 0});
-    const trimName = trim.name.replace(/하이브리드/g, '<span style="color:#3b82f6;font-weight:900">하이브리드</span>');
+    const trimName = trim.name.replace(/하이브리드/g, '<span style="color:#2858E0;font-weight:900">하이브리드</span>');
 
     card.innerHTML = `
       <div class="trim-name">${trimName}</div>

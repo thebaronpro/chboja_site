@@ -39,19 +39,19 @@ a{text-decoration:none;color:inherit}
 
 /* === 배너 === */
 .dt-banner-wrap{position:relative;margin-bottom:2.5rem}
-.dt-banner{position:relative;border-radius:18px;overflow:hidden;background:linear-gradient(135deg,#ddd6fe 0%,#c4b5fd 100%);padding:2.5rem 3.5rem;display:flex;align-items:center;justify-content:space-between;gap:2rem;min-height:170px}
-.dt-banner-text h2{font-size:2rem;font-weight:900;color:#1c1917;letter-spacing:-.02em;line-height:1.2}
-.dt-banner-text h2 em{font-style:normal;color:#7c3aed;font-weight:900}
-.dt-banner-text p{margin-top:.6rem;font-size:.95rem;color:#525252;font-weight:500}
+.dt-banner{position:relative;border-radius:18px;overflow:hidden;background:linear-gradient(135deg,#DEE7FB 0%,#BFD2F8 100%);padding:2.5rem 3.5rem;display:flex;align-items:center;justify-content:space-between;gap:2rem;min-height:170px}
+.dt-banner-text h2{font-size:2rem;font-weight:900;color:#0E0E12;letter-spacing:-.02em;line-height:1.2}
+.dt-banner-text h2 em{font-style:normal;color:#1E4FCC;font-weight:900}
+.dt-banner-text p{margin-top:.6rem;font-size:.95rem;color:#4A4A52;font-weight:500}
 .dt-banner-visual{flex-shrink:0;width:240px;height:140px;display:flex;align-items:center;justify-content:center;position:relative}
-.dt-banner-zero{font-family:'Pretendard Variable',Pretendard,sans-serif;font-size:9rem;font-weight:900;line-height:1;background:linear-gradient(180deg,#a78bfa 0%,#7c3aed 100%);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:-.06em;text-shadow:0 8px 24px rgba(124,58,237,.25)}
-.dt-banner-tag{position:absolute;bottom:8px;right:-10px;background:#fff;color:#7c3aed;font-size:.7rem;font-weight:800;padding:.3rem .65rem;border-radius:999px;box-shadow:0 4px 12px rgba(0,0,0,.1);letter-spacing:-.01em}
+.dt-banner-zero{font-family:'Pretendard Variable',Pretendard,sans-serif;font-size:9rem;font-weight:900;line-height:1;background:linear-gradient(180deg,#3D6FE8 0%,#1E4FCC 100%);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:-.06em;text-shadow:0 8px 24px rgba(40,88,224,.25)}
+.dt-banner-tag{position:absolute;bottom:8px;right:-10px;background:#fff;color:#1E4FCC;font-size:.7rem;font-weight:800;padding:.3rem .65rem;border-radius:999px;box-shadow:0 4px 12px rgba(0,0,0,.1);letter-spacing:-.01em}
 .dt-arrow{position:absolute;top:50%;transform:translateY(-50%);width:36px;height:36px;border-radius:50%;background:rgba(0,0,0,.18);border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.1rem;z-index:5}
 .dt-arrow.prev{left:.6rem}
 .dt-arrow.next{right:.6rem}
 .dt-dots{position:absolute;bottom:.85rem;left:50%;transform:translateX(-50%);display:flex;gap:5px;z-index:5}
 .dt-dot{width:8px;height:8px;border-radius:999px;background:rgba(0,0,0,.18);transition:all .15s}
-.dt-dot.active{width:20px;background:#7c3aed}
+.dt-dot.active{width:20px;background:#2858E0}
 
 /* === 인기 섹션 === */
 .dt-popular-section{background:#fafafa;border-radius:18px;padding:2.5rem 1.5rem;margin-bottom:3rem;text-align:center}

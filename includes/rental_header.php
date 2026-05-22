@@ -6,6 +6,45 @@ $subnav_active ??= 'home';
 $site_root     ??= '../';   // path to site root (sub-folder default)
 ?>
 <style>
+/* ============================================================ */
+/* CHABOZA Design System v1.0 — Color Tokens                   */
+/* ============================================================ */
+:root {
+  /* Brand Primary (BOJA Blue) */
+  --brand-primary-50: #F0F4FE;
+  --brand-primary-100: #DEE7FB;
+  --brand-primary-200: #BFD2F8;
+  --brand-primary-300: #94B3F2;
+  --brand-primary-400: #6B8FEF;
+  --brand-primary-500: #3D6FE8;
+  --brand-primary-600: #2858E0; /* default */
+  --brand-primary-700: #1E4FCC; /* logo, headings */
+  --brand-primary-800: #143FB0;
+  --brand-primary-900: #0A2F8C;
+
+  /* Ink (Neutrals) */
+  --ink-50: #F7F5F0;   /* page bg */
+  --ink-100: #EFEDE6;
+  --ink-200: #E2E0DA;  /* borders */
+  --ink-300: #C8C7CD;
+  --ink-400: #9A9AA0;
+  --ink-500: #6A6A70;  /* secondary text */
+  --ink-600: #4A4A52;
+  --ink-700: #2B2B32;
+  --ink-800: #1A1A20;
+  --ink-900: #0E0E12;  /* primary text, dark CTA */
+  --paper: #FFFFFF;
+
+  /* Semantic */
+  --hot: #E11D2A;       /* 긴급 · 한정수량 only */
+  --hot-bg: #FDEAEB;
+  --warn: #F5B042;      /* EVENT · 운영안내 */
+  --warn-bg: #FFF4DD;
+  --success: #1F8A5B;   /* EV · 전기차 콘텐츠 only */
+  --success-bg: #E3F4EC;
+  --kakao: #FAE100;     /* KakaoTalk only */
+}
+
 /* ===== View Transitions API: GNB가 페이지 이동 시 정지된 상태로 유지 ===== */
 @view-transition { navigation: auto; }
 ::view-transition-group(top-gnb),
@@ -60,7 +99,7 @@ header > nav { display:none !important; }
 .util-bar-right a { color:#525252; text-decoration:none; transition:color .15s; }
 .util-bar-right a:hover { color:#0a0a0a; }
 .util-notice { color:#0a0a0a; font-weight:700; display:inline-flex; align-items:center; gap:.3rem; }
-.util-notice::before { content:""; display:inline-block; width:.5rem; height:.5rem; background:#fbbf24; border-radius:50%; }
+.util-notice::before { content:""; display:inline-block; width:.5rem; height:.5rem; background:#E11D2A; border-radius:50%; }
 .util-sub { color:#737373; }
 .util-phone { color:#0a0a0a; font-weight:700; display:inline-flex; align-items:center; gap:.3rem; }
 .util-phone::before { content:"📞"; font-size:.75rem; }
@@ -86,10 +125,10 @@ header > nav { display:none !important; }
   white-space:nowrap;
 }
 .main-nav a:hover { color:#0a0a0a; }
-.main-nav a.active { color:#dc2626; font-weight:800; }
+.main-nav a.active { color:#2858E0; font-weight:800; }
 .main-nav a.active::after {
   content:""; position:absolute; bottom:-.3rem; left:0; right:0;
-  height:2px; background:#dc2626;
+  height:2px; background:#2858E0;
 }
 @media (max-width:768px) { .main-nav { display:none; } }
 
@@ -115,7 +154,7 @@ header > nav { display:none !important; }
 /* 우측 EVENT */
 .header-right { display:flex; align-items:center; gap:.55rem; flex-shrink:0; }
 .event-badge {
-  background:#fbbf24; color:#0a0a0a; font-size:.7rem; font-weight:900;
+  background:#F5B042; color:#0E0E12; font-size:.7rem; font-weight:900;
   padding:.18rem .5rem; border-radius:3px; letter-spacing:.04em;
 }
 .event-text { font-size:.78rem; color:#525252; }
@@ -125,7 +164,7 @@ header > nav { display:none !important; }
 .mob-event { display:none; }
 @media (max-width:768px) {
   .mob-event { display:flex; flex-direction:column; align-items:flex-end; gap:.05rem; margin-left:auto; margin-right:1rem; overflow:hidden; min-width:0; line-height:1.2; }
-  .mob-event-label { display:inline-block; font-size:.58rem; font-weight:900; color:#fff; background:#2563eb; letter-spacing:.14em; padding:.15rem .42rem; border-radius:3px; line-height:1.1; }
+  .mob-event-label { display:inline-block; font-size:.58rem; font-weight:900; color:#0E0E12; background:#F5B042; letter-spacing:.14em; padding:.15rem .42rem; border-radius:3px; line-height:1.1; }
   .mob-event .event-text { font-size:.72rem; color:#0a0a0a; font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 }
 </style>
@@ -164,7 +203,7 @@ header > nav { display:none !important; }
       <a href="<?= h($site_root) ?>rental/special.php"<?= active_if($subnav_active === 'special') ?>>특가차량</a>
       <a href="<?= h($site_root) ?>rental/biz.php"<?= active_if($subnav_active === 'biz') ?>>사업자혜택</a>
       <a href="<?= h($site_root) ?>event/"<?= active_if($top_active === '이벤트&혜택') ?>>이벤트</a>
-      <a href="<?= h($site_root) ?>rental/insight.php"<?= active_if($subnav_active === 'insight') ?>>RENT <span style="color:#2563eb">insight</span></a>
+      <a href="<?= h($site_root) ?>rental/insight.php"<?= active_if($subnav_active === 'insight') ?>>RENT <span style="color:#2858E0">insight</span></a>
     </nav>
     <div class="header-right">
       <span class="event-badge">EVENT</span>
@@ -219,7 +258,7 @@ $_searchPh = $_searchPlaceholders[$subnav_active] ?? '전체 차종 검색(전�
     <a class="mob-nav-link" href="<?= h($site_root) ?>lease/"<?= active_if($top_active === '화물리스') ?>>화물리스</a>
     <a class="mob-nav-link" href="<?= h($site_root) ?>shop/"<?= active_if($top_active === '자동차용품') ?>>자동차용품</a>
     <a class="mob-nav-link" href="<?= h($site_root) ?>event/"<?= active_if($top_active === '이벤트&혜택') ?>>이벤트&혜택</a>
-    <a class="mob-nav-link" href="<?= h($site_root) ?>rental/insight.php"<?= active_if($subnav_active === 'insight') ?>>RENT <span style="color:#2563eb">insight</span></a>
+    <a class="mob-nav-link" href="<?= h($site_root) ?>rental/insight.php"<?= active_if($subnav_active === 'insight') ?>>RENT <span style="color:#2858E0">insight</span></a>
     <a class="mob-nav-link" href="<?= h($site_root) ?>contact/"<?= active_if($top_active === '고객센터') ?>>고객센터</a>
   </div>
 </div>

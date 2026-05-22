@@ -29,8 +29,8 @@ a{text-decoration:none;color:inherit}
 .kk-body{flex:1;padding:1.1rem 1.25rem 1rem;overflow-y:auto}
 .kk-app{display:flex;align-items:center;gap:.75rem;padding:.4rem 0 1rem}
 .kk-app-logo{width:48px;height:48px;border-radius:50%;background:#fff;border:1px solid #ececec;display:flex;align-items:center;justify-content:center;color:#0a0a0a;font-size:.68rem;font-weight:900;letter-spacing:-.05em}
-.kk-app-logo .lg-i{color:#2563eb}
-.kk-app-name .lg-i{color:#2563eb}
+.kk-app-logo .lg-i{color:#2858E0}
+.kk-app-name .lg-i{color:#2858E0}
 .kk-app-name{font-size:1.1rem;font-weight:900;color:#191919;letter-spacing:-.02em}
 .kk-app-sub{font-size:.78rem;color:#7d7d7d;margin-top:.15rem}
 .kk-divider{height:1px;background:#f0f0f0;margin:.25rem 0 1rem}

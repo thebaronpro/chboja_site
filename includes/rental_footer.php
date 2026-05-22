@@ -10,15 +10,15 @@ $bnav_active ??= 'home';
       <p class="text-xs leading-6">서울특별시 금천구 가산디지털2로 135<br>가산어반워크1 A동 1602호<br>사업자등록번호 264-81-12870<br>대표 엄윤호</p>
     </div>
     <a href="index.php" class="text-left">
-      <p class="mb-2 font-bold" style="color:#2563eb">회사소개</p>
+      <p class="mb-2 font-bold" style="color:#2858E0">회사소개</p>
       <p class="text-xs">신규 입점 문의</p>
     </a>
     <a href="../contact/" class="text-left">
-      <p class="mb-2 font-bold" style="color:#2563eb">고객센터</p>
+      <p class="mb-2 font-bold" style="color:#2858E0">고객센터</p>
       <p class="text-xs">상담신청 및 자주 묻는 질문</p>
     </a>
     <div>
-      <p class="mb-2 font-bold" style="color:#2563eb">대표전화</p>
+      <p class="mb-2 font-bold" style="color:#2858E0">대표전화</p>
       <p class="text-xs">1661-3583</p>
     </div>
   </div>
