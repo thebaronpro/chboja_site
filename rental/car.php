@@ -88,14 +88,14 @@ a{text-decoration:none;color:inherit}
 .rental-btns{display:flex;flex-direction:row;gap:.5rem;flex-wrap:wrap}
 .rental-btn{flex:1;min-width:0;padding:.8rem .25rem;border:1px solid transparent;background:#f3f4f6;font-size:.88rem;font-weight:600;color:#525252;cursor:pointer;border-radius:.65rem;transition:all .15s;font-family:inherit;text-align:center;line-height:1.2}
 .rental-btn:hover{background:#e5e7eb;color:#0a0a0a}
-.rental-btn.selected{border-color:#dc2626;background:#fff;color:#0a0a0a;font-weight:800;border-width:2px;padding:calc(.8rem - 1px) .25rem}
+.rental-btn.selected{border-color:#2858E0;background:#fff;color:#0a0a0a;font-weight:800;border-width:2px;padding:calc(.8rem - 1px) .25rem}
 .car-image{width:100%;max-width:600px;margin:0 auto;display:block}
 .car-info-row{display:flex;align-items:center;justify-content:space-between;margin-top:1.25rem;padding-top:1.25rem;border-top:2px solid #0a0a0a;gap:1rem}
 .car-title{font-size:1.4rem;font-weight:900;position:relative}
-.car-title::after{content:'';display:block;width:2rem;height:3px;background:#dc2626;margin-top:.35rem;border-radius:2px}
+.car-title::after{content:'';display:block;width:2rem;height:3px;background:#2858E0;margin-top:.35rem;border-radius:2px}
 .car-price-wrap{text-align:right}
 .car-price-label{font-size:.7rem;font-weight:700;color:#a3a3a3;letter-spacing:.05em;text-transform:uppercase;margin-bottom:.2rem}
-.car-price{font-size:1.5rem;font-weight:900;color:#dc2626;white-space:nowrap;letter-spacing:-.02em}
+.car-price{font-size:1.5rem;font-weight:900;color:#1E4FCC;white-space:nowrap;letter-spacing:-.02em}
 .car-price-sub{font-size:.8rem;font-weight:400;color:#a3a3a3}
 .hero-colors{margin-top:1rem;padding-top:1rem;border-top:1px solid #f0f0f0;display:flex;flex-direction:column;gap:.75rem}
 .hero-color-row{display:flex;align-items:center;gap:.75rem;font-size:.9rem}
@@ -103,7 +103,7 @@ a{text-decoration:none;color:inherit}
 .hero-color-swatches{flex:1;display:flex;flex-wrap:wrap;gap:.45rem}
 .hero-swatch{width:1.5rem;height:1.5rem;border-radius:50%;border:1px solid rgba(0,0,0,.12);box-shadow:inset 0 0 0 1px rgba(255,255,255,.2);cursor:pointer;flex-shrink:0;position:relative;transition:transform .15s,box-shadow .15s}
 .hero-swatch:hover{transform:scale(1.15);z-index:2;box-shadow:inset 0 0 0 1px rgba(255,255,255,.2),0 0 0 2px rgba(220,38,38,.25)}
-.hero-swatch.selected{box-shadow:inset 0 0 0 1px rgba(255,255,255,.2),0 0 0 2px #dc2626}
+.hero-swatch.selected{box-shadow:inset 0 0 0 1px rgba(255,255,255,.2),0 0 0 2px #2858E0}
 .hero-swatch.two-tone{background:linear-gradient(135deg,var(--c1) 50%,var(--c2) 50%)}
 .hero-color-name{display:none}
 /* 색상 호버 시 말풍선 툴팁 */
@@ -136,7 +136,7 @@ a{text-decoration:none;color:inherit}
 .sel-summary-value.empty{color:#bdbdbd;font-weight:500}
 .sel-summary-row.total{margin-top:.2rem;padding-top:.35rem;border-top:1px solid #e5e7eb;border-bottom:none}
 .sel-summary-row.total .sel-summary-label{color:#0a0a0a;font-weight:800}
-.sel-summary-row.total .sel-summary-value{font-size:.92rem;font-weight:900;color:#dc2626}
+.sel-summary-row.total .sel-summary-value{font-size:.92rem;font-weight:900;color:#1E4FCC}
 .sel-opt-chip{display:inline-flex;align-items:center;gap:.25rem;background:#eef2ff;color:#1e3a8a;font-size:.66rem;font-weight:700;padding:.15rem .4rem;border-radius:999px;line-height:1.2;margin:.08rem .2rem .08rem 0}
 
 /* 모바일: 선택 요약 패널만 숨김 (색상 선택은 가능) */
@@ -257,8 +257,8 @@ a{text-decoration:none;color:inherit}
 .model-list,.trim-list{display:flex;flex-direction:column;gap:.5rem;max-width:100%}
 .model-item,.trim-card{border:2px solid #e5e5e5;border-radius:.75rem;padding:.85rem 1rem;cursor:pointer;transition:all .2s;background:#f5f5f5;position:relative;padding-left:2.75rem;display:flex;align-items:center;justify-content:space-between}
 .model-item:hover,.trim-card:hover{background:#ececec}
-.model-item.selected,.trim-card.selected{border-color:#dc2626;background:#fff}
-.model-item.selected::before,.trim-card.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#dc2626;font-weight:900;font-size:1.1rem}
+.model-item.selected,.trim-card.selected{border-color:#2858E0;background:#fff}
+.model-item.selected::before,.trim-card.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#2858E0;font-weight:900;font-size:1.1rem}
 .model-item-name,.trim-name{font-weight:400;font-size:.85rem;color:#0a0a0a;flex:1;line-height:1.4}
 .trim-price{font-size:.95rem;font-weight:600;color:#0a0a0a;white-space:nowrap;margin-left:1rem;align-self:flex-start}
 
@@ -268,8 +268,8 @@ a{text-decoration:none;color:inherit}
 .option-item{border:2px solid #e5e5e5;border-radius:.75rem;padding:.85rem 1rem;cursor:pointer;transition:all .2s;background:#f5f5f5;position:relative;padding-left:2.75rem}
 .option-item.standard{cursor:default;opacity:.6}
 .option-item:hover:not(.standard){background:#ececec}
-.option-item.selected{background:#fff!important;border-color:#dc2626!important}
-.option-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#dc2626;font-weight:900;font-size:1.1rem}
+.option-item.selected{background:#fff!important;border-color:#2858E0!important}
+.option-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#2858E0;font-weight:900;font-size:1.1rem}
 .option-name{font-size:.85rem;font-weight:400;color:#0a0a0a}
 .option-desc{font-size:.8rem;color:#737373;margin-top:.25rem}
 @keyframes slideDown{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:translateY(0)}}
@@ -281,8 +281,8 @@ a{text-decoration:none;color:inherit}
 .color-list{display:flex;flex-direction:column;gap:.4rem}
 .color-item{border:2px solid #e5e5e5;border-radius:.75rem;padding:.75rem 1rem .75rem 2.75rem;cursor:pointer;transition:all .2s;background:#f5f5f5;display:flex;align-items:center;gap:.85rem;position:relative}
 .color-item:hover{background:#ececec}
-.color-item.selected{border-color:#dc2626;background:#fff}
-.color-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#dc2626;font-weight:900;font-size:1.1rem}
+.color-item.selected{border-color:#2858E0;background:#fff}
+.color-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#2858E0;font-weight:900;font-size:1.1rem}
 .color-swatch{width:28px;height:28px;border-radius:50%;border:2px solid rgba(0,0,0,.08);flex-shrink:0}
 .color-swatch.two-tone{background:linear-gradient(135deg,var(--c1) 50%,var(--c2) 50%)}
 .color-name{font-size:.85rem;font-weight:400;color:#0a0a0a}

@@ -67,7 +67,7 @@ a{text-decoration:none;color:inherit}
 .dt-pop-label{font-size:.7rem;color:#a3a3a3;font-weight:500;margin-bottom:.18rem}
 .dt-pop-name{font-size:1rem;font-weight:900;color:#0a0a0a;letter-spacing:-.02em;margin-bottom:.6rem;line-height:1.25}
 .dt-pop-period{font-size:.75rem;color:#737373;font-weight:600}
-.dt-pop-price{font-size:1.15rem;font-weight:900;color:#dc2626;letter-spacing:-.02em;margin:.15rem 0 .25rem}
+.dt-pop-price{font-size:1.15rem;font-weight:900;color:#1E4FCC;letter-spacing:-.02em;margin:.15rem 0 .25rem}
 .dt-pop-orig{font-size:.72rem;color:#a3a3a3;font-weight:500;margin-bottom:.6rem}
 .dt-badges{display:flex;flex-wrap:wrap;gap:.3rem}
 .dt-badge{font-size:.66rem;font-weight:700;padding:.18rem .45rem;border-radius:4px;border:1px solid #fca5a5;color:#dc2626;background:#fff;letter-spacing:-.01em}
@@ -93,7 +93,7 @@ a{text-decoration:none;color:inherit}
 .dt-card-label{font-size:.7rem;color:#a3a3a3;font-weight:500;margin-bottom:.2rem}
 .dt-card-name{font-size:1.02rem;font-weight:900;color:#0a0a0a;letter-spacing:-.02em;margin-bottom:.7rem;line-height:1.25}
 .dt-card-period{font-size:.75rem;color:#737373;font-weight:600}
-.dt-card-price{font-size:1.2rem;font-weight:900;color:#dc2626;letter-spacing:-.02em;margin:.18rem 0 .3rem}
+.dt-card-price{font-size:1.2rem;font-weight:900;color:#1E4FCC;letter-spacing:-.02em;margin:.18rem 0 .3rem}
 .dt-card-orig{font-size:.75rem;color:#a3a3a3;font-weight:500;margin-bottom:.7rem}
 
 /* === 다른 탭 빈 상태 === */

@@ -18,7 +18,7 @@ a{text-decoration:none;color:inherit}
 @media (max-width: 768px) { .mob-bottom-nav{display:block} }
 .mob-bottom-nav-inner{display:flex;align-items:stretch}
 .bnav-item{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:.6rem .25rem .5rem;gap:.2rem;text-decoration:none;color:#a3a3a3;font-size:.65rem;font-weight:600}
-.bnav-item.active{color:#dc2626}
+.bnav-item.active{color:#2858E0}
 .bnav-quick{color:#0a0a0a !important}
 .bnav-quick-bar{position:absolute;top:0;left:50%;transform:translateX(-50%);width:2rem;height:3px;background:#0a0a0a;border-radius:0 0 3px 3px}
 
@@ -72,7 +72,7 @@ a{text-decoration:none;color:inherit}
   .td-inner > div:nth-child(2) > div { flex: 1 !important; padding: 1.25rem .5rem !important; text-align: center !important; }
   .td-inner > div:nth-child(2) > div p:first-child { font-size: 2.75rem !important; }
   .td-inner > div:nth-child(2) > div p:last-child { font-size: .9rem !important; }
-  .td-bottom-btn { display: flex !important; width: 100% !important; align-items: center; justify-content: center; padding: .75rem; font-size: .875rem; font-weight: 700; background: #dc2626; color: #fff; border: none; cursor: pointer; margin-top: .5rem; }
+  .td-bottom-btn { display: flex !important; width: 100% !important; align-items: center; justify-content: center; padding: .75rem; font-size: .875rem; font-weight: 700; background: #2858E0; color: #fff; border: none; cursor: pointer; margin-top: .5rem; }
   .td-orig-btn { display: none !important; }
   .td-inner > div:nth-child(3) { flex: 1 !important; }
   .td-img {
@@ -458,7 +458,7 @@ require __DIR__ . '/../includes/rental_header.php';
   <!-- ============== 빠른출고 한정재고 ============== -->
   <section class="limited-section mx-auto max-w-7xl px-6" style="padding-top:1.5rem;padding-bottom:4rem" id="limited-section">
     <div class="limited-head" style="margin-bottom:2rem">
-      <h2 class="limited-title text-3xl font-black" style="letter-spacing:-.02em"><span class="text-red-600">빠른출고</span> <span class="font-light text-neutral-900">한정재고</span></h2>
+      <h2 class="limited-title text-3xl font-black" style="letter-spacing:-.02em;color:#0E0E12"><span>빠른출고</span> <span class="font-light">·</span> <span class="font-light">한정재고</span></h2>
       <p class="limited-sub mt-1 text-sm font-semibold text-neutral-400">수량 한정 · 소진 시 종료</p>
       <p class="limited-sub-mob" style="display:none;font-size:.78rem;color:#737373;margin-top:.35rem">오늘 즉시 출고 가능한 차량만</p>
     </div>
@@ -1017,7 +1017,7 @@ function renderLimitedCards() {
       </div>
       ${car.colors ? `
       <div class="limited-trim-info px-4 pt-1 pb-1">
-        ${car.tagline ? `<div style="display:inline-flex;align-items:center;gap:.3rem;background:#fef2f2;color:#dc2626;font-size:.65rem;font-weight:800;padding:.18rem .5rem;border-radius:4px;margin-bottom:.4rem;letter-spacing:-.01em">${car.tagline}</div>` : ''}
+        ${car.tagline ? `<div style="display:inline-flex;align-items:center;gap:.3rem;background:#0E0E12;color:#F5B042;font-size:.65rem;font-weight:800;padding:.18rem .5rem;border-radius:4px;margin-bottom:.4rem;letter-spacing:-.01em">${car.tagline}</div>` : ''}
         <p style="font-size:.75rem;color:#0a0a0a;font-weight:700;margin-bottom:.4rem">${car.trimRange}</p>
         <div style="display:flex;flex-wrap:wrap;gap:.25rem;margin-bottom:.4rem;min-height:4.6rem;align-content:flex-start;overflow:hidden">
           ${car.colors.map(c => { const cc = getColorChip(c); const lt = cc.bg === '#ffffff' ? 'border:1px solid #d4d4d4;' : ''; return `<span style="font-size:.65rem;color:#404040;display:inline-flex;align-items:center;gap:.3rem;white-space:nowrap;padding:.1rem .15rem"><span style="display:inline-block;width:.6rem;height:.6rem;border-radius:50%;background:${cc.bg};${lt}flex-shrink:0"></span>${c}</span>`; }).join('')}

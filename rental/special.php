@@ -65,7 +65,7 @@ require __DIR__ . '/../includes/rental_header.php';
 
 <main class="sp-main" style="max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 3rem">
   <div style="margin-bottom:1.75rem">
-    <h1 class="sp-title" style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em">특가 <span style="color:#dc2626">차량</span></h1>
+    <h1 class="sp-title" style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em;color:#0E0E12">특가 <span style="color:#1E4FCC">차량</span></h1>
     <p class="sp-sub" style="margin-top:.55rem;font-size:.95rem;color:#737373;font-weight:500">선납금 0원 · 한정 수량 · 즉시 출고 가능</p>
   </div>
   <div class="sp-tabs" id="spTabs" style="display:flex;gap:.4rem;padding:.3rem;background:#f3f4f6;border-radius:.7rem;margin-bottom:1.5rem;max-width:24rem">

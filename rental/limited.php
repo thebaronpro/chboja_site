@@ -135,7 +135,7 @@ require __DIR__ . '/../includes/rental_header.php';
 ?>
 <main style="max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 3rem">
   <div style="margin-bottom:1.75rem">
-    <h1 style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em">빠른출고 <span style="color:#dc2626">특가차량</span></h1>
+    <h1 style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em;color:#0E0E12">빠른출고 <span style="color:#1E4FCC">특가차량</span></h1>
     <p style="margin-top:.55rem;font-size:.95rem;color:#737373;font-weight:500">수량 한정 · 소진 시 종료</p>
   </div>
   <div style="display:flex;gap:.4rem;overflow-x:auto;flex-wrap:nowrap;white-space:nowrap;scrollbar-width:none;margin-bottom:1.5rem" id="filter-tabs">
