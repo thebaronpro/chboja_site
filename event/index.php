@@ -32,7 +32,7 @@ require __DIR__ . '/../includes/header.php';
 <div class="border-b border-neutral-200 bg-white">
   <div class="mx-auto flex max-w-7xl gap-0 px-6">
     <?php foreach ($filter_map as $key => $label): $active = ($filter_key === $key); ?>
-      <a href="?f=<?= h($key) ?>" class="px-8 py-4 text-sm font-bold whitespace-nowrap <?= $active ? 'border-b-4 border-neutral-900 text-neutral-950' : 'border-b-4 border-transparent text-neutral-500 hover:text-neutral-900' ?>"><?= h($label) ?></a>
+      <a href="?f=<?= h($key) ?>" class="px-8 py-4 text-sm font-bold whitespace-nowrap <?= $active ? 'border-b-4 border-[#2858E0] text-[#1E4FCC]' : 'border-b-4 border-transparent text-neutral-500 hover:text-neutral-900' ?>"><?= h($label) ?></a>
     <?php endforeach; ?>
   </div>
 </div>

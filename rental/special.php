@@ -47,7 +47,7 @@ footer{background:#0a0a0a;color:#737373;padding:2.5rem 0;margin-top:4rem}
 
 
 .bnav-item{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:.6rem .25rem .5rem;gap:.2rem;text-decoration:none;color:#a3a3a3;font-size:.65rem;font-weight:600}
-.bnav-item.active{color:#dc2626}
+.bnav-item.active{color:#2858E0}
 .bnav-quick{color:#0a0a0a!important}
 .bnav-quick-bar{position:absolute;top:0;left:50%;transform:translateX(-50%);width:2rem;height:3px;background:#0a0a0a;border-radius:0 0 3px 3px}
 body{padding-bottom:4rem}
@@ -68,7 +68,7 @@ require __DIR__ . '/../includes/rental_header.php';
     <h1 class="sp-title" style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em;color:#0E0E12">특가 <span style="color:#1E4FCC">차량</span></h1>
     <p class="sp-sub" style="margin-top:.55rem;font-size:.95rem;color:#737373;font-weight:500">선납금 0원 · 한정 수량 · 즉시 출고 가능</p>
   </div>
-  <div class="sp-tabs" id="spTabs" style="display:flex;gap:.4rem;padding:.3rem;background:#f3f4f6;border-radius:.7rem;margin-bottom:1.5rem;max-width:24rem">
+  <div class="sp-tabs" id="spTabs" style="display:flex;gap:.4rem;padding:.3rem;background:#F7F5F0;border:1px solid #E2E0DA;border-radius:.7rem;margin-bottom:1.5rem;max-width:24rem">
     <button class="sp-tab" data-tab="general" style="flex:1;padding:.6rem .5rem;font-size:.88rem;font-weight:700;border:none;background:transparent;border-radius:.5rem;color:#737373;cursor:pointer;font-family:inherit;transition:all .15s">내연차특가</button>
     <button class="sp-tab" data-tab="ev" style="flex:1;padding:.6rem .5rem;font-size:.88rem;font-weight:700;border:none;background:transparent;border-radius:.5rem;color:#737373;cursor:pointer;font-family:inherit;transition:all .15s">⚡ 전기차특가</button>
   </div>
@@ -107,9 +107,10 @@ function renderCars(list, isEv) {
 function setSpTab(name) {
   document.querySelectorAll('.sp-tab').forEach(b => {
     const on = b.dataset.tab === name;
-    b.style.background = on ? '#fff' : 'transparent';
-    b.style.color = on ? '#0a0a0a' : '#737373';
-    b.style.boxShadow = on ? '0 1px 3px rgba(0,0,0,.08)' : 'none';
+    b.style.background = on ? '#DEE7FB' : 'transparent';
+    b.style.color = on ? '#1E4FCC' : '#737373';
+    b.style.fontWeight = on ? '800' : '700';
+    b.style.boxShadow = on ? '0 0 0 1px #2858E0 inset' : 'none';
   });
   if (name === 'ev') renderCars(EV_CARS, true);
   else renderCars(GENERAL_CARS, false);

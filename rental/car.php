@@ -67,20 +67,22 @@ a{text-decoration:none;color:inherit}
 .acc-chevron{width:1.15rem;height:1.15rem;flex-shrink:0;transition:transform .25s ease;color:#2858E0;stroke-width:3}
 .acc-block.open .acc-chevron{transform:rotate(180deg)}
 .acc-block:not(.open) > .acc-header{background:#F0F4FE;border-color:#BFD2F8}
-.acc-block:not(.open) > .acc-header::after{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:#2858E0;border-top-left-radius:1rem;border-bottom-left-radius:1rem}
 .acc-body{transition:max-height .3s ease}
 
 @media(max-width:768px){
   .acc-header{display:flex}
   .acc-block{margin-bottom:.65rem}
   .acc-block:not(.open) > .acc-body{display:none}
-  .acc-block.open > .acc-header{border-bottom-left-radius:0;border-bottom-right-radius:0;border-bottom:none;margin-bottom:0}
+  /* 펼침 상태: 블록 전체를 단일 카드로 감쌈 */
+  .acc-block.open{border:1px solid #E2E0DA;border-radius:1rem;background:#fff;overflow:hidden}
+  .acc-block.open > .acc-header{border:none;border-bottom:1px solid #E2E0DA;border-radius:0;background:#fff;margin-bottom:0}
   .acc-block.open > .acc-body > .section,
   .acc-block.open > .acc-body > .color-section,
-  .acc-block.open > .acc-body > .rental-options{border-top-left-radius:0;border-top-right-radius:0;margin-bottom:0;border-top:none}
+  .acc-block.open > .acc-body > .rental-options{border:none !important;border-radius:0 !important;margin-bottom:0 !important;box-shadow:none !important}
   /* 렌탈 조건 블록은 항상 펼친 상태로 — 접힘 불가 */
   .acc-block[data-acc="rental"] > .acc-header{display:none}
   .acc-block[data-acc="rental"] > .acc-body{display:block !important}
+  .acc-block[data-acc="rental"].open{border:1px solid #E2E0DA;border-radius:1rem;overflow:hidden}
 }
 .rental-row{padding:1.1rem 0;border-bottom:1px solid #f0f0f0}
 .rental-row:first-child{padding-top:.25rem}
@@ -93,9 +95,9 @@ a{text-decoration:none;color:inherit}
 .rental-tip::after{content:'';position:absolute;bottom:100%;left:.85rem;border:6px solid transparent;border-bottom-color:#1c1917}
 @keyframes tipFade{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
 .rental-btns{display:flex;flex-direction:row;gap:.5rem;flex-wrap:wrap}
-.rental-btn{flex:1;min-width:0;padding:.8rem .25rem;border:1px solid transparent;background:#f3f4f6;font-size:.88rem;font-weight:600;color:#525252;cursor:pointer;border-radius:.65rem;transition:all .15s;font-family:inherit;text-align:center;line-height:1.2}
-.rental-btn:hover{background:#e5e7eb;color:#0a0a0a}
-.rental-btn.selected{border-color:#2858E0;background:#fff;color:#0a0a0a;font-weight:800;border-width:2px;padding:calc(.8rem - 1px) .25rem}
+.rental-btn{flex:1;min-width:0;padding:.8rem .25rem;border:1px solid #E2E0DA;background:#fff;font-size:.88rem;font-weight:600;color:#525252;cursor:pointer;border-radius:.65rem;transition:all .15s;font-family:inherit;text-align:center;line-height:1.2}
+.rental-btn:hover{background:#F7F5F0;color:#0a0a0a;border-color:#C8C7CD}
+.rental-btn.selected{border-color:#2858E0;background:#DEE7FB;color:#1E4FCC;font-weight:800;border-width:2px;padding:calc(.8rem - 1px) .25rem}
 .car-image{width:100%;max-width:600px;margin:0 auto;display:block}
 .car-info-row{display:flex;align-items:center;justify-content:space-between;margin-top:1.25rem;padding-top:1.25rem;border-top:2px solid #0a0a0a;gap:1rem}
 .car-title{font-size:1.4rem;font-weight:900;position:relative}
@@ -262,21 +264,21 @@ a{text-decoration:none;color:inherit}
 .model-group{margin-bottom:2rem}
 .model-group-title{font-size:1.1rem;font-weight:700;color:#0a0a0a;margin-bottom:.75rem}
 .model-list,.trim-list{display:flex;flex-direction:column;gap:.5rem;max-width:100%}
-.model-item,.trim-card{border:2px solid #e5e5e5;border-radius:.75rem;padding:.85rem 1rem;cursor:pointer;transition:all .2s;background:#f5f5f5;position:relative;padding-left:2.75rem;display:flex;align-items:center;justify-content:space-between}
-.model-item:hover,.trim-card:hover{background:#ececec}
-.model-item.selected,.trim-card.selected{border-color:#2858E0;background:#fff}
-.model-item.selected::before,.trim-card.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#2858E0;font-weight:900;font-size:1.1rem}
+.model-item,.trim-card{border:2px solid #E2E0DA;border-radius:.75rem;padding:.85rem 1rem;cursor:pointer;transition:all .2s;background:#fff;position:relative;padding-left:2.75rem;display:flex;align-items:center;justify-content:space-between}
+.model-item:hover,.trim-card:hover{background:#F7F5F0;border-color:#C8C7CD}
+.model-item.selected,.trim-card.selected{border-color:#2858E0;background:#DEE7FB;color:#1E4FCC}
+.model-item.selected::before,.trim-card.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#1E4FCC;font-weight:900;font-size:1.1rem}
 .model-item-name,.trim-name{font-weight:400;font-size:.85rem;color:#0a0a0a;flex:1;line-height:1.4}
 .trim-price{font-size:.95rem;font-weight:600;color:#0a0a0a;white-space:nowrap;margin-left:1rem;align-self:flex-start}
 
 .options-panel{margin-top:.5rem;padding-left:1.5rem;animation:slideDown .2s ease}
 .options-title{font-size:.85rem;font-weight:700;color:#4f46e5;margin-bottom:.5rem}
 .options-box{display:flex;flex-direction:column;gap:.5rem}
-.option-item{border:2px solid #e5e5e5;border-radius:.75rem;padding:.85rem 1rem;cursor:pointer;transition:all .2s;background:#f5f5f5;position:relative;padding-left:2.75rem}
+.option-item{border:2px solid #E2E0DA;border-radius:.75rem;padding:.85rem 1rem;cursor:pointer;transition:all .2s;background:#fff;position:relative;padding-left:2.75rem}
 .option-item.standard{cursor:default;opacity:.6}
-.option-item:hover:not(.standard){background:#ececec}
-.option-item.selected{background:#fff!important;border-color:#2858E0!important}
-.option-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#2858E0;font-weight:900;font-size:1.1rem}
+.option-item:hover:not(.standard){background:#F7F5F0;border-color:#C8C7CD}
+.option-item.selected{background:#DEE7FB!important;border-color:#2858E0!important;color:#1E4FCC}
+.option-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#1E4FCC;font-weight:900;font-size:1.1rem}
 .option-name{font-size:.85rem;font-weight:400;color:#0a0a0a}
 .option-desc{font-size:.8rem;color:#737373;margin-top:.25rem}
 @keyframes slideDown{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:translateY(0)}}
@@ -286,10 +288,10 @@ a{text-decoration:none;color:inherit}
 .color-group:last-child{margin-bottom:0}
 .color-group-title{font-size:1rem;font-weight:700;color:#0a0a0a;margin-bottom:.85rem}
 .color-list{display:flex;flex-direction:column;gap:.4rem}
-.color-item{border:2px solid #e5e5e5;border-radius:.75rem;padding:.75rem 1rem .75rem 2.75rem;cursor:pointer;transition:all .2s;background:#f5f5f5;display:flex;align-items:center;gap:.85rem;position:relative}
-.color-item:hover{background:#ececec}
-.color-item.selected{border-color:#2858E0;background:#fff}
-.color-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#2858E0;font-weight:900;font-size:1.1rem}
+.color-item{border:2px solid #E2E0DA;border-radius:.75rem;padding:.75rem 1rem .75rem 2.75rem;cursor:pointer;transition:all .2s;background:#fff;display:flex;align-items:center;gap:.85rem;position:relative}
+.color-item:hover{background:#F7F5F0;border-color:#C8C7CD}
+.color-item.selected{border-color:#2858E0;background:#DEE7FB;color:#1E4FCC}
+.color-item.selected::before{content:'✓';position:absolute;left:1rem;top:50%;transform:translateY(-50%);color:#1E4FCC;font-weight:900;font-size:1.1rem}
 .color-swatch{width:28px;height:28px;border-radius:50%;border:2px solid rgba(0,0,0,.08);flex-shrink:0}
 .color-swatch.two-tone{background:linear-gradient(135deg,var(--c1) 50%,var(--c2) 50%)}
 .color-name{font-size:.85rem;font-weight:400;color:#0a0a0a}
@@ -299,7 +301,7 @@ a{text-decoration:none;color:inherit}
 @media(max-width:768px){.car-icon-nav{display:flex}}
 .car-icon-nav a{flex:1;display:flex;align-items:center;justify-content:center;padding:.55rem .25rem;color:#a3a3a3;text-decoration:none;transition:color .12s}
 .car-icon-nav a:hover{color:#171717}
-.car-icon-nav a.active{color:#dc2626}
+.car-icon-nav a.active{color:#2858E0}
 .car-icon-nav a.quick{color:#0a0a0a}
 .cta-price-bar{display:flex;align-items:center;justify-content:space-between;gap:.5rem;padding:0 .15rem}
 .cta-price-label{font-size:.92rem;font-weight:700;color:#d1d5db;letter-spacing:-.01em}

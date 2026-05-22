@@ -73,7 +73,7 @@ require __DIR__ . '/../includes/header.php';
 <div class="border-b border-neutral-200 bg-white">
   <div class="mx-auto flex max-w-7xl overflow-x-auto px-4">
     <?php foreach ($tabs as $i => $t): $on = ($i === $active_idx); ?>
-      <a href="?t=<?= $i ?>" class="min-w-fit px-8 py-4 text-sm font-bold whitespace-nowrap <?= $on ? 'border-b-4 border-neutral-900 text-neutral-950' : 'text-neutral-500 hover:text-neutral-900' ?>"><?= h($t) ?></a>
+      <a href="?t=<?= $i ?>" class="min-w-fit px-8 py-4 text-sm font-bold whitespace-nowrap <?= $on ? 'border-b-4 border-[#2858E0] text-[#1E4FCC]' : 'text-neutral-500 hover:text-neutral-900' ?>"><?= h($t) ?></a>
     <?php endforeach; ?>
   </div>
 </div>
