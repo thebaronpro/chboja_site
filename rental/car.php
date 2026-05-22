@@ -59,11 +59,15 @@ a{text-decoration:none;color:inherit}
 
 /* ===== 아코디언 (모바일 전용) ===== */
 .acc-block{margin-bottom:.75rem}
-.acc-header{display:none;width:100%;background:#fff;border:1px solid #f0f0f0;border-radius:1rem;padding:1.05rem 1.25rem;font-family:inherit;font-size:1.02rem;font-weight:800;color:#0a0a0a;letter-spacing:-.01em;cursor:pointer;text-align:left;align-items:center;justify-content:space-between;gap:.6rem;transition:border-color .15s}
-.acc-header:hover{border-color:#d4d4d4}
+.acc-header{display:none;width:100%;background:#fff;border:1px solid #E2E0DA;border-radius:1rem;padding:1.05rem 1.25rem;font-family:inherit;font-size:1.02rem;font-weight:800;color:#0E0E12;letter-spacing:-.01em;cursor:pointer;text-align:left;align-items:center;justify-content:space-between;gap:.6rem;transition:border-color .15s, background-color .15s;position:relative}
+.acc-header:hover{border-color:#2858E0}
 .acc-header-title{flex:1;min-width:0;display:flex;align-items:center;gap:.5rem}
-.acc-chevron{width:1rem;height:1rem;flex-shrink:0;transition:transform .25s ease;color:#737373}
+.acc-header-hint{font-size:.72rem;font-weight:600;color:#2858E0;margin-right:.5rem;letter-spacing:-.01em}
+.acc-block.open .acc-header-hint{display:none}
+.acc-chevron{width:1.15rem;height:1.15rem;flex-shrink:0;transition:transform .25s ease;color:#2858E0;stroke-width:3}
 .acc-block.open .acc-chevron{transform:rotate(180deg)}
+.acc-block:not(.open) > .acc-header{background:#F0F4FE;border-color:#BFD2F8}
+.acc-block:not(.open) > .acc-header::after{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:#2858E0;border-top-left-radius:1rem;border-bottom-left-radius:1rem}
 .acc-body{transition:max-height .3s ease}
 
 @media(max-width:768px){
@@ -74,6 +78,9 @@ a{text-decoration:none;color:inherit}
   .acc-block.open > .acc-body > .section,
   .acc-block.open > .acc-body > .color-section,
   .acc-block.open > .acc-body > .rental-options{border-top-left-radius:0;border-top-right-radius:0;margin-bottom:0;border-top:none}
+  /* 렌탈 조건 블록은 항상 펼친 상태로 — 접힘 불가 */
+  .acc-block[data-acc="rental"] > .acc-header{display:none}
+  .acc-block[data-acc="rental"] > .acc-body{display:block !important}
 }
 .rental-row{padding:1.1rem 0;border-bottom:1px solid #f0f0f0}
 .rental-row:first-child{padding-top:.25rem}
@@ -565,6 +572,7 @@ a{text-decoration:none;color:inherit}
     <div class="acc-block" data-acc="trim">
       <button class="acc-header" type="button" onclick="toggleAcc(this)">
         <span class="acc-header-title">세부모델·트림·색상 선택</span>
+        <span class="acc-header-hint">탭하여 펼치기</span>
         <svg class="acc-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
       </button>
       <div class="acc-body">
