@@ -1,0 +1,36 @@
+{
+  "model_id": 4073,
+  "brand": "BMW",
+  "name": "X4 M",
+  "img": "https://autoimg.danawa.com/photo/4073/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52636,
+      "name": "가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93961,
+          "trimName": "X4 M Competition (P3)",
+          "price": 130200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93962,
+          "trimName": "X4 M Competition (P3-0)",
+          "price": 130200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

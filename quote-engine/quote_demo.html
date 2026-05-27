@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>차보자 견적기 — 전체 차량 (PoC v2)</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0;font-family:'Pretendard Variable',-apple-system,sans-serif}
+  body{background:#fff;color:#0a0a0a;padding:1.5rem;max-width:720px;margin:0 auto}
+  h1{font-size:1.4rem;font-weight:900;margin-bottom:.3rem}
+  h1 small{font-size:.7rem;color:#737373;font-weight:600;margin-left:.5rem}
+  .hint{font-size:.78rem;color:#737373;margin-bottom:1.5rem}
+
+  /* Search */
+  .search-box{position:relative;margin-bottom:1.5rem}
+  .search-box input{width:100%;padding:.85rem 1rem;border:1.5px solid #e5e5e5;border-radius:10px;font-size:1rem;outline:none}
+  .search-box input:focus{border-color:#2858E0}
+  .search-results{position:absolute;top:100%;left:0;right:0;background:#fff;border:1.5px solid #e5e5e5;border-radius:10px;max-height:320px;overflow-y:auto;z-index:10;margin-top:.3rem;box-shadow:0 4px 12px rgba(0,0,0,.08);display:none}
+  .search-results.show{display:block}
+  .search-item{padding:.7rem 1rem;cursor:pointer;border-bottom:1px solid #f5f5f5;font-size:.88rem}
+  .search-item:hover{background:#f5f5f5}
+  .search-item .brand{color:#737373;font-size:.75rem;font-weight:600}
+  .search-item .price{color:#1E4FCC;font-weight:700;margin-left:.5rem;font-size:.8rem}
+
+  /* Vehicle card */
+  .vehicle-card{background:#fafafa;padding:1rem 1.25rem;border-radius:12px;margin-bottom:1.25rem;border:1px solid #e5e5e5;display:none}
+  .vehicle-card.show{display:block}
+  .vehicle-card .brand{font-size:.75rem;color:#737373;font-weight:700;margin-bottom:.15rem}
+  .vehicle-card .name{font-weight:800;font-size:1rem;color:#0a0a0a;margin-bottom:.5rem;line-height:1.3}
+  .vehicle-card .meta-row{display:flex;gap:1.5rem;font-size:.8rem;color:#525252}
+  .vehicle-card .meta-row strong{color:#1E4FCC;font-weight:800}
+  .vehicle-card .cat-badge{display:inline-block;background:#dbeafe;color:#1e40af;padding:.15rem .55rem;border-radius:5px;font-size:.7rem;font-weight:700;margin-left:.4rem}
+
+  /* Sliders */
+  .slider-row{margin-bottom:.9rem;padding:.85rem 1rem;background:#fff;border:1px solid #e5e5e5;border-radius:10px}
+  .slider-row label{display:flex;justify-content:space-between;font-weight:700;color:#0a0a0a;margin-bottom:.5rem;font-size:.88rem}
+  .slider-row label .val{color:#2858E0;font-weight:900}
+  input[type="range"]{width:100%;-webkit-appearance:none;height:5px;background:#e5e5e5;border-radius:3px;outline:none}
+  input[type="range"]::-webkit-slider-thumb{-webkit-appearance:none;width:20px;height:20px;background:#2858E0;border-radius:50%;cursor:pointer;border:3px solid #fff;box-shadow:0 2px 6px rgba(40,88,224,.3)}
+  .ticks{display:flex;justify-content:space-between;font-size:.66rem;color:#a3a3a3;margin-top:.25rem;padding:0 .2rem}
+
+  /* Result */
+  .result{background:linear-gradient(135deg,#DEE7FB,#BFD2F8);padding:1.5rem;border-radius:14px;text-align:center;margin:1.25rem 0;display:none}
+  .result.show{display:block}
+  .result .label{font-size:.82rem;color:#4A4A52;font-weight:600;margin-bottom:.35rem}
+  .result .price{font-size:2.2rem;font-weight:900;color:#1E4FCC;letter-spacing:-.02em;line-height:1}
+  .result .price small{font-size:.95rem;font-weight:700;margin-left:.2rem}
+  .result .breakdown{margin-top:.85rem;font-size:.72rem;color:#525252;line-height:1.6}
+
+  .meta{font-size:.66rem;color:#a3a3a3;text-align:right;padding-top:.4rem}
+  .meta .estimated{color:#d97706;font-weight:700}
+  .error{background:#fef2f2;color:#991b1b;padding:.75rem;border-radius:8px;font-size:.85rem;text-align:center;margin-bottom:1rem}
+  .empty{text-align:center;padding:2rem 1rem;color:#a3a3a3;font-size:.85rem}
+</style>
+</head>
+<body>
+<h1>차보자 견적기 <small>전체 2,933 트림 응답 가능</small></h1>
+<div class="hint">차종/트림 검색 → 슬라이더로 조건 조정 → 실시간 견적</div>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="차종 검색 (예: 그랜저, 아반떼, X5...)" autocomplete="off">
+  <div class="search-results" id="search-results"></div>
+</div>
+
+<div class="vehicle-card" id="vehicle-card">
+  <div class="brand" id="v-brand"></div>
+  <div class="name" id="v-name"></div>
+  <div class="meta-row">
+    <span>차량가격 <strong id="v-price"></strong></span>
+    <span>연료 <span id="v-fuel"></span></span>
+    <span>분류 <span class="cat-badge" id="v-cat"></span></span>
+  </div>
+</div>
+
+<div id="empty-state" class="empty">↑ 차종을 검색해주세요</div>
+
+<div id="quote-controls" style="display:none">
+  <div class="slider-row">
+    <label>계약기간 <span class="val"><span id="term-val">48</span>개월</span></label>
+    <input type="range" id="term" min="0" max="4" step="1" value="3">
+    <div class="ticks"><span>12</span><span>24</span><span>36</span><span>48</span><span>60</span></div>
+  </div>
+
+  <div class="slider-row">
+    <label>연간 주행거리 <span class="val"><span id="mileage-val">1만</span>km</span></label>
+    <input type="range" id="mileage" min="0" max="3" step="1" value="0">
+    <div class="ticks"><span>1만</span><span>1.5만</span><span>2만</span><span>3만</span></div>
+  </div>
+
+  <div class="slider-row">
+    <label>선납금 <span class="val"><span id="prepay-val">0</span>%</span></label>
+    <input type="range" id="prepay" min="0" max="30" step="10" value="0">
+    <div class="ticks"><span>0</span><span>10</span><span>20</span><span>30</span></div>
+  </div>
+
+  <div class="slider-row">
+    <label>보증금 <span class="val"><span id="deposit-val">0</span>%</span></label>
+    <input type="range" id="deposit" min="0" max="30" step="10" value="0">
+    <div class="ticks"><span>0</span><span>10</span><span>20</span><span>30</span></div>
+  </div>
+
+  <div class="result" id="result">
+    <div class="label">월 납입료</div>
+    <div class="price"><span id="price">—</span><small>원</small></div>
+    <div class="breakdown" id="breakdown"></div>
+  </div>
+
+  <div class="meta" id="meta"></div>
+</div>
+
+<script>
+// ===========================================================================
+const TERMS = [12, 24, 36, 48, 60];
+const MILEAGES = [10000, 15000, 20000, 30000];
+const MILEAGE_LABELS = ['1만', '1.5만', '2만', '3만'];
+
+const API_URL = '../api/quote.php';
+const CARS_URL = '../car_brands.json';
+
+const els = {
+  search: document.getElementById('search'),
+  searchResults: document.getElementById('search-results'),
+  vehicleCard: document.getElementById('vehicle-card'),
+  vBrand: document.getElementById('v-brand'),
+  vName: document.getElementById('v-name'),
+  vPrice: document.getElementById('v-price'),
+  vFuel: document.getElementById('v-fuel'),
+  vCat: document.getElementById('v-cat'),
+  emptyState: document.getElementById('empty-state'),
+  quoteControls: document.getElementById('quote-controls'),
+  term: document.getElementById('term'),
+  mileage: document.getElementById('mileage'),
+  prepay: document.getElementById('prepay'),
+  deposit: document.getElementById('deposit'),
+  termVal: document.getElementById('term-val'),
+  mileageVal: document.getElementById('mileage-val'),
+  prepayVal: document.getElementById('prepay-val'),
+  depositVal: document.getElementById('deposit-val'),
+  result: document.getElementById('result'),
+  price: document.getElementById('price'),
+  breakdown: document.getElementById('breakdown'),
+  meta: document.getElementById('meta'),
+};
+
+let allTrims = [];
+let selectedVehicle = null;
+let debounceTimer = null;
+
+// 차량 데이터 로드 + 플랫화
+async function loadCars() {
+  try {
+    const res = await fetch(CARS_URL);
+    const data = await res.json();
+    for (const b of data.brands) {
+      for (const v of b.vehicles) {
+        for (const t of (v.trims || [])) {
+          allTrims.push({
+            brand: b.name,
+            model_name: v.name,
+            trim_name: t.name,
+            base_price: t.base_price,
+            fuel_type: t.fuel_type,
+            search_text: `${b.name} ${v.name} ${t.name}`.toLowerCase(),
+          });
+        }
+      }
+    }
+    console.log(`Loaded ${allTrims.length} trims`);
+  } catch (e) {
+    console.error('Failed to load car_brands.json', e);
+  }
+}
+
+// 검색
+function search(query) {
+  query = query.trim().toLowerCase();
+  if (query.length < 1) {
+    els.searchResults.classList.remove('show');
+    return;
+  }
+  const tokens = query.split(/\s+/);
+  const results = allTrims
+    .filter(t => tokens.every(tok => t.search_text.includes(tok)))
+    .slice(0, 30);
+  els.searchResults.innerHTML = results.map((t, i) => `
+    <div class="search-item" data-idx="${allTrims.indexOf(t)}">
+      <span class="brand">${t.brand}</span>
+      <span>${t.model_name}</span>
+      <span style="color:#737373;font-size:.78rem"> ${t.trim_name}</span>
+      <span class="price">${(t.base_price/10000).toLocaleString()}만원</span>
+    </div>
+  `).join('') || '<div class="empty">검색 결과 없음</div>';
+  els.searchResults.classList.add('show');
+}
+
+els.search.addEventListener('input', e => search(e.target.value));
+els.search.addEventListener('focus', e => { if (e.target.value) search(e.target.value); });
+els.searchResults.addEventListener('click', e => {
+  const item = e.target.closest('.search-item');
+  if (!item) return;
+  const idx = +item.dataset.idx;
+  selectVehicle(allTrims[idx]);
+});
+document.addEventListener('click', e => {
+  if (!e.target.closest('.search-box')) els.searchResults.classList.remove('show');
+});
+
+function selectVehicle(v) {
+  selectedVehicle = v;
+  els.vBrand.textContent = v.brand;
+  els.vName.textContent = `${v.model_name} ${v.trim_name}`;
+  els.vPrice.textContent = v.base_price.toLocaleString() + '원';
+  els.vFuel.textContent = v.fuel_type || '-';
+  els.vehicleCard.classList.add('show');
+  els.quoteControls.style.display = 'block';
+  els.emptyState.style.display = 'none';
+  els.searchResults.classList.remove('show');
+  els.search.value = `${v.brand} ${v.model_name}`;
+  fetchQuote();
+}
+
+function updateLabels() {
+  els.termVal.textContent = TERMS[+els.term.value];
+  els.mileageVal.textContent = MILEAGE_LABELS[+els.mileage.value];
+  els.prepayVal.textContent = els.prepay.value;
+  els.depositVal.textContent = els.deposit.value;
+}
+
+async function fetchQuote() {
+  if (!selectedVehicle) return;
+  const v = selectedVehicle;
+  const params = new URLSearchParams({
+    term: TERMS[+els.term.value],
+    mileage: MILEAGES[+els.mileage.value],
+    prepay_pct: els.prepay.value,
+    deposit_pct: els.deposit.value,
+    brand: v.brand,
+    model_name: v.model_name,
+    trim_name: v.trim_name,
+    fuel_type: v.fuel_type || '',
+    vehicle_price: v.base_price,
+  });
+  try {
+    const res = await fetch(`${API_URL}?${params}`);
+    const data = await res.json();
+    if (!data.ok) {
+      els.price.textContent = 'ERR';
+      els.breakdown.innerHTML = `<div class="error">${data.error}: ${data.message || ''}</div>`;
+      els.vCat.textContent = '-';
+      els.result.classList.add('show');
+      return;
+    }
+    els.vCat.textContent = data.meta.category || '-';
+    els.price.textContent = data.monthly_payment.toLocaleString();
+    const b = data.breakdown;
+    const c = data.conditions;
+    els.breakdown.innerHTML = `
+      <div>잔가 ${c.residual_pct}% (${c.residual_amount.toLocaleString()}원) · 베이스 ${b.base_monthly.toLocaleString()}원</div>
+      <div style="margin-top:.2rem">선납 ${b.prepay_adjustment.toLocaleString()}원 · 보증금 ${b.deposit_adjustment.toLocaleString()}원</div>
+      <div style="margin-top:.2rem">선납금액 ${c.prepay_amount.toLocaleString()}원 / 보증금액 ${c.deposit_amount.toLocaleString()}원</div>
+    `;
+    const isEstimated = data.meta.calculation_source === 'estimated_from_category';
+    els.meta.innerHTML = isEstimated
+      ? `<span class="estimated">카테고리 추정</span> · ${data.meta.backend} · ${data.meta.response_ms}ms`
+      : `정확 매칭 · ${data.meta.backend} · ${data.meta.response_ms}ms`;
+    els.result.classList.add('show');
+  } catch (e) {
+    els.price.textContent = 'ERR';
+    els.breakdown.innerHTML = `<div class="error">API 호출 실패: ${e.message}</div>`;
+    els.result.classList.add('show');
+  }
+}
+
+function onSliderChange() {
+  updateLabels();
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(fetchQuote, 200);
+}
+
+['term','mileage','prepay','deposit'].forEach(k => els[k].addEventListener('input', onSliderChange));
+updateLabels();
+loadCars();
+</script>
+</body>
+</html>

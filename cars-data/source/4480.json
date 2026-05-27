@@ -1,0 +1,88 @@
+{
+  "model_id": 4480,
+  "brand": "BMW",
+  "name": "X6 M",
+  "img": "https://autoimg.danawa.com/photo/4480/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53510,
+      "name": "가솔린 4.4",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94824,
+          "trimName": "X6 M Competition (P1)",
+          "price": 195800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 메탈릭",
+              "colorHexadecimal": "111111",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "미네랄 화이트 메탈릭",
+              "colorHexadecimal": "e4e3e1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "M 브루클린 그레이 메탈릭",
+              "colorHexadecimal": "858e8f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "M 마리나 베이 블루 메탈릭",
+              "colorHexadecimal": "1a296a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "샤키르 오렌지",
+              "colorHexadecimal": "8d332b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "애들레이드 그레이",
+              "colorHexadecimal": "4d4740",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

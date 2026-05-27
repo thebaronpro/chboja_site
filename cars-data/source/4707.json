@@ -1,0 +1,1336 @@
+{
+  "model_id": 4707,
+  "brand": "아우디",
+  "name": "A3",
+  "img": "https://autoimg.danawa.com/photo/4707/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53484,
+      "name": "가솔린 2.0",
+      "year": "2026년형",
+      "percent": 90,
+      "trims": [
+        {
+          "trimNo": 93914,
+          "trimName": "40 TFSI",
+          "price": 44510000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Progressive Red Metallic",
+              "colorHexadecimal": "d2181c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "District Green Metallic",
+              "colorHexadecimal": "343c25",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Arkona White Solid",
+              "colorHexadecimal": "d9dcd5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Mythos Black Metallic",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Navarra Blue Metallic",
+              "colorHexadecimal": "02153c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Glacier White Metallic",
+              "colorHexadecimal": "d8dcdd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "Brilliant Black Solid",
+              "colorHexadecimal": "323232",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "Manhattan Gray Metallic",
+              "colorHexadecimal": "353638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "Arrow Gray Pearl",
+              "colorHexadecimal": "929fa7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 3,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Santos Brown",
+              "colorHexadecimal": "635957",
+              "rank": 1,
+              "percent": 43,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "Parchment Beige",
+              "colorHexadecimal": "d9cdbf",
+              "rank": 2,
+              "percent": 43,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93915,
+          "trimName": "40 TFSI Premium",
+          "price": 48740000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Progressive Red Metallic",
+              "colorHexadecimal": "d2181c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "District Green Metallic",
+              "colorHexadecimal": "343c25",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Arkona White Solid",
+              "colorHexadecimal": "d9dcd5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Mythos Black Metallic",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Navarra Blue Metallic",
+              "colorHexadecimal": "02153c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Glacier White Metallic",
+              "colorHexadecimal": "d8dcdd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Python Yellow Metallic",
+              "colorHexadecimal": "e9df09",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray Pearl",
+              "colorHexadecimal": "4f5257",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Ascari Blue Metallic",
+              "colorHexadecimal": "124599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93916,
+          "trimName": "40 TFSI Quattro Premium",
+          "price": 51680000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Progressive Red Metallic",
+              "colorHexadecimal": "d2181c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "District Green Metallic",
+              "colorHexadecimal": "343c25",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Arkona White Solid",
+              "colorHexadecimal": "d9dcd5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Mythos Black Metallic",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Navarra Blue Metallic",
+              "colorHexadecimal": "02153c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Glacier White Metallic",
+              "colorHexadecimal": "d8dcdd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Python Yellow Metallic",
+              "colorHexadecimal": "e9df09",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray Pearl",
+              "colorHexadecimal": "4f5257",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Ascari Blue Metallic",
+              "colorHexadecimal": "124599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53487,
+      "name": "RS3 가솔린 2.5",
+      "year": "2026년형",
+      "percent": 2,
+      "trims": [
+        {
+          "trimNo": 93920,
+          "trimName": "RS3",
+          "price": 79660000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Kyalami Green",
+              "colorHexadecimal": "62ad2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Arkona White",
+              "colorHexadecimal": "f6f6f6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Mythos Black, Metallic",
+              "colorHexadecimal": "050505",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Kemora Gray, Metallic",
+              "colorHexadecimal": "5c6d7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Progressive Red, Metallic",
+              "colorHexadecimal": "dc0b1b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Python Yellow, Metallic",
+              "colorHexadecimal": "eadd02",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Ascari Blue, Metallic",
+              "colorHexadecimal": "00224a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray, Pearl Effect",
+              "colorHexadecimal": "37393b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93921,
+          "trimName": "RS3 Carbon Edition",
+          "price": 84670000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Kyalami Green",
+              "colorHexadecimal": "62ad2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Arkona White",
+              "colorHexadecimal": "f6f6f6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Mythos Black, Metallic",
+              "colorHexadecimal": "050505",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Kemora Gray, Metallic",
+              "colorHexadecimal": "5c6d7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Progressive Red, Metallic",
+              "colorHexadecimal": "dc0b1b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Python Yellow, Metallic",
+              "colorHexadecimal": "eadd02",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Ascari Blue, Metallic",
+              "colorHexadecimal": "00224a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray, Pearl Effect",
+              "colorHexadecimal": "37393b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53062,
+      "name": "가솔린 2.0",
+      "year": "2025년형",
+      "percent": 6,
+      "trims": [
+        {
+          "trimNo": 92347,
+          "trimName": "40 TFSI",
+          "price": 43420000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Progressive Red Metallic",
+              "colorHexadecimal": "d2181c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "District Green Metallic",
+              "colorHexadecimal": "343c25",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Arkona White Solid",
+              "colorHexadecimal": "d9dcd5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Mythos Black Metallic",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Navarra Blue Metallic",
+              "colorHexadecimal": "02153c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Glacier White Metallic",
+              "colorHexadecimal": "d8dcdd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "Brilliant Black Solid",
+              "colorHexadecimal": "323232",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "Manhattan Gray Metallic",
+              "colorHexadecimal": "353638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "Arrow Gray Pearl",
+              "colorHexadecimal": "929fa7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Santos Brown",
+              "colorHexadecimal": "635957",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "Parchment Beige",
+              "colorHexadecimal": "d9cdbf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92137,
+          "trimName": "40 TFSI Premium",
+          "price": 47460000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Progressive Red Metallic",
+              "colorHexadecimal": "d2181c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "District Green Metallic",
+              "colorHexadecimal": "343c25",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Arkona White Solid",
+              "colorHexadecimal": "d9dcd5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Mythos Black Metallic",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Navarra Blue Metallic",
+              "colorHexadecimal": "02153c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Glacier White Metallic",
+              "colorHexadecimal": "d8dcdd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Python Yellow Metallic",
+              "colorHexadecimal": "e9df09",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray Pearl",
+              "colorHexadecimal": "4f5257",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Ascari Blue Metallic",
+              "colorHexadecimal": "124599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93150,
+          "trimName": "40 TFSI Premium (9W9W)",
+          "price": 47860000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Ascari Blue Metallic",
+              "colorHexadecimal": "124599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93152,
+          "trimName": "40 TFSI Quattro Premium (U53)",
+          "price": 49530000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Progressive Red Metallic",
+              "colorHexadecimal": "d2181c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "District Green Metallic",
+              "colorHexadecimal": "343c25",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Arkona White Solid",
+              "colorHexadecimal": "d9dcd5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Mythos Black Metallic",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Navarra Blue Metallic",
+              "colorHexadecimal": "02153c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Glacier White Metallic",
+              "colorHexadecimal": "d8dcdd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Python Yellow Metallic",
+              "colorHexadecimal": "e9df09",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray Pearl",
+              "colorHexadecimal": "4f5257",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Ascari Blue Metallic",
+              "colorHexadecimal": "124599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92138,
+          "trimName": "40 TFSI Quattro Premium",
+          "price": 50400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Progressive Red Metallic",
+              "colorHexadecimal": "d2181c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "District Green Metallic",
+              "colorHexadecimal": "343c25",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Arkona White Solid",
+              "colorHexadecimal": "d9dcd5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Mythos Black Metallic",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Navarra Blue Metallic",
+              "colorHexadecimal": "02153c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Glacier White Metallic",
+              "colorHexadecimal": "d8dcdd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Python Yellow Metallic",
+              "colorHexadecimal": "e9df09",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray Pearl",
+              "colorHexadecimal": "4f5257",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Ascari Blue Metallic",
+              "colorHexadecimal": "124599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93151,
+          "trimName": "40 TFSI Quattro Premium (9W9W)",
+          "price": 50800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Ascari Blue Metallic",
+              "colorHexadecimal": "124599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53372,
+      "name": "RS3 가솔린 2.5",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93547,
+          "trimName": "RS3",
+          "price": 77200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Kyalami Green",
+              "colorHexadecimal": "62ad2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Arkona White",
+              "colorHexadecimal": "f6f6f6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Mythos Black, Metallic",
+              "colorHexadecimal": "050505",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Kemora Gray, Metallic",
+              "colorHexadecimal": "5c6d7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Progressive Red, Metallic",
+              "colorHexadecimal": "dc0b1b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Python Yellow, Metallic",
+              "colorHexadecimal": "eadd02",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Ascari Blue, Metallic",
+              "colorHexadecimal": "00224a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray, Pearl Effect",
+              "colorHexadecimal": "37393b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93548,
+          "trimName": "RS3 Carbon Edition",
+          "price": 82110000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Kyalami Green",
+              "colorHexadecimal": "62ad2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Arkona White",
+              "colorHexadecimal": "f6f6f6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Mythos Black, Metallic",
+              "colorHexadecimal": "050505",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Kemora Gray, Metallic",
+              "colorHexadecimal": "5c6d7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Progressive Red, Metallic",
+              "colorHexadecimal": "dc0b1b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Python Yellow, Metallic",
+              "colorHexadecimal": "eadd02",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Ascari Blue, Metallic",
+              "colorHexadecimal": "00224a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Daytona Gray, Pearl Effect",
+              "colorHexadecimal": "37393b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

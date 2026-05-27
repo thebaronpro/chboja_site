@@ -1,0 +1,117 @@
+{
+  "_metadata": {
+    "capital_code": "KB",
+    "capital_name": "KB캐피탈",
+    "product_codes": {
+      "5010000003": "장기렌터카(다이렉트) — 국산차",
+      "5020000002": "장기렌터카(다이렉트) — 수입/전기차"
+    },
+    "collected_at": "2026-05-26",
+    "collector": "Cowork automated collection + manual verification",
+    "version": "v2 (9 vehicles + 1 trim variation)",
+    "common_conditions": {
+      "보험": "만 26세 / 대물 1억",
+      "정비상품": "Finance+ 12개월",
+      "수수료": "0%",
+      "색상": "무료 색상 선택",
+      "썬팅": "전면 0.루마GG / 측후면 1-0(현대기아) 또는 2-0(테슬라) / 블랙박스 FHD-FHD"
+    },
+    "key_findings": {
+      "선납_보간_공식": "평균 오차 0.4% (9건 중 8건 OK, Model 3만 1.07% WARN)",
+      "이자율_차종군별": {
+        "현대_세단_SUV": "6.07~6.17%",
+        "그랜저": "5.73%",
+        "기아": "6.39~6.54%",
+        "쏘나타": "6.51%",
+        "Model_3_전기차": "7.11%"
+      },
+      "트림_보간": "오차 3.78% — 단순 가격 차이 보간 불충분. 트림별 별도 수집 필요"
+    }
+  },
+  "vehicles": [
+    {
+      "brand": "현대", "model_name": "더 뉴 아반떼", "year_code": "26MY",
+      "trim_name": "[26MY]현대 더 뉴 아반떼(CN7) 1.6 가솔린 스마트",
+      "engine_cc": 1598, "drivetrain": "2WD", "base_price": 20650000,
+      "is_representative": true, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 64.0, "residual_amount": 13216000, "monthly_base_payment": 332620}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 187630}]
+    },
+    {
+      "brand": "현대", "model_name": "더 뉴 아반떼", "year_code": "26MY",
+      "trim_name": "[26MY]현대 더 뉴 아반떼(CN7) 1.6 가솔린 모던",
+      "engine_cc": 1598, "drivetrain": "2WD", "base_price": 23910000,
+      "is_representative": false, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 64.0, "residual_amount": 15303000, "monthly_base_payment": 374200}],
+      "validation_samples": [],
+      "_note": "트림 보간 검증용 — 스마트(베이스) 대비 +3,260,000원, 실제 월납 +41,580원. 공식 보간 +27,452원 → 오차 -3.78%"
+    },
+    {
+      "brand": "현대", "model_name": "디 올 뉴 싼타페", "year_code": "26MY",
+      "trim_name": "[26MY]현대 디 올 뉴 싼타페 MX5 가솔린 2.5T 2WD 익스클루시브 5인승",
+      "engine_cc": 2497, "drivetrain": "2WD", "base_price": 36620000,
+      "is_representative": true, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 63.0, "residual_amount": 23071000, "monthly_base_payment": 539040}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 282390}]
+    },
+    {
+      "brand": "현대", "model_name": "디 올 뉴 팰리세이드", "year_code": "25MY",
+      "trim_name": "[25MY]현대 디 올 뉴 팰리세이드 2.5 가솔린 터보 2WD 9인승 익스클루시브",
+      "engine_cc": 2497, "drivetrain": "2WD", "base_price": 43830000,
+      "is_representative": true, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 64.0, "residual_amount": 28052000, "monthly_base_payment": 652350}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 344610}],
+      "_note": "26MY 미등록 — 25MY로 진행"
+    },
+    {
+      "brand": "현대", "model_name": "디 올 뉴 그랜저", "year_code": "26MY",
+      "trim_name": "[26MY]현대 디 올 뉴 그랜저 2.5 가솔린 2WD 프리미엄",
+      "engine_cc": 2497, "drivetrain": "2WD", "base_price": 38570000,
+      "is_representative": true, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 66.0, "residual_amount": 25457000, "monthly_base_payment": 518560}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 249860}]
+    },
+    {
+      "brand": "현대", "model_name": "쏘나타 디 엣지", "year_code": "26MY",
+      "trim_name": "[26MY]현대 쏘나타 디 엣지(DN8) 2.0 프리미엄",
+      "engine_cc": 1999, "drivetrain": "2WD", "base_price": 28700000,
+      "is_representative": true, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 62.0, "residual_amount": 17794000, "monthly_base_payment": 449980}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 247240}]
+    },
+    {
+      "brand": "기아", "model_name": "더 뉴 K5", "year_code": "26MY",
+      "trim_name": "[26MY]기아 더 뉴 K5 3세대 2.0 LPG 렌터카 트렌디",
+      "engine_cc": 1999, "drivetrain": "2WD", "base_price": 25070000,
+      "is_representative": true, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 47.0, "residual_amount": 11783000, "monthly_base_payment": 494270}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 317090}],
+      "_note": "K5 최저트림이 렌터카 전용 LPi — 일반 사용 시 가솔린 스마트 셀렉션(2,766만원) 추천"
+    },
+    {
+      "brand": "기아", "model_name": "더 뉴 카니발", "year_code": "26MY",
+      "trim_name": "[26MY]기아 더 뉴 카니발 4세대 G3.5 GDI 9인승 프레스티지",
+      "engine_cc": 3470, "drivetrain": "2WD", "base_price": 36360000,
+      "is_representative": true, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 65.0, "residual_amount": 23634000, "monthly_base_payment": 546290}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 289990}]
+    },
+    {
+      "brand": "기아", "model_name": "디 올뉴셀토스", "year_code": "26MY",
+      "trim_name": "[26MY]기아 디 올뉴셀토스 1.6 가솔린 터보 2WD 트렌디",
+      "engine_cc": 1598, "drivetrain": "2WD", "base_price": 25150000,
+      "is_representative": true, "product_code": "5010000003",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 65.0, "residual_amount": 16348000, "monthly_base_payment": 387020}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 209740}]
+    },
+    {
+      "brand": "테슬라", "model_name": "Model 3", "year_code": "26MY",
+      "trim_name": "[26MY]테슬라 Model 3 RWD 스탠다드",
+      "engine_cc": 0, "drivetrain": "RWD", "base_price": 41990000,
+      "is_representative": true, "product_code": "5020000002",
+      "base_quotes": [{"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 46.0, "residual_amount": 19316000, "monthly_base_payment": 774560}],
+      "validation_samples": [{"term_months": 48, "annual_mileage_km": 10000, "prepay_pct": 30, "site_monthly_payment": 474800}],
+      "_note": "전기차 — 별도 상품코드(5020000002). 이자율도 다름(7.11% 추정). 별도 formula_params 필요"
+    }
+  ]
+}

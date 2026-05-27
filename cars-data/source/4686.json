@@ -1,0 +1,1688 @@
+{
+  "model_id": 4686,
+  "brand": "기아",
+  "name": "타스만",
+  "img": "https://autoimg.danawa.com/photo/4686/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52081,
+      "name": "가솔린 터보 2.5",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 88929,
+          "trimName": "다이내믹 2WD",
+          "price": 37500000,
+          "transmission": "",
+          "percent": 23,
+          "options": [
+            {
+              "seq": "345483",
+              "name": "스타일",
+              "price": 750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "265/60 R18 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29233.jpg"
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29234.jpg"
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29235.jpg"
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29236.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345484",
+              "name": "12.3인치 클러스터",
+              "price": 600000,
+              "code": "A12",
+              "percent": 34,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터 (12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29238.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345485",
+              "name": "드라이브 와이즈",
+              "price": 1500000,
+              "code": "A13",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29239.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29240.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29241.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29242.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29243.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29244.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29245.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29246.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29247.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29248.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "1f1b22",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스틸 그레이 (KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린 (CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "데님 블루 (DNB)",
+              "colorHexadecimal": "35424f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2f2f2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 88930,
+          "trimName": "다이내믹 4WD",
+          "price": 40150000,
+          "transmission": "",
+          "percent": 20,
+          "options": [
+            {
+              "seq": "345487",
+              "name": "스타일",
+              "price": 750000,
+              "code": "A11",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "265/60 R18 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29233.jpg"
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29234.jpg"
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29235.jpg"
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29236.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345488",
+              "name": "12.3인치 클러스터",
+              "price": 600000,
+              "code": "A12",
+              "percent": 45,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터 (12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29238.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345489",
+              "name": "드라이브 와이즈",
+              "price": 1500000,
+              "code": "A13",
+              "percent": 36,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29239.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29240.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29241.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29242.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29243.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29244.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29245.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29246.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29247.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29248.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "1f1b22",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스틸 그레이 (KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린 (CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "데님 블루 (DNB)",
+              "colorHexadecimal": "35424f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2f2f2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92177,
+          "trimName": "어드벤처 2WD",
+          "price": 41100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345491",
+              "name": "스타일",
+              "price": 750000,
+              "code": "A11",
+              "percent": 47,
+              "items": [
+                {
+                  "name": "265/60 R18 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29233.jpg"
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29234.jpg"
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29235.jpg"
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29236.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345492",
+              "name": "드라이브 와이즈",
+              "price": 1500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29239.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29240.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29241.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29242.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29243.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29244.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29245.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29246.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29247.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29248.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345493",
+              "name": "모니터링",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 40,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29251.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29252.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29254.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29255.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29256.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345494",
+              "name": "하이테크",
+              "price": 950000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 플러스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29263.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29265.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345495",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 600000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29267.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345496",
+              "name": "선루프",
+              "price": 500000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "1f1b22",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스틸 그레이 (KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린 (CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "데님 블루 (DNB)",
+              "colorHexadecimal": "35424f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2f2f2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "3d3835",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92188,
+          "trimName": "어드벤처 4WD",
+          "price": 43750000,
+          "transmission": "",
+          "percent": 37,
+          "options": [
+            {
+              "seq": "345505",
+              "name": "스타일",
+              "price": 750000,
+              "code": "A11",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "265/60 R18 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29233.jpg"
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29234.jpg"
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29235.jpg"
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29236.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345506",
+              "name": "드라이브 와이즈",
+              "price": 1500000,
+              "code": "A13",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29239.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29240.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29241.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29242.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29243.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29244.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29245.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29246.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29247.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29248.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345507",
+              "name": "모니터링",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 31,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29251.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29252.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29254.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29255.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29256.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345508",
+              "name": "하이테크",
+              "price": 950000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 플러스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29263.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29265.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345509",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 600000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29267.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345510",
+              "name": "선루프",
+              "price": 500000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "1f1b22",
+              "rank": 1,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스틸 그레이 (KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린 (CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 2,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "데님 블루 (DNB)",
+              "colorHexadecimal": "35424f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2f2f2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "3d3835",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92178,
+          "trimName": "익스트림 2WD",
+          "price": 44900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345519",
+              "name": "드라이브 와이즈",
+              "price": 1500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29239.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29240.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29241.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29242.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29243.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29244.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29245.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29246.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29247.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29248.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345520",
+              "name": "모니터링",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29251.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29252.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29254.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29255.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29256.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345521",
+              "name": "하이테크",
+              "price": 950000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 플러스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29263.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29265.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345522",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 600000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29267.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345523",
+              "name": "선루프",
+              "price": 500000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "1f1b22",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스틸 그레이 (KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린 (CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "데님 블루 (DNB)",
+              "colorHexadecimal": "35424f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2f2f2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "3d3835",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "딥 그린",
+              "colorHexadecimal": "2b3131",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92189,
+          "trimName": "익스트림 4WD",
+          "price": 47550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345533",
+              "name": "드라이브 와이즈",
+              "price": 1500000,
+              "code": "A13",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29239.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29240.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29241.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29242.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29243.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29244.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29245.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29246.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29247.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29248.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345534",
+              "name": "모니터링",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29251.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29252.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29254.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29255.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29256.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345535",
+              "name": "하이테크",
+              "price": 950000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 플러스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29263.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29265.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345536",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 600000,
+              "code": "A16",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29267.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345537",
+              "name": "선루프",
+              "price": 500000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "1f1b22",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스틸 그레이 (KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린 (CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "데님 블루 (DNB)",
+              "colorHexadecimal": "35424f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2f2f2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "3d3835",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "딥 그린",
+              "colorHexadecimal": "2b3131",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52425,
+      "name": "가솔린 터보 2.5 (X-Pro)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 90683,
+          "trimName": "X-Pro",
+          "price": 52400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345561",
+              "name": "드라이브 와이즈",
+              "price": 1500000,
+              "code": "A11",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29239.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29240.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29241.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29242.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29243.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29244.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29245.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29246.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29247.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29248.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345562",
+              "name": "하이테크",
+              "price": 950000,
+              "code": "A12",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 플러스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29263.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29265.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345563",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 600000,
+              "code": "A13",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4686/items/29267.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "345564",
+              "name": "선루프",
+              "price": 500000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "1f1b22",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스틸 그레이 (KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린 (CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "탠 베이지 (TAM)",
+              "colorHexadecimal": "897e73",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2f2f2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "딥 그린+테라코타 브라운",
+              "colorHexadecimal": "2b3131/674134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

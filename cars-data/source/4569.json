@@ -1,0 +1,428 @@
+{
+  "model_id": 4569,
+  "brand": "메르세데스-벤츠",
+  "name": "EQB",
+  "img": "https://autoimg.danawa.com/photo/4569/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53418,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93733,
+          "trimName": "EQB300 4MATIC Progressive",
+          "price": 78800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "디지털 화이트 (144U)",
+              "colorHexadecimal": "ededed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U)",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U)",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 마그노 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93734,
+          "trimName": "EQB300 4MATIC AMG Line",
+          "price": 84300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "디지털 화이트 (144U)",
+              "colorHexadecimal": "ededed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U)",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U)",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 마그노 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53200,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92608,
+          "trimName": "EQB300 4MATIC Progressive",
+          "price": 78100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "디지털 화이트 (144U)",
+              "colorHexadecimal": "ededed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U)",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U)",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 마그노 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92609,
+          "trimName": "EQB300 4MATIC AMG Line",
+          "price": 83600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "디지털 화이트 (144U)",
+              "colorHexadecimal": "ededed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U)",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U)",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 마그노 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

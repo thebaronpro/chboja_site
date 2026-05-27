@@ -1,0 +1,6095 @@
+{
+  "model_id": 4765,
+  "brand": "현대",
+  "name": "더 뉴 스타리아",
+  "img": "https://autoimg.danawa.com/photo/4765/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53558,
+      "name": "가솔린 터보 1.6 하이브리드 투어러(9/11인승)",
+      "year": "2026년형",
+      "percent": 28,
+      "trims": [
+        {
+          "trimNo": 94104,
+          "trimName": "11인승 스마트 2WD",
+          "price": 38700000,
+          "transmission": "",
+          "percent": 44,
+          "options": [
+            {
+              "seq": "358960",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1700000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                },
+                {
+                  "name": "어드밴스드 후석 승객 알림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30011.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "다이나믹 옐로우 (NFA)",
+              "colorHexadecimal": "e1c15e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94105,
+          "trimName": "11인승 모던 2WD",
+          "price": 39990000,
+          "transmission": "",
+          "percent": 34,
+          "options": [
+            {
+              "seq": "358962",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358963",
+              "name": "듀얼 와이드 선루프 + LED 실내등 (맵램프/룸램프)",
+              "price": 900000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "듀얼 와이드 선루프",
+                  "exp": "- 선루프 선택 시 루프 트레이 미적용",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30025.jpg"
+                },
+                {
+                  "name": "LED 실내등 (맵램프, 룸램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30026.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358964",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1500000,
+              "code": "A14",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "어드밴스드 후석 승객 알림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30011.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358965",
+              "name": "익스테리어 디자인(11인승)",
+              "price": 1050000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "- 11인승은 자동차 안전기준의 등화장치 설치기준에 따라 차량 앞면 중앙부 LED 포지셔닝 램프 미적용",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30015.jpg"
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358966",
+              "name": "컴포트",
+              "price": 550000,
+              "code": "A17",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358967",
+              "name": "테크Ⅰ",
+              "price": 1350000,
+              "code": "A18",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                },
+                {
+                  "name": "후석 뷰",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29986.jpg"
+                },
+                {
+                  "name": "후석 음성 인식",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29987.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358968",
+              "name": "테크Ⅱ",
+              "price": 1250000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29999.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "다이나믹 옐로우 (NFA)",
+              "colorHexadecimal": "e1c15e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94106,
+          "trimName": "9인승 스마트 2WD",
+          "price": 38760000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358972",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1700000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                },
+                {
+                  "name": "어드밴스드 후석 승객 알림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30011.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "다이나믹 옐로우 (NFA)",
+              "colorHexadecimal": "e1c15e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94107,
+          "trimName": "9인승 모던 2WD",
+          "price": 39990000,
+          "transmission": "",
+          "percent": 15,
+          "options": [
+            {
+              "seq": "358975",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358976",
+              "name": "듀얼 와이드 선루프 + LED 실내등 (맵램프/룸램프)",
+              "price": 900000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "듀얼 와이드 선루프",
+                  "exp": "- 선루프 선택 시 루프 트레이 미적용",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30025.jpg"
+                },
+                {
+                  "name": "LED 실내등 (맵램프, 룸램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30026.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358977",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1500000,
+              "code": "A14",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "어드밴스드 후석 승객 알림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30011.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358978",
+              "name": "익스테리어 디자인(9인승)",
+              "price": 1100000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30015.jpg"
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358979",
+              "name": "컴포트",
+              "price": 550000,
+              "code": "A17",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358980",
+              "name": "테크Ⅰ",
+              "price": 1350000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                },
+                {
+                  "name": "후석 뷰",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29986.jpg"
+                },
+                {
+                  "name": "후석 음성 인식",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29987.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358981",
+              "name": "테크Ⅱ",
+              "price": 1250000,
+              "code": "A19",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29999.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "다이나믹 옐로우 (NFA)",
+              "colorHexadecimal": "e1c15e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53556,
+      "name": "가솔린 터보 1.6 하이브리드 라운지 (7/9인승)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94100,
+          "trimName": "9인승 프레스티지 2WD",
+          "price": 44990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358865",
+              "name": "듀얼와이드선루프",
+              "price": 850000,
+              "code": "A11",
+              "percent": 16,
+              "items": []
+            },
+            {
+              "seq": "358866",
+              "name": "스마트",
+              "price": 1410000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 키 2",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29983.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29984.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                },
+                {
+                  "name": "후석 뷰",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29986.jpg"
+                },
+                {
+                  "name": "후석 음성 인식",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29987.jpg"
+                },
+                {
+                  "name": "빌트인 캠 2 PLUS",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29988.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358867",
+              "name": "컴포트Ⅰ",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연가죽 시트(블랙/엔트러사이트 브라운)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선/통풍 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동 시트(4way, 워크인 디바이스)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358868",
+              "name": "컴포트Ⅱ",
+              "price": 500000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358869",
+              "name": "테크Ⅰ",
+              "price": 1900000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "BOSE 프리미엄 사운드(12스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29998.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358870",
+              "name": "테크Ⅱ",
+              "price": 1250000,
+              "code": "A22",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29999.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "캐스트아이언 브라운 펄 (CRP)",
+              "colorHexadecimal": "7b6e64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "갤럭시 마룬 펄 (GMP)",
+              "colorHexadecimal": "4e403e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/엔트러사이트 브라운 투톤",
+              "colorHexadecimal": "1d1e21/3f3d3a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94101,
+          "trimName": "9인승 인스퍼레이션 2WD",
+          "price": 48760000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358874",
+              "name": "듀얼와이드선루프",
+              "price": 850000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358875",
+              "name": "BOSE 프리미엄 사운드 (12스피커+외장앰프)",
+              "price": 600000,
+              "code": "A13",
+              "percent": 15,
+              "items": []
+            },
+            {
+              "seq": "358876",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A15",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "358877",
+              "name": "컴포트Ⅱ",
+              "price": 500000,
+              "code": "A19",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358878",
+              "name": "[HGA] 빌트인 공기청정기 (9인승)",
+              "price": 400000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 빌트인 공기청정기",
+                  "exp": "- 그레이/로토루아 크림 투톤 선택 시 적용 불가",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30034.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358879",
+              "name": "[HGA] 후석 전동식 사이드 스텝(우측) (9인승)",
+              "price": 650000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 후석 전동식 사이드 스텝(우측)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30036.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "캐스트아이언 브라운 펄 (CRP)",
+              "colorHexadecimal": "7b6e64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "갤럭시 마룬 펄 (GMP)",
+              "colorHexadecimal": "4e403e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/엔트러사이트 브라운 투톤",
+              "colorHexadecimal": "1d1e21/3f3d3a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙/보르도 브라운 투톤",
+              "colorHexadecimal": "1d1e21/322625",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "그레이/로토루아 크림 투톤",
+              "colorHexadecimal": "8d8f90/e5e2d8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94102,
+          "trimName": "7인승 인스퍼레이션 2WD",
+          "price": 50210000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358883",
+              "name": "듀얼와이드선루프",
+              "price": 880000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358884",
+              "name": "BOSE 프리미엄 사운드 (12스피커+외장앰프)",
+              "price": 630000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358885",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 690000,
+              "code": "A16",
+              "percent": 24,
+              "items": []
+            },
+            {
+              "seq": "358886",
+              "name": "컴포트Ⅱ",
+              "price": 510000,
+              "code": "A20",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358887",
+              "name": "[HGA] 빌트인 공기청정기 (7인승)",
+              "price": 410000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 빌트인 공기청정기",
+                  "exp": "- 그레이/로토루아 크림 투톤 선택 시 적용 불가",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30034.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358888",
+              "name": "[HGA] 후석 전동식 사이드 스텝(우측) (7인승)",
+              "price": 670000,
+              "code": "A26",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "[HGA] 후석 전동식 사이드 스텝(우측)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30036.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "캐스트아이언 브라운 펄 (CRP)",
+              "colorHexadecimal": "7b6e64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "갤럭시 마룬 펄 (GMP)",
+              "colorHexadecimal": "4e403e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/엔트러사이트 브라운 투톤",
+              "colorHexadecimal": "1d1e21/3f3d3a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙/보르도 브라운 투톤",
+              "colorHexadecimal": "1d1e21/322625",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "그레이/로토루아 크림 투톤",
+              "colorHexadecimal": "8d8f90/e5e2d8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53696,
+      "name": "가솔린 터보 1.6 하이브리드 카고(2/5인승)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94731,
+          "trimName": "2인승 스마트",
+          "price": 36250000,
+          "transmission": "",
+          "percent": 11,
+          "options": [
+            {
+              "seq": "362552",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362553",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1650000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362554",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94732,
+          "trimName": "2인승 모던",
+          "price": 37450000,
+          "transmission": "",
+          "percent": 32,
+          "options": [
+            {
+              "seq": "362555",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362556",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362557",
+              "name": "윈도우 밴(2인승)",
+              "price": 300000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362558",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1450000,
+              "code": "A14",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362559",
+              "name": "익스테리어 디자인(2인승)",
+              "price": 550000,
+              "code": "A15",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362560",
+              "name": "컴포트(2인승)",
+              "price": 800000,
+              "code": "A17",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362561",
+              "name": "테크",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362562",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94733,
+          "trimName": "5인승 스마트",
+          "price": 36990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362564",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362565",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1650000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362566",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94734,
+          "trimName": "5인승 모던",
+          "price": 38200000,
+          "transmission": "",
+          "percent": 49,
+          "options": [
+            {
+              "seq": "362567",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362568",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362569",
+              "name": "윈도우 밴(5인승)",
+              "price": 200000,
+              "code": "A22",
+              "percent": 23,
+              "items": []
+            },
+            {
+              "seq": "362570",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1450000,
+              "code": "A14",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362571",
+              "name": "익스테리어 디자인(5인승)",
+              "price": 850000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362572",
+              "name": "컴포트(5인승)",
+              "price": 1050000,
+              "code": "A24",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362573",
+              "name": "테크",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362574",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53559,
+      "name": "LPG 3.5 투어러(11인승)",
+      "year": "2026년형",
+      "percent": 13,
+      "trims": [
+        {
+          "trimNo": 94108,
+          "trimName": "11인승 스마트 2WD",
+          "price": 35020000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358998",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1900000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                },
+                {
+                  "name": "어드밴스드 후석 승객 알림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30011.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "다이나믹 옐로우 (NFA)",
+              "colorHexadecimal": "e1c15e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94109,
+          "trimName": "11인승 모던 2WD",
+          "price": 36590000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359000",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359001",
+              "name": "듀얼 와이드 선루프 + LED 실내등 (맵램프/룸램프)",
+              "price": 900000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "듀얼 와이드 선루프",
+                  "exp": "- 선루프 선택 시 루프 트레이 미적용",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30025.jpg"
+                },
+                {
+                  "name": "LED 실내등 (맵램프, 룸램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30026.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359002",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1700000,
+              "code": "A14",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "어드밴스드 후석 승객 알림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30011.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359003",
+              "name": "익스테리어 디자인(11인승)",
+              "price": 1050000,
+              "code": "A15",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "- 11인승은 자동차 안전기준의 등화장치 설치기준에 따라 차량 앞면 중앙부 LED 포지셔닝 램프 미적용",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30015.jpg"
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359004",
+              "name": "컴포트",
+              "price": 550000,
+              "code": "A17",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359005",
+              "name": "테크Ⅰ",
+              "price": 1350000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                },
+                {
+                  "name": "후석 뷰",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29986.jpg"
+                },
+                {
+                  "name": "후석 음성 인식",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29987.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359006",
+              "name": "테크Ⅱ",
+              "price": 1250000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29999.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30001.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359144",
+              "name": "[HGA] 트레일러 패키지(토우히치 + LED 테일게이트 램프)",
+              "price": 1270000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 트레일러 패키지(토우히치+LED 테일게이트 램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30032.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "다이나믹 옐로우 (NFA)",
+              "colorHexadecimal": "e1c15e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53557,
+      "name": "LPG 3.5 라운지(7인승)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94103,
+          "trimName": "7인승 인스퍼레이션 2WD",
+          "price": 47050000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358914",
+              "name": "듀얼와이드선루프",
+              "price": 880000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358915",
+              "name": "BOSE 프리미엄 사운드 (12스피커+외장앰프)",
+              "price": 630000,
+              "code": "A14",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "358916",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 690000,
+              "code": "A16",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "358918",
+              "name": "컴포트",
+              "price": 510000,
+              "code": "A18",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358919",
+              "name": "[HGA] 트레일러 패키지 (토우히치 &amp; LED 테일게이트 램프)",
+              "price": 1320000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 트레일러 패키지(토우히치+LED 테일게이트 램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30032.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358920",
+              "name": "[HGA] 빌트인 공기청정기 (7인승)",
+              "price": 410000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 빌트인 공기청정기",
+                  "exp": "- 그레이/로토루아 크림 투톤 선택 시 적용 불가",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30034.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358921",
+              "name": "[HGA] 후석 전동식 사이드 스텝(우측) (7인승)",
+              "price": 670000,
+              "code": "A26",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 후석 전동식 사이드 스텝(우측)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30036.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "캐스트아이언 브라운 펄 (CRP)",
+              "colorHexadecimal": "7b6e64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "갤럭시 마룬 펄 (GMP)",
+              "colorHexadecimal": "4e403e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/엔트러사이트 브라운 투톤",
+              "colorHexadecimal": "1d1e21/3f3d3a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙/보르도 브라운 투톤",
+              "colorHexadecimal": "1d1e21/322625",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "그레이/로토루아 크림 투톤",
+              "colorHexadecimal": "8d8f90/e5e2d8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53697,
+      "name": "LPG 3.5 카고(3/5인승)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94735,
+          "trimName": "3인승 스마트",
+          "price": 32590000,
+          "transmission": "",
+          "percent": 28,
+          "options": [
+            {
+              "seq": "362589",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362590",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1850000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362591",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94736,
+          "trimName": "3인승 모던",
+          "price": 34120000,
+          "transmission": "",
+          "percent": 36,
+          "options": [
+            {
+              "seq": "362592",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362593",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362594",
+              "name": "윈도우 밴(3인승)",
+              "price": 300000,
+              "code": "A21",
+              "percent": 22,
+              "items": []
+            },
+            {
+              "seq": "362595",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1650000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362596",
+              "name": "익스테리어 디자인(3인승)",
+              "price": 550000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362597",
+              "name": "컴포트(3인승)",
+              "price": 800000,
+              "code": "A17",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362598",
+              "name": "테크",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362599",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94737,
+          "trimName": "5인승 스마트",
+          "price": 33460000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362601",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362602",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1850000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362603",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94738,
+          "trimName": "5인승 모던",
+          "price": 34900000,
+          "transmission": "",
+          "percent": 28,
+          "options": [
+            {
+              "seq": "362604",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362605",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362606",
+              "name": "윈도우 밴(5인승)",
+              "price": 200000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362607",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1650000,
+              "code": "A14",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362608",
+              "name": "익스테리어 디자인(5인승)",
+              "price": 850000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362609",
+              "name": "컴포트(5인승)",
+              "price": 1050000,
+              "code": "A24",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362610",
+              "name": "테크",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362611",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53562,
+      "name": "가솔린 터보 1.6 하이브리드 라운지 모빌리티(7/9인승)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94118,
+          "trimName": "9인승 모빌리티9",
+          "price": 47060000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359112",
+              "name": "BOSE 프리미엄 사운드 (12스피커+외장앰프)",
+              "price": 600000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359113",
+              "name": "듀얼와이드선루프",
+              "price": 850000,
+              "code": "A11",
+              "percent": 33,
+              "items": []
+            },
+            {
+              "seq": "359114",
+              "name": "스마트",
+              "price": 1160000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 키 2",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29983.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29984.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                },
+                {
+                  "name": "빌트인 캠 2 PLUS",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29988.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359115",
+              "name": "컴포트Ⅰ",
+              "price": 1100000,
+              "code": "A18",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "천연가죽 시트(블랙/엔트러사이트 브라운)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 통풍 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동 시트(4way, 워크인 디바이스)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359116",
+              "name": "컴포트Ⅱ",
+              "price": 500000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359117",
+              "name": "테크",
+              "price": 1050000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359126",
+              "name": "컴포트Ⅱ + 테크",
+              "price": 1550000,
+              "code": "A22",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359146",
+              "name": "[HGA] 17.3인치 루프 모니터(전동폴딩/블루투스/HDMI/USB 멀티미디어 재생)",
+              "price": 1070000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "캐스트아이언 브라운 펄 (CRP)",
+              "colorHexadecimal": "7b6e64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "갤럭시 마룬 펄 (GMP)",
+              "colorHexadecimal": "4e403e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/엔트러사이트 브라운 투톤",
+              "colorHexadecimal": "1d1e21/3f3d3a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94119,
+          "trimName": "7인승 모빌리티7",
+          "price": 47870000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359119",
+              "name": "BOSE 프리미엄 사운드 (12스피커+외장앰프)",
+              "price": 600000,
+              "code": "A13",
+              "percent": 43,
+              "items": []
+            },
+            {
+              "seq": "359120",
+              "name": "듀얼와이드선루프",
+              "price": 850000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359121",
+              "name": "스마트",
+              "price": 1160000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 키 2",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29983.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29984.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                },
+                {
+                  "name": "빌트인 캠 2 PLUS",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29988.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359122",
+              "name": "컴포트Ⅱ",
+              "price": 500000,
+              "code": "A19",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359123",
+              "name": "테크",
+              "price": 1050000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359127",
+              "name": "컴포트Ⅱ + 테크",
+              "price": 1550000,
+              "code": "A22",
+              "percent": 43,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359147",
+              "name": "[HGA] 17.3인치 루프 모니터(전동폴딩/블루투스/HDMI/USB 멀티미디어 재생)",
+              "price": 1070000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "캐스트아이언 브라운 펄 (CRP)",
+              "colorHexadecimal": "7b6e64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "갤럭시 마룬 펄 (GMP)",
+              "colorHexadecimal": "4e403e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/엔트러사이트 브라운 투톤",
+              "colorHexadecimal": "1d1e21/3f3d3a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53563,
+      "name": "LPG 3.5 라운지 모빌리티(7인승)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94120,
+          "trimName": "7인승 모빌리티7",
+          "price": 44670000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359136",
+              "name": "BOSE 프리미엄 사운드 (12스피커+외장앰프)",
+              "price": 600000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359137",
+              "name": "듀얼와이드선루프",
+              "price": 850000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359138",
+              "name": "스마트",
+              "price": 1160000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 키 2",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29983.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29984.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                },
+                {
+                  "name": "빌트인 캠 2 PLUS",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29988.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359139",
+              "name": "컴포트",
+              "price": 500000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359140",
+              "name": "테크",
+              "price": 1050000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359141",
+              "name": "컴포트Ⅱ + 테크",
+              "price": 1550000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                },
+                {
+                  "name": "2/3열 수동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29994.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359149",
+              "name": "[HGA] 17.3인치 루프 모니터(전동폴딩/블루투스/HDMI/USB 멀티미디어 재생)",
+              "price": 1070000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "캐스트아이언 브라운 펄 (CRP)",
+              "colorHexadecimal": "7b6e64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "갤럭시 마룬 펄 (GMP)",
+              "colorHexadecimal": "4e403e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/엔트러사이트 브라운 투톤",
+              "colorHexadecimal": "1d1e21/3f3d3a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53708,
+      "name": "LPG 3.5 킨더(11/15인승)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94839,
+          "trimName": "11인승",
+          "price": 41660000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "363161",
+              "name": "멀티미디어 내비플러스 Ⅱ",
+              "price": 1600000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363162",
+              "name": "익스테리어 디자인",
+              "price": 1050000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30015.jpg"
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363163",
+              "name": "컴포트",
+              "price": 550000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363164",
+              "name": "테크 Ⅰ ",
+              "price": 970000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363165",
+              "name": "테크 Ⅱ",
+              "price": 850000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29999.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "다이나믹 옐로우(NFA)",
+              "colorHexadecimal": "e9aa18",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94840,
+          "trimName": "15인승",
+          "price": 44530000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "363166",
+              "name": "멀티미디어 내비플러스 Ⅱ",
+              "price": 1600000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363167",
+              "name": "익스테리어 디자인",
+              "price": 1050000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30015.jpg"
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363168",
+              "name": "컴포트",
+              "price": 550000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363169",
+              "name": "테크 Ⅰ ",
+              "price": 970000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363170",
+              "name": "테크 Ⅱ",
+              "price": 850000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29999.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "다이나믹 옐로우(NFA)",
+              "colorHexadecimal": "e9aa18",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53560,
+      "name": "가솔린 터보 1.6 하이브리드 카고(2/5인승)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94110,
+          "trimName": "2인승 스마트",
+          "price": 36170000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359028",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359029",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1650000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359030",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94111,
+          "trimName": "2인승 모던",
+          "price": 37450000,
+          "transmission": "",
+          "percent": 41,
+          "options": [
+            {
+              "seq": "359031",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359032",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359033",
+              "name": "윈도우 밴(2인승)",
+              "price": 300000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359034",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1450000,
+              "code": "A14",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359035",
+              "name": "익스테리어 디자인(2인승)",
+              "price": 550000,
+              "code": "A15",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359036",
+              "name": "컴포트(2인승)",
+              "price": 800000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359037",
+              "name": "테크",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359038",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94112,
+          "trimName": "5인승 스마트",
+          "price": 36860000,
+          "transmission": "",
+          "percent": 21,
+          "options": [
+            {
+              "seq": "359040",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359041",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1650000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359042",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94113,
+          "trimName": "5인승 모던",
+          "price": 38200000,
+          "transmission": "",
+          "percent": 32,
+          "options": [
+            {
+              "seq": "359043",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359044",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359045",
+              "name": "윈도우 밴(5인승)",
+              "price": 200000,
+              "code": "A22",
+              "percent": 23,
+              "items": []
+            },
+            {
+              "seq": "359046",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1450000,
+              "code": "A14",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359047",
+              "name": "익스테리어 디자인(5인승)",
+              "price": 850000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359048",
+              "name": "컴포트(5인승)",
+              "price": 1050000,
+              "code": "A24",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359049",
+              "name": "테크",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359050",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53561,
+      "name": "LPG 3.5 카고(3/5인승)",
+      "year": "2026년형",
+      "percent": 17,
+      "trims": [
+        {
+          "trimNo": 94114,
+          "trimName": "3인승 스마트",
+          "price": 32590000,
+          "transmission": "",
+          "percent": 9,
+          "options": [
+            {
+              "seq": "359065",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359066",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1850000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359067",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94115,
+          "trimName": "3인승 모던",
+          "price": 34120000,
+          "transmission": "",
+          "percent": 45,
+          "options": [
+            {
+              "seq": "359068",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359069",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359070",
+              "name": "윈도우 밴(3인승)",
+              "price": 300000,
+              "code": "A21",
+              "percent": 23,
+              "items": []
+            },
+            {
+              "seq": "359071",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1650000,
+              "code": "A14",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359072",
+              "name": "익스테리어 디자인(3인승)",
+              "price": 550000,
+              "code": "A15",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359073",
+              "name": "컴포트(3인승)",
+              "price": 800000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359074",
+              "name": "테크",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359075",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94116,
+          "trimName": "5인승 스마트",
+          "price": 33330000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359077",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359078",
+              "name": "멀티미디어 내비플러스Ⅰ",
+              "price": 1850000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30010.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359079",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94117,
+          "trimName": "5인승 모던",
+          "price": 34900000,
+          "transmission": "",
+          "percent": 38,
+          "options": [
+            {
+              "seq": "359080",
+              "name": "트윈 스윙 도어",
+              "price": 400000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359081",
+              "name": "빌트인 캠 2 PLUS + 증강현실 내비게이션",
+              "price": 670000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359082",
+              "name": "윈도우 밴(5인승)",
+              "price": 200000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359083",
+              "name": "멀티미디어 내비플러스Ⅱ",
+              "price": 1650000,
+              "code": "A14",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "클러스터(12.3인치 컬러 LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30006.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(인카페이먼트, e hi-pass)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30007.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30008.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30009.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨(미세먼지 센서/공기청정모드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30029.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359084",
+              "name": "익스테리어 디자인(5인승)",
+              "price": 850000,
+              "code": "A16",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "LED 헤드램프(MFR 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30012.jpg"
+                },
+                {
+                  "name": "LED 주간주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30013.jpg"
+                },
+                {
+                  "name": "LED 포지셔닝 램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 플러쉬 글래스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359085",
+              "name": "컴포트(5인승)",
+              "price": 1050000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30000.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30018.jpg"
+                },
+                {
+                  "name": "운전석 전동시트(8way, 4way 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30019.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359086",
+              "name": "테크",
+              "price": 1200000,
+              "code": "A18",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29995.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29996.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29997.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/29985.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359087",
+              "name": "[HGA] 슬라이딩 카고 베드",
+              "price": 1330000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[HGA] 슬라이딩 카고 베드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4765/items/30038.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAC)",
+              "colorHexadecimal": "fcfcfc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭 (R2T)",
+              "colorHexadecimal": "bcbfc0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄 (PE2)",
+              "colorHexadecimal": "7c7b7b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "클래지 블루 펄 (CBP)",
+              "colorHexadecimal": "2d2c3c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄 (A2B)",
+              "colorHexadecimal": "06070a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "1d1e21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/에크루 베이지 투톤",
+              "colorHexadecimal": "1d1e21/a69575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "model_id": 4635,
+  "brand": "렉서스",
+  "name": "LM",
+  "img": "https://autoimg.danawa.com/photo/4635/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53477,
+      "name": "가솔린 터보 2.4 하이브리드",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93898,
+          "trimName": "500h Executive (6인승)",
+          "price": 146570000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "SONIC TITANIUM",
+              "colorHexadecimal": "92918f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "SONIC QUARTZ",
+              "colorHexadecimal": "d2d5da",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "GRAPHITE BLACK GLASS FLAKE",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "SOLIS WHITE",
+              "colorHexadecimal": "d9d1bc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "BLACK",
+              "colorHexadecimal": "030303",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93899,
+          "trimName": "500h Royal (4인승)",
+          "price": 194770000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "SONIC TITANIUM",
+              "colorHexadecimal": "92918f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "SONIC QUARTZ",
+              "colorHexadecimal": "d2d5da",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "GRAPHITE BLACK GLASS FLAKE",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "SOLIS WHITE",
+              "colorHexadecimal": "d9d1bc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "BLACK",
+              "colorHexadecimal": "030303",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

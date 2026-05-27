@@ -1,0 +1,90 @@
+{
+  "model_id": 4189,
+  "brand": "혼다",
+  "name": "Pilot",
+  "img": "https://autoimg.danawa.com/photo/4189/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53119,
+      "name": "가솔린 3.5",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92450,
+          "trimName": "ELITE",
+          "price": 68100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "MODERN STEEL",
+              "colorHexadecimal": "44454a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Brown Leather",
+              "colorHexadecimal": "302c29",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92451,
+          "trimName": "Black Edition",
+          "price": 69600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "PLATINUM WHITE",
+              "colorHexadecimal": "f4f4f6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "CRYSTAL BLACK",
+              "colorHexadecimal": "010101",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Brown Leather",
+              "colorHexadecimal": "302c29",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

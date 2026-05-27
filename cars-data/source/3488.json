@@ -1,0 +1,35 @@
+{
+  "model_id": 3488,
+  "brand": "동풍",
+  "name": "C32",
+  "img": "https://autoimg.danawa.com/photo/3488/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 47811,
+      "name": "가솔린 1.5",
+      "year": "2019년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 71720,
+          "trimName": "더블캡",
+          "price": 13500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "190195",
+              "name": "적재함 평바닥",
+              "price": 230000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

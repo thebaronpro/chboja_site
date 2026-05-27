@@ -1,0 +1,170 @@
+{
+  "model_id": 4531,
+  "brand": "폭스바겐",
+  "name": "Touareg",
+  "img": "https://autoimg.danawa.com/photo/4531/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53582,
+      "name": "디젤 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94158,
+          "trimName": "Prestige",
+          "price": 106421000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pure White",
+              "colorHexadecimal": "e3e5e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Grenadilla Black Metallic",
+              "colorHexadecimal": "1c232c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Oyster Silver Metallic",
+              "colorHexadecimal": "e6edee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Silicon Grey Metallic",
+              "colorHexadecimal": "a3aaac",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Meloe Blue Crystal Effect",
+              "colorHexadecimal": "394f71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Soul Black",
+              "colorHexadecimal": "372f34",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Mistral Gray",
+              "colorHexadecimal": "a1a29f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94159,
+          "trimName": "R-Line",
+          "price": 116506000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Grenadilla Black Metallic",
+              "colorHexadecimal": "1c232c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Oyster Silver Metallic",
+              "colorHexadecimal": "e6edee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Silicon Grey Metallic",
+              "colorHexadecimal": "a3aaac",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Meloe Blue Crystal Effect",
+              "colorHexadecimal": "394f71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Oryx White Mother of Pearl Effect(R-Line 전용)",
+              "colorHexadecimal": "dbe2e2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "Panthera Black",
+              "colorHexadecimal": "26222d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

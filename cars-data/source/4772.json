@@ -1,0 +1,373 @@
+{
+  "model_id": 4772,
+  "brand": "르노코리아",
+  "name": "필랑트",
+  "img": "https://autoimg.danawa.com/photo/4772/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53621,
+      "name": "가솔린 1.5 하이브리드 (E-TECH)",
+      "year": "2027년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94396,
+          "trimName": "테크노",
+          "price": 43320000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "360409",
+              "name": "12.3인치 동승석 디스플레이 (cinema (OTT), 음악 스트리밍, 웹브라우저, 앱스토어, 테마) + R:아케이드 게임, R:러쉬, R:레이싱 + FULL 오토 파킹 보조 + 후방 긴급 제동 보조",
+              "price": 1630000,
+              "code": "A11",
+              "percent": 30,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "다크 블루",
+              "colorHexadecimal": "464d5d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94397,
+          "trimName": "아이코닉",
+          "price": 46970000,
+          "transmission": "",
+          "percent": 34,
+          "options": [
+            {
+              "seq": "360413",
+              "name": "증강현실 헤드업 디스플레이 (AR-HUD) + 스마트 룸미러",
+              "price": 1630000,
+              "code": "A12",
+              "percent": 16,
+              "items": []
+            },
+            {
+              "seq": "360414",
+              "name": "시그니처 패키지 : 새틴 유니버스 화이트/새틴 포레스트 블랙 외장 색상 중 선택 + 증강현실 헤드업 디스플레이 (AR-HUD) + 스마트 룸미러",
+              "price": 2120000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "360415",
+              "name": "BOSE 프리미엄 사운드 시스템 (10 스피커) + 액티브 노이즈 캔슬레이션",
+              "price": 1330000,
+              "code": "A14",
+              "percent": 18,
+              "items": []
+            },
+            {
+              "seq": "360416",
+              "name": "퓨어 라이트 그레이 프리미엄 인테리어 (앞좌석 시트, 뒷좌석 시트 &amp; 센터 시트, 앞좌석 센터 암레스트, 안전 벨트, 도어 포켓 플로킹(1열, 2열), 도어 인서트, 도어 암레스트, IP 하단) + 그레이/블랙 투톤 스티어링 휠",
+              "price": 400000,
+              "code": "A15",
+              "percent": 14,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 3,
+              "percent": 5,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "새틴 포레스트 블랙",
+              "colorHexadecimal": "1f2527",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 1,
+              "percent": 42,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 2,
+              "percent": 42,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "퓨어 라이트 그레이",
+              "colorHexadecimal": "9fa2aa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "모던 브라운",
+              "colorHexadecimal": "3c2d23",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94398,
+          "trimName": "에스프리 알핀",
+          "price": 49720000,
+          "transmission": "",
+          "percent": 22,
+          "options": [
+            {
+              "seq": "360420",
+              "name": "증강현실 헤드업 디스플레이 (AR-HUD)",
+              "price": 1140000,
+              "code": "A16",
+              "percent": 19,
+              "items": []
+            },
+            {
+              "seq": "360421",
+              "name": "BOSE 프리미엄 사운드 시스템 (10 스피커) + 액티브 노이즈 캔슬레이션",
+              "price": 1330000,
+              "code": "A14",
+              "percent": 21,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "새틴 포레스트 블랙",
+              "colorHexadecimal": "1f2527",
+              "rank": 2,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 1,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "퓨어 라이트 그레이",
+              "colorHexadecimal": "9fa2aa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "1d1c1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94399,
+          "trimName": "에스프리 알핀 1955",
+          "price": 52190000,
+          "transmission": "",
+          "percent": 32,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 1,
+              "percent": 30,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "새틴 포레스트 블랙",
+              "colorHexadecimal": "1f2527",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 2,
+              "percent": 30,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "퓨어 라이트 그레이",
+              "colorHexadecimal": "9fa2aa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "1d1c1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

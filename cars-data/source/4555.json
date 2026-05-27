@@ -1,0 +1,1730 @@
+{
+  "model_id": 4555,
+  "brand": "메르세데스-벤츠",
+  "name": "CLE",
+  "img": "https://autoimg.danawa.com/photo/4555/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53419,
+      "name": "쿠페 가솔린 2.0",
+      "year": "2026년형",
+      "percent": 23,
+      "trims": [
+        {
+          "trimNo": 93735,
+          "trimName": "CLE200 Coupe AMG Line",
+          "price": 75700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 (아티코 가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "통카 브라운 (아티코 가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마키아토 베이지 (아티코 가죽)",
+              "colorHexadecimal": "c9c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "블랙 (가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "통카 브라운 (가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 0,
+              "colorName": "마키아토 베이지 (가죽)",
+              "colorHexadecimal": "c9c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 0,
+              "colorName": "파워 레드 (가죽)",
+              "colorHexadecimal": "8e1f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53536,
+      "name": "쿠페 가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94014,
+          "trimName": "CLE450 4MATIC Coupe AMG Line",
+          "price": 98400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 (나파 가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "통카 브라운 (나파 가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "화이트 (나파 가죽)",
+              "colorHexadecimal": "dadbd4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53420,
+      "name": "카브리올레 가솔린 2.0",
+      "year": "2026년형",
+      "percent": 23,
+      "trims": [
+        {
+          "trimNo": 93736,
+          "trimName": "CLE200 Cabriolet AMG Line",
+          "price": 82100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 (아티코 가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "통카 브라운 (아티코 가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마키아토 베이지 (아티코 가죽)",
+              "colorHexadecimal": "c9c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "블랙 (가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "통카 브라운 (가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 0,
+              "colorName": "마키아토 베이지 (가죽)",
+              "colorHexadecimal": "c9c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 0,
+              "colorName": "파워 레드 (가죽)",
+              "colorHexadecimal": "8e1f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53475,
+      "name": "카브리올레 가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93892,
+          "trimName": "CLE450 4MATIC Cabriolet AMG Line",
+          "price": 102600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 (나파 가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "통카 브라운 (나파 가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "화이트 (나파 가죽)",
+              "colorHexadecimal": "dadbd4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53433,
+      "name": "AMG 쿠페 가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93781,
+          "trimName": "AMG CLE53 4MATIC+ Coupe",
+          "price": 107700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 스펙트럴 블루 마그노 (593U)",
+              "colorHexadecimal": "1c3863",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93893,
+          "trimName": "AMG CLE53 4MATIC+ Coupe Limited Edition",
+          "price": 131300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53517,
+      "name": "AMG 카브리올레 가솔린 3.0",
+      "year": "2026년형",
+      "percent": 15,
+      "trims": [
+        {
+          "trimNo": 93995,
+          "trimName": "AMG CLE53 4MATIC+ Cabriolet",
+          "price": 113600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 스펙트럴 블루 마그노 (593U)",
+              "colorHexadecimal": "1c3863",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53202,
+      "name": "쿠페 가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92612,
+          "trimName": "CLE200 Coupe",
+          "price": 74200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 (아티코 가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "통카 브라운 (아티코 가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마키아토 베이지 (아티코 가죽)",
+              "colorHexadecimal": "c9c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "블랙 (가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "통카 브라운 (가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 0,
+              "colorName": "마키아토 베이지 (가죽)",
+              "colorHexadecimal": "c9c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 0,
+              "colorName": "파워 레드 (가죽)",
+              "colorHexadecimal": "8e1f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53203,
+      "name": "쿠페 가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92613,
+          "trimName": "CLE450 4MATIC Coupe",
+          "price": 98200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 (나파 가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "통카 브라운 (나파 가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "화이트 (나파 가죽)",
+              "colorHexadecimal": "dadbd4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53204,
+      "name": "카브리올레 가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92614,
+          "trimName": "CLE200 Cabriolet",
+          "price": 80500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 (아티코 가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "통카 브라운 (아티코 가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마키아토 베이지 (아티코 가죽)",
+              "colorHexadecimal": "c9c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "블랙 (가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "통카 브라운 (가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 0,
+              "colorName": "마키아토 베이지 (가죽)",
+              "colorHexadecimal": "c9c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 0,
+              "colorName": "파워 레드 (가죽)",
+              "colorHexadecimal": "8e1f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53262,
+      "name": "카브리올레 가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92778,
+          "trimName": "CLE450 4MATIC Cabriolet",
+          "price": 101100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 (나파 가죽)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "통카 브라운 (나파 가죽)",
+              "colorHexadecimal": "926c52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "화이트 (나파 가죽)",
+              "colorHexadecimal": "dadbd4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53074,
+      "name": "AMG 카브리올레 가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92187,
+          "trimName": "AMG CLE53 4MATIC+ Cabriolet",
+          "price": 110300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 스펙트럴 블루 마그노 (593U)",
+              "colorHexadecimal": "1c3863",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "393b41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 (956U)",
+              "colorHexadecimal": "b2b1b5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U)",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1593 @@
+{
+  "model_id": 3992,
+  "brand": "메르세데스-벤츠",
+  "name": "S-Class",
+  "img": "https://autoimg.danawa.com/photo/3992/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53427,
+      "name": "가솔린 3.0",
+      "year": "2026년형",
+      "percent": 43,
+      "trims": [
+        {
+          "trimNo": 93775,
+          "trimName": "S450 4MATIC",
+          "price": 159600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93773,
+          "trimName": "S450 4MATIC Long",
+          "price": 191600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93774,
+          "trimName": "S500 4MATIC Long",
+          "price": 213600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53518,
+      "name": "가솔린 4.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93996,
+          "trimName": "S580 4MATIC Long",
+          "price": 258600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53426,
+      "name": "디젤 3.0",
+      "year": "2026년형",
+      "percent": 15,
+      "trims": [
+        {
+          "trimNo": 93772,
+          "trimName": "S350d 4MATIC",
+          "price": 152600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53604,
+      "name": "AMG 가솔린 4.0 플러그인 하이브리드",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94359,
+          "trimName": "Mercedes-AMG S63 E Performance",
+          "price": 297600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U)",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 (041U)",
+              "colorHexadecimal": "363636",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C25",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 나이트 블랙 마그노 (056U)",
+              "colorHexadecimal": "1b242b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C26",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 미스틱 블루 (032U)",
+              "colorHexadecimal": "202c4e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C27",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "717879",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53208,
+      "name": "가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92622,
+          "trimName": "S450 4MATIC Long",
+          "price": 187600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92623,
+          "trimName": "S500 4MATIC Long",
+          "price": 209100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53209,
+      "name": "가솔린 4.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92624,
+          "trimName": "S580 4MATIC Long",
+          "price": 253600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53210,
+      "name": "디젤 3.0",
+      "year": "2025년형",
+      "percent": 31,
+      "trims": [
+        {
+          "trimNo": 90972,
+          "trimName": "S350d 4MATIC",
+          "price": 151600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U) - 유료",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U) - 유료",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U) - 유료",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53211,
+      "name": "AMG 가솔린 4.0 플러그인 하이브리드",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92625,
+          "trimName": "Mercedes-AMG S63 E Performance",
+          "price": 291600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 (040U)",
+              "colorHexadecimal": "020202",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "노틱 블루 (595U)",
+              "colorHexadecimal": "060f27",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "그라파이트 그레이 (831U)",
+              "colorHexadecimal": "3e4147",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "에메랄드 그린 (989U)",
+              "colorHexadecimal": "122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "베르데 실버 (188U)",
+              "colorHexadecimal": "6d8385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "벨벳 브라운 (771U)",
+              "colorHexadecimal": "786c63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U)",
+              "colorHexadecimal": "27070c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 (041U)",
+              "colorHexadecimal": "363636",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C25",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 나이트 블랙 마그노 (056U)",
+              "colorHexadecimal": "1b242b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C26",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 미스틱 블루 (032U)",
+              "colorHexadecimal": "202c4e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C27",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "717879",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "model_id": 4426,
+  "brand": "마세라티",
+  "name": "GranTurismo",
+  "img": "https://autoimg.danawa.com/photo/4426/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53709,
+      "name": "가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94844,
+          "trimName": "Modena",
+          "price": 225200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94845,
+          "trimName": "Trofeo",
+          "price": 281700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52855,
+      "name": "가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91651,
+          "trimName": "Modena",
+          "price": 224700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91652,
+          "trimName": "Trofeo",
+          "price": 280700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

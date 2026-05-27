@@ -1,0 +1,258 @@
+{
+  "model_id": 4469,
+  "brand": "혼다",
+  "name": "CR-V",
+  "img": "https://autoimg.danawa.com/photo/4469/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53528,
+      "name": "가솔린 2.0 하이브리드 2WD",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94005,
+          "trimName": "2WD Touring",
+          "price": 52800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "플래티넘 화이트 펄",
+              "colorHexadecimal": "eeedf2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "D",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메테로이드 그레이 메탈릭",
+              "colorHexadecimal": "595e65",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "크리스탈 블랙 펄",
+              "colorHexadecimal": "010101",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "어반 그레이 펄",
+              "colorHexadecimal": "828894",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "캐니언 리버 블루 메탈릭",
+              "colorHexadecimal": "1f244a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "B",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "18181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "969696",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BCD",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53529,
+      "name": "가솔린 2.0 하이브리드 4WD",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94006,
+          "trimName": "4WD Touring",
+          "price": 55800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "플래티넘 화이트 펄",
+              "colorHexadecimal": "eeedf2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "D",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메테로이드 그레이 메탈릭",
+              "colorHexadecimal": "595e65",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "크리스탈 블랙 펄",
+              "colorHexadecimal": "010101",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "어반 그레이 펄",
+              "colorHexadecimal": "828894",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "캐니언 리버 블루 메탈릭",
+              "colorHexadecimal": "1f244a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "B",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "18181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "969696",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BCD",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52913,
+      "name": "가솔린 터보 1.5",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91742,
+          "trimName": "2WD",
+          "price": 41700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "플래티넘 화이트 펄",
+              "colorHexadecimal": "eeedf2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메테로이드 그레이 메탈릭",
+              "colorHexadecimal": "535253",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "크리스탈 블랙 펄",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "B",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "18181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "B",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "969696",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

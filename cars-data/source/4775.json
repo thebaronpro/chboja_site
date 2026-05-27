@@ -1,0 +1,1168 @@
+{
+  "model_id": 4775,
+  "brand": "기아",
+  "name": "더 뉴 니로",
+  "img": "https://autoimg.danawa.com/photo/4775/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53704,
+      "name": "가솔린 1.6 하이브리드",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94775,
+          "trimName": "트렌디",
+          "price": 28850000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "363032",
+              "name": "컨비니언스",
+              "price": 640000,
+              "code": "A11",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30232.jpg"
+                },
+                {
+                  "name": "1열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30233.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30234.jpg"
+                },
+                {
+                  "name": "1열 시트백 포켓",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30235.jpg"
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30236.jpg"
+                },
+                {
+                  "name": "운전석 자동쾌적 제어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30237.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363033",
+              "name": "18인치 휠",
+              "price": 480000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "225/45 R18 콘티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30244.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363034",
+              "name": "드라이브 와이즈 I",
+              "price": 410000,
+              "code": "A15",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30255.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30256.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30257.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30258.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30259.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363035",
+              "name": "12.3인치 클러스터 팩",
+              "price": 1130000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30260.jpg"
+                },
+                {
+                  "name": "파노라믹 커브드 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30261.jpg"
+                },
+                {
+                  "name": "12.3인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30262.jpg"
+                },
+                {
+                  "name": "기아 AI 어시스턴트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30263.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 안전구간/곡선로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30264.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30265.jpg"
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30266.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363036",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 플러스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30275.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30276.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "eaeaeb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "9a9ca0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린(CGE)",
+              "colorHexadecimal": "4b5754",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이(AGT)",
+              "colorHexadecimal": "363738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "0d1014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "차콜",
+              "colorHexadecimal": "afb1b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94776,
+          "trimName": "프레스티지",
+          "price": 31950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "363039",
+              "name": "스타일",
+              "price": 960000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30238.jpg"
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널 램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30239.jpg"
+                },
+                {
+                  "name": "LED 후진등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30240.jpg"
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30241.jpg"
+                },
+                {
+                  "name": "블랙 하이그로시",
+                  "exp": "- 휠아치 몰딩&사이드 가니쉬, 그릴 가니쉬, 프론트/리어 범퍼, 서라운드 몰딩, B/C필라 가니쉬, 후드 어퍼 가니쉬, 윈드쉴드 사이드 가니쉬",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30242.jpg"
+                },
+                {
+                  "name": "크롬 스키드 플레이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30243.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363040",
+              "name": "18인치 휠",
+              "price": 480000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "225/45 R18 콘티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30244.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363041",
+              "name": "프리미엄",
+              "price": 1220000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프리미엄 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30245.jpg"
+                },
+                {
+                  "name": "스웨이드 내장재(헤드라이닝, 필라트림, 선바이저)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30246.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30247.jpg"
+                },
+                {
+                  "name": "메탈 페달/풋레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30248.jpg"
+                },
+                {
+                  "name": "메탈 도어 스커프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30249.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30250.jpg"
+                },
+                {
+                  "name": "220V 인버터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30251.jpg"
+                },
+                {
+                  "name": "가죽시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30252.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30253.jpg"
+                },
+                {
+                  "name": "2열 센터 암레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30254.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363042",
+              "name": "드라이브 와이즈 I",
+              "price": 410000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30255.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30256.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30257.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30258.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30259.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363043",
+              "name": "12.3인치 클러스터 팩",
+              "price": 390000,
+              "code": "A17",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30260.jpg"
+                },
+                {
+                  "name": "파노라믹 커브드 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30261.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363044",
+              "name": "드라이브 와이즈 II",
+              "price": 970000,
+              "code": "A18",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30269.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30255.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차, 주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30270.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30257.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30271.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30272.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30273.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30258.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30259.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363045",
+              "name": "HUD",
+              "price": 580000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30274.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363046",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A20",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 플러스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30275.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30276.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363047",
+              "name": "컴포트",
+              "price": 740000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30277.jpg"
+                },
+                {
+                  "name": "1열 이지 억세스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30278.jpg"
+                },
+                {
+                  "name": "후진연동 자동하향 아웃사이드미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30279.jpg"
+                },
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30280.jpg"
+                },
+                {
+                  "name": "1열 릴렉션 컴포트시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30281.jpg"
+                },
+                {
+                  "name": "동승석 워크인 디바이스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30282.jpg"
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30283.jpg"
+                },
+                {
+                  "name": "전자식 변속 다이얼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30284.jpg"
+                },
+                {
+                  "name": "크롬 인사이드 도어핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30285.jpg"
+                },
+                {
+                  "name": "패드 프린트 가니쉬(크래쉬패드, 1열 도어 센터트림, 콘솔 어퍼커버)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30286.jpg"
+                },
+                {
+                  "name": "2열 도어 암레스트 인조가죽 감싸기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30287.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363048",
+              "name": "스마트 커넥트",
+              "price": 840000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30288.jpg"
+                },
+                {
+                  "name": "크롬&amp;터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30289.jpg"
+                },
+                {
+                  "name": "100W C타입 USB 단자(충전용, 1열 1개/정품 충전 케이블 1개)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30290.jpg"
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30291.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363049",
+              "name": "선루프 + LED 실내등",
+              "price": 440000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30295.jpg"
+                },
+                {
+                  "name": "LED 실내등(맵램프, 룸램프, 러기지램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30296.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "eaeaeb",
+              "rank": 1,
+              "percent": 57,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "b1b1b1",
+              "rank": 2,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "9a9ca0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린(CGE)",
+              "colorHexadecimal": "4b5754",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "미네랄 블루(M4B)",
+              "colorHexadecimal": "3a5169",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이(AGT)",
+              "colorHexadecimal": "363738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "0d1014",
+              "rank": 3,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "차콜",
+              "colorHexadecimal": "afb1b3",
+              "rank": 2,
+              "percent": 30,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "딥 네이비+브라운",
+              "colorHexadecimal": "3c3e3d/372f28",
+              "rank": 3,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블루 그레이(프리미엄 선택시 미적용)",
+              "colorHexadecimal": "8b9298",
+              "rank": 1,
+              "percent": 45,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94777,
+          "trimName": "시그니처",
+          "price": 34640000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "363052",
+              "name": "스타일",
+              "price": 960000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30238.jpg"
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널 램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30239.jpg"
+                },
+                {
+                  "name": "LED 후진등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30240.jpg"
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30241.jpg"
+                },
+                {
+                  "name": "블랙 하이그로시",
+                  "exp": "- 휠아치 몰딩&사이드 가니쉬, 그릴 가니쉬, 프론트/리어 범퍼, 서라운드 몰딩, B/C필라 가니쉬, 후드 어퍼 가니쉬, 윈드쉴드 사이드 가니쉬",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30242.jpg"
+                },
+                {
+                  "name": "크롬 스키드 플레이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30243.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363053",
+              "name": "18인치 휠",
+              "price": 480000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "225/45 R18 콘티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30244.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363054",
+              "name": "프리미엄",
+              "price": 1220000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프리미엄 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30245.jpg"
+                },
+                {
+                  "name": "스웨이드 내장재(헤드라이닝, 필라트림, 선바이저)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30246.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30247.jpg"
+                },
+                {
+                  "name": "메탈 페달/풋레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30248.jpg"
+                },
+                {
+                  "name": "메탈 도어 스커프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30249.jpg"
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30250.jpg"
+                },
+                {
+                  "name": "220V 인버터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30251.jpg"
+                },
+                {
+                  "name": "가죽시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30252.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30253.jpg"
+                },
+                {
+                  "name": "2열 센터 암레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30254.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363055",
+              "name": "드라이브 와이즈 I",
+              "price": 410000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30255.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30256.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30257.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30258.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30259.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363056",
+              "name": "드라이브 와이즈 II",
+              "price": 970000,
+              "code": "A18",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30269.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고(전진 출차/주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30255.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차, 주행)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30270.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30257.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30271.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30272.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30273.jpg"
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30258.jpg"
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30259.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363057",
+              "name": "HUD",
+              "price": 580000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30274.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363058",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A20",
+              "percent": 12,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 플러스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30275.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30276.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363059",
+              "name": "컴포트",
+              "price": 540000,
+              "code": "A22",
+              "percent": 12,
+              "items": [
+                {
+                  "name": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30277.jpg"
+                },
+                {
+                  "name": "1열 이지 억세스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30278.jpg"
+                },
+                {
+                  "name": "후진연동 자동하향 아웃사이드미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30279.jpg"
+                },
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30280.jpg"
+                },
+                {
+                  "name": "1열 릴렉션 컴포트시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30281.jpg"
+                },
+                {
+                  "name": "동승석 워크인 디바이스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30282.jpg"
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30283.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363060",
+              "name": "스마트 커넥트",
+              "price": 840000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30288.jpg"
+                },
+                {
+                  "name": "크롬&amp;터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30289.jpg"
+                },
+                {
+                  "name": "100W C타입 USB 단자(충전용, 1열 1개/정품 충전 케이블 1개)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30290.jpg"
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30291.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363061",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 580000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30293.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363062",
+              "name": "선루프 + LED 실내등",
+              "price": 440000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30295.jpg"
+                },
+                {
+                  "name": "LED 실내등(맵램프, 룸램프, 러기지램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4775/items/30296.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "eaeaeb",
+              "rank": 1,
+              "percent": 60,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "b1b1b1",
+              "rank": 2,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "9a9ca0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린(CGE)",
+              "colorHexadecimal": "4b5754",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "미네랄 블루(M4B)",
+              "colorHexadecimal": "3a5169",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이(AGT)",
+              "colorHexadecimal": "363738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "0d1014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "차콜",
+              "colorHexadecimal": "afb1b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "딥 네이비+브라운",
+              "colorHexadecimal": "3c3e3d/372f28",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블루 그레이(프리미엄 선택시 미적용)",
+              "colorHexadecimal": "8b9298",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

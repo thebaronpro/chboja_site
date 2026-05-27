@@ -1,0 +1,158 @@
+{
+  "model_id": 4059,
+  "brand": "포드",
+  "name": "Bronco",
+  "img": "https://autoimg.danawa.com/photo/4059/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52933,
+      "name": "가솔린 2.3",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91793,
+          "trimName": "Outer Banks",
+          "price": 72900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Hot Pepper Red Metallic",
+              "colorHexadecimal": "a1110f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Velocity Blue Metallic",
+              "colorHexadecimal": "07528f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Shadow Black",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Iconic Silver Metallic",
+              "colorHexadecimal": "bababb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Eruption Green Metallic",
+              "colorHexadecimal": "0f3d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Carbonized Gray Metallic",
+              "colorHexadecimal": "666667",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "Area 51",
+              "colorHexadecimal": "637e82",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Cactus Gray",
+              "colorHexadecimal": "a0a596",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Race Red",
+              "colorHexadecimal": "e0031e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "Cyber Orange Metallic",
+              "colorHexadecimal": "eba022",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "Oxford White",
+              "colorHexadecimal": "eef3f2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Dark Space Gray With Navy Pier",
+              "colorHexadecimal": "30434b/515151",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Roast with Black Onyx",
+              "colorHexadecimal": "1c1c1c/5a332a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

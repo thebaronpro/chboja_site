@@ -1,0 +1,138 @@
+{
+  "model_id": 4741,
+  "brand": "푸조",
+  "name": "3008",
+  "img": "https://autoimg.danawa.com/photo/4741/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53329,
+      "name": "가솔린 1.2 스마트 하이브리드",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93124,
+          "trimName": "Allure",
+          "price": 44900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Obsession Blue",
+              "colorHexadecimal": "0061a5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Nera Black",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Ingaro Blue",
+              "colorHexadecimal": "a4aeb0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Cumulus Grey",
+              "colorHexadecimal": "ababab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Okenite White",
+              "colorHexadecimal": "f4f4f6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93125,
+          "trimName": "GT",
+          "price": 49900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Obsession Blue",
+              "colorHexadecimal": "0061a5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Nera Black",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Ingaro Blue",
+              "colorHexadecimal": "a4aeb0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Cumulus Grey",
+              "colorHexadecimal": "ababab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Okenite White",
+              "colorHexadecimal": "f4f4f6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

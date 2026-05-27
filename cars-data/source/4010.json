@@ -1,0 +1,26 @@
+{
+  "model_id": 4010,
+  "brand": "페라리",
+  "name": "SF90 Spider",
+  "img": "https://autoimg.danawa.com/photo/4010/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53073,
+      "name": "가솔린 4.0 플러그인 하이브리드",
+      "year": "2020년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92171,
+          "trimName": "V8",
+          "price": 701000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

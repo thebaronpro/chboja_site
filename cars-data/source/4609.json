@@ -1,0 +1,4104 @@
+{
+  "model_id": 4609,
+  "brand": "제네시스",
+  "name": "GV70",
+  "img": "https://autoimg.danawa.com/photo/4609/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53474,
+      "name": " 가솔린 터보 2.5",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93888,
+          "trimName": "2WD",
+          "price": 53180000,
+          "transmission": "",
+          "percent": 61,
+          "options": [
+            {
+              "seq": "358485",
+              "name": "235/55R19 미쉐린 타이어 + 휠",
+              "price": 1080000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358486",
+              "name": "255/40R21 미쉐린 타이어 + 휠 (※ 프리뷰 전자제어 서스펜션 포함)",
+              "price": 3250000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358487",
+              "name": "시그니쳐 디자인 셀렉션Ⅰ",
+              "price": 1670000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽 시트(파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "헤어라인 브러쉬드 패턴 알루미늄 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27903.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358488",
+              "name": "시그니쳐 디자인 셀렉션Ⅱ",
+              "price": 2950000,
+              "code": "A13",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(퀼팅, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "엘레강스 라인 무드라이팅 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27906.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "투톤 가죽 스티어링 휠",
+                  "exp": "※ 투톤 가죽 스티어링 휠: 내장 컬러 옵시디언 블랙 모노톤 선택 시 블랙 모노톤으로 적용",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27908.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358489",
+              "name": "파퓰러 패키지Ⅰ ",
+              "price": 2910000,
+              "code": "A17",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358490",
+              "name": "파퓰러 패키지Ⅱ",
+              "price": 6500000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                },
+                {
+                  "name": "2열 컴포트 패키지",
+                  "exp": "- 뒷좌석 수동식 도어커튼, 3존 공조(운전석 & 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치), 뒷좌석 통풍 시트, 러기지 매트, 러기지 스크린, 러기지 네트, 뒷좌석 220V 파워아웃렛",
+                  "image": ""
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅱ",
+                  "exp": "- 고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함), 스마트 크루즈 컨트롤(운전 스타일 연동), 내비게이션 기반 스마트 크루즈 컨트롤(진출입로), 전방 충돌방지 보조(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함), 앞좌석 프리액티브 시트벨트, 지능형 헤드램프, 운전자 전방 주시 경고 카메라, 후측방 충돌방지 보조(주행)",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠 패키지",
+                  "exp": "- 빌트인 캠 2, 보조배터리, 증강현실 내비게이션 ※ QHD급 고화질 녹화 및 음성 녹음 지원, Micro SD 외장 메모리 적용, 주차 후 최대 20시간 녹화 가능",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358491",
+              "name": "프리뷰 전자제어 서스펜션",
+              "price": 1080000,
+              "code": "A19",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358492",
+              "name": "파노라마 선루프",
+              "price": 1380000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358493",
+              "name": "헤드업 디스플레이",
+              "price": 1280000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358494",
+              "name": "컨비니언스 패키지",
+              "price": 2460000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 &amp; 동승석 에르고 모션 시트",
+                  "exp": "-시트에 내장된 7개의 공기 주머니가 최적의 착좌감과 안락함을 제공합니다. 또한, 업그레이드된 2세대 스마트 자세제어 시스템은 운전자에게 맞는 최적의 자세를 추천해 운전 피로도를 낮춰줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27919.jpg"
+                },
+                {
+                  "name": "동승석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27920.jpg"
+                },
+                {
+                  "name": "무드 큐레이터(향기 카트리지 3EA 포함)",
+                  "exp": "-차 안의 음악, 향기, 조명과 연동하는 4개의 무드(바이탈리티, 딜라이트, 케어, 컴포트)를 취향에 맞게 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27921.jpg"
+                },
+                {
+                  "name": " 디지털 센터 미러",
+                  "exp": "-후방 시야를 디스플레이로 표시해 야간이나 우천 시의 주행 안전성을 높여줍니다. 광학 미러와 후방 영상 디스플레이 기능 중 하나를 선택해 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27923.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358495",
+              "name": "드라이빙 어시스턴스 패키지Ⅰ",
+              "price": 1920000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27924.jpg"
+                },
+                {
+                  "name": " 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27925.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2(주차 구획선 인식 및 사선 주차 포함)",
+                  "exp": "-차량 외부에서 스마트 키로 원격 전/후진을 통해 주차 및 출차를 도와줍니다. 주차 구획선을 인식하여 직각 주차, 평행 주차, 사선 주차를 보조할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27926.jpg"
+                },
+                {
+                  "name": "주차 충돌방지 보조(전/측/후방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27927.jpg"
+                },
+                {
+                  "name": "주차 거리 경고(측방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27928.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358496",
+              "name": "드라이빙 어시스턴스 패키지Ⅱ",
+              "price": 1970000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함)",
+                  "exp": "-고속도로나 자동차 전용 도로에서 앞차와의 거리, 운전자가 설정한 속도, 차로 중앙(곡선로 포함)을 동시에 유지하며 주행할 수 있도록 돕습니다. 옆 차량과 가까워질 경우 주행 차로 내에서 편향 주행을 유도해 위험을 방지합니다. 또한, 일정 속도 이상에서 스티어링 휠을 잡은 상태로 방향지시등 스위치를 조작하면 스위치 방향대로 차로를 자동으로 변경합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27929.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27930.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27931.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조 2(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함)",
+                  "exp": "-다양한 대상과의 충돌 위험이 감지될 경우 경고를 보내고, 이후에도 위험이 커지면 자동으로 제동을 보조합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27932.jpg"
+                },
+                {
+                  "name": "앞좌석 프리액티브 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27933.jpg"
+                },
+                {
+                  "name": "지능형 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27934.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27935.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "-일정 속도 이상으로 주행 중 후측방의 차량을 인식해 충돌 위험이 판단되면 경고등과 경고음 등으로 알려줍니다. 또한 전진 출차 시 충돌 위험이 높아지면 충돌하지 않도록 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27936.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358497",
+              "name": "2열 컴포트 패키지",
+              "price": 1080000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 수동식 도어커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27937.jpg"
+                },
+                {
+                  "name": "3존 공조(운전석 &amp; 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27938.jpg"
+                },
+                {
+                  "name": "뒷좌석 통풍 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27939.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 네트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 220V 파워아웃렛",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27942.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358498",
+              "name": "뱅앤올룹슨 사운드 패키지",
+              "price": 1670000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뱅앤올룹슨 고해상도 사운드 시스템(16스피커)",
+                  "exp": "-10단계 서라운드를 통해 풍부하고 섬세한 음장 효과를 연출하고, 베오소닉 기능으로 취향에 맞는 사운드 톤을 설정할 수 있습니다. 또한 돌비 애트모스는 콘텐츠에 깊이와 선명함, 디테일을 더해 온몸을 감싸는 듯한 공간 음향 경험을 선사합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27943.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27944.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358499",
+              "name": "빌트인 캠 패키지",
+              "price": 840000,
+              "code": "A28",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "-고해상도 전·후방 카메라로 촬영한 주행/주차 영상 및 음성 녹음을 내비게이션 화면과 스마트폰으로 실시간 확인, 촬영 영상 재생, 다운로드, SNS에 업로드할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27945.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27947.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-무광",
+              "colorHexadecimal": "e4e3e5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-무광",
+              "colorHexadecimal": "39393c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f7",
+              "rank": 1,
+              "percent": 48,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "6f7477",
+              "rank": 3,
+              "percent": 13,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "2b2b2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "0d1314",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "193a2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "베링 블루(GBE)",
+              "colorHexadecimal": "555f64",
+              "rank": 2,
+              "percent": 17,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "656e78",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "001435",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "마우나 레드(RJK)",
+              "colorHexadecimal": "7f0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/바닐라 베이지 투톤",
+              "colorHexadecimal": "232428/cfc7ba",
+              "rank": 1,
+              "percent": 44,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오션웨이브 블루/하바나 브라운 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "1e2225/5c4235",
+              "rank": 2,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "슬레이트 그레이/벨벳 버건디 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "2c2c2c/3f2830",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 0,
+              "colorName": "어반브라운/프로즌 그레이 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "6e625f/a0a2a6",
+              "rank": 3,
+              "percent": 11,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            }
+          ]
+        },
+        {
+          "trimNo": 93889,
+          "trimName": "AWD",
+          "price": 56130000,
+          "transmission": "",
+          "percent": 28,
+          "options": [
+            {
+              "seq": "358509",
+              "name": "235/55R19 미쉐린 타이어 + 휠",
+              "price": 1080000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358510",
+              "name": "255/40R21 미쉐린 타이어 + 휠 (※ 프리뷰 전자제어 서스펜션 포함)",
+              "price": 3250000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358511",
+              "name": "시그니쳐 디자인 셀렉션Ⅰ",
+              "price": 1670000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽 시트(파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "헤어라인 브러쉬드 패턴 알루미늄 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27903.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358512",
+              "name": "시그니쳐 디자인 셀렉션Ⅱ",
+              "price": 2950000,
+              "code": "A13",
+              "percent": 13,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(퀼팅, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "엘레강스 라인 무드라이팅 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27906.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "투톤 가죽 스티어링 휠",
+                  "exp": "※ 투톤 가죽 스티어링 휠: 내장 컬러 옵시디언 블랙 모노톤 선택 시 블랙 모노톤으로 적용",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27908.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358513",
+              "name": "파퓰러 패키지Ⅰ ",
+              "price": 2910000,
+              "code": "A17",
+              "percent": 13,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358514",
+              "name": "파퓰러 패키지Ⅱ",
+              "price": 6500000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                },
+                {
+                  "name": "2열 컴포트 패키지",
+                  "exp": "- 뒷좌석 수동식 도어커튼, 3존 공조(운전석 & 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치), 뒷좌석 통풍 시트, 러기지 매트, 러기지 스크린, 러기지 네트, 뒷좌석 220V 파워아웃렛",
+                  "image": ""
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅱ",
+                  "exp": "- 고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함), 스마트 크루즈 컨트롤(운전 스타일 연동), 내비게이션 기반 스마트 크루즈 컨트롤(진출입로), 전방 충돌방지 보조(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함), 앞좌석 프리액티브 시트벨트, 지능형 헤드램프, 운전자 전방 주시 경고 카메라, 후측방 충돌방지 보조(주행)",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠 패키지",
+                  "exp": "- 빌트인 캠 2, 보조배터리, 증강현실 내비게이션 ※ QHD급 고화질 녹화 및 음성 녹음 지원, Micro SD 외장 메모리 적용, 주차 후 최대 20시간 녹화 가능",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358515",
+              "name": "프리뷰 전자제어 서스펜션",
+              "price": 1080000,
+              "code": "A19",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358516",
+              "name": "파노라마 선루프",
+              "price": 1380000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358517",
+              "name": "헤드업 디스플레이",
+              "price": 1280000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358518",
+              "name": "컨비니언스 패키지",
+              "price": 2460000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 &amp; 동승석 에르고 모션 시트",
+                  "exp": "-시트에 내장된 7개의 공기 주머니가 최적의 착좌감과 안락함을 제공합니다. 또한, 업그레이드된 2세대 스마트 자세제어 시스템은 운전자에게 맞는 최적의 자세를 추천해 운전 피로도를 낮춰줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27919.jpg"
+                },
+                {
+                  "name": "동승석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27920.jpg"
+                },
+                {
+                  "name": "무드 큐레이터(향기 카트리지 3EA 포함)",
+                  "exp": "-차 안의 음악, 향기, 조명과 연동하는 4개의 무드(바이탈리티, 딜라이트, 케어, 컴포트)를 취향에 맞게 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27921.jpg"
+                },
+                {
+                  "name": " 디지털 센터 미러",
+                  "exp": "-후방 시야를 디스플레이로 표시해 야간이나 우천 시의 주행 안전성을 높여줍니다. 광학 미러와 후방 영상 디스플레이 기능 중 하나를 선택해 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27923.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358519",
+              "name": "드라이빙 어시스턴스 패키지Ⅰ",
+              "price": 1920000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27924.jpg"
+                },
+                {
+                  "name": " 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27925.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2(주차 구획선 인식 및 사선 주차 포함)",
+                  "exp": "-차량 외부에서 스마트 키로 원격 전/후진을 통해 주차 및 출차를 도와줍니다. 주차 구획선을 인식하여 직각 주차, 평행 주차, 사선 주차를 보조할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27926.jpg"
+                },
+                {
+                  "name": "주차 충돌방지 보조(전/측/후방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27927.jpg"
+                },
+                {
+                  "name": "주차 거리 경고(측방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27928.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358520",
+              "name": "드라이빙 어시스턴스 패키지Ⅱ",
+              "price": 1970000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함)",
+                  "exp": "-고속도로나 자동차 전용 도로에서 앞차와의 거리, 운전자가 설정한 속도, 차로 중앙(곡선로 포함)을 동시에 유지하며 주행할 수 있도록 돕습니다. 옆 차량과 가까워질 경우 주행 차로 내에서 편향 주행을 유도해 위험을 방지합니다. 또한, 일정 속도 이상에서 스티어링 휠을 잡은 상태로 방향지시등 스위치를 조작하면 스위치 방향대로 차로를 자동으로 변경합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27929.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27930.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27931.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조 2(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함)",
+                  "exp": "-다양한 대상과의 충돌 위험이 감지될 경우 경고를 보내고, 이후에도 위험이 커지면 자동으로 제동을 보조합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27932.jpg"
+                },
+                {
+                  "name": "앞좌석 프리액티브 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27933.jpg"
+                },
+                {
+                  "name": "지능형 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27934.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27935.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "-일정 속도 이상으로 주행 중 후측방의 차량을 인식해 충돌 위험이 판단되면 경고등과 경고음 등으로 알려줍니다. 또한 전진 출차 시 충돌 위험이 높아지면 충돌하지 않도록 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27936.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358521",
+              "name": "2열 컴포트 패키지",
+              "price": 1080000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 수동식 도어커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27937.jpg"
+                },
+                {
+                  "name": "3존 공조(운전석 &amp; 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27938.jpg"
+                },
+                {
+                  "name": "뒷좌석 통풍 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27939.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 네트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 220V 파워아웃렛",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27942.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358522",
+              "name": "뱅앤올룹슨 사운드 패키지",
+              "price": 1670000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뱅앤올룹슨 고해상도 사운드 시스템(16스피커)",
+                  "exp": "-10단계 서라운드를 통해 풍부하고 섬세한 음장 효과를 연출하고, 베오소닉 기능으로 취향에 맞는 사운드 톤을 설정할 수 있습니다. 또한 돌비 애트모스는 콘텐츠에 깊이와 선명함, 디테일을 더해 온몸을 감싸는 듯한 공간 음향 경험을 선사합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27943.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27944.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358523",
+              "name": "빌트인 캠 패키지",
+              "price": 840000,
+              "code": "A28",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "-고해상도 전·후방 카메라로 촬영한 주행/주차 영상 및 음성 녹음을 내비게이션 화면과 스마트폰으로 실시간 확인, 촬영 영상 재생, 다운로드, SNS에 업로드할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27945.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27947.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-무광",
+              "colorHexadecimal": "e4e3e5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-무광",
+              "colorHexadecimal": "39393c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f7",
+              "rank": 1,
+              "percent": 58,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "6f7477",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "2b2b2b",
+              "rank": 3,
+              "percent": 8,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "0d1314",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "193a2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "베링 블루(GBE)",
+              "colorHexadecimal": "555f64",
+              "rank": 2,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "656e78",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "001435",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "마우나 레드(RJK)",
+              "colorHexadecimal": "7f0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/바닐라 베이지 투톤",
+              "colorHexadecimal": "232428/cfc7ba",
+              "rank": 3,
+              "percent": 15,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오션웨이브 블루/하바나 브라운 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "1e2225/5c4235",
+              "rank": 1,
+              "percent": 58,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "슬레이트 그레이/벨벳 버건디 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "2c2c2c/3f2830",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 0,
+              "colorName": "어반브라운/프로즌 그레이 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "6e625f/a0a2a6",
+              "rank": 2,
+              "percent": 21,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            }
+          ]
+        },
+        {
+          "trimNo": 93890,
+          "trimName": "스포츠 2WD",
+          "price": 55940000,
+          "transmission": "",
+          "percent": 7,
+          "options": [
+            {
+              "seq": "358533",
+              "name": "235/55R19 미쉐린 타이어 + 스포츠 전용 휠 (※ 전자식 차동제한장치(e-LSD) 포함)",
+              "price": 340000,
+              "code": "A29",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358534",
+              "name": "255/40R21 미쉐린 타이어 + 스포츠 전용 휠 (※ 프리뷰 전자제어 서스펜션 + 전자식 차동제한장치(e-LSD) 포함)",
+              "price": 3590000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358535",
+              "name": "스포츠 디자인 셀렉션Ⅰ",
+              "price": 2270000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(스웨이드, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자카드 패턴 리얼 카본 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27910.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358536",
+              "name": "스포츠 디자인 셀렉션Ⅱ",
+              "price": 2270000,
+              "code": "A16",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(퀼팅, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스포티 라인 무드라이팅 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27911.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358537",
+              "name": "파퓰러 패키지Ⅰ ",
+              "price": 2910000,
+              "code": "A17",
+              "percent": 12,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358538",
+              "name": "파퓰러 패키지Ⅱ",
+              "price": 6500000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                },
+                {
+                  "name": "2열 컴포트 패키지",
+                  "exp": "- 뒷좌석 수동식 도어커튼, 3존 공조(운전석 & 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치), 뒷좌석 통풍 시트, 러기지 매트, 러기지 스크린, 러기지 네트, 뒷좌석 220V 파워아웃렛",
+                  "image": ""
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅱ",
+                  "exp": "- 고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함), 스마트 크루즈 컨트롤(운전 스타일 연동), 내비게이션 기반 스마트 크루즈 컨트롤(진출입로), 전방 충돌방지 보조(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함), 앞좌석 프리액티브 시트벨트, 지능형 헤드램프, 운전자 전방 주시 경고 카메라, 후측방 충돌방지 보조(주행)",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠 패키지",
+                  "exp": "- 빌트인 캠 2, 보조배터리, 증강현실 내비게이션 ※ QHD급 고화질 녹화 및 음성 녹음 지원, Micro SD 외장 메모리 적용, 주차 후 최대 20시간 녹화 가능",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358539",
+              "name": "프리뷰 전자제어 서스펜션",
+              "price": 1080000,
+              "code": "A19",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358540",
+              "name": "파노라마 선루프",
+              "price": 1380000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358541",
+              "name": "헤드업 디스플레이",
+              "price": 1280000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358542",
+              "name": "컨비니언스 패키지",
+              "price": 2460000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 &amp; 동승석 에르고 모션 시트",
+                  "exp": "-시트에 내장된 7개의 공기 주머니가 최적의 착좌감과 안락함을 제공합니다. 또한, 업그레이드된 2세대 스마트 자세제어 시스템은 운전자에게 맞는 최적의 자세를 추천해 운전 피로도를 낮춰줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27919.jpg"
+                },
+                {
+                  "name": "동승석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27920.jpg"
+                },
+                {
+                  "name": "무드 큐레이터(향기 카트리지 3EA 포함)",
+                  "exp": "-차 안의 음악, 향기, 조명과 연동하는 4개의 무드(바이탈리티, 딜라이트, 케어, 컴포트)를 취향에 맞게 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27921.jpg"
+                },
+                {
+                  "name": " 디지털 센터 미러",
+                  "exp": "-후방 시야를 디스플레이로 표시해 야간이나 우천 시의 주행 안전성을 높여줍니다. 광학 미러와 후방 영상 디스플레이 기능 중 하나를 선택해 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27923.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358543",
+              "name": "드라이빙 어시스턴스 패키지Ⅰ",
+              "price": 1920000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27924.jpg"
+                },
+                {
+                  "name": " 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27925.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2(주차 구획선 인식 및 사선 주차 포함)",
+                  "exp": "-차량 외부에서 스마트 키로 원격 전/후진을 통해 주차 및 출차를 도와줍니다. 주차 구획선을 인식하여 직각 주차, 평행 주차, 사선 주차를 보조할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27926.jpg"
+                },
+                {
+                  "name": "주차 충돌방지 보조(전/측/후방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27927.jpg"
+                },
+                {
+                  "name": "주차 거리 경고(측방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27928.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358544",
+              "name": "드라이빙 어시스턴스 패키지Ⅱ",
+              "price": 1970000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함)",
+                  "exp": "-고속도로나 자동차 전용 도로에서 앞차와의 거리, 운전자가 설정한 속도, 차로 중앙(곡선로 포함)을 동시에 유지하며 주행할 수 있도록 돕습니다. 옆 차량과 가까워질 경우 주행 차로 내에서 편향 주행을 유도해 위험을 방지합니다. 또한, 일정 속도 이상에서 스티어링 휠을 잡은 상태로 방향지시등 스위치를 조작하면 스위치 방향대로 차로를 자동으로 변경합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27929.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27930.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27931.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조 2(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함)",
+                  "exp": "-다양한 대상과의 충돌 위험이 감지될 경우 경고를 보내고, 이후에도 위험이 커지면 자동으로 제동을 보조합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27932.jpg"
+                },
+                {
+                  "name": "앞좌석 프리액티브 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27933.jpg"
+                },
+                {
+                  "name": "지능형 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27934.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27935.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "-일정 속도 이상으로 주행 중 후측방의 차량을 인식해 충돌 위험이 판단되면 경고등과 경고음 등으로 알려줍니다. 또한 전진 출차 시 충돌 위험이 높아지면 충돌하지 않도록 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27936.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358545",
+              "name": "2열 컴포트 패키지",
+              "price": 1080000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 수동식 도어커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27937.jpg"
+                },
+                {
+                  "name": "3존 공조(운전석 &amp; 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27938.jpg"
+                },
+                {
+                  "name": "뒷좌석 통풍 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27939.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 네트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 220V 파워아웃렛",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27942.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358547",
+              "name": "뱅앤올룹슨 사운드 패키지",
+              "price": 1670000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뱅앤올룹슨 고해상도 사운드 시스템(16스피커)",
+                  "exp": "-10단계 서라운드를 통해 풍부하고 섬세한 음장 효과를 연출하고, 베오소닉 기능으로 취향에 맞는 사운드 톤을 설정할 수 있습니다. 또한 돌비 애트모스는 콘텐츠에 깊이와 선명함, 디테일을 더해 온몸을 감싸는 듯한 공간 음향 경험을 선사합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27943.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27944.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358548",
+              "name": "빌트인 캠 패키지",
+              "price": 840000,
+              "code": "A28",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "-고해상도 전·후방 카메라로 촬영한 주행/주차 영상 및 음성 녹음을 내비게이션 화면과 스마트폰으로 실시간 확인, 촬영 영상 재생, 다운로드, SNS에 업로드할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27945.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27947.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-무광",
+              "colorHexadecimal": "e4e3e5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-무광",
+              "colorHexadecimal": "39393c",
+              "rank": 2,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "6f7477",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "2b2b2b",
+              "rank": 1,
+              "percent": 50,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "0d1314",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "193a2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "베링 블루(GBE)",
+              "colorHexadecimal": "555f64",
+              "rank": 3,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "656e78",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "001435",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "마우나 레드(RJK)",
+              "colorHexadecimal": "7f0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "232428",
+              "rank": 1,
+              "percent": 44,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/세비아 레드 투톤",
+              "colorHexadecimal": "232428/551718",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/울트라 마린 블루 투톤",
+              "colorHexadecimal": "232428/43464f",
+              "rank": 3,
+              "percent": 11,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/바닐라 베이지 투톤(스포츠 디자인 셀렉션Ⅱ 선택 시)",
+              "colorHexadecimal": "232428/cfc7ba",
+              "rank": 2,
+              "percent": 44,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ]
+        },
+        {
+          "trimNo": 93891,
+          "trimName": "스포츠 AWD",
+          "price": 58890000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358559",
+              "name": "235/55R19 미쉐린 타이어 + 스포츠 전용 휠 (※ 전자식 차동제한장치(e-LSD) 포함)",
+              "price": 340000,
+              "code": "A29",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358560",
+              "name": "255/40R21 미쉐린 타이어 + 스포츠 전용 휠 (※ 프리뷰 전자제어 서스펜션 + 전자식 차동제한장치(e-LSD) 포함)",
+              "price": 3590000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358561",
+              "name": "스포츠 디자인 셀렉션Ⅰ",
+              "price": 2270000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(스웨이드, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자카드 패턴 리얼 카본 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27910.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358562",
+              "name": "스포츠 디자인 셀렉션Ⅱ",
+              "price": 2270000,
+              "code": "A16",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(퀼팅, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스포티 라인 무드라이팅 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27911.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358563",
+              "name": "파퓰러 패키지Ⅰ ",
+              "price": 2910000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358564",
+              "name": "파퓰러 패키지Ⅱ",
+              "price": 6500000,
+              "code": "A18",
+              "percent": 12,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                },
+                {
+                  "name": "2열 컴포트 패키지",
+                  "exp": "- 뒷좌석 수동식 도어커튼, 3존 공조(운전석 & 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치), 뒷좌석 통풍 시트, 러기지 매트, 러기지 스크린, 러기지 네트, 뒷좌석 220V 파워아웃렛",
+                  "image": ""
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅱ",
+                  "exp": "- 고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함), 스마트 크루즈 컨트롤(운전 스타일 연동), 내비게이션 기반 스마트 크루즈 컨트롤(진출입로), 전방 충돌방지 보조(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함), 앞좌석 프리액티브 시트벨트, 지능형 헤드램프, 운전자 전방 주시 경고 카메라, 후측방 충돌방지 보조(주행)",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠 패키지",
+                  "exp": "- 빌트인 캠 2, 보조배터리, 증강현실 내비게이션 ※ QHD급 고화질 녹화 및 음성 녹음 지원, Micro SD 외장 메모리 적용, 주차 후 최대 20시간 녹화 가능",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358565",
+              "name": "프리뷰 전자제어 서스펜션",
+              "price": 1080000,
+              "code": "A19",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358566",
+              "name": "파노라마 선루프",
+              "price": 1380000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358567",
+              "name": "헤드업 디스플레이",
+              "price": 1280000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358568",
+              "name": "컨비니언스 패키지",
+              "price": 2460000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 &amp; 동승석 에르고 모션 시트",
+                  "exp": "-시트에 내장된 7개의 공기 주머니가 최적의 착좌감과 안락함을 제공합니다. 또한, 업그레이드된 2세대 스마트 자세제어 시스템은 운전자에게 맞는 최적의 자세를 추천해 운전 피로도를 낮춰줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27919.jpg"
+                },
+                {
+                  "name": "동승석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27920.jpg"
+                },
+                {
+                  "name": "무드 큐레이터(향기 카트리지 3EA 포함)",
+                  "exp": "-차 안의 음악, 향기, 조명과 연동하는 4개의 무드(바이탈리티, 딜라이트, 케어, 컴포트)를 취향에 맞게 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27921.jpg"
+                },
+                {
+                  "name": " 디지털 센터 미러",
+                  "exp": "-후방 시야를 디스플레이로 표시해 야간이나 우천 시의 주행 안전성을 높여줍니다. 광학 미러와 후방 영상 디스플레이 기능 중 하나를 선택해 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27923.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358569",
+              "name": "드라이빙 어시스턴스 패키지Ⅰ",
+              "price": 1920000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27924.jpg"
+                },
+                {
+                  "name": " 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27925.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2(주차 구획선 인식 및 사선 주차 포함)",
+                  "exp": "-차량 외부에서 스마트 키로 원격 전/후진을 통해 주차 및 출차를 도와줍니다. 주차 구획선을 인식하여 직각 주차, 평행 주차, 사선 주차를 보조할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27926.jpg"
+                },
+                {
+                  "name": "주차 충돌방지 보조(전/측/후방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27927.jpg"
+                },
+                {
+                  "name": "주차 거리 경고(측방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27928.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358570",
+              "name": "드라이빙 어시스턴스 패키지Ⅱ",
+              "price": 1970000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함)",
+                  "exp": "-고속도로나 자동차 전용 도로에서 앞차와의 거리, 운전자가 설정한 속도, 차로 중앙(곡선로 포함)을 동시에 유지하며 주행할 수 있도록 돕습니다. 옆 차량과 가까워질 경우 주행 차로 내에서 편향 주행을 유도해 위험을 방지합니다. 또한, 일정 속도 이상에서 스티어링 휠을 잡은 상태로 방향지시등 스위치를 조작하면 스위치 방향대로 차로를 자동으로 변경합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27929.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27930.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27931.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조 2(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함)",
+                  "exp": "-다양한 대상과의 충돌 위험이 감지될 경우 경고를 보내고, 이후에도 위험이 커지면 자동으로 제동을 보조합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27932.jpg"
+                },
+                {
+                  "name": "앞좌석 프리액티브 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27933.jpg"
+                },
+                {
+                  "name": "지능형 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27934.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27935.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "-일정 속도 이상으로 주행 중 후측방의 차량을 인식해 충돌 위험이 판단되면 경고등과 경고음 등으로 알려줍니다. 또한 전진 출차 시 충돌 위험이 높아지면 충돌하지 않도록 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27936.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358571",
+              "name": "2열 컴포트 패키지",
+              "price": 1080000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 수동식 도어커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27937.jpg"
+                },
+                {
+                  "name": "3존 공조(운전석 &amp; 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27938.jpg"
+                },
+                {
+                  "name": "뒷좌석 통풍 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27939.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 네트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 220V 파워아웃렛",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27942.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358572",
+              "name": "뱅앤올룹슨 사운드 패키지",
+              "price": 1670000,
+              "code": "A27",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "뱅앤올룹슨 고해상도 사운드 시스템(16스피커)",
+                  "exp": "-10단계 서라운드를 통해 풍부하고 섬세한 음장 효과를 연출하고, 베오소닉 기능으로 취향에 맞는 사운드 톤을 설정할 수 있습니다. 또한 돌비 애트모스는 콘텐츠에 깊이와 선명함, 디테일을 더해 온몸을 감싸는 듯한 공간 음향 경험을 선사합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27943.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27944.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358573",
+              "name": "빌트인 캠 패키지",
+              "price": 840000,
+              "code": "A28",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "-고해상도 전·후방 카메라로 촬영한 주행/주차 영상 및 음성 녹음을 내비게이션 화면과 스마트폰으로 실시간 확인, 촬영 영상 재생, 다운로드, SNS에 업로드할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27945.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27947.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-무광",
+              "colorHexadecimal": "e4e3e5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-무광",
+              "colorHexadecimal": "39393c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "6f7477",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "2b2b2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "0d1314",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "193a2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "베링 블루(GBE)",
+              "colorHexadecimal": "555f64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "656e78",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "001435",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "마우나 레드(RJK)",
+              "colorHexadecimal": "7f0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/세비아 레드 투톤",
+              "colorHexadecimal": "232428/551718",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/울트라 마린 블루 투톤",
+              "colorHexadecimal": "232428/43464f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/바닐라 베이지 투톤(스포츠 디자인 셀렉션Ⅱ 선택 시)",
+              "colorHexadecimal": "232428/cfc7ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53476,
+      "name": " 가솔린 터보 3.5",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93894,
+          "trimName": "2WD",
+          "price": 58600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358612",
+              "name": "255/40R21 미쉐린 타이어 + 휠 (※ 프리뷰 전자제어 서스펜션 포함)",
+              "price": 1180000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358613",
+              "name": "시그니쳐 디자인 셀렉션Ⅰ",
+              "price": 1670000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽 시트(파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "헤어라인 브러쉬드 패턴 알루미늄 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27903.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358614",
+              "name": "시그니쳐 디자인 셀렉션Ⅱ",
+              "price": 2950000,
+              "code": "A13",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(퀼팅, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "엘레강스 라인 무드라이팅 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27906.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "투톤 가죽 스티어링 휠",
+                  "exp": "※ 투톤 가죽 스티어링 휠: 내장 컬러 옵시디언 블랙 모노톤 선택 시 블랙 모노톤으로 적용",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27908.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358615",
+              "name": "파퓰러 패키지Ⅰ ",
+              "price": 2910000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358616",
+              "name": "파퓰러 패키지Ⅱ",
+              "price": 6500000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                },
+                {
+                  "name": "2열 컴포트 패키지",
+                  "exp": "- 뒷좌석 수동식 도어커튼, 3존 공조(운전석 & 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치), 뒷좌석 통풍 시트, 러기지 매트, 러기지 스크린, 러기지 네트, 뒷좌석 220V 파워아웃렛",
+                  "image": ""
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅱ",
+                  "exp": "- 고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함), 스마트 크루즈 컨트롤(운전 스타일 연동), 내비게이션 기반 스마트 크루즈 컨트롤(진출입로), 전방 충돌방지 보조(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함), 앞좌석 프리액티브 시트벨트, 지능형 헤드램프, 운전자 전방 주시 경고 카메라, 후측방 충돌방지 보조(주행)",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠 패키지",
+                  "exp": "- 빌트인 캠 2, 보조배터리, 증강현실 내비게이션 ※ QHD급 고화질 녹화 및 음성 녹음 지원, Micro SD 외장 메모리 적용, 주차 후 최대 20시간 녹화 가능",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358617",
+              "name": "파노라마 선루프",
+              "price": 1380000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358618",
+              "name": "헤드업 디스플레이",
+              "price": 1280000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358619",
+              "name": "컨비니언스 패키지",
+              "price": 2460000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 &amp; 동승석 에르고 모션 시트",
+                  "exp": "-시트에 내장된 7개의 공기 주머니가 최적의 착좌감과 안락함을 제공합니다. 또한, 업그레이드된 2세대 스마트 자세제어 시스템은 운전자에게 맞는 최적의 자세를 추천해 운전 피로도를 낮춰줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27919.jpg"
+                },
+                {
+                  "name": "동승석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27920.jpg"
+                },
+                {
+                  "name": "무드 큐레이터(향기 카트리지 3EA 포함)",
+                  "exp": "-차 안의 음악, 향기, 조명과 연동하는 4개의 무드(바이탈리티, 딜라이트, 케어, 컴포트)를 취향에 맞게 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27921.jpg"
+                },
+                {
+                  "name": " 디지털 센터 미러",
+                  "exp": "-후방 시야를 디스플레이로 표시해 야간이나 우천 시의 주행 안전성을 높여줍니다. 광학 미러와 후방 영상 디스플레이 기능 중 하나를 선택해 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27923.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358620",
+              "name": "드라이빙 어시스턴스 패키지Ⅰ",
+              "price": 1920000,
+              "code": "A23",
+              "percent": 50,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27924.jpg"
+                },
+                {
+                  "name": " 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27925.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2(주차 구획선 인식 및 사선 주차 포함)",
+                  "exp": "-차량 외부에서 스마트 키로 원격 전/후진을 통해 주차 및 출차를 도와줍니다. 주차 구획선을 인식하여 직각 주차, 평행 주차, 사선 주차를 보조할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27926.jpg"
+                },
+                {
+                  "name": "주차 충돌방지 보조(전/측/후방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27927.jpg"
+                },
+                {
+                  "name": "주차 거리 경고(측방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27928.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358621",
+              "name": "드라이빙 어시스턴스 패키지Ⅱ",
+              "price": 1970000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함)",
+                  "exp": "-고속도로나 자동차 전용 도로에서 앞차와의 거리, 운전자가 설정한 속도, 차로 중앙(곡선로 포함)을 동시에 유지하며 주행할 수 있도록 돕습니다. 옆 차량과 가까워질 경우 주행 차로 내에서 편향 주행을 유도해 위험을 방지합니다. 또한, 일정 속도 이상에서 스티어링 휠을 잡은 상태로 방향지시등 스위치를 조작하면 스위치 방향대로 차로를 자동으로 변경합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27929.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27930.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27931.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조 2(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함)",
+                  "exp": "-다양한 대상과의 충돌 위험이 감지될 경우 경고를 보내고, 이후에도 위험이 커지면 자동으로 제동을 보조합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27932.jpg"
+                },
+                {
+                  "name": "앞좌석 프리액티브 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27933.jpg"
+                },
+                {
+                  "name": "지능형 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27934.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27935.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "-일정 속도 이상으로 주행 중 후측방의 차량을 인식해 충돌 위험이 판단되면 경고등과 경고음 등으로 알려줍니다. 또한 전진 출차 시 충돌 위험이 높아지면 충돌하지 않도록 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27936.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358622",
+              "name": "2열 컴포트 패키지",
+              "price": 1080000,
+              "code": "A25",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "뒷좌석 수동식 도어커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27937.jpg"
+                },
+                {
+                  "name": "3존 공조(운전석 &amp; 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27938.jpg"
+                },
+                {
+                  "name": "뒷좌석 통풍 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27939.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 네트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 220V 파워아웃렛",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27942.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358623",
+              "name": "뱅앤올룹슨 사운드 패키지",
+              "price": 1670000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뱅앤올룹슨 고해상도 사운드 시스템(16스피커)",
+                  "exp": "-10단계 서라운드를 통해 풍부하고 섬세한 음장 효과를 연출하고, 베오소닉 기능으로 취향에 맞는 사운드 톤을 설정할 수 있습니다. 또한 돌비 애트모스는 콘텐츠에 깊이와 선명함, 디테일을 더해 온몸을 감싸는 듯한 공간 음향 경험을 선사합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27943.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27944.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358624",
+              "name": "빌트인 캠 패키지",
+              "price": 840000,
+              "code": "A28",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "-고해상도 전·후방 카메라로 촬영한 주행/주차 영상 및 음성 녹음을 내비게이션 화면과 스마트폰으로 실시간 확인, 촬영 영상 재생, 다운로드, SNS에 업로드할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27945.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27947.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-무광",
+              "colorHexadecimal": "e4e3e5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-무광",
+              "colorHexadecimal": "39393c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "6f7477",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "2b2b2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "0d1314",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "193a2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "베링 블루(GBE)",
+              "colorHexadecimal": "555f64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "656e78",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "001435",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "마우나 레드(RJK)",
+              "colorHexadecimal": "7f0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/바닐라 베이지 투톤",
+              "colorHexadecimal": "232428/cfc7ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오션웨이브 블루/하바나 브라운 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "1e2225/5c4235",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "슬레이트 그레이/벨벳 버건디 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "2c2c2c/3f2830",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 0,
+              "colorName": "어반브라운/프로즌 그레이 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "6e625f/a0a2a6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            }
+          ]
+        },
+        {
+          "trimNo": 93895,
+          "trimName": "AWD",
+          "price": 61550000,
+          "transmission": "",
+          "percent": 20,
+          "options": [
+            {
+              "seq": "358632",
+              "name": "255/40R21 미쉐린 타이어 + 휠 (※ 프리뷰 전자제어 서스펜션 포함)",
+              "price": 1180000,
+              "code": "A11",
+              "percent": 13,
+              "items": []
+            },
+            {
+              "seq": "358633",
+              "name": "시그니쳐 디자인 셀렉션Ⅰ",
+              "price": 1670000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽 시트(파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "헤어라인 브러쉬드 패턴 알루미늄 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27903.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358634",
+              "name": "시그니쳐 디자인 셀렉션Ⅱ",
+              "price": 2950000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(퀼팅, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "엘레강스 라인 무드라이팅 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27906.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "투톤 가죽 스티어링 휠",
+                  "exp": "※ 투톤 가죽 스티어링 휠: 내장 컬러 옵시디언 블랙 모노톤 선택 시 블랙 모노톤으로 적용",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27908.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358635",
+              "name": "파퓰러 패키지Ⅰ ",
+              "price": 2910000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358636",
+              "name": "파퓰러 패키지Ⅱ",
+              "price": 6500000,
+              "code": "A18",
+              "percent": 11,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                },
+                {
+                  "name": "2열 컴포트 패키지",
+                  "exp": "- 뒷좌석 수동식 도어커튼, 3존 공조(운전석 & 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치), 뒷좌석 통풍 시트, 러기지 매트, 러기지 스크린, 러기지 네트, 뒷좌석 220V 파워아웃렛",
+                  "image": ""
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅱ",
+                  "exp": "- 고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함), 스마트 크루즈 컨트롤(운전 스타일 연동), 내비게이션 기반 스마트 크루즈 컨트롤(진출입로), 전방 충돌방지 보조(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함), 앞좌석 프리액티브 시트벨트, 지능형 헤드램프, 운전자 전방 주시 경고 카메라, 후측방 충돌방지 보조(주행)",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠 패키지",
+                  "exp": "- 빌트인 캠 2, 보조배터리, 증강현실 내비게이션 ※ QHD급 고화질 녹화 및 음성 녹음 지원, Micro SD 외장 메모리 적용, 주차 후 최대 20시간 녹화 가능",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358637",
+              "name": "파노라마 선루프",
+              "price": 1380000,
+              "code": "A20",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358638",
+              "name": "헤드업 디스플레이",
+              "price": 1280000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358639",
+              "name": "컨비니언스 패키지",
+              "price": 2460000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 &amp; 동승석 에르고 모션 시트",
+                  "exp": "-시트에 내장된 7개의 공기 주머니가 최적의 착좌감과 안락함을 제공합니다. 또한, 업그레이드된 2세대 스마트 자세제어 시스템은 운전자에게 맞는 최적의 자세를 추천해 운전 피로도를 낮춰줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27919.jpg"
+                },
+                {
+                  "name": "동승석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27920.jpg"
+                },
+                {
+                  "name": "무드 큐레이터(향기 카트리지 3EA 포함)",
+                  "exp": "-차 안의 음악, 향기, 조명과 연동하는 4개의 무드(바이탈리티, 딜라이트, 케어, 컴포트)를 취향에 맞게 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27921.jpg"
+                },
+                {
+                  "name": " 디지털 센터 미러",
+                  "exp": "-후방 시야를 디스플레이로 표시해 야간이나 우천 시의 주행 안전성을 높여줍니다. 광학 미러와 후방 영상 디스플레이 기능 중 하나를 선택해 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27923.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358640",
+              "name": "드라이빙 어시스턴스 패키지Ⅰ",
+              "price": 1920000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27924.jpg"
+                },
+                {
+                  "name": " 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27925.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2(주차 구획선 인식 및 사선 주차 포함)",
+                  "exp": "-차량 외부에서 스마트 키로 원격 전/후진을 통해 주차 및 출차를 도와줍니다. 주차 구획선을 인식하여 직각 주차, 평행 주차, 사선 주차를 보조할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27926.jpg"
+                },
+                {
+                  "name": "주차 충돌방지 보조(전/측/후방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27927.jpg"
+                },
+                {
+                  "name": "주차 거리 경고(측방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27928.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358641",
+              "name": "드라이빙 어시스턴스 패키지Ⅱ",
+              "price": 1970000,
+              "code": "A24",
+              "percent": 13,
+              "items": [
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함)",
+                  "exp": "-고속도로나 자동차 전용 도로에서 앞차와의 거리, 운전자가 설정한 속도, 차로 중앙(곡선로 포함)을 동시에 유지하며 주행할 수 있도록 돕습니다. 옆 차량과 가까워질 경우 주행 차로 내에서 편향 주행을 유도해 위험을 방지합니다. 또한, 일정 속도 이상에서 스티어링 휠을 잡은 상태로 방향지시등 스위치를 조작하면 스위치 방향대로 차로를 자동으로 변경합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27929.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27930.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27931.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조 2(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함)",
+                  "exp": "-다양한 대상과의 충돌 위험이 감지될 경우 경고를 보내고, 이후에도 위험이 커지면 자동으로 제동을 보조합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27932.jpg"
+                },
+                {
+                  "name": "앞좌석 프리액티브 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27933.jpg"
+                },
+                {
+                  "name": "지능형 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27934.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27935.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "-일정 속도 이상으로 주행 중 후측방의 차량을 인식해 충돌 위험이 판단되면 경고등과 경고음 등으로 알려줍니다. 또한 전진 출차 시 충돌 위험이 높아지면 충돌하지 않도록 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27936.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358642",
+              "name": "2열 컴포트 패키지",
+              "price": 1080000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 수동식 도어커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27937.jpg"
+                },
+                {
+                  "name": "3존 공조(운전석 &amp; 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27938.jpg"
+                },
+                {
+                  "name": "뒷좌석 통풍 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27939.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 네트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 220V 파워아웃렛",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27942.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358643",
+              "name": "뱅앤올룹슨 사운드 패키지",
+              "price": 1670000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뱅앤올룹슨 고해상도 사운드 시스템(16스피커)",
+                  "exp": "-10단계 서라운드를 통해 풍부하고 섬세한 음장 효과를 연출하고, 베오소닉 기능으로 취향에 맞는 사운드 톤을 설정할 수 있습니다. 또한 돌비 애트모스는 콘텐츠에 깊이와 선명함, 디테일을 더해 온몸을 감싸는 듯한 공간 음향 경험을 선사합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27943.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27944.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358644",
+              "name": "빌트인 캠 패키지",
+              "price": 840000,
+              "code": "A28",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "-고해상도 전·후방 카메라로 촬영한 주행/주차 영상 및 음성 녹음을 내비게이션 화면과 스마트폰으로 실시간 확인, 촬영 영상 재생, 다운로드, SNS에 업로드할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27945.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27947.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-무광",
+              "colorHexadecimal": "e4e3e5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-무광",
+              "colorHexadecimal": "39393c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "6f7477",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "2b2b2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "0d1314",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "193a2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "베링 블루(GBE)",
+              "colorHexadecimal": "555f64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "656e78",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "001435",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "마우나 레드(RJK)",
+              "colorHexadecimal": "7f0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/바닐라 베이지 투톤",
+              "colorHexadecimal": "232428/cfc7ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오션웨이브 블루/하바나 브라운 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "1e2225/5c4235",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "슬레이트 그레이/벨벳 버건디 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "2c2c2c/3f2830",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 0,
+              "colorName": "어반브라운/프로즌 그레이 투톤(시그니쳐 디자인 셀렉션ⅠorⅡ 선택 시)",
+              "colorHexadecimal": "6e625f/a0a2a6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12,A13"
+            }
+          ]
+        },
+        {
+          "trimNo": 93896,
+          "trimName": "스포츠 2WD",
+          "price": 61900000,
+          "transmission": "",
+          "percent": 28,
+          "options": [
+            {
+              "seq": "358652",
+              "name": "255/40R21 미쉐린 썸머 타이어 + 스포츠 전용 휠 (※ 프리뷰 전자제어 서스펜션 포함)",
+              "price": 0,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358653",
+              "name": "스포츠 디자인 셀렉션Ⅰ",
+              "price": 2270000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(스웨이드, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자카드 패턴 리얼 카본 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27910.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358654",
+              "name": "스포츠 디자인 셀렉션Ⅱ",
+              "price": 2270000,
+              "code": "A16",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(퀼팅, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스포티 라인 무드라이팅 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27911.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358655",
+              "name": "파퓰러 패키지Ⅰ ",
+              "price": 2910000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358656",
+              "name": "파퓰러 패키지Ⅱ",
+              "price": 6500000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                },
+                {
+                  "name": "2열 컴포트 패키지",
+                  "exp": "- 뒷좌석 수동식 도어커튼, 3존 공조(운전석 & 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치), 뒷좌석 통풍 시트, 러기지 매트, 러기지 스크린, 러기지 네트, 뒷좌석 220V 파워아웃렛",
+                  "image": ""
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅱ",
+                  "exp": "- 고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함), 스마트 크루즈 컨트롤(운전 스타일 연동), 내비게이션 기반 스마트 크루즈 컨트롤(진출입로), 전방 충돌방지 보조(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함), 앞좌석 프리액티브 시트벨트, 지능형 헤드램프, 운전자 전방 주시 경고 카메라, 후측방 충돌방지 보조(주행)",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠 패키지",
+                  "exp": "- 빌트인 캠 2, 보조배터리, 증강현실 내비게이션 ※ QHD급 고화질 녹화 및 음성 녹음 지원, Micro SD 외장 메모리 적용, 주차 후 최대 20시간 녹화 가능",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358657",
+              "name": "파노라마 선루프",
+              "price": 1380000,
+              "code": "A20",
+              "percent": 12,
+              "items": []
+            },
+            {
+              "seq": "358658",
+              "name": "헤드업 디스플레이",
+              "price": 1280000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358659",
+              "name": "컨비니언스 패키지",
+              "price": 2460000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 &amp; 동승석 에르고 모션 시트",
+                  "exp": "-시트에 내장된 7개의 공기 주머니가 최적의 착좌감과 안락함을 제공합니다. 또한, 업그레이드된 2세대 스마트 자세제어 시스템은 운전자에게 맞는 최적의 자세를 추천해 운전 피로도를 낮춰줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27919.jpg"
+                },
+                {
+                  "name": "동승석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27920.jpg"
+                },
+                {
+                  "name": "무드 큐레이터(향기 카트리지 3EA 포함)",
+                  "exp": "-차 안의 음악, 향기, 조명과 연동하는 4개의 무드(바이탈리티, 딜라이트, 케어, 컴포트)를 취향에 맞게 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27921.jpg"
+                },
+                {
+                  "name": " 디지털 센터 미러",
+                  "exp": "-후방 시야를 디스플레이로 표시해 야간이나 우천 시의 주행 안전성을 높여줍니다. 광학 미러와 후방 영상 디스플레이 기능 중 하나를 선택해 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27923.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358660",
+              "name": "드라이빙 어시스턴스 패키지Ⅰ",
+              "price": 1920000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27924.jpg"
+                },
+                {
+                  "name": " 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27925.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2(주차 구획선 인식 및 사선 주차 포함)",
+                  "exp": "-차량 외부에서 스마트 키로 원격 전/후진을 통해 주차 및 출차를 도와줍니다. 주차 구획선을 인식하여 직각 주차, 평행 주차, 사선 주차를 보조할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27926.jpg"
+                },
+                {
+                  "name": "주차 충돌방지 보조(전/측/후방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27927.jpg"
+                },
+                {
+                  "name": "주차 거리 경고(측방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27928.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358661",
+              "name": "드라이빙 어시스턴스 패키지Ⅱ",
+              "price": 1970000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함)",
+                  "exp": "-고속도로나 자동차 전용 도로에서 앞차와의 거리, 운전자가 설정한 속도, 차로 중앙(곡선로 포함)을 동시에 유지하며 주행할 수 있도록 돕습니다. 옆 차량과 가까워질 경우 주행 차로 내에서 편향 주행을 유도해 위험을 방지합니다. 또한, 일정 속도 이상에서 스티어링 휠을 잡은 상태로 방향지시등 스위치를 조작하면 스위치 방향대로 차로를 자동으로 변경합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27929.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27930.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27931.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조 2(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함)",
+                  "exp": "-다양한 대상과의 충돌 위험이 감지될 경우 경고를 보내고, 이후에도 위험이 커지면 자동으로 제동을 보조합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27932.jpg"
+                },
+                {
+                  "name": "앞좌석 프리액티브 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27933.jpg"
+                },
+                {
+                  "name": "지능형 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27934.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27935.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "-일정 속도 이상으로 주행 중 후측방의 차량을 인식해 충돌 위험이 판단되면 경고등과 경고음 등으로 알려줍니다. 또한 전진 출차 시 충돌 위험이 높아지면 충돌하지 않도록 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27936.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358662",
+              "name": "2열 컴포트 패키지",
+              "price": 1080000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 수동식 도어커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27937.jpg"
+                },
+                {
+                  "name": "3존 공조(운전석 &amp; 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27938.jpg"
+                },
+                {
+                  "name": "뒷좌석 통풍 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27939.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 네트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 220V 파워아웃렛",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27942.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358663",
+              "name": "뱅앤올룹슨 사운드 패키지",
+              "price": 1670000,
+              "code": "A27",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "뱅앤올룹슨 고해상도 사운드 시스템(16스피커)",
+                  "exp": "-10단계 서라운드를 통해 풍부하고 섬세한 음장 효과를 연출하고, 베오소닉 기능으로 취향에 맞는 사운드 톤을 설정할 수 있습니다. 또한 돌비 애트모스는 콘텐츠에 깊이와 선명함, 디테일을 더해 온몸을 감싸는 듯한 공간 음향 경험을 선사합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27943.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27944.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358664",
+              "name": "빌트인 캠 패키지",
+              "price": 840000,
+              "code": "A28",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "-고해상도 전·후방 카메라로 촬영한 주행/주차 영상 및 음성 녹음을 내비게이션 화면과 스마트폰으로 실시간 확인, 촬영 영상 재생, 다운로드, SNS에 업로드할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27945.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27947.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-무광",
+              "colorHexadecimal": "e4e3e5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-무광",
+              "colorHexadecimal": "39393c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "6f7477",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "2b2b2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "0d1314",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "193a2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "베링 블루(GBE)",
+              "colorHexadecimal": "555f64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "656e78",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "001435",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "마우나 레드(RJK)",
+              "colorHexadecimal": "7f0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/세비아 레드 투톤",
+              "colorHexadecimal": "232428/551718",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/울트라 마린 블루 투톤",
+              "colorHexadecimal": "232428/43464f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/바닐라 베이지 투톤(스포츠 디자인 셀렉션Ⅱ 선택 시)",
+              "colorHexadecimal": "232428/cfc7ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ]
+        },
+        {
+          "trimNo": 93897,
+          "trimName": "스포츠 AWD",
+          "price": 64850000,
+          "transmission": "",
+          "percent": 33,
+          "options": [
+            {
+              "seq": "358673",
+              "name": "255/40R21 미쉐린 썸머 타이어 + 스포츠 전용 휠 (※ 프리뷰 전자제어 서스펜션 포함)",
+              "price": 0,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358674",
+              "name": "스포츠 디자인 셀렉션Ⅰ",
+              "price": 2270000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(스웨이드, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자카드 패턴 리얼 카본 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27910.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358675",
+              "name": "스포츠 디자인 셀렉션Ⅱ",
+              "price": 2270000,
+              "code": "A16",
+              "percent": 13,
+              "items": [
+                {
+                  "name": "프라임 나파 가죽 시트(퀼팅, 파이핑 적용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스포티 라인 무드라이팅 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27911.jpg"
+                },
+                {
+                  "name": "인조 가죽 내장재(크래쉬패드, 도어 트림 상단, 콘솔 가니쉬 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "럭셔리 스웨이드 내장재(헤드라이닝, 필라 트림 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358676",
+              "name": "파퓰러 패키지Ⅰ ",
+              "price": 2910000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358678",
+              "name": "파퓰러 패키지Ⅱ",
+              "price": 6500000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27912.jpg"
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅰ",
+                  "exp": "- 서라운드 뷰 모니터, 후측방 모니터, 원격 스마트 주차 보조(주차 구획선 인식 및 사선 주차 포함), 주차 충돌방지 보조(전/측/후방), 주차 거리 경고(측방)",
+                  "image": ""
+                },
+                {
+                  "name": "2열 컴포트 패키지",
+                  "exp": "- 뒷좌석 수동식 도어커튼, 3존 공조(운전석 & 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치), 뒷좌석 통풍 시트, 러기지 매트, 러기지 스크린, 러기지 네트, 뒷좌석 220V 파워아웃렛",
+                  "image": ""
+                },
+                {
+                  "name": "드라이빙 어시스턴스 패키지Ⅱ",
+                  "exp": "- 고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함), 스마트 크루즈 컨트롤(운전 스타일 연동), 내비게이션 기반 스마트 크루즈 컨트롤(진출입로), 전방 충돌방지 보조(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함), 앞좌석 프리액티브 시트벨트, 지능형 헤드램프, 운전자 전방 주시 경고 카메라, 후측방 충돌방지 보조(주행)",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠 패키지",
+                  "exp": "- 빌트인 캠 2, 보조배터리, 증강현실 내비게이션 ※ QHD급 고화질 녹화 및 음성 녹음 지원, Micro SD 외장 메모리 적용, 주차 후 최대 20시간 녹화 가능",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "358677",
+              "name": "파노라마 선루프",
+              "price": 1380000,
+              "code": "A20",
+              "percent": 14,
+              "items": []
+            },
+            {
+              "seq": "358679",
+              "name": "헤드업 디스플레이",
+              "price": 1280000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358680",
+              "name": "컨비니언스 패키지",
+              "price": 2460000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 &amp; 동승석 에르고 모션 시트",
+                  "exp": "-시트에 내장된 7개의 공기 주머니가 최적의 착좌감과 안락함을 제공합니다. 또한, 업그레이드된 2세대 스마트 자세제어 시스템은 운전자에게 맞는 최적의 자세를 추천해 운전 피로도를 낮춰줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27919.jpg"
+                },
+                {
+                  "name": "동승석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27920.jpg"
+                },
+                {
+                  "name": "무드 큐레이터(향기 카트리지 3EA 포함)",
+                  "exp": "-차 안의 음악, 향기, 조명과 연동하는 4개의 무드(바이탈리티, 딜라이트, 케어, 컴포트)를 취향에 맞게 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27921.jpg"
+                },
+                {
+                  "name": " 디지털 센터 미러",
+                  "exp": "-후방 시야를 디스플레이로 표시해 야간이나 우천 시의 주행 안전성을 높여줍니다. 광학 미러와 후방 영상 디스플레이 기능 중 하나를 선택해 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27923.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358681",
+              "name": "드라이빙 어시스턴스 패키지Ⅰ",
+              "price": 1920000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27924.jpg"
+                },
+                {
+                  "name": " 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27925.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2(주차 구획선 인식 및 사선 주차 포함)",
+                  "exp": "-차량 외부에서 스마트 키로 원격 전/후진을 통해 주차 및 출차를 도와줍니다. 주차 구획선을 인식하여 직각 주차, 평행 주차, 사선 주차를 보조할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27926.jpg"
+                },
+                {
+                  "name": "주차 충돌방지 보조(전/측/후방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27927.jpg"
+                },
+                {
+                  "name": "주차 거리 경고(측방)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27928.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358682",
+              "name": "드라이빙 어시스턴스 패키지Ⅱ",
+              "price": 1970000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 제어 기능 포함)",
+                  "exp": "-고속도로나 자동차 전용 도로에서 앞차와의 거리, 운전자가 설정한 속도, 차로 중앙(곡선로 포함)을 동시에 유지하며 주행할 수 있도록 돕습니다. 옆 차량과 가까워질 경우 주행 차로 내에서 편향 주행을 유도해 위험을 방지합니다. 또한, 일정 속도 이상에서 스티어링 휠을 잡은 상태로 방향지시등 스위치를 조작하면 스위치 방향대로 차로를 자동으로 변경합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27929.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27930.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27931.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조 2(교차로 교차 차량, 측방 접근차, 추월 시 대향차, 회피 조향 보조 기능 포함)",
+                  "exp": "-다양한 대상과의 충돌 위험이 감지될 경우 경고를 보내고, 이후에도 위험이 커지면 자동으로 제동을 보조합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27932.jpg"
+                },
+                {
+                  "name": "앞좌석 프리액티브 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27933.jpg"
+                },
+                {
+                  "name": "지능형 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27934.jpg"
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27935.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "-일정 속도 이상으로 주행 중 후측방의 차량을 인식해 충돌 위험이 판단되면 경고등과 경고음 등으로 알려줍니다. 또한 전진 출차 시 충돌 위험이 높아지면 충돌하지 않도록 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27936.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358683",
+              "name": "2열 컴포트 패키지",
+              "price": 1080000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 수동식 도어커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27937.jpg"
+                },
+                {
+                  "name": "3존 공조(운전석 &amp; 동승석 듀얼 풍향모드 제어, 뒷좌석 LCD 터치 공조 조절 장치)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27938.jpg"
+                },
+                {
+                  "name": "뒷좌석 통풍 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27939.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 네트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 220V 파워아웃렛",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27942.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358684",
+              "name": "뱅앤올룹슨 사운드 패키지",
+              "price": 1670000,
+              "code": "A27",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "뱅앤올룹슨 고해상도 사운드 시스템(16스피커)",
+                  "exp": "-10단계 서라운드를 통해 풍부하고 섬세한 음장 효과를 연출하고, 베오소닉 기능으로 취향에 맞는 사운드 톤을 설정할 수 있습니다. 또한 돌비 애트모스는 콘텐츠에 깊이와 선명함, 디테일을 더해 온몸을 감싸는 듯한 공간 음향 경험을 선사합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27943.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27944.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358685",
+              "name": "빌트인 캠 패키지",
+              "price": 840000,
+              "code": "A28",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "-고해상도 전·후방 카메라로 촬영한 주행/주차 영상 및 음성 녹음을 내비게이션 화면과 스마트폰으로 실시간 확인, 촬영 영상 재생, 다운로드, SNS에 업로드할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27945.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4609/items/27947.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-무광",
+              "colorHexadecimal": "e4e3e5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-무광",
+              "colorHexadecimal": "39393c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "6f7477",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "2b2b2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "0d1314",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "193a2f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "베링 블루(GBE)",
+              "colorHexadecimal": "555f64",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "656e78",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "001435",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "마우나 레드(RJK)",
+              "colorHexadecimal": "7f0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "232428",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/세비아 레드 투톤",
+              "colorHexadecimal": "232428/551718",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/울트라 마린 블루 투톤",
+              "colorHexadecimal": "232428/43464f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙/바닐라 베이지 투톤(스포츠 디자인 셀렉션Ⅱ 선택 시)",
+              "colorHexadecimal": "232428/cfc7ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

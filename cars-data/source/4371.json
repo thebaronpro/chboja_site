@@ -1,0 +1,384 @@
+{
+  "model_id": 4371,
+  "brand": "BMW",
+  "name": "X1",
+  "img": "https://autoimg.danawa.com/photo/4371/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52642,
+      "name": "가솔린 2.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91226,
+          "trimName": "xDrive20i xLine (P1)",
+          "price": 63100000,
+          "transmission": "",
+          "percent": 21,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "알파인 화이트 (300)",
+              "colorHexadecimal": "e2e2e2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 (475)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "케이프 요크 그린 (C5Y)",
+              "colorHexadecimal": "475b52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "산레모 그린 (C4E)",
+              "colorHexadecimal": "21331b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "모카",
+              "colorHexadecimal": "352a26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오이스터",
+              "colorHexadecimal": "bdb19b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94680,
+          "trimName": "xDrive20i M Sport (P1)",
+          "price": 67900000,
+          "transmission": "",
+          "percent": 19,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "알파인 화이트 (300)",
+              "colorHexadecimal": "e2e2e2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 (475)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "케이프 요크 그린 (C5Y)",
+              "colorHexadecimal": "475b52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스페이스 실버 (C67)",
+              "colorHexadecimal": "81847d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "모카",
+              "colorHexadecimal": "352a26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오이스터",
+              "colorHexadecimal": "bdb19b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94681,
+          "trimName": "M35i xDrive (P1)",
+          "price": 72200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "알파인 화이트 (300)",
+              "colorHexadecimal": "e2e2e2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 (475)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "케이프 요크 그린 (C5Y)",
+              "colorHexadecimal": "475b52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스페이스 실버 (C67)",
+              "colorHexadecimal": "81847d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "모카",
+              "colorHexadecimal": "352a26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오이스터",
+              "colorHexadecimal": "bdb19b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53449,
+      "name": "디젤 2.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94682,
+          "trimName": "sDrive18d xLine (P1)",
+          "price": 59100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "알파인 화이트 (300)",
+              "colorHexadecimal": "e2e2e2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 (475)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "케이프 요크 그린 (C5Y)",
+              "colorHexadecimal": "475b52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "산레모 그린 (C4E)",
+              "colorHexadecimal": "21331b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "모카",
+              "colorHexadecimal": "352a26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오이스터",
+              "colorHexadecimal": "bdb19b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94683,
+          "trimName": "sDrive18d M Sport (P1)",
+          "price": 63900000,
+          "transmission": "",
+          "percent": 32,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "알파인 화이트 (300)",
+              "colorHexadecimal": "e2e2e2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 (475)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "케이프 요크 그린 (C5Y)",
+              "colorHexadecimal": "475b52",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스페이스 실버 (C67)",
+              "colorHexadecimal": "81847d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "모카",
+              "colorHexadecimal": "352a26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "오이스터",
+              "colorHexadecimal": "bdb19b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

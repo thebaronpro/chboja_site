@@ -1,0 +1,187 @@
+{
+  "model_id": 3361,
+  "brand": "포르쉐",
+  "name": "718 Cayman",
+  "img": "https://autoimg.danawa.com/photo/3361/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52760,
+      "name": "가솔린 4.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91496,
+          "trimName": "718 Cayman GTS",
+          "price": 130500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "화이트",
+              "colorHexadecimal": "efefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "가드 레드",
+              "colorHexadecimal": "cc0033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "레이싱 옐로",
+              "colorHexadecimal": "ffcc00",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "제트 블랙 메탈릭",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "바나듐 그레이 메탈릭",
+              "colorHexadecimal": "2e2f36",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "GT 실버 메탈릭",
+              "colorHexadecimal": "cccccc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "아게이트 그레이 메탈릭",
+              "colorHexadecimal": "333333",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "젠션 블루 메탈릭",
+              "colorHexadecimal": "00194b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "어벤추린 그린 메탈릭",
+              "colorHexadecimal": "252927",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "아이스 그레이 메탈릭",
+              "colorHexadecimal": "dfe2e9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "카민 레드",
+              "colorHexadecimal": "990033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "아크틱 그레이",
+              "colorHexadecimal": "6a6c70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "루비 스타 네오",
+              "colorHexadecimal": "aa1059",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C25",
+              "colorType": 1,
+              "colorName": "샤크 블루",
+              "colorHexadecimal": "006dd1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C26",
+              "colorType": 1,
+              "colorName": "크레용",
+              "colorHexadecimal": "c7c7bf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

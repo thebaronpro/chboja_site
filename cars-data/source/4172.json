@@ -1,0 +1,54 @@
+{
+  "model_id": 4172,
+  "brand": "BMW",
+  "name": "M8",
+  "img": "https://autoimg.danawa.com/photo/4172/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52580,
+      "name": "쿠페 가솔린 4.4",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94052,
+          "trimName": "M8 Competition Coupe (P2)",
+          "price": 250700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52577,
+      "name": "그란쿠페 가솔린 4.4",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93469,
+          "trimName": "M8 Competition Gran Coupe (P2)",
+          "price": 250400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93689,
+          "trimName": "M8 Competition Gran Coupe (P2-0)",
+          "price": 250400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

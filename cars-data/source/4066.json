@@ -1,0 +1,3848 @@
+{
+  "model_id": 4066,
+  "brand": "기아",
+  "name": "K9",
+  "img": "https://autoimg.danawa.com/photo/4066/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53671,
+      "name": "가솔린 터보 3.3",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94614,
+          "trimName": "플래티넘 RWD",
+          "price": 65940000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362365",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362366",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362367",
+              "name": "모니터링 팩",
+              "price": 1750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드뷰 &amp; 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21332.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "차량 외부에서 원격으로 주차 및 출차를 도와주고 탑승 후 조작 시에는 조향, 차속, 변속을 자동으로 제어하여 주차 및 출차를 도와줍니다.(직각 주차 및 평행 주차, 출차 기능 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21333.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "주차 또는 출차 시 후진 중 보행자 및 장애물과의 충돌이 예상되면 운전자에게 경고하고, 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21334.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "실제 주행 영상 위에 안내 지점과 진출 방향이 표시되어 직관적으로 운행정보를 파악할 수 있습니다. 목적지 표시, 스마트 크루즈 컨트롤 등 다양한 정보를 세심하게 표현해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21335.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362368",
+              "name": "컴포트 팩",
+              "price": 1170000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조 가죽 감싸기(크래쉬패드 상단, 도어트림 상단)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후면 전동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21337.jpg"
+                },
+                {
+                  "name": "뒷좌석 측면 수동 선커튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362369",
+              "name": "헤드업 디스플레이",
+              "price": 1170000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94615,
+          "trimName": "플래티넘 AWD",
+          "price": 68380000,
+          "transmission": "",
+          "percent": 47,
+          "options": [
+            {
+              "seq": "362372",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362373",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362374",
+              "name": "모니터링 팩",
+              "price": 1750000,
+              "code": "A11",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "서라운드뷰 &amp; 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21332.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "차량 외부에서 원격으로 주차 및 출차를 도와주고 탑승 후 조작 시에는 조향, 차속, 변속을 자동으로 제어하여 주차 및 출차를 도와줍니다.(직각 주차 및 평행 주차, 출차 기능 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21333.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "주차 또는 출차 시 후진 중 보행자 및 장애물과의 충돌이 예상되면 운전자에게 경고하고, 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21334.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "실제 주행 영상 위에 안내 지점과 진출 방향이 표시되어 직관적으로 운행정보를 파악할 수 있습니다. 목적지 표시, 스마트 크루즈 컨트롤 등 다양한 정보를 세심하게 표현해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21335.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362375",
+              "name": "컴포트 팩",
+              "price": 1170000,
+              "code": "A12",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "인조 가죽 감싸기(크래쉬패드 상단, 도어트림 상단)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후면 전동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21337.jpg"
+                },
+                {
+                  "name": "뒷좌석 측면 수동 선커튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362376",
+              "name": "헤드업 디스플레이",
+              "price": 1170000,
+              "code": "A14",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94616,
+          "trimName": "베스트 셀렉션 I AWD",
+          "price": 73700000,
+          "transmission": "",
+          "percent": 13,
+          "options": [
+            {
+              "seq": "362379",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362380",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362381",
+              "name": "프리미엄 팩",
+              "price": 3210000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "퀼팅 나파 가죽시트",
+                  "exp": "시트백, 쿠션까지 퀼팅 패턴을 확대 적용하여 고급스럽고 편안한 인테리어 감성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21339.jpg"
+                },
+                {
+                  "name": "최고급 가죽 내장재(크래쉬패드 상단, 도어 어퍼 트림, 도어 암레스트, 콘솔 암레스트 상단 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리얼 우드 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21341.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "프리미엄 공간을 은은하게 물들여 나만의 감성 공간으로 만들어 드립니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21342.jpg"
+                },
+                {
+                  "name": "인터랙티브 조명",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362382",
+              "name": "Lexicon 프리미엄 사운드",
+              "price": 1360000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362383",
+              "name": "VIP 컬렉션",
+              "price": 2530000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 파워시트",
+                  "exp": "뒷좌석 좌/우측 시트가 독립적으로 구성됨에 따라 더욱 안락하고 고급스러운 실내 거주성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21345.jpg"
+                },
+                {
+                  "name": "뒷좌석 냉방/통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 화장 거울",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 윙아웃 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "어드밴스드 3존 에어컨(B필러 에어벤트 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362384",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94617,
+          "trimName": "마스터즈 AWD",
+          "price": 78820000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362387",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362388",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362389",
+              "name": "프리미엄 팩",
+              "price": 3210000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "퀼팅 나파 가죽시트",
+                  "exp": "시트백, 쿠션까지 퀼팅 패턴을 확대 적용하여 고급스럽고 편안한 인테리어 감성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21339.jpg"
+                },
+                {
+                  "name": "최고급 가죽 내장재(크래쉬패드 상단, 도어 어퍼 트림, 도어 암레스트, 콘솔 암레스트 상단 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리얼 우드 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21341.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "프리미엄 공간을 은은하게 물들여 나만의 감성 공간으로 만들어 드립니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21342.jpg"
+                },
+                {
+                  "name": "인터랙티브 조명",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362390",
+              "name": "Lexicon 프리미엄 사운드",
+              "price": 1360000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362391",
+              "name": "VIP 컬렉션",
+              "price": 2530000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 파워시트",
+                  "exp": "뒷좌석 좌/우측 시트가 독립적으로 구성됨에 따라 더욱 안락하고 고급스러운 실내 거주성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21345.jpg"
+                },
+                {
+                  "name": "뒷좌석 냉방/통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 화장 거울",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 윙아웃 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "어드밴스드 3존 에어컨(B필러 에어벤트 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362392",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94618,
+          "trimName": "베스트 셀렉션 II AWD",
+          "price": 85820000,
+          "transmission": "",
+          "percent": 27,
+          "options": [
+            {
+              "seq": "362395",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362396",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "362400",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53670,
+      "name": "가솔린 3.8",
+      "year": "2026년형",
+      "percent": 20,
+      "trims": [
+        {
+          "trimNo": 94609,
+          "trimName": "플래티넘 RWD",
+          "price": 59490000,
+          "transmission": "",
+          "percent": 20,
+          "options": [
+            {
+              "seq": "362309",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362310",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362311",
+              "name": "모니터링 팩",
+              "price": 1750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드뷰 &amp; 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21332.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "차량 외부에서 원격으로 주차 및 출차를 도와주고 탑승 후 조작 시에는 조향, 차속, 변속을 자동으로 제어하여 주차 및 출차를 도와줍니다.(직각 주차 및 평행 주차, 출차 기능 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21333.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "주차 또는 출차 시 후진 중 보행자 및 장애물과의 충돌이 예상되면 운전자에게 경고하고, 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21334.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "실제 주행 영상 위에 안내 지점과 진출 방향이 표시되어 직관적으로 운행정보를 파악할 수 있습니다. 목적지 표시, 스마트 크루즈 컨트롤 등 다양한 정보를 세심하게 표현해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21335.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362312",
+              "name": "컴포트 팩",
+              "price": 1170000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조 가죽 감싸기(크래쉬패드 상단, 도어트림 상단)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후면 전동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21337.jpg"
+                },
+                {
+                  "name": "뒷좌석 측면 수동 선커튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362313",
+              "name": "19인치 휠 + 타이어",
+              "price": 780000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362314",
+              "name": "헤드업 디스플레이",
+              "price": 1170000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94610,
+          "trimName": "플래티넘 AWD",
+          "price": 61930000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362317",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362318",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362319",
+              "name": "모니터링 팩",
+              "price": 1750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드뷰 &amp; 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21332.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "차량 외부에서 원격으로 주차 및 출차를 도와주고 탑승 후 조작 시에는 조향, 차속, 변속을 자동으로 제어하여 주차 및 출차를 도와줍니다.(직각 주차 및 평행 주차, 출차 기능 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21333.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "주차 또는 출차 시 후진 중 보행자 및 장애물과의 충돌이 예상되면 운전자에게 경고하고, 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21334.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "실제 주행 영상 위에 안내 지점과 진출 방향이 표시되어 직관적으로 운행정보를 파악할 수 있습니다. 목적지 표시, 스마트 크루즈 컨트롤 등 다양한 정보를 세심하게 표현해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21335.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "362320",
+              "name": "컴포트 팩",
+              "price": 1170000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조 가죽 감싸기(크래쉬패드 상단, 도어트림 상단)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후면 전동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21337.jpg"
+                },
+                {
+                  "name": "뒷좌석 측면 수동 선커튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362321",
+              "name": "19인치 휠 + 타이어",
+              "price": 780000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362322",
+              "name": "헤드업 디스플레이",
+              "price": 1170000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94611,
+          "trimName": "베스트 셀렉션 I AWD",
+          "price": 68030000,
+          "transmission": "",
+          "percent": 48,
+          "options": [
+            {
+              "seq": "362325",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362326",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362327",
+              "name": "프리미엄 팩",
+              "price": 3210000,
+              "code": "A15",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "퀼팅 나파 가죽시트",
+                  "exp": "시트백, 쿠션까지 퀼팅 패턴을 확대 적용하여 고급스럽고 편안한 인테리어 감성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21339.jpg"
+                },
+                {
+                  "name": "최고급 가죽 내장재(크래쉬패드 상단, 도어 어퍼 트림, 도어 암레스트, 콘솔 암레스트 상단 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리얼 우드 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21341.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "프리미엄 공간을 은은하게 물들여 나만의 감성 공간으로 만들어 드립니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21342.jpg"
+                },
+                {
+                  "name": "인터랙티브 조명",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362328",
+              "name": "Lexicon 프리미엄 사운드",
+              "price": 1360000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362329",
+              "name": "VIP 컬렉션",
+              "price": 2530000,
+              "code": "A18",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "뒷좌석 파워시트",
+                  "exp": "뒷좌석 좌/우측 시트가 독립적으로 구성됨에 따라 더욱 안락하고 고급스러운 실내 거주성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21345.jpg"
+                },
+                {
+                  "name": "뒷좌석 냉방/통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 화장 거울",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 윙아웃 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "어드밴스드 3존 에어컨(B필러 에어벤트 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362330",
+              "name": "프리뷰 전자제어 서스펜션",
+              "price": 970000,
+              "code": "A19",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362331",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94612,
+          "trimName": "마스터즈 AWD",
+          "price": 74150000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362337",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362338",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362339",
+              "name": "프리미엄 팩",
+              "price": 3210000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "퀼팅 나파 가죽시트",
+                  "exp": "시트백, 쿠션까지 퀼팅 패턴을 확대 적용하여 고급스럽고 편안한 인테리어 감성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21339.jpg"
+                },
+                {
+                  "name": "최고급 가죽 내장재(크래쉬패드 상단, 도어 어퍼 트림, 도어 암레스트, 콘솔 암레스트 상단 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리얼 우드 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21341.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "프리미엄 공간을 은은하게 물들여 나만의 감성 공간으로 만들어 드립니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21342.jpg"
+                },
+                {
+                  "name": "인터랙티브 조명",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362340",
+              "name": "Lexicon 프리미엄 사운드",
+              "price": 1360000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362341",
+              "name": "VIP 컬렉션",
+              "price": 2530000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 파워시트",
+                  "exp": "뒷좌석 좌/우측 시트가 독립적으로 구성됨에 따라 더욱 안락하고 고급스러운 실내 거주성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21345.jpg"
+                },
+                {
+                  "name": "뒷좌석 냉방/통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 화장 거울",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 윙아웃 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "어드밴스드 3존 에어컨(B필러 에어벤트 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362343",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94613,
+          "trimName": "베스트 셀렉션 II AWD",
+          "price": 81140000,
+          "transmission": "",
+          "percent": 12,
+          "options": [
+            {
+              "seq": "362346",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "362347",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362348",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53257,
+      "name": "가솔린 터보 3.3",
+      "year": "2025년형",
+      "percent": 38,
+      "trims": [
+        {
+          "trimNo": 92761,
+          "trimName": "플래티넘 RWD",
+          "price": 65170000,
+          "transmission": "",
+          "percent": 36,
+          "options": [
+            {
+              "seq": "349780",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349781",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 23,
+              "items": []
+            },
+            {
+              "seq": "349782",
+              "name": "모니터링 팩",
+              "price": 1750000,
+              "code": "A11",
+              "percent": 31,
+              "items": [
+                {
+                  "name": "서라운드뷰 &amp; 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21332.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "차량 외부에서 원격으로 주차 및 출차를 도와주고 탑승 후 조작 시에는 조향, 차속, 변속을 자동으로 제어하여 주차 및 출차를 도와줍니다.(직각 주차 및 평행 주차, 출차 기능 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21333.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "주차 또는 출차 시 후진 중 보행자 및 장애물과의 충돌이 예상되면 운전자에게 경고하고, 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21334.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "실제 주행 영상 위에 안내 지점과 진출 방향이 표시되어 직관적으로 운행정보를 파악할 수 있습니다. 목적지 표시, 스마트 크루즈 컨트롤 등 다양한 정보를 세심하게 표현해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21335.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349783",
+              "name": "컴포트 팩",
+              "price": 1170000,
+              "code": "A12",
+              "percent": 31,
+              "items": [
+                {
+                  "name": "인조 가죽 감싸기(크래쉬패드 상단, 도어트림 상단)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후면 전동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21337.jpg"
+                },
+                {
+                  "name": "뒷좌석 측면 수동 선커튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349784",
+              "name": "헤드업 디스플레이",
+              "price": 1170000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92762,
+          "trimName": "플래티넘 AWD",
+          "price": 67600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349787",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349788",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349789",
+              "name": "모니터링 팩",
+              "price": 1750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드뷰 &amp; 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21332.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "차량 외부에서 원격으로 주차 및 출차를 도와주고 탑승 후 조작 시에는 조향, 차속, 변속을 자동으로 제어하여 주차 및 출차를 도와줍니다.(직각 주차 및 평행 주차, 출차 기능 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21333.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "주차 또는 출차 시 후진 중 보행자 및 장애물과의 충돌이 예상되면 운전자에게 경고하고, 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21334.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "실제 주행 영상 위에 안내 지점과 진출 방향이 표시되어 직관적으로 운행정보를 파악할 수 있습니다. 목적지 표시, 스마트 크루즈 컨트롤 등 다양한 정보를 세심하게 표현해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21335.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349790",
+              "name": "컴포트 팩",
+              "price": 1170000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조 가죽 감싸기(크래쉬패드 상단, 도어트림 상단)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후면 전동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21337.jpg"
+                },
+                {
+                  "name": "뒷좌석 측면 수동 선커튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349791",
+              "name": "헤드업 디스플레이",
+              "price": 1170000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92763,
+          "trimName": "베스트 셀렉션 I AWD",
+          "price": 72530000,
+          "transmission": "",
+          "percent": 30,
+          "options": [
+            {
+              "seq": "349794",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349795",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 17,
+              "items": []
+            },
+            {
+              "seq": "349796",
+              "name": "프리미엄 팩",
+              "price": 3210000,
+              "code": "A15",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "퀼팅 나파 가죽시트",
+                  "exp": "시트백, 쿠션까지 퀼팅 패턴을 확대 적용하여 고급스럽고 편안한 인테리어 감성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21339.jpg"
+                },
+                {
+                  "name": "최고급 가죽 내장재(크래쉬패드 상단, 도어 어퍼 트림, 도어 암레스트, 콘솔 암레스트 상단 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리얼 우드 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21341.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "프리미엄 공간을 은은하게 물들여 나만의 감성 공간으로 만들어 드립니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21342.jpg"
+                },
+                {
+                  "name": "인터랙티브 조명",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349797",
+              "name": "Lexicon 프리미엄 사운드",
+              "price": 1360000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349798",
+              "name": "VIP 컬렉션",
+              "price": 3260000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "앞좌석 전동식 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 메모리시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 에르고 모션시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 시트백 볼스터 전동 조절장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 파워시트",
+                  "exp": "뒷좌석 좌/우측 시트가 독립적으로 구성됨에 따라 더욱 안락하고 고급스러운 실내 거주성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21345.jpg"
+                },
+                {
+                  "name": "뒷좌석 냉방/통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 화장 거울",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 윙아웃 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "어드밴스드 3존 에어컨(B필러 에어벤트 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349799",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92764,
+          "trimName": "마스터즈 AWD",
+          "price": 78820000,
+          "transmission": "",
+          "percent": 23,
+          "options": [
+            {
+              "seq": "349802",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349803",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349804",
+              "name": "프리미엄 팩",
+              "price": 3210000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "퀼팅 나파 가죽시트",
+                  "exp": "시트백, 쿠션까지 퀼팅 패턴을 확대 적용하여 고급스럽고 편안한 인테리어 감성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21339.jpg"
+                },
+                {
+                  "name": "최고급 가죽 내장재(크래쉬패드 상단, 도어 어퍼 트림, 도어 암레스트, 콘솔 암레스트 상단 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리얼 우드 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21341.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "프리미엄 공간을 은은하게 물들여 나만의 감성 공간으로 만들어 드립니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21342.jpg"
+                },
+                {
+                  "name": "인터랙티브 조명",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349805",
+              "name": "Lexicon 프리미엄 사운드",
+              "price": 1360000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349806",
+              "name": "VIP 컬렉션",
+              "price": 2530000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 파워시트",
+                  "exp": "뒷좌석 좌/우측 시트가 독립적으로 구성됨에 따라 더욱 안락하고 고급스러운 실내 거주성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21345.jpg"
+                },
+                {
+                  "name": "뒷좌석 냉방/통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 화장 거울",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 윙아웃 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "어드밴스드 3존 에어컨(B필러 에어벤트 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349807",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92765,
+          "trimName": "베스트 셀렉션 II AWD",
+          "price": 85820000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349810",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349811",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349812",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53256,
+      "name": "가솔린 3.8",
+      "year": "2025년형",
+      "percent": 30,
+      "trims": [
+        {
+          "trimNo": 92756,
+          "trimName": "플래티넘 RWD",
+          "price": 58710000,
+          "transmission": "",
+          "percent": 16,
+          "options": [
+            {
+              "seq": "349728",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349729",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 36,
+              "items": []
+            },
+            {
+              "seq": "349730",
+              "name": "모니터링 팩",
+              "price": 1750000,
+              "code": "A11",
+              "percent": 45,
+              "items": [
+                {
+                  "name": "서라운드뷰 &amp; 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21332.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "차량 외부에서 원격으로 주차 및 출차를 도와주고 탑승 후 조작 시에는 조향, 차속, 변속을 자동으로 제어하여 주차 및 출차를 도와줍니다.(직각 주차 및 평행 주차, 출차 기능 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21333.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "주차 또는 출차 시 후진 중 보행자 및 장애물과의 충돌이 예상되면 운전자에게 경고하고, 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21334.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "실제 주행 영상 위에 안내 지점과 진출 방향이 표시되어 직관적으로 운행정보를 파악할 수 있습니다. 목적지 표시, 스마트 크루즈 컨트롤 등 다양한 정보를 세심하게 표현해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21335.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349731",
+              "name": "컴포트 팩",
+              "price": 1170000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조 가죽 감싸기(크래쉬패드 상단, 도어트림 상단)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후면 전동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21337.jpg"
+                },
+                {
+                  "name": "뒷좌석 측면 수동 선커튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349732",
+              "name": "19인치 휠 + 타이어",
+              "price": 780000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349733",
+              "name": "헤드업 디스플레이",
+              "price": 1170000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92757,
+          "trimName": "플래티넘 AWD",
+          "price": 61150000,
+          "transmission": "",
+          "percent": 8,
+          "options": [
+            {
+              "seq": "349736",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349737",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349738",
+              "name": "모니터링 팩",
+              "price": 1750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드뷰 &amp; 후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21332.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "차량 외부에서 원격으로 주차 및 출차를 도와주고 탑승 후 조작 시에는 조향, 차속, 변속을 자동으로 제어하여 주차 및 출차를 도와줍니다.(직각 주차 및 평행 주차, 출차 기능 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21333.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "주차 또는 출차 시 후진 중 보행자 및 장애물과의 충돌이 예상되면 운전자에게 경고하고, 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21334.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "실제 주행 영상 위에 안내 지점과 진출 방향이 표시되어 직관적으로 운행정보를 파악할 수 있습니다. 목적지 표시, 스마트 크루즈 컨트롤 등 다양한 정보를 세심하게 표현해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21335.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349739",
+              "name": "컴포트 팩",
+              "price": 1170000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조 가죽 감싸기(크래쉬패드 상단, 도어트림 상단)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후면 전동 선커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21337.jpg"
+                },
+                {
+                  "name": "뒷좌석 측면 수동 선커튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349740",
+              "name": "19인치 휠 + 타이어",
+              "price": 780000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349741",
+              "name": "헤드업 디스플레이",
+              "price": 1170000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92758,
+          "trimName": "베스트 셀렉션 I AWD",
+          "price": 66860000,
+          "transmission": "",
+          "percent": 68,
+          "options": [
+            {
+              "seq": "349744",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349745",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 20,
+              "items": []
+            },
+            {
+              "seq": "349746",
+              "name": "프리미엄 팩",
+              "price": 3210000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "퀼팅 나파 가죽시트",
+                  "exp": "시트백, 쿠션까지 퀼팅 패턴을 확대 적용하여 고급스럽고 편안한 인테리어 감성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21339.jpg"
+                },
+                {
+                  "name": "최고급 가죽 내장재(크래쉬패드 상단, 도어 어퍼 트림, 도어 암레스트, 콘솔 암레스트 상단 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리얼 우드 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21341.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "프리미엄 공간을 은은하게 물들여 나만의 감성 공간으로 만들어 드립니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21342.jpg"
+                },
+                {
+                  "name": "인터랙티브 조명",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349747",
+              "name": "Lexicon 프리미엄 사운드",
+              "price": 1360000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349748",
+              "name": "VIP 컬렉션",
+              "price": 3260000,
+              "code": "A17",
+              "percent": 13,
+              "items": [
+                {
+                  "name": "앞좌석 전동식 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 메모리시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 에르고 모션시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 시트백 볼스터 전동 조절장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 파워시트",
+                  "exp": "뒷좌석 좌/우측 시트가 독립적으로 구성됨에 따라 더욱 안락하고 고급스러운 실내 거주성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21345.jpg"
+                },
+                {
+                  "name": "뒷좌석 냉방/통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 화장 거울",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 윙아웃 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "어드밴스드 3존 에어컨(B필러 에어벤트 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349749",
+              "name": "프리뷰 전자제어 서스펜션",
+              "price": 970000,
+              "code": "A19",
+              "percent": 33,
+              "items": []
+            },
+            {
+              "seq": "349750",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92759,
+          "trimName": "마스터즈 AWD",
+          "price": 74150000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349753",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349754",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349755",
+              "name": "프리미엄 팩",
+              "price": 3210000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "퀼팅 나파 가죽시트",
+                  "exp": "시트백, 쿠션까지 퀼팅 패턴을 확대 적용하여 고급스럽고 편안한 인테리어 감성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21339.jpg"
+                },
+                {
+                  "name": "최고급 가죽 내장재(크래쉬패드 상단, 도어 어퍼 트림, 도어 암레스트, 콘솔 암레스트 상단 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리얼 우드 내장재",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21341.jpg"
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "프리미엄 공간을 은은하게 물들여 나만의 감성 공간으로 만들어 드립니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21342.jpg"
+                },
+                {
+                  "name": "인터랙티브 조명",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349756",
+              "name": "Lexicon 프리미엄 사운드",
+              "price": 1360000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349757",
+              "name": "VIP 컬렉션",
+              "price": 2530000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "뒷좌석 파워시트",
+                  "exp": "뒷좌석 좌/우측 시트가 독립적으로 구성됨에 따라 더욱 안락하고 고급스러운 실내 거주성을 구현하였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4066/items/21345.jpg"
+                },
+                {
+                  "name": "뒷좌석 냉방/통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 에어셀 타입 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 화장 거울",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 윙아웃 헤드레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "어드밴스드 3존 에어컨(B필러 에어벤트 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349758",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92760,
+          "trimName": "베스트 셀렉션 II AWD",
+          "price": 81140000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349761",
+              "name": "선루프",
+              "price": 780000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349762",
+              "name": "빌트인 캠",
+              "price": 730000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349763",
+              "name": "뒷좌석 듀얼 모니터",
+              "price": 2430000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f8f8f8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "판테라 메탈(P2M) ",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "페블 그레이(DFG)",
+              "colorHexadecimal": "c6c5ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "딥 크로마 블루(D9B)",
+              "colorHexadecimal": "0f142d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "1c1b20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "bdb6ab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "마션 브라운",
+              "colorHexadecimal": "914f41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "미스티 그레이",
+              "colorHexadecimal": "c0bfbd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

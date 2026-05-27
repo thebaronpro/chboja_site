@@ -1,0 +1,26 @@
+{
+  "model_id": 4497,
+  "brand": "페라리",
+  "name": "Roma Spider",
+  "img": "https://autoimg.danawa.com/photo/4497/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 50380,
+      "name": "가솔린 3.9",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 82032,
+          "trimName": "V8",
+          "price": 340000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

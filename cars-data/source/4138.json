@@ -1,0 +1,36 @@
+{
+  "model_id": 4138,
+  "brand": "포드",
+  "name": "Ranger",
+  "img": "https://autoimg.danawa.com/photo/4138/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52927,
+      "name": "디젤 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91785,
+          "trimName": "Wildtrak",
+          "price": 63500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91786,
+          "trimName": "Raptor",
+          "price": 79900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

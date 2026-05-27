@@ -1,0 +1,934 @@
+{
+  "model_id": 4566,
+  "brand": "메르세데스-벤츠",
+  "name": "The New AMG GT",
+  "img": "https://autoimg.danawa.com/photo/4566/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53616,
+      "name": "쿠페 가솔린 4.0 플러그인 하이브리드",
+      "year": "2026년형",
+      "percent": 24,
+      "trims": [
+        {
+          "trimNo": 94375,
+          "trimName": "AMG GT 63 S E Performance",
+          "price": 278600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "080808",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "aaadaf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "14497b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 나이트 블랙 마그노 (056U)",
+              "colorHexadecimal": "1b242b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 (190U)",
+              "colorHexadecimal": "717879",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그린 헬 마그노 (376U)",
+              "colorHexadecimal": "43903e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오렌지 플레임 (379U)",
+              "colorHexadecimal": "bc551e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 데저트 샌드 (464U)",
+              "colorHexadecimal": "ad9771",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 스펙트럴 블루 마그노 (593U)",
+              "colorHexadecimal": "1a4b80",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코퍼 오렌지 마그노 (658U)",
+              "colorHexadecimal": "c64326",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U)",
+              "colorHexadecimal": "230508",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 하이테크 실버 마그노 (734U)",
+              "colorHexadecimal": "9ba4ac",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "3b3e43",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C25",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 빈티지 블루 솔리드 (934U)",
+              "colorHexadecimal": "557b98",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C26",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "afacb3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C27",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 하이퍼 블루 마그노 (964U)",
+              "colorHexadecimal": "0c758b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C28",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 브라이트 (993U)",
+              "colorHexadecimal": "96071d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53525,
+      "name": "쿠페 가솔린 4.0",
+      "year": "2026년형",
+      "percent": 68,
+      "trims": [
+        {
+          "trimNo": 94003,
+          "trimName": "AMG GT 55 4MATIC+",
+          "price": 208600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "080808",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "aaadaf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "14497b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 나이트 블랙 마그노 (056U)",
+              "colorHexadecimal": "1b242b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 (190U)",
+              "colorHexadecimal": "717879",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그린 헬 마그노 (376U)",
+              "colorHexadecimal": "43903e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오렌지 플레임 (379U)",
+              "colorHexadecimal": "bc551e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 데저트 샌드 (464U)",
+              "colorHexadecimal": "ad9771",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 스펙트럴 블루 마그노 (593U)",
+              "colorHexadecimal": "1a4b80",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코퍼 오렌지 마그노 (658U)",
+              "colorHexadecimal": "c64326",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U)",
+              "colorHexadecimal": "230508",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 하이테크 실버 마그노 (734U)",
+              "colorHexadecimal": "9ba4ac",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "3b3e43",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C25",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 빈티지 블루 솔리드 (934U)",
+              "colorHexadecimal": "557b98",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C26",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "afacb3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C27",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 하이퍼 블루 마그노 (964U)",
+              "colorHexadecimal": "0c758b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C28",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 브라이트 (993U)",
+              "colorHexadecimal": "96071d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53537,
+      "name": "쿠페 가솔린 4.0 플러그인 하이브리드",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94015,
+          "trimName": "AMG GT 63 S E Performance",
+          "price": 274600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "080808",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "aaadaf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "14497b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 나이트 블랙 마그노 (056U)",
+              "colorHexadecimal": "1b242b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 (190U)",
+              "colorHexadecimal": "717879",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그린 헬 마그노 (376U)",
+              "colorHexadecimal": "43903e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오렌지 플레임 (379U)",
+              "colorHexadecimal": "bc551e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 데저트 샌드 (464U)",
+              "colorHexadecimal": "ad9771",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 스펙트럴 블루 마그노 (593U)",
+              "colorHexadecimal": "1a4b80",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코퍼 오렌지 마그노 (658U)",
+              "colorHexadecimal": "c64326",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U)",
+              "colorHexadecimal": "230508",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 하이테크 실버 마그노 (734U)",
+              "colorHexadecimal": "9ba4ac",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "3b3e43",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C25",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 빈티지 블루 솔리드 (934U)",
+              "colorHexadecimal": "557b98",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C26",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "afacb3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C27",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 하이퍼 블루 마그노 (964U)",
+              "colorHexadecimal": "0c758b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C28",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 브라이트 (993U)",
+              "colorHexadecimal": "96071d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53285,
+      "name": "쿠페 가솔린 4.0",
+      "year": "2025년형",
+      "percent": 4,
+      "trims": [
+        {
+          "trimNo": 92878,
+          "trimName": "AMG GT 55 4MATIC+",
+          "price": 205600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "080808",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "썬 옐로우 (914U)",
+              "colorHexadecimal": "ebbb01",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "aaadaf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "14497b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 나이트 블랙 마그노 (056U)",
+              "colorHexadecimal": "1b242b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 (190U)",
+              "colorHexadecimal": "717879",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그린 헬 마그노 (376U)",
+              "colorHexadecimal": "43903e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오렌지 플레임 (379U)",
+              "colorHexadecimal": "bc551e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 데저트 샌드 (464U)",
+              "colorHexadecimal": "ad9771",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 스펙트럴 블루 마그노 (593U)",
+              "colorHexadecimal": "1a4b80",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코퍼 오렌지 마그노 (658U)",
+              "colorHexadecimal": "c64326",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 루벨라이트 레드 (660U)",
+              "colorHexadecimal": "230508",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 하이테크 실버 마그노 (734U)",
+              "colorHexadecimal": "9ba4ac",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 그라파이트 그레이 마그노 (818U)",
+              "colorHexadecimal": "3b3e43",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C25",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 빈티지 블루 솔리드 (934U)",
+              "colorHexadecimal": "557b98",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C26",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "afacb3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C27",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 하이퍼 블루 마그노 (964U)",
+              "colorHexadecimal": "0c758b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C28",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 브라이트 (993U)",
+              "colorHexadecimal": "96071d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92879,
+          "trimName": "AMG GT 55 4MATIC+ Launch Edition",
+          "price": 236600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

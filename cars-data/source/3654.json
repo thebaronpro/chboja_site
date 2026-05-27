@@ -1,0 +1,844 @@
+{
+  "model_id": 3654,
+  "brand": "현대",
+  "name": "베뉴",
+  "img": "https://autoimg.danawa.com/photo/3654/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53151,
+      "name": "가솔린 1.6",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92518,
+          "trimName": "스마트",
+          "price": 19260000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348173",
+              "name": "15인치 알로이 휠 &amp; 타이어",
+              "price": 200000,
+              "code": "A20",
+              "percent": 48,
+              "items": []
+            },
+            {
+              "seq": "348174",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A21",
+              "percent": 47,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "데님 블루 펄(TN6)",
+              "colorHexadecimal": "01253b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "인텐스 블루 펄(YP5)",
+              "colorHexadecimal": "102c62",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭(R2P)",
+              "colorHexadecimal": "831b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "232a2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭(R2T)",
+              "colorHexadecimal": "808690",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "edeeed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "999a95",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C29",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "697b85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙(인조가죽 시트)",
+              "colorHexadecimal": "292929",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92516,
+          "trimName": "프리미엄",
+          "price": 22120000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348178",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/16593.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348179",
+              "name": "투톤 컬러 루프 (선루프와 동시 적용 불가)",
+              "price": 390000,
+              "code": "A18",
+              "percent": 8,
+              "items": [
+                {
+                  "name": "투톤 컬러 루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/27379.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348180",
+              "name": "스타일",
+              "price": 780000,
+              "code": "A15",
+              "percent": 36,
+              "items": [
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/16564.jpg"
+                },
+                {
+                  "name": "17인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/25831.jpg"
+                },
+                {
+                  "name": "인조가죽 적용내장(도어 암레스트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/25832.jpg"
+                },
+                {
+                  "name": "루프랙",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/16566.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348181",
+              "name": "테크",
+              "price": 340000,
+              "code": "A19",
+              "percent": 38,
+              "items": [
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/25833.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/25834.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "데님 블루 펄(TN6)",
+              "colorHexadecimal": "01253b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "인텐스 블루 펄(YP5)",
+              "colorHexadecimal": "102c62",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭(R2P)",
+              "colorHexadecimal": "831b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "232a2e",
+              "rank": 1,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭(R2T)",
+              "colorHexadecimal": "808690",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "edeeed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "999a95",
+              "rank": 2,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C29",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "697b85",
+              "rank": 3,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "초크화이트 메탈릭/어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "e9e9e9/0e0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "초크화이트 메탈릭/데님 블루 펄(TN3)",
+              "colorHexadecimal": "e9e9e9/01253b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/에코트로닉 그레이 펄(P51)",
+              "colorHexadecimal": "0e0d0d/232a2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/아틀라스 화이트(SAW)",
+              "colorHexadecimal": "0e0d0d/edeeed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/얼티메이트 레드 메탈릭(R20)",
+              "colorHexadecimal": "0e0d0d/831b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C25",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/인텐스 블루 펄(YP1)",
+              "colorHexadecimal": "0e0d0d/102c62",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C26",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/쉬머링 실버 메탈릭(R2T)",
+              "colorHexadecimal": "0e0d0d/808690",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C27",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/사이버 그레이 메탈릭(CG1)",
+              "colorHexadecimal": "0e0d0d/999a95",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C30",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/미라지 그린(PRO)",
+              "colorHexadecimal": "0e0d0d/697b85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙(인조가죽 시트)",
+              "colorHexadecimal": "292929",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "메테오 블루(인조가죽 시트)",
+              "colorHexadecimal": "2f3647",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92517,
+          "trimName": "플럭스",
+          "price": 23860000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348186",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/16593.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348187",
+              "name": "투톤 컬러 루프 (선루프와 동시 적용 불가)",
+              "price": 390000,
+              "code": "A18",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "투톤 컬러 루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/27379.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "데님 블루 펄(TN6)",
+              "colorHexadecimal": "01253b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "232a2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "edeeed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "999a95",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C29",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "697b85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "초크화이트 메탈릭/어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "e9e9e9/0e0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "초크화이트 메탈릭/데님 블루 펄(TN3)",
+              "colorHexadecimal": "e9e9e9/01253b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/에코트로닉 그레이 펄(P51)",
+              "colorHexadecimal": "0e0d0d/232a2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/아틀라스 화이트(SAW)",
+              "colorHexadecimal": "0e0d0d/edeeed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C27",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/사이버 그레이 메탈릭(CG1)",
+              "colorHexadecimal": "0e0d0d/999a95",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C30",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄/미라지 그린(PRO)",
+              "colorHexadecimal": "0e0d0d/697b85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙(인조가죽 시트)",
+              "colorHexadecimal": "292929",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "메테오 블루(인조가죽 시트)",
+              "colorHexadecimal": "2f3647",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "그레이(인조가죽 시트)",
+              "colorHexadecimal": "c5c5c5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53152,
+      "name": "가솔린 1.6 (운전교습용)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92519,
+          "trimName": "운전교습용",
+          "price": 16170000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348193",
+              "name": "인조가죽시트 + 1열 열선시트",
+              "price": 250000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "앞좌석 열선 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/16557.jpg"
+                },
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/16556.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "썬더 옐로우(TUY)",
+              "colorHexadecimal": "eeaf1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "292929",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53153,
+      "name": "가솔린 1.6 (렌터카)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92520,
+          "trimName": "스마트",
+          "price": 18210000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348196",
+              "name": "모던 초이스 I",
+              "price": 440000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "15인치 알로이 휠&amp;타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/25835.jpg"
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/16559.jpg"
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/25837.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348197",
+              "name": "하이패스 시스템",
+              "price": 200000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3654/items/16570.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "데님 블루 펄(TN6)",
+              "colorHexadecimal": "01253b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "인텐스 블루 펄(YP5)",
+              "colorHexadecimal": "102c62",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭(R2P)",
+              "colorHexadecimal": "831b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "232a2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "쉬머링 실버 메탈릭(R2T)",
+              "colorHexadecimal": "808690",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "edeeed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "999a95",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C29",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "697b85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "292929",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

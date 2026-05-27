@@ -1,0 +1,288 @@
+{
+  "model_id": 4508,
+  "brand": "메르세데스-벤츠",
+  "name": "Maybach GLS",
+  "img": "https://autoimg.danawa.com/photo/4508/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53612,
+      "name": "가솔린 4.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94369,
+          "trimName": "GLS600 4MATIC",
+          "price": 293600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "717879",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94370,
+          "trimName": "GLS600 4MATIC MANUFAKTUR",
+          "price": 335600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "노틱 블루+하이테크 실버 (C20)",
+              "colorHexadecimal": "060f27/b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "루벨라이트 레드+옵시디안 블랙 (C21)",
+              "colorHexadecimal": "27070c/0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 칼라하리 골드+옵시디언 블랙 (C23)",
+              "colorHexadecimal": "968879/0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "모하비 실버+에메랄드 그린 (C24)",
+              "colorHexadecimal": "b3b3b3/122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53230,
+      "name": "가솔린 4.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92654,
+          "trimName": "GLS600 4MATIC",
+          "price": 287600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e3e2e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "717879",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91024,
+          "trimName": "GLS600 4MATIC MANUFAKTUR",
+          "price": 328600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "노틱 블루+하이테크 실버 (C20)",
+              "colorHexadecimal": "060f27/b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "루벨라이트 레드+옵시디안 블랙 (C21)",
+              "colorHexadecimal": "27070c/0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 칼라하리 골드+옵시디언 블랙 (C23)",
+              "colorHexadecimal": "968879/0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "모하비 실버+에메랄드 그린 (C24)",
+              "colorHexadecimal": "b3b3b3/122d26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

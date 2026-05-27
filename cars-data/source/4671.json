@@ -1,0 +1,1871 @@
+{
+  "model_id": 4671,
+  "brand": "현대",
+  "name": "캐스퍼",
+  "img": "https://autoimg.danawa.com/photo/4671/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52329,
+      "name": "가솔린 1.0",
+      "year": "2026년형",
+      "percent": 46,
+      "trims": [
+        {
+          "trimNo": 90107,
+          "trimName": "스마트",
+          "price": 14930000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329015",
+              "name": "선루프",
+              "price": 400000,
+              "code": "A11",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28801.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28802.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329016",
+              "name": "인포테인먼트 내비 플러스Ⅰ",
+              "price": 1250000,
+              "code": "A12",
+              "percent": 54,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(블루링크, 폰 프로젝션, 인카페이먼트, 블루투스 핸즈프리)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28813.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "-프론트 도어 스피커(2개), 리어 도어 스피커(2개), 트위터 스피커(2개)",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28814.jpg"
+                },
+                {
+                  "name": "버튼시동 &amp; 스마트키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28815.jpg"
+                },
+                {
+                  "name": "스마트키 원격시동",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28816.jpg"
+                },
+                {
+                  "name": "리어 와이퍼 &amp; 와셔",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28817.jpg"
+                },
+                {
+                  "name": "1열 버튼 타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28818.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329017",
+              "name": "17인치 알로이 휠 패키지",
+              "price": 600000,
+              "code": "A14",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠 &amp; 타이어",
+                  "exp": "-205/45R",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28826.jpg"
+                },
+                {
+                  "name": "후륜 디스크 브레이크",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28827.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "D",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90108,
+          "trimName": "디 에센셜",
+          "price": 17710000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329019",
+              "name": "선루프",
+              "price": 400000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28801.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28802.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329021",
+              "name": "현대 스마트센스Ⅰ",
+              "price": 1100000,
+              "code": "A16",
+              "percent": 47,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차/정면 대향차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28803.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "-후측방 충돌 경고는 운전자가 차로를 변경을 위해 방향지시등을 켤 때, 뒤에서 오는 차량과의 충돌을 방지하기 위해 만들어진 안전 기능입니다. 운전자가 차로를 바꾸려고 할 때 뒤쪽에서 차가 다가오고 있다면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28804.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "-평행 주차상태에서 전진 출차 중, 후측방에서 다가오는 차량과 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28806.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "-후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 경고를 해줍니다. 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28807.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "-안전 하차 경고는 차량이 멈춰서 탑승자가 차에서 내리려고 할 때 후측방에서 접근하는 차량을 감지하고 경고를 해주는 기능입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28808.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+                  "exp": "-스마트 크루즈 컨트롤(스탑앤고 기능 포함)은 운전자가 설정한 속도로 주행하면서 앞차와의 거리를 자동으로 유지해주는 기능입니다. 운전자가 원하는 속도를 설정하면 차량이 그 속도로 주행하면서 앞차와의 거리를 감지해 자동으로 조절합니다. 차간거리는 1~4단계로 선택할 수 있어 상황에 맞게 조절이 가능합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28809.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "-내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)는 고속도로와 자동차 전용도로에서 도로 상황에 맞춰 안전한 속도로 주행하도록 도와주는 기능입니다. 이 시스템은 내비게이션 데이터를 활용하여 도로의 안전구간과 곡선로를 미리 파악하고 이에 맞춰 속도를 자동으로 조절합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28810.jpg"
+                },
+                {
+                  "name": "전동식 파킹 브레이크 (오토홀드 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28811.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "-고속도로 및 자동차 전용 도로 주행 시 앞차와의 거리를 유지하며 운전자가 설정한 속도로 차로 중앙을 유지하며 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28812.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329022",
+              "name": "익스테리어 디자인",
+              "price": 700000,
+              "code": "A17",
+              "percent": 11,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28823.jpg"
+                },
+                {
+                  "name": "바디컬러 아웃사이드 미러(LED 방향지시등)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28824.jpg"
+                },
+                {
+                  "name": "LED 리어콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28825.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353503",
+              "name": "17인치 알로이 휠 &amp; 타이어",
+              "price": 550000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "329023",
+              "name": "17인치 알로이 휠 패키지",
+              "price": 600000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠 &amp; 타이어",
+                  "exp": "-205/45R",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28826.jpg"
+                },
+                {
+                  "name": "후륜 디스크 브레이크",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28827.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329024",
+              "name": "컴포트Ⅰ",
+              "price": 450000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 풀폴딩 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28819.jpg"
+                },
+                {
+                  "name": "2열 슬라이딩 &amp; 리클라이닝 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28820.jpg"
+                },
+                {
+                  "name": "USB C타입 단자(2열 충전 1개)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28821.jpg"
+                },
+                {
+                  "name": "세이프티 파워 윈도우(동승석)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28822.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329025",
+              "name": "[HGA] 스토리지",
+              "price": 110000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "러기지 볼팅",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28830.jpg"
+                },
+                {
+                  "name": "동승석 시트백 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28831.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329026",
+              "name": "실내 컬러 패키지(베이지/오렌지 브라운)",
+              "price": 150000,
+              "code": "A20",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "베이지/오렌지 브라운 내장",
+                  "exp": "-시트/스티어링 휠/크래쉬패드/센터 콘솔/도어트림/도어 암레스트/헤드라이닝/플로어 매트",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28832.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "D",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지/오렌지 브라운",
+              "colorHexadecimal": "cfcdc4/8e6f63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "ABD",
+              "sAddOptionCode": "A20"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그레이/라이트 카키",
+              "colorHexadecimal": "818084/c3c3b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90109,
+          "trimName": "인스퍼레이션",
+          "price": 20170000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329028",
+              "name": "선루프",
+              "price": 400000,
+              "code": "A11",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28801.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28802.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329029",
+              "name": "[HGA] 스토리지",
+              "price": 110000,
+              "code": "A19",
+              "percent": 30,
+              "items": [
+                {
+                  "name": "러기지 볼팅",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28830.jpg"
+                },
+                {
+                  "name": "동승석 시트백 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28831.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329030",
+              "name": "실내 컬러 패키지(베이지/오렌지 브라운)",
+              "price": 150000,
+              "code": "A20",
+              "percent": 41,
+              "items": [
+                {
+                  "name": "베이지/오렌지 브라운 내장",
+                  "exp": "-시트/스티어링 휠/크래쉬패드/센터 콘솔/도어트림/도어 암레스트/헤드라이닝/플로어 매트",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28832.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "D",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지/오렌지 브라운",
+              "colorHexadecimal": "cfcdc4/8e6f63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "ABD",
+              "sAddOptionCode": "A20"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그레이/라이트 카키",
+              "colorHexadecimal": "818084/c3c3b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52330,
+      "name": "가솔린 터보 1.0",
+      "year": "2026년형",
+      "percent": 52,
+      "trims": [
+        {
+          "trimNo": 90110,
+          "trimName": "스마트 (캐스퍼액티브Ⅰ)",
+          "price": 15880000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329044",
+              "name": "선루프",
+              "price": 400000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28801.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28802.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329045",
+              "name": "인포테인먼트 내비 플러스Ⅰ",
+              "price": 1250000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(블루링크, 폰 프로젝션, 인카페이먼트, 블루투스 핸즈프리)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28813.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "-프론트 도어 스피커(2개), 리어 도어 스피커(2개), 트위터 스피커(2개)",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28814.jpg"
+                },
+                {
+                  "name": "버튼시동 &amp; 스마트키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28815.jpg"
+                },
+                {
+                  "name": "스마트키 원격시동",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28816.jpg"
+                },
+                {
+                  "name": "리어 와이퍼 &amp; 와셔",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28817.jpg"
+                },
+                {
+                  "name": "1열 버튼 타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28818.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329046",
+              "name": "17인치 알로이 휠 &amp; 타이어",
+              "price": 550000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠 &amp; 타이어",
+                  "exp": "-205/45R",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28826.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90111,
+          "trimName": "디 에센셜 (캐스퍼액티브Ⅰ)",
+          "price": 18660000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329048",
+              "name": "선루프",
+              "price": 400000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28801.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28802.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329050",
+              "name": "현대 스마트센스Ⅰ",
+              "price": 1100000,
+              "code": "A16",
+              "percent": 42,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차/정면 대향차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28803.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "-후측방 충돌 경고는 운전자가 차로를 변경을 위해 방향지시등을 켤 때, 뒤에서 오는 차량과의 충돌을 방지하기 위해 만들어진 안전 기능입니다. 운전자가 차로를 바꾸려고 할 때 뒤쪽에서 차가 다가오고 있다면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28804.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "-평행 주차상태에서 전진 출차 중, 후측방에서 다가오는 차량과 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28806.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "-후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 경고를 해줍니다. 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28807.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "-안전 하차 경고는 차량이 멈춰서 탑승자가 차에서 내리려고 할 때 후측방에서 접근하는 차량을 감지하고 경고를 해주는 기능입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28808.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+                  "exp": "-스마트 크루즈 컨트롤(스탑앤고 기능 포함)은 운전자가 설정한 속도로 주행하면서 앞차와의 거리를 자동으로 유지해주는 기능입니다. 운전자가 원하는 속도를 설정하면 차량이 그 속도로 주행하면서 앞차와의 거리를 감지해 자동으로 조절합니다. 차간거리는 1~4단계로 선택할 수 있어 상황에 맞게 조절이 가능합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28809.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "-내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)는 고속도로와 자동차 전용도로에서 도로 상황에 맞춰 안전한 속도로 주행하도록 도와주는 기능입니다. 이 시스템은 내비게이션 데이터를 활용하여 도로의 안전구간과 곡선로를 미리 파악하고 이에 맞춰 속도를 자동으로 조절합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28810.jpg"
+                },
+                {
+                  "name": "전동식 파킹 브레이크 (오토홀드 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28811.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "-고속도로 및 자동차 전용 도로 주행 시 앞차와의 거리를 유지하며 운전자가 설정한 속도로 차로 중앙을 유지하며 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28812.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329051",
+              "name": "익스테리어 디자인",
+              "price": 700000,
+              "code": "A17",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28823.jpg"
+                },
+                {
+                  "name": "바디컬러 아웃사이드 미러(LED 방향지시등)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28824.jpg"
+                },
+                {
+                  "name": "LED 리어콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28825.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329052",
+              "name": "17인치 알로이 휠 &amp; 타이어",
+              "price": 550000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠 &amp; 타이어",
+                  "exp": "-205/45R",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28826.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329053",
+              "name": "컴포트Ⅰ",
+              "price": 450000,
+              "code": "A18",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "1열 풀폴딩 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28819.jpg"
+                },
+                {
+                  "name": "2열 슬라이딩 &amp; 리클라이닝 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28820.jpg"
+                },
+                {
+                  "name": "USB C타입 단자(2열 충전 1개)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28821.jpg"
+                },
+                {
+                  "name": "세이프티 파워 윈도우(동승석)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28822.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329054",
+              "name": "[HGA] 스토리지",
+              "price": 110000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "러기지 볼팅",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28830.jpg"
+                },
+                {
+                  "name": "동승석 시트백 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28831.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329055",
+              "name": "실내 컬러 패키지(베이지/오렌지 브라운)",
+              "price": 150000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "베이지/오렌지 브라운 내장",
+                  "exp": "-시트/스티어링 휠/크래쉬패드/센터 콘솔/도어트림/도어 암레스트/헤드라이닝/플로어 매트",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28832.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "D",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지/오렌지 브라운",
+              "colorHexadecimal": "cfcdc4/8e6f63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "ABD",
+              "sAddOptionCode": "A20"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그레이/라이트 카키",
+              "colorHexadecimal": "818084/c3c3b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90112,
+          "trimName": "인스퍼레이션 (캐스퍼액티브Ⅱ)",
+          "price": 21070000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329057",
+              "name": "선루프",
+              "price": 400000,
+              "code": "A11",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28801.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28802.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329058",
+              "name": "[HGA] 액티브 플러스",
+              "price": 500000,
+              "code": "A21",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "17인치 다크 그레이 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28828.jpg"
+                },
+                {
+                  "name": "리어 스포일러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28829.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329059",
+              "name": "[HGA] 스토리지",
+              "price": 110000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "러기지 볼팅",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28830.jpg"
+                },
+                {
+                  "name": "동승석 시트백 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28831.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329060",
+              "name": "실내 컬러 패키지(베이지/오렌지 브라운)",
+              "price": 150000,
+              "code": "A20",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "베이지/오렌지 브라운 내장",
+                  "exp": "-시트/스티어링 휠/크래쉬패드/센터 콘솔/도어트림/도어 암레스트/헤드라이닝/플로어 매트",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28832.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "D",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지/오렌지 브라운",
+              "colorHexadecimal": "cfcdc4/8e6f63",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "ABD",
+              "sAddOptionCode": "A20"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그레이/라이트 카키",
+              "colorHexadecimal": "818084/c3c3b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52331,
+      "name": "가솔린 1.0 (밴)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 90113,
+          "trimName": "스마트",
+          "price": 14600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329068",
+              "name": "베이직 플러스",
+              "price": 380000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "가죽 스티어링 휠(열선포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28840.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28841.jpg"
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/29793.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329069",
+              "name": "컴포트Ⅱ",
+              "price": 600000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조가죽 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28843.jpg"
+                },
+                {
+                  "name": "1열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28844.jpg"
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28845.jpg"
+                },
+                {
+                  "name": "1열 센터사이드 에어백",
+                  "exp": "-운전석과 동승석 사이에 내장되어 있으며 측면 추돌 또는 전복 사고 시 탑승객의 측면 상해를 최소화합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28846.jpg"
+                },
+                {
+                  "name": "운전석 시트 암레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28847.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329070",
+              "name": "인포테인먼트 내비 플러스Ⅱ",
+              "price": 1300000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(블루링크, 폰 프로젝션, 인카페이먼트, 블루투스 핸즈프리)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28813.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "-프론트 도어 스피커(2개), 리어 도어 스피커(2개), 트위터 스피커(2개)",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28814.jpg"
+                },
+                {
+                  "name": "버튼시동 &amp; 스마트키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28815.jpg"
+                },
+                {
+                  "name": "스마트키 원격시동",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28816.jpg"
+                },
+                {
+                  "name": "리어 와이퍼 &amp; 와셔",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28817.jpg"
+                },
+                {
+                  "name": "1열 버튼 타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28818.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90114,
+          "trimName": "스마트 초이스",
+          "price": 15600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329072",
+              "name": "하이패스",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28841.jpg"
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/29793.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329073",
+              "name": "인포테인먼트 내비Ⅱ",
+              "price": 850000,
+              "code": "A26",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(블루링크, 폰 프로젝션, 인카페이먼트, 블루투스 핸즈프리)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28813.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "-프론트 도어 스피커(2개), 리어 도어 스피커(2개), 트위터 스피커(2개)",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28814.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그레이/라이트 카키",
+              "colorHexadecimal": "818084/c3c3b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52332,
+      "name": "가솔린 터보 1.0 (밴)",
+      "year": "2026년형",
+      "percent": 1,
+      "trims": [
+        {
+          "trimNo": 90116,
+          "trimName": "스마트 (캐스퍼 액티브Ⅰ)",
+          "price": 15550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329084",
+              "name": "베이직 플러스",
+              "price": 380000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "가죽 스티어링 휠(열선포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28840.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28841.jpg"
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/29793.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329085",
+              "name": "컴포트Ⅱ",
+              "price": 600000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조가죽 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28843.jpg"
+                },
+                {
+                  "name": "1열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28844.jpg"
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28845.jpg"
+                },
+                {
+                  "name": "1열 센터사이드 에어백",
+                  "exp": "-운전석과 동승석 사이에 내장되어 있으며 측면 추돌 또는 전복 사고 시 탑승객의 측면 상해를 최소화합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28846.jpg"
+                },
+                {
+                  "name": "운전석 시트 암레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28847.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329086",
+              "name": "인포테인먼트 내비 플러스Ⅱ",
+              "price": 1300000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(블루링크, 폰 프로젝션, 인카페이먼트, 블루투스 핸즈프리)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28813.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "-프론트 도어 스피커(2개), 리어 도어 스피커(2개), 트위터 스피커(2개)",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28814.jpg"
+                },
+                {
+                  "name": "버튼시동 &amp; 스마트키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28815.jpg"
+                },
+                {
+                  "name": "스마트키 원격시동",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28816.jpg"
+                },
+                {
+                  "name": "리어 와이퍼 &amp; 와셔",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28817.jpg"
+                },
+                {
+                  "name": "1열 버튼 타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28818.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90115,
+          "trimName": "스마트 초이스 (캐스퍼 액티브Ⅰ)",
+          "price": 16550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329081",
+              "name": "하이패스",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28841.jpg"
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/29793.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "329082",
+              "name": "인포테인먼트 내비Ⅱ",
+              "price": 850000,
+              "code": "A26",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(블루링크, 폰 프로젝션, 인카페이먼트, 블루투스 핸즈프리)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28813.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "-프론트 도어 스피커(2개), 리어 도어 스피커(2개), 트위터 스피커(2개)",
+                  "image": "https://autoimg.danawa.com/photo/4671/items/28814.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "32362f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0eeec",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "47493d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "793b19",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "c0beb1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0c0c0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141412",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그레이/라이트 카키",
+              "colorHexadecimal": "818084/c3c3b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

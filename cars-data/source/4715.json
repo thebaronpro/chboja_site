@@ -1,0 +1,68 @@
+{
+  "model_id": 4715,
+  "brand": "혼다",
+  "name": "Odyssey",
+  "img": "https://autoimg.danawa.com/photo/4715/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53690,
+      "name": "가솔린 3.5",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94719,
+          "trimName": "Elite",
+          "price": 64300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "플래티넘 화이트",
+              "colorHexadecimal": "eeedf2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "모던 스틸",
+              "colorHexadecimal": "434348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "크리스탈 블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "브라운 레더",
+              "colorHexadecimal": "302c29",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

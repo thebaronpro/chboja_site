@@ -1,0 +1,26 @@
+{
+  "model_id": 3996,
+  "brand": "마세라티",
+  "name": "MC20",
+  "img": "https://autoimg.danawa.com/photo/3996/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 51389,
+      "name": "가솔린 3.0",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 86041,
+          "trimName": "V6",
+          "price": 337000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

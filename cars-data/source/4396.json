@@ -1,0 +1,543 @@
+{
+  "model_id": 4396,
+  "brand": "기아",
+  "name": "니로 EV",
+  "img": "https://autoimg.danawa.com/photo/4396/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53255,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92754,
+          "trimName": "에어",
+          "price": 48550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349694",
+              "name": "스노우 화이트 펄",
+              "price": 80000,
+              "code": "C10",
+              "percent": 18,
+              "items": []
+            },
+            {
+              "seq": "349695",
+              "name": "드라이브 와이즈",
+              "price": 480000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량, 추월 시 대향차, 측방 접근차, 회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로 변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349696",
+              "name": "스타일",
+              "price": 750000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널 램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 후진등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 유광 휠아치&amp;사이드 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "루프랙",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349697",
+              "name": "스마트 커넥트",
+              "price": 980000,
+              "code": "A14",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "크롬&amp;터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠(주행 중 영상기록 장치)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349814",
+              "name": "하만카돈 사운드",
+              "price": 580000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349698",
+              "name": "하이테크",
+              "price": 390000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349699",
+              "name": "HUD",
+              "price": 580000,
+              "code": "A21",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349700",
+              "name": "컴포트",
+              "price": 730000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전자세 메모리 시스템(운전석 시트, 아웃사이드 미러)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 이지억세스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진연동 자동하향 아웃사이드 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석/2열 세이프티 파워윈도우",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스웨이드 내장재(헤드라이닝, 필라트림, 선바이저)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f1f1f1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "969ca0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린(CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "미네랄 블루(M4B)",
+              "colorHexadecimal": "394a66",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이(AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "181818",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "차콜",
+              "colorHexadecimal": "626365/7b797c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "b1aeae/6e6f71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92755,
+          "trimName": "어스",
+          "price": 51200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349703",
+              "name": "스노우 화이트 펄",
+              "price": 80000,
+              "code": "C10",
+              "percent": 18,
+              "items": []
+            },
+            {
+              "seq": "349704",
+              "name": "원격 스마트 주차 보조",
+              "price": 300000,
+              "code": "A19",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349705",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "크롬&amp;터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠(주행 중 영상기록 장치)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349706",
+              "name": "하만카돈 사운드",
+              "price": 580000,
+              "code": "A12",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349707",
+              "name": "HUD",
+              "price": 580000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349708",
+              "name": "컴포트",
+              "price": 250000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스웨이드 내장재(헤드라이닝, 필라트림, 선바이저)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349709",
+              "name": "선루프 + LED 실내등",
+              "price": 440000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349710",
+              "name": "엣지 팩",
+              "price": 200000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "C필러 칼라 가니쉬",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f1f1f1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "969ca0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린(CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "미네랄 블루(M4B)",
+              "colorHexadecimal": "394a66",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이(AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "181818",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "차콜",
+              "colorHexadecimal": "626365/7b797c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "페트롤",
+              "colorHexadecimal": "626365/96a0a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "b1aeae/6e6f71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "model_id": 4571,
+  "brand": "미니",
+  "name": "Mini Electric",
+  "img": "https://autoimg.danawa.com/photo/4571/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53698,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94739,
+          "trimName": "SE Paul Smith Edition",
+          "price": 59700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94842,
+          "trimName": "JCW Victory Edition",
+          "price": 61500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53312,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93032,
+          "trimName": "JCW",
+          "price": 60500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53108,
+      "name": "전기",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92364,
+          "trimName": "SE Classic",
+          "price": 52500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92370,
+          "trimName": "SE Favoured",
+          "price": 56100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

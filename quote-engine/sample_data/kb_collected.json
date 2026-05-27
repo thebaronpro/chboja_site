@@ -1,0 +1,1035 @@
+{
+  "_metadata": {
+    "version": "v1 (Phase 1B 누적 데이터)",
+    "last_updated": "2026-05-26",
+    "description": "KB 수집 데이터 누적 파일. merge_kb_data.py가 매 수집 후 자동 업데이트. PHP가 이 파일을 읽어 정확한 KB 견적 제공",
+    "convention": {
+      "trim_key": "차종명 + 트림명 + 연식 조합으로 unique",
+      "completeness": "full = 25 매트릭스 / partial = 1~24 / mapping_only = 가격만"
+    },
+    "total_trims": 11,
+    "total_quotes": 111
+  },
+  "trims": [
+    {
+      "trim_key": "26MY|현대|아반떼|1.6 가솔린 스마트",
+      "brand": "현대",
+      "model_name": "더 뉴 아반떼(CN7)",
+      "year_code": "26MY",
+      "trim_name": "1.6 가솔린 스마트",
+      "kb_full_trim_name": "[26MY]현대 더 뉴 아반떼(CN7) 1.6 가솔린 스마트",
+      "engine_cc": 1598,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 20650000,
+      "product_code": "5010000003",
+      "category": "sedan_popular",
+      "completeness": "full",
+      "danawa_match_keywords": {
+        "engine": "가솔린 1.6",
+        "trim_keyword": "스마트"
+      },
+      "base_quotes": [
+        {
+          "term_months": 24,
+          "annual_mileage_km": 10000,
+          "residual_pct": 74.0,
+          "residual_amount": 15281000,
+          "monthly_base_payment": 419390
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 15000,
+          "residual_pct": 72.5,
+          "residual_amount": 14972000,
+          "monthly_base_payment": 431970
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 20000,
+          "residual_pct": 71.0,
+          "residual_amount": 14662000,
+          "monthly_base_payment": 443050
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 30000,
+          "residual_pct": 68.5,
+          "residual_amount": 14146000,
+          "monthly_base_payment": 464300
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 10000,
+          "residual_pct": 71.0,
+          "residual_amount": 14662000,
+          "monthly_base_payment": 355330
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 15000,
+          "residual_pct": 69.0,
+          "residual_amount": 14249000,
+          "monthly_base_payment": 366210
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 20000,
+          "residual_pct": 67.0,
+          "residual_amount": 13836000,
+          "monthly_base_payment": 375600
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 30000,
+          "residual_pct": 64.0,
+          "residual_amount": 13216000,
+          "monthly_base_payment": 392280
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 64.0,
+          "residual_amount": 13216000,
+          "monthly_base_payment": 332620
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 15000,
+          "residual_pct": 62.0,
+          "residual_amount": 12803000,
+          "monthly_base_payment": 342840
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 20000,
+          "residual_pct": 60.0,
+          "residual_amount": 12390000,
+          "monthly_base_payment": 349430
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 30000,
+          "residual_pct": 56.5,
+          "residual_amount": 11668000,
+          "monthly_base_payment": 363710
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 10000,
+          "residual_pct": 56.0,
+          "residual_amount": 11564000,
+          "monthly_base_payment": 323710
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 15000,
+          "residual_pct": 54.0,
+          "residual_amount": 11151000,
+          "monthly_base_payment": 330040
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 20000,
+          "residual_pct": 52.0,
+          "residual_amount": 10738000,
+          "monthly_base_payment": 334990
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 30000,
+          "residual_pct": 48.0,
+          "residual_amount": 9912000,
+          "monthly_base_payment": 347790
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|현대|아반떼|1.6 가솔린 모던",
+      "brand": "현대",
+      "model_name": "더 뉴 아반떼(CN7)",
+      "year_code": "26MY",
+      "trim_name": "1.6 가솔린 모던",
+      "kb_full_trim_name": "[26MY]현대 더 뉴 아반떼(CN7) 1.6 가솔린 모던",
+      "engine_cc": 1598,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 23910000,
+      "product_code": "5010000003",
+      "category": "sedan_popular",
+      "completeness": "partial",
+      "danawa_match_keywords": {
+        "engine": "가솔린 1.6",
+        "trim_keyword": "모던"
+      },
+      "base_quotes": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 64.0,
+          "residual_amount": 15303000,
+          "monthly_base_payment": 374200
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|현대|쏘나타|2.0 프리미엄",
+      "brand": "현대",
+      "model_name": "쏘나타 디 엣지(DN8)",
+      "year_code": "26MY",
+      "trim_name": "2.0 프리미엄",
+      "kb_full_trim_name": "[26MY]현대 쏘나타 디 엣지(DN8) 2.0 프리미엄",
+      "engine_cc": 1999,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 28700000,
+      "product_code": "5010000003",
+      "category": "sedan_popular",
+      "completeness": "full",
+      "danawa_match_keywords": {
+        "engine": "가솔린 2.0",
+        "trim_keyword": "프리미엄"
+      },
+      "base_quotes": [
+        {
+          "term_months": 12,
+          "annual_mileage_km": 10000,
+          "residual_pct": 78.0,
+          "residual_amount": 22386000,
+          "monthly_base_payment": 792140
+        },
+        {
+          "term_months": 12,
+          "annual_mileage_km": 30000,
+          "residual_pct": 76.0,
+          "residual_amount": 21812000,
+          "monthly_base_payment": 840030
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 10000,
+          "residual_pct": 72.0,
+          "residual_amount": 20664000,
+          "monthly_base_payment": 572070
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 15000,
+          "residual_pct": 70.5,
+          "residual_amount": 20234000,
+          "monthly_base_payment": 589750
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 20000,
+          "residual_pct": 69.0,
+          "residual_amount": 19803000,
+          "monthly_base_payment": 605420
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 30000,
+          "residual_pct": 66.5,
+          "residual_amount": 19086000,
+          "monthly_base_payment": 635420
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 10000,
+          "residual_pct": 70.0,
+          "residual_amount": 20090000,
+          "monthly_base_payment": 472850
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 15000,
+          "residual_pct": 68.0,
+          "residual_amount": 19516000,
+          "monthly_base_payment": 488150
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 20000,
+          "residual_pct": 66.0,
+          "residual_amount": 18942000,
+          "monthly_base_payment": 501420
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 30000,
+          "residual_pct": 63.0,
+          "residual_amount": 18081000,
+          "monthly_base_payment": 525040
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 62.0,
+          "residual_amount": 17794000,
+          "monthly_base_payment": 449980
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 15000,
+          "residual_pct": 60.0,
+          "residual_amount": 17220000,
+          "monthly_base_payment": 461330
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 20000,
+          "residual_pct": 58.0,
+          "residual_amount": 16646000,
+          "monthly_base_payment": 470710
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 30000,
+          "residual_pct": 54.5,
+          "residual_amount": 15642000,
+          "monthly_base_payment": 491030
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 10000,
+          "residual_pct": 54.0,
+          "residual_amount": 15498000,
+          "monthly_base_payment": 433530
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 15000,
+          "residual_pct": 52.0,
+          "residual_amount": 14924000,
+          "monthly_base_payment": 442520
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 20000,
+          "residual_pct": 50.0,
+          "residual_amount": 14350000,
+          "monthly_base_payment": 449620
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 30000,
+          "residual_pct": 46.0,
+          "residual_amount": 13202000,
+          "monthly_base_payment": 467850
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|현대|그랜저|2.5 프리미엄",
+      "brand": "현대",
+      "model_name": "디 올 뉴 그랜저",
+      "year_code": "26MY",
+      "trim_name": "2.5 가솔린 2WD 프리미엄",
+      "kb_full_trim_name": "[26MY]현대 디 올 뉴 그랜저 2.5 가솔린 2WD 프리미엄",
+      "engine_cc": 2497,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 38570000,
+      "product_code": "5010000003",
+      "category": "sedan_popular",
+      "completeness": "full",
+      "danawa_match_keywords": {
+        "engine": "가솔린 2.5",
+        "trim_keyword": "프리미엄"
+      },
+      "base_quotes": [
+        {
+          "term_months": 12,
+          "annual_mileage_km": 10000,
+          "residual_pct": 81.0,
+          "residual_amount": 31242000,
+          "monthly_base_payment": 888340
+        },
+        {
+          "term_months": 12,
+          "annual_mileage_km": 30000,
+          "residual_pct": 79.0,
+          "residual_amount": 30471000,
+          "monthly_base_payment": 950920
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 10000,
+          "residual_pct": 75.0,
+          "residual_amount": 28928000,
+          "monthly_base_payment": 657620
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 15000,
+          "residual_pct": 73.5,
+          "residual_amount": 28349000,
+          "monthly_base_payment": 681130
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 20000,
+          "residual_pct": 72.0,
+          "residual_amount": 27771000,
+          "monthly_base_payment": 701800
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 30000,
+          "residual_pct": 69.5,
+          "residual_amount": 26807000,
+          "monthly_base_payment": 741390
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 10000,
+          "residual_pct": 73.0,
+          "residual_amount": 28157000,
+          "monthly_base_payment": 545320
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 15000,
+          "residual_pct": 71.0,
+          "residual_amount": 27385000,
+          "monthly_base_payment": 565660
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 20000,
+          "residual_pct": 69.0,
+          "residual_amount": 26614000,
+          "monthly_base_payment": 583210
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 30000,
+          "residual_pct": 66.0,
+          "residual_amount": 25457000,
+          "monthly_base_payment": 614250
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 66.0,
+          "residual_amount": 25457000,
+          "monthly_base_payment": 518560
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 15000,
+          "residual_pct": 64.0,
+          "residual_amount": 24685000,
+          "monthly_base_payment": 533570
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 20000,
+          "residual_pct": 62.0,
+          "residual_amount": 23914000,
+          "monthly_base_payment": 545900
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 30000,
+          "residual_pct": 58.5,
+          "residual_amount": 22564000,
+          "monthly_base_payment": 572540
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 10000,
+          "residual_pct": 58.0,
+          "residual_amount": 22371000,
+          "monthly_base_payment": 504980
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 15000,
+          "residual_pct": 56.0,
+          "residual_amount": 21600000,
+          "monthly_base_payment": 516810
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 20000,
+          "residual_pct": 54.0,
+          "residual_amount": 20828000,
+          "monthly_base_payment": 526070
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 30000,
+          "residual_pct": 50.0,
+          "residual_amount": 19285000,
+          "monthly_base_payment": 549940
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|현대|싼타페|2.5T 익스클루시브 5인승",
+      "brand": "현대",
+      "model_name": "디 올 뉴 싼타페",
+      "year_code": "26MY",
+      "trim_name": "MX5 가솔린 2.5T 2WD 익스클루시브 5인승",
+      "kb_full_trim_name": "[26MY]현대 디 올 뉴 싼타페 MX5 가솔린 2.5T 2WD 익스클루시브 5인승",
+      "engine_cc": 2497,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 36620000,
+      "product_code": "5010000003",
+      "category": "suv_popular",
+      "completeness": "full",
+      "danawa_match_keywords": {
+        "engine": "가솔린 터보 2.5",
+        "trim_keyword": "익스클루시브"
+      },
+      "base_quotes": [
+        {
+          "term_months": 12,
+          "annual_mileage_km": 10000,
+          "residual_pct": 78.0,
+          "residual_amount": 28564000,
+          "monthly_base_payment": 982340
+        },
+        {
+          "term_months": 12,
+          "annual_mileage_km": 30000,
+          "residual_pct": 76.0,
+          "residual_amount": 27832000,
+          "monthly_base_payment": 1043510
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 10000,
+          "residual_pct": 72.0,
+          "residual_amount": 26367000,
+          "monthly_base_payment": 701820
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 15000,
+          "residual_pct": 70.5,
+          "residual_amount": 25818000,
+          "monthly_base_payment": 724480
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 20000,
+          "residual_pct": 69.0,
+          "residual_amount": 25268000,
+          "monthly_base_payment": 744550
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 30000,
+          "residual_pct": 66.5,
+          "residual_amount": 24353000,
+          "monthly_base_payment": 782990
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 10000,
+          "residual_pct": 70.0,
+          "residual_amount": 25634000,
+          "monthly_base_payment": 574820
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 15000,
+          "residual_pct": 68.0,
+          "residual_amount": 24902000,
+          "monthly_base_payment": 594460
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 20000,
+          "residual_pct": 66.0,
+          "residual_amount": 24170000,
+          "monthly_base_payment": 611490
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 30000,
+          "residual_pct": 63.0,
+          "residual_amount": 23071000,
+          "monthly_base_payment": 641810
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 63.0,
+          "residual_amount": 23071000,
+          "monthly_base_payment": 539040
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 15000,
+          "residual_pct": 61.0,
+          "residual_amount": 22339000,
+          "monthly_base_payment": 553610
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 20000,
+          "residual_pct": 59.0,
+          "residual_amount": 21606000,
+          "monthly_base_payment": 565700
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 30000,
+          "residual_pct": 55.5,
+          "residual_amount": 20325000,
+          "monthly_base_payment": 591800
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 10000,
+          "residual_pct": 55.0,
+          "residual_amount": 20141000,
+          "monthly_base_payment": 519800
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 15000,
+          "residual_pct": 53.0,
+          "residual_amount": 19409000,
+          "monthly_base_payment": 531370
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 20000,
+          "residual_pct": 51.0,
+          "residual_amount": 18677000,
+          "monthly_base_payment": 540530
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 30000,
+          "residual_pct": 47.0,
+          "residual_amount": 17212000,
+          "monthly_base_payment": 564010
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "25MY|현대|팰리세이드|2.5T 익스클루시브",
+      "brand": "현대",
+      "model_name": "디 올 뉴 팰리세이드",
+      "year_code": "25MY",
+      "trim_name": "2.5 가솔린 터보 2WD 9인승 익스클루시브",
+      "kb_full_trim_name": "[25MY]현대 디 올 뉴 팰리세이드 2.5 가솔린 터보 2WD 9인승 익스클루시브",
+      "engine_cc": 2497,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 43830000,
+      "product_code": "5010000003",
+      "category": "suv_popular",
+      "completeness": "full",
+      "danawa_match_keywords": {
+        "engine": "가솔린 터보 2.5",
+        "trim_keyword": "익스클루시브"
+      },
+      "base_quotes": [
+        {
+          "term_months": 12,
+          "annual_mileage_km": 10000,
+          "residual_pct": 80.0,
+          "residual_amount": 35064000,
+          "monthly_base_payment": 1172420
+        },
+        {
+          "term_months": 12,
+          "annual_mileage_km": 30000,
+          "residual_pct": 78.0,
+          "residual_amount": 34188000,
+          "monthly_base_payment": 1245490
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 10000,
+          "residual_pct": 72.0,
+          "residual_amount": 31558000,
+          "monthly_base_payment": 838640
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 15000,
+          "residual_pct": 71.0,
+          "residual_amount": 31119000,
+          "monthly_base_payment": 865780
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 20000,
+          "residual_pct": 70.0,
+          "residual_amount": 30681000,
+          "monthly_base_payment": 889630
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 30000,
+          "residual_pct": 68.0,
+          "residual_amount": 29804000,
+          "monthly_base_payment": 935620
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 10000,
+          "residual_pct": 68.0,
+          "residual_amount": 29804000,
+          "monthly_base_payment": 698210
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 15000,
+          "residual_pct": 66.0,
+          "residual_amount": 28928000,
+          "monthly_base_payment": 721680
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 20000,
+          "residual_pct": 65.0,
+          "residual_amount": 28490000,
+          "monthly_base_payment": 741970
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 30000,
+          "residual_pct": 63.0,
+          "residual_amount": 27613000,
+          "monthly_base_payment": 778180
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 64.0,
+          "residual_amount": 28052000,
+          "monthly_base_payment": 652350
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 15000,
+          "residual_pct": 62.0,
+          "residual_amount": 27175000,
+          "monthly_base_payment": 669780
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 20000,
+          "residual_pct": 61.0,
+          "residual_amount": 26737000,
+          "monthly_base_payment": 684140
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 30000,
+          "residual_pct": 59.0,
+          "residual_amount": 25860000,
+          "monthly_base_payment": 715330
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 10000,
+          "residual_pct": 56.0,
+          "residual_amount": 24545000,
+          "monthly_base_payment": 627450
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 15000,
+          "residual_pct": 54.0,
+          "residual_amount": 23668000,
+          "monthly_base_payment": 641260
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 20000,
+          "residual_pct": 52.0,
+          "residual_amount": 22792000,
+          "monthly_base_payment": 652130
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 30000,
+          "residual_pct": 48.0,
+          "residual_amount": 21039000,
+          "monthly_base_payment": 680140
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|기아|스포티지|1.6T 프레스티지",
+      "brand": "기아",
+      "model_name": "더 뉴 스포티지",
+      "year_code": "26MY",
+      "trim_name": "1.6 가솔린 터보 2WD 프레스티지",
+      "kb_full_trim_name": "[26MY]기아 더 뉴 스포티지 1.6 가솔린 터보 2WD 프레스티지",
+      "engine_cc": 1598,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 29150000,
+      "product_code": "5010000003",
+      "category": "suv_popular",
+      "completeness": "full",
+      "danawa_match_keywords": {
+        "engine": "가솔린 터보 1.6",
+        "trim_keyword": "프레스티지"
+      },
+      "base_quotes": [
+        {
+          "term_months": 12,
+          "annual_mileage_km": 10000,
+          "residual_pct": 80.0,
+          "residual_amount": 23320000,
+          "monthly_base_payment": 716090
+        },
+        {
+          "term_months": 12,
+          "annual_mileage_km": 30000,
+          "residual_pct": 78.0,
+          "residual_amount": 22737000,
+          "monthly_base_payment": 763740
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 10000,
+          "residual_pct": 74.0,
+          "residual_amount": 21571000,
+          "monthly_base_payment": 531190
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 15000,
+          "residual_pct": 72.5,
+          "residual_amount": 21134000,
+          "monthly_base_payment": 548970
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 20000,
+          "residual_pct": 71.0,
+          "residual_amount": 20697000,
+          "monthly_base_payment": 564640
+        },
+        {
+          "term_months": 24,
+          "annual_mileage_km": 30000,
+          "residual_pct": 68.5,
+          "residual_amount": 19968000,
+          "monthly_base_payment": 594680
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 10000,
+          "residual_pct": 72.0,
+          "residual_amount": 20988000,
+          "monthly_base_payment": 443240
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 15000,
+          "residual_pct": 70.0,
+          "residual_amount": 20405000,
+          "monthly_base_payment": 458610
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 20000,
+          "residual_pct": 68.0,
+          "residual_amount": 19822000,
+          "monthly_base_payment": 471900
+        },
+        {
+          "term_months": 36,
+          "annual_mileage_km": 30000,
+          "residual_pct": 65.0,
+          "residual_amount": 18948000,
+          "monthly_base_payment": 495440
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 65.0,
+          "residual_amount": 18948000,
+          "monthly_base_payment": 421250
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 15000,
+          "residual_pct": 63.0,
+          "residual_amount": 18365000,
+          "monthly_base_payment": 432590
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 20000,
+          "residual_pct": 61.0,
+          "residual_amount": 17782000,
+          "monthly_base_payment": 441920
+        },
+        {
+          "term_months": 48,
+          "annual_mileage_km": 30000,
+          "residual_pct": 57.5,
+          "residual_amount": 16762000,
+          "monthly_base_payment": 462120
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 10000,
+          "residual_pct": 57.0,
+          "residual_amount": 16616000,
+          "monthly_base_payment": 409780
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 15000,
+          "residual_pct": 55.0,
+          "residual_amount": 16033000,
+          "monthly_base_payment": 418730
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 20000,
+          "residual_pct": 53.0,
+          "residual_amount": 15450000,
+          "monthly_base_payment": 425740
+        },
+        {
+          "term_months": 60,
+          "annual_mileage_km": 30000,
+          "residual_pct": 49.0,
+          "residual_amount": 14284000,
+          "monthly_base_payment": 443830
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|기아|K5|2.0 LPi 트렌디",
+      "brand": "기아",
+      "model_name": "더 뉴 K5",
+      "year_code": "26MY",
+      "trim_name": "3세대 2.0 LPG 렌터카 트렌디",
+      "kb_full_trim_name": "[26MY]기아 더 뉴 K5 3세대 2.0 LPG 렌터카 트렌디",
+      "engine_cc": 1999,
+      "drivetrain": "2WD",
+      "fuel_type": "lpg",
+      "base_price": 25070000,
+      "product_code": "5010000003",
+      "category": "sedan_popular",
+      "completeness": "partial",
+      "danawa_match_keywords": {
+        "engine": "LPG 2.0",
+        "trim_keyword": "트렌디",
+        "extra": "렌터카"
+      },
+      "base_quotes": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 47.0,
+          "residual_amount": 11783000,
+          "monthly_base_payment": 494270
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|기아|카니발|3.5 GDI 9인승 프레스티지",
+      "brand": "기아",
+      "model_name": "더 뉴 카니발",
+      "year_code": "26MY",
+      "trim_name": "4세대 G3.5 GDI 9인승 프레스티지",
+      "kb_full_trim_name": "[26MY]기아 더 뉴 카니발 4세대 G3.5 GDI 9인승 프레스티지",
+      "engine_cc": 3470,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 36360000,
+      "product_code": "5010000003",
+      "category": "minivan",
+      "completeness": "partial",
+      "danawa_match_keywords": {
+        "engine": "가솔린 3.5",
+        "trim_keyword": "프레스티지"
+      },
+      "base_quotes": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 65.0,
+          "residual_amount": 23634000,
+          "monthly_base_payment": 546290
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|기아|셀토스|1.6T 트렌디",
+      "brand": "기아",
+      "model_name": "디 올뉴셀토스",
+      "year_code": "26MY",
+      "trim_name": "1.6 가솔린 터보 2WD 트렌디",
+      "kb_full_trim_name": "[26MY]기아 디 올뉴셀토스 1.6 가솔린 터보 2WD 트렌디",
+      "engine_cc": 1598,
+      "drivetrain": "2WD",
+      "fuel_type": "gasoline",
+      "base_price": 25150000,
+      "product_code": "5010000003",
+      "category": "suv_compact",
+      "completeness": "partial",
+      "danawa_match_keywords": {
+        "engine": "가솔린 터보 1.6",
+        "trim_keyword": "트렌디"
+      },
+      "base_quotes": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 65.0,
+          "residual_amount": 16348000,
+          "monthly_base_payment": 387020
+        }
+      ],
+      "collected_at": "2026-05-26"
+    },
+    {
+      "trim_key": "26MY|테슬라|Model 3|RWD 스탠다드",
+      "brand": "테슬라",
+      "model_name": "Model 3",
+      "year_code": "26MY",
+      "trim_name": "RWD 스탠다드",
+      "kb_full_trim_name": "[26MY]테슬라 Model 3 RWD 스탠다드",
+      "engine_cc": 0,
+      "drivetrain": "RWD",
+      "fuel_type": "electric",
+      "base_price": 41990000,
+      "product_code": "5020000002",
+      "category": "ev_imported",
+      "completeness": "partial",
+      "danawa_match_keywords": {
+        "engine": "전기",
+        "trim_keyword": "RWD"
+      },
+      "base_quotes": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 46.0,
+          "residual_amount": 19316000,
+          "monthly_base_payment": 774560
+        }
+      ],
+      "collected_at": "2026-05-26"
+    }
+  ]
+}

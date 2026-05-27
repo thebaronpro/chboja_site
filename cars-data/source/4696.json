@@ -1,0 +1,26 @@
+{
+  "model_id": 4696,
+  "brand": "마세라티",
+  "name": "GT2 Stradale",
+  "img": "https://autoimg.danawa.com/photo/4696/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53646,
+      "name": "가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94526,
+          "trimName": "V6",
+          "price": 450500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

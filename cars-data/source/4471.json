@@ -1,0 +1,1675 @@
+{
+  "model_id": 4471,
+  "brand": "메르세데스-벤츠",
+  "name": "GLE-Class",
+  "img": "https://autoimg.danawa.com/photo/4471/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53605,
+      "name": "가솔린 2.0",
+      "year": "2026년형",
+      "percent": 28,
+      "trims": [
+        {
+          "trimNo": 94361,
+          "trimName": "GLE350 4MATIC",
+          "price": 116600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53607,
+      "name": "가솔린 3.0",
+      "year": "2026년형",
+      "percent": 39,
+      "trims": [
+        {
+          "trimNo": 94364,
+          "trimName": "GLE450 4MATIC",
+          "price": 127600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 미스틱 블루 (032U)",
+              "colorHexadecimal": "111a37",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 아일랜드 그린 (886U)",
+              "colorHexadecimal": "4f6858",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94363,
+          "trimName": "GLE450 4MATIC AMG Line",
+          "price": 137600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 미스틱 블루 (032U)",
+              "colorHexadecimal": "111a37",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 아일랜드 그린 (886U)",
+              "colorHexadecimal": "4f6858",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53606,
+      "name": "디젤 2.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94362,
+          "trimName": "GLE300d 4MATIC",
+          "price": 117800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53609,
+      "name": "쿠페 가솔린 3.0",
+      "year": "2026년형",
+      "percent": 6,
+      "trims": [
+        {
+          "trimNo": 94366,
+          "trimName": "GLE450 4MATIC Coupe AMG Line",
+          "price": 141100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53610,
+      "name": "쿠페 디젤 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94367,
+          "trimName": "GLE450d 4MATIC Coupe AMG Line",
+          "price": 132600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53608,
+      "name": "AMG 가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94365,
+          "trimName": "AMG GLE53 4MATIC+",
+          "price": 164600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 미스틱 블루 (032U)",
+              "colorHexadecimal": "111a37",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 아일랜드 그린 (886U)",
+              "colorHexadecimal": "4f6858",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53611,
+      "name": "AMG 쿠페 가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94368,
+          "trimName": "AMG GLE53 4MATIC+ Coupe",
+          "price": 168600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52552,
+      "name": "가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91001,
+          "trimName": "GLE350 4MATIC",
+          "price": 116600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53220,
+      "name": "가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92637,
+          "trimName": "GLE450 4MATIC",
+          "price": 137600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 미스틱 블루 (032U)",
+              "colorHexadecimal": "111a37",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 아일랜드 그린 (886U)",
+              "colorHexadecimal": "4f6858",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53221,
+      "name": "디젤 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92638,
+          "trimName": "GLE300d 4MATIC",
+          "price": 116600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53222,
+      "name": "쿠페 가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92639,
+          "trimName": "GLE450 4MATIC Coupe",
+          "price": 141100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53242,
+      "name": "쿠페 디젤 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92696,
+          "trimName": "GLE450d 4MATIC Coupe",
+          "price": 141100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53223,
+      "name": "AMG 가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92640,
+          "trimName": "AMG GLE53 4MATIC+",
+          "price": 161100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 미스틱 블루 (032U)",
+              "colorHexadecimal": "111a37",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 아일랜드 그린 (886U)",
+              "colorHexadecimal": "4f6858",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53224,
+      "name": "AMG 쿠페 가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92641,
+          "trimName": "AMG GLE53 4MATIC+ Coupe",
+          "price": 164600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "옵시디안 블랙 (197U)",
+              "colorHexadecimal": "0c0c0c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "소달라이트 블루 (842U)",
+              "colorHexadecimal": "2a2f5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U)",
+              "colorHexadecimal": "b5b8ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "셀레나이트 그레이 (992U)",
+              "colorHexadecimal": "3a393e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 실리콘 그레이 솔리드 (190U)",
+              "colorHexadecimal": "4e5556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 코트다쥐르 라이트 블루 (385U)",
+              "colorHexadecimal": "8395a2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "b7b7b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 알파인 그레이 솔리드 (956U)",
+              "colorHexadecimal": "84838a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

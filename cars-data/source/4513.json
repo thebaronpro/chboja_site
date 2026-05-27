@@ -1,0 +1,501 @@
+{
+  "model_id": 4513,
+  "brand": "폴스타",
+  "name": "Polestar 4",
+  "img": "https://autoimg.danawa.com/photo/4513/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53317,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93088,
+          "trimName": "Long range Single motor (incl. Pilot pack)",
+          "price": 66900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "351939",
+              "name": "Plus pack",
+              "price": 6000000,
+              "code": "A11",
+              "percent": 31,
+              "items": [
+                {
+                  "name": "Harman Kardon 프리미엄 사운드",
+                  "exp": "Harman Kardon 프리미엄 사운드 시스템은 아날로그 신시사이저부터 말소리에 이르는 모든 종류의 음향을 가장 정확하게 구현합니다.<br>\n옵션으로 제공되는 운전석 및 동승석 헤드레스트 스피커는 운전자가 전화 통화를 하거나 내비게이션 기능을 사용해도 다른 승객이 중단 없이 음악을 감상할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28537.jpg"
+                },
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "14.7인치 헤드업 디스플레이는 윈드실드 위에 현재 속도와 교통 정보, 내비게이션 정보, 전화 알림을 표시합니다.<br>\n겨울철 흐린 날씨에 화면 색상을 가독성이 더 좋은 노란색으로 변경해주는 스노우 모드를 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28538.jpg"
+                },
+                {
+                  "name": "Zinc 데코",
+                  "exp": "목재와 금속을 대체하는 장식용 인테리어 패널은 초미세 테크니컬 메시 직물 커버가 적용되어 있습니다. <br>\nPlus 패키지에는 이 혁신적인 맞춤형 데코의 Zinc 컬러 버전이 포함되어 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28539.jpg"
+                },
+                {
+                  "name": "Star knit 일루미네이트 데코",
+                  "exp": "흔히 사용되는 나무와 금속 데코 테마 대신 현대적인 초미세 테크니컬 메쉬 직물을 사용한 소프트 테크 인테리어로, 도어 패널의 데코에 백라이트와 함께 적용되어 우주를 연상시키는 독특한 조명을 연출합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28540.jpg"
+                },
+                {
+                  "name": "픽셀 LED 헤드라이트",
+                  "exp": "유닛당 각각 32개의 개별 제어 픽셀 LED로 구성된 추가 옵션 헤드라이트로 주변의 다른 차량과 조도 환경에 따라 자동으로 밝기를 조절합니다.<br>\n부분 소등 기능은 필요할 때 필요한 영역만 라이트를 꺼 전방 시야를 확보하면서 다른 운전자의 눈부심을 방지합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28541.jpg"
+                },
+                {
+                  "name": "풋센서 장착 자동 테일게이트",
+                  "exp": "범퍼 아래에서 발을 차듯 움직이면 센서에서 이를 인식하여 손을 대지 않고도 테일게이트를 열고 닫을 수 있습니다. <br>\n천장이 낮은 환경에서 짐을 싣거나 내릴 때는 테일게이트가 열리는 각도를 조정할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28542.jpg"
+                },
+                {
+                  "name": "자동 디밍 아웃사이드 미러",
+                  "exp": "오토 디밍 기능은 다른 광원으로 인한 눈부심을 방지하고 미러에 비친 사물 인식과 전반적인 가시성을 개선하는 효과가 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28543.jpg"
+                },
+                {
+                  "name": "뒷좌석 컨트롤 스크린",
+                  "exp": "앞좌석의 전유물이었던 인포테인먼트 시스템. 이제는 뒷좌석 승객도 리어 터치 스크린에서 온도 조절 설정을 변경하고 미디어를 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28544.jpg"
+                },
+                {
+                  "name": "편리한 승하차를 돕는 12-Way 조절식 앞좌석 시트",
+                  "exp": "12가지 설정을 제공하는 앞좌석 전동 시트는 최적화된 착석 자세를 유지할 수 있게 도와줍니다.<br>\n도어를 열면 운전석 시트와 운전대가 자동으로 움직여 승차를 위한 공간을 확보하고, 브레이크 페달을 건드리면 적용 중인 운전자 프로필에 저장된 설정 위치로 돌아갑니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28545.jpg"
+                },
+                {
+                  "name": "전동식 리클라이닝 뒷좌석",
+                  "exp": "Plus 패키지 선택 시 중앙을 제외한 뒷좌석 시트 두 곳에 전동식 시트 등받침이 적용됩니다.<br>\n27도에서 34도로 각도를 조절할 수 있습니다. 각각 자체 조정 컨트롤이 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28546.jpg"
+                },
+                {
+                  "name": "스티어링 휠과 뒷좌석 히터",
+                  "exp": "인체공학 설계가 적용된 스티어링 휠과 좌석에 히터를 추가하여 겨울철에도 가장 편안한 온도를 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28547.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "351940",
+              "name": "Pro pack",
+              "price": 2500000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "21인치 Pro 휠",
+                  "exp": "세련된 공기역학 디자인이 돋보이는 21인치 Pro 알로이 휠은 Polestar 4의 익스테리어와 완벽하게 어울립니다. 휠의 표면은 다이아몬드 커팅 공법과 멀티 레이어 코팅 마감으로 타제품과 구분되는 시그니처 룩을 완성합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28552.jpg"
+                },
+                {
+                  "name": "스웨디시 골드 스트라이프 안전 벨트",
+                  "exp": "새로 디자인된 블랙 컬러 안전 벨트는 Polestar의 골드 스탠다드를 상징하는 스웨디시 골드 액센트가 적용되었습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28553.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "351941",
+              "name": "Charcoal 데코가 적용된 Charcoal 색상의 천공 나파 가죽",
+              "price": 4500000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "351942",
+              "name": "Charcoal 데코가 적용된 Zinc 색상의 천공 나파 가죽",
+              "price": 4500000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "351943",
+              "name": "일렉트로크로믹 글래스 루프",
+              "price": 1500000,
+              "code": "A19",
+              "percent": 22,
+              "items": []
+            },
+            {
+              "seq": "351944",
+              "name": "21인치 Sport 휠",
+              "price": 2000000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "Snow(유료)",
+              "colorHexadecimal": "f5f5f5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Magnesium",
+              "colorHexadecimal": "bfc2c3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Electron",
+              "colorHexadecimal": "8a94a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Storm",
+              "colorHexadecimal": "454d51",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Space",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Charcoal/Charcoal, Bio-attributed MicroTech",
+              "colorHexadecimal": "242424/5d5c60",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Zinc/Charcoal,Bio-attributed MicroTech - Plus 주문시",
+              "colorHexadecimal": "b0b0b0/626266",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "Zinc/Mist,Tailored Knit - Plus 주문시",
+              "colorHexadecimal": "b0b0b0/98a2ae",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "Charcoal/Charcoal,천공 나파 가죽 - Plus 주문시",
+              "colorHexadecimal": "3d3d3d/515153",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "Charcoal/Zinc,천공 나파 가죽 - Plus 주문시",
+              "colorHexadecimal": "3d3d3d/d3d8e2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A17"
+            }
+          ]
+        },
+        {
+          "trimNo": 93089,
+          "trimName": "Long range Dual motor (incl. Pilot pack)",
+          "price": 71900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "351949",
+              "name": "Plus pack",
+              "price": 6000000,
+              "code": "A11",
+              "percent": 30,
+              "items": [
+                {
+                  "name": "Harman Kardon 프리미엄 사운드",
+                  "exp": "Harman Kardon 프리미엄 사운드 시스템은 아날로그 신시사이저부터 말소리에 이르는 모든 종류의 음향을 가장 정확하게 구현합니다.<br>\n옵션으로 제공되는 운전석 및 동승석 헤드레스트 스피커는 운전자가 전화 통화를 하거나 내비게이션 기능을 사용해도 다른 승객이 중단 없이 음악을 감상할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28537.jpg"
+                },
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "14.7인치 헤드업 디스플레이는 윈드실드 위에 현재 속도와 교통 정보, 내비게이션 정보, 전화 알림을 표시합니다.<br>\n겨울철 흐린 날씨에 화면 색상을 가독성이 더 좋은 노란색으로 변경해주는 스노우 모드를 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28538.jpg"
+                },
+                {
+                  "name": "Zinc 데코",
+                  "exp": "목재와 금속을 대체하는 장식용 인테리어 패널은 초미세 테크니컬 메시 직물 커버가 적용되어 있습니다. <br>\nPlus 패키지에는 이 혁신적인 맞춤형 데코의 Zinc 컬러 버전이 포함되어 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28539.jpg"
+                },
+                {
+                  "name": "Star knit 일루미네이트 데코",
+                  "exp": "흔히 사용되는 나무와 금속 데코 테마 대신 현대적인 초미세 테크니컬 메쉬 직물을 사용한 소프트 테크 인테리어로, 도어 패널의 데코에 백라이트와 함께 적용되어 우주를 연상시키는 독특한 조명을 연출합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28540.jpg"
+                },
+                {
+                  "name": "픽셀 LED 헤드라이트",
+                  "exp": "유닛당 각각 32개의 개별 제어 픽셀 LED로 구성된 추가 옵션 헤드라이트로 주변의 다른 차량과 조도 환경에 따라 자동으로 밝기를 조절합니다.<br>\n부분 소등 기능은 필요할 때 필요한 영역만 라이트를 꺼 전방 시야를 확보하면서 다른 운전자의 눈부심을 방지합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28541.jpg"
+                },
+                {
+                  "name": "풋센서 장착 자동 테일게이트",
+                  "exp": "범퍼 아래에서 발을 차듯 움직이면 센서에서 이를 인식하여 손을 대지 않고도 테일게이트를 열고 닫을 수 있습니다. <br>\n천장이 낮은 환경에서 짐을 싣거나 내릴 때는 테일게이트가 열리는 각도를 조정할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28542.jpg"
+                },
+                {
+                  "name": "자동 디밍 아웃사이드 미러",
+                  "exp": "오토 디밍 기능은 다른 광원으로 인한 눈부심을 방지하고 미러에 비친 사물 인식과 전반적인 가시성을 개선하는 효과가 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28543.jpg"
+                },
+                {
+                  "name": "뒷좌석 컨트롤 스크린",
+                  "exp": "앞좌석의 전유물이었던 인포테인먼트 시스템. 이제는 뒷좌석 승객도 리어 터치 스크린에서 온도 조절 설정을 변경하고 미디어를 선택할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28544.jpg"
+                },
+                {
+                  "name": "편리한 승하차를 돕는 12-Way 조절식 앞좌석 시트",
+                  "exp": "12가지 설정을 제공하는 앞좌석 전동 시트는 최적화된 착석 자세를 유지할 수 있게 도와줍니다.<br>\n도어를 열면 운전석 시트와 운전대가 자동으로 움직여 승차를 위한 공간을 확보하고, 브레이크 페달을 건드리면 적용 중인 운전자 프로필에 저장된 설정 위치로 돌아갑니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28545.jpg"
+                },
+                {
+                  "name": "전동식 리클라이닝 뒷좌석",
+                  "exp": "Plus 패키지 선택 시 중앙을 제외한 뒷좌석 시트 두 곳에 전동식 시트 등받침이 적용됩니다.<br>\n27도에서 34도로 각도를 조절할 수 있습니다. 각각 자체 조정 컨트롤이 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28546.jpg"
+                },
+                {
+                  "name": "스티어링 휠과 뒷좌석 히터",
+                  "exp": "인체공학 설계가 적용된 스티어링 휠과 좌석에 히터를 추가하여 겨울철에도 가장 편안한 온도를 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28547.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "351950",
+              "name": "Pro pack",
+              "price": 2500000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "21인치 Pro 휠",
+                  "exp": "세련된 공기역학 디자인이 돋보이는 21인치 Pro 알로이 휠은 Polestar 4의 익스테리어와 완벽하게 어울립니다. 휠의 표면은 다이아몬드 커팅 공법과 멀티 레이어 코팅 마감으로 타제품과 구분되는 시그니처 룩을 완성합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28552.jpg"
+                },
+                {
+                  "name": "스웨디시 골드 스트라이프 안전 벨트",
+                  "exp": "새로 디자인된 블랙 컬러 안전 벨트는 Polestar의 골드 스탠다드를 상징하는 스웨디시 골드 액센트가 적용되었습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28553.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "351951",
+              "name": "Performance pack",
+              "price": 6000000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "22인치 Performance 휠",
+                  "exp": "22인치 Performance 휠은 주조가 아닌 단조 방식의 모터스포츠용 기술을 적용하여 최적화된 강도와 무게로 제작되었습니다. 전용 개발된 Pirelli P Zero 타이어와 함께 개선된 핸들링과 노면 접지력을 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28554.jpg"
+                },
+                {
+                  "name": "Polestar Engineered 섀시 튜닝",
+                  "exp": "Performance 패키지에 포함된 전용 튜닝 섀시는 언제나 최고의 컨트롤을 제공합니다. ZF 전자 가변식 코일 스프링 서스펜션 액티브 댐퍼는 22인치 단조 알로이 휠과 완벽한 조화를 이루며 핸들링 경험을 극대화하고 수준 높은 퍼포먼스를 구현합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28555.jpg"
+                },
+                {
+                  "name": "Brembo 브레이크",
+                  "exp": "역대 모델 중 가장 빠른 Polestar. 모터스포츠의 아이콘인 Brembo의 브레이크로 가속만큼 신속하게 제동합니다. 벤틸레이티드 디스크와 4-피스톤 알루미늄 캘리퍼는 온도 변화에 영향을 받지 않는 신속한 응답성을 제공하며, 가볍고 마모와 더스트가 적게 발생합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28556.jpg"
+                },
+                {
+                  "name": "스웨디시 골드 액센트",
+                  "exp": "이전의 다른 모델과 마찬가지로 Polestar 4에서도 브레이크 캘리퍼와 밸브 캡, 안전 벨트에 북유럽 정체성을 표현한 스웨디시 골드 액센트를 적용했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4513/items/28557.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "351952",
+              "name": "Charcoal 데코가 적용된 Charcoal 색상의 천공 나파 가죽",
+              "price": 4500000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "351953",
+              "name": "Charcoal 데코가 적용된 Zinc 색상의 천공 나파 가죽",
+              "price": 4500000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "351954",
+              "name": "일렉트로크로믹 글래스 루프",
+              "price": 1500000,
+              "code": "A19",
+              "percent": 18,
+              "items": []
+            },
+            {
+              "seq": "351955",
+              "name": "21인치 Sport 휠",
+              "price": 2000000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "Snow(유료)",
+              "colorHexadecimal": "f5f5f5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Magnesium",
+              "colorHexadecimal": "bfc2c3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Electron",
+              "colorHexadecimal": "8a94a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Storm",
+              "colorHexadecimal": "454d51",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Space",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Charcoal/Charcoal, Bio-attributed MicroTech",
+              "colorHexadecimal": "242424/5d5c60",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Zinc/Charcoal,Bio-attributed MicroTech - Plus 주문시",
+              "colorHexadecimal": "b0b0b0/626266",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "Zinc/Mist,Tailored Knit - Plus 주문시",
+              "colorHexadecimal": "b0b0b0/98a2ae",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "Charcoal/Charcoal,천공 나파 가죽 - Plus 주문시",
+              "colorHexadecimal": "3d3d3d/515153",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "Charcoal/Zinc,천공 나파 가죽 - Plus 주문시",
+              "colorHexadecimal": "3d3d3d/d3d8e2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A17"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

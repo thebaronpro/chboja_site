@@ -1,0 +1,452 @@
+{
+  "model_id": 4429,
+  "brand": "쉐보레",
+  "name": "트랙스 크로스오버",
+  "img": "https://autoimg.danawa.com/photo/4429/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53333,
+      "name": "가솔린 터보 1.2",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93222,
+          "trimName": "LS",
+          "price": 21550000,
+          "transmission": "",
+          "percent": 39,
+          "options": [
+            {
+              "seq": "352543",
+              "name": "어댑티브 크루즈 컨트롤",
+              "price": 440000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "모던 블랙(GB0)",
+              "colorHexadecimal": "231f20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨어 화이트(GAZ)",
+              "colorHexadecimal": "ecebf0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스털링 그레이(GZB)",
+              "colorHexadecimal": "69676a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙+그레이 직물 시트",
+              "colorHexadecimal": "1a1d22/808696",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93223,
+          "trimName": "레드라인",
+          "price": 25650000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "352544",
+              "name": "어댑티브 크루즈 컨트롤",
+              "price": 440000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352545",
+              "name": "11인치 디스플레이 패키지",
+              "price": 690000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "8인치 컬러 클러스터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/24251.jpg"
+                },
+                {
+                  "name": "11인치 컬러 터치 스크린",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "6 스피커",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/24262.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "모던 블랙(GB0)",
+              "colorHexadecimal": "231f20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨어 화이트(GAZ)",
+              "colorHexadecimal": "ecebf0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스털링 그레이(GZB)",
+              "colorHexadecimal": "69676a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "젯 블랙+레드 포인트 쿨 그레이 인조가죽 시트",
+              "colorHexadecimal": "201e09/8d8e90",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93224,
+          "trimName": "액티브",
+          "price": 27930000,
+          "transmission": "",
+          "percent": 35,
+          "options": [
+            {
+              "seq": "352546",
+              "name": "테크놀로지 패키지",
+              "price": 790000,
+              "code": "A12",
+              "percent": 86,
+              "items": [
+                {
+                  "name": "어댑티브 크루즈 컨트롤",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "파워 리프트게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/24172.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "352548",
+              "name": "선루프",
+              "price": 690000,
+              "code": "A14",
+              "percent": 13,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "모던 블랙(GB0)",
+              "colorHexadecimal": "231f20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨어 화이트(GAZ)",
+              "colorHexadecimal": "ecebf0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스털링 그레이(GZB)",
+              "colorHexadecimal": "69676a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "피스타치오 카키(GVR)",
+              "colorHexadecimal": "97a999",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "모카치노 베이지(G42)",
+              "colorHexadecimal": "a5a29b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "젯 블랙+아르테미스 포인트 인조가죽 시트",
+              "colorHexadecimal": "201e09/4a4b45",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "젯 블랙+옐로우 포인트 인조가죽 시트",
+              "colorHexadecimal": "201e09/d5cf40",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93225,
+          "trimName": "RS",
+          "price": 28510000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362642",
+              "name": "이그나이트 에디션(지엠 순정 액세서리 적용)",
+              "price": 350000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "카본룩 프론트 스키드 플레이트 인서트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/30220.jpg"
+                },
+                {
+                  "name": "카본룩 아웃사이드 미러 커버",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/30221.jpg"
+                },
+                {
+                  "name": "리어 레드 LED 블랙 보타이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/30222.jpg"
+                },
+                {
+                  "name": "올웨더 카고 라이너",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/30223.jpg"
+                },
+                {
+                  "name": "올웨더 플로어 라이너 (1열 &amp; 2열)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/30224.jpg"
+                },
+                {
+                  "name": "스포츠 페달 커버",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/30225.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "352549",
+              "name": "테크놀로지 패키지",
+              "price": 790000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "어댑티브 크루즈 컨트롤",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "파워 리프트게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4429/items/24172.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "352550",
+              "name": "선루프",
+              "price": 690000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "모던 블랙(GB0)",
+              "colorHexadecimal": "231f20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨어 화이트(GAZ)",
+              "colorHexadecimal": "ecebf0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스털링 그레이(GZB)",
+              "colorHexadecimal": "69676a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "모카치노 베이지(G42)",
+              "colorHexadecimal": "a5a29b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "칠리페퍼 레드(GAS)",
+              "colorHexadecimal": "731315",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "젯 블랙+레드 포인트 인조가죽 시트",
+              "colorHexadecimal": "201e09/951812",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93226,
+          "trimName": "RS 미드나잇 에디션",
+          "price": 29300000,
+          "transmission": "",
+          "percent": 11,
+          "options": [
+            {
+              "seq": "352551",
+              "name": "선루프",
+              "price": 690000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "모던 블랙(GB0)",
+              "colorHexadecimal": "231f20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "젯 블랙+레드 포인트 인조가죽 시트",
+              "colorHexadecimal": "201e09/951812",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

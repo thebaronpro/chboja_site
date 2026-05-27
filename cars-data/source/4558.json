@@ -1,0 +1,438 @@
+{
+  "model_id": 4558,
+  "brand": "현대",
+  "name": "아이오닉 5 N",
+  "img": "https://autoimg.danawa.com/photo/4558/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53432,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93780,
+          "trimName": "AWD 에센셜",
+          "price": 77690000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358042",
+              "name": "컴포트 플러스",
+              "price": 580000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26591.jpg"
+                },
+                {
+                  "name": "2열 수동식 도어 커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26592.jpg"
+                },
+                {
+                  "name": " 어드밴스드 후석 승객 알림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26593.jpg"
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26594.jpg"
+                },
+                {
+                  "name": "2열 리모트 폴딩",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/29951.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358043",
+              "name": "[N퍼포먼스] 알칸타라 인테리어 패키지",
+              "price": 540000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "알칸타라 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26600.jpg"
+                },
+                {
+                  "name": "알칸타라 도어 암레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26601.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358044",
+              "name": "파킹 어시스트 Lite",
+              "price": 890000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 서라운드 뷰 모니터는 안전한 주차를 위해 차량 주변 상황을 다양한 시점의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26595.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26596.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26597.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26598.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루 매트(XGE)",
+              "colorHexadecimal": "5586af",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "그래비티 골드 매트(W3T)",
+              "colorHexadecimal": "9f9c97",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e1e4ed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루(SFB)",
+              "colorHexadecimal": "5586af",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "505457",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "a4a09d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0a0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "소울트로닉 오렌지 펄(SOP)",
+              "colorHexadecimal": "982c22",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "0a0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93779,
+          "trimName": "AWD",
+          "price": 80290000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358050",
+              "name": "컴포트 플러스",
+              "price": 580000,
+              "code": "A11",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26591.jpg"
+                },
+                {
+                  "name": "2열 수동식 도어 커튼",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26592.jpg"
+                },
+                {
+                  "name": " 어드밴스드 후석 승객 알림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26593.jpg"
+                },
+                {
+                  "name": "러기지 스크린",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26594.jpg"
+                },
+                {
+                  "name": "2열 리모트 폴딩",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/29951.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358051",
+              "name": "[N퍼포먼스] 알칸타라 인테리어 패키지",
+              "price": 540000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "알칸타라 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26600.jpg"
+                },
+                {
+                  "name": "알칸타라 도어 암레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26601.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358052",
+              "name": " 파킹 어시스트",
+              "price": 1660000,
+              "code": "A12",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 서라운드 뷰 모니터는 안전한 주차를 위해 차량 주변 상황을 다양한 시점의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26595.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26596.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26597.jpg"
+                },
+                {
+                  "name": "전방/측방/후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26598.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2",
+                  "exp": "- 운전자가 하차한 상태에서 스마트 키를 사용하여 주차 및 출차를 할 수 있도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26599.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358053",
+              "name": "빌트인 캠 2 + 증강현실 내비게이션",
+              "price": 440000,
+              "code": "A13",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26627.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "- 주행 화면 위에 목적지, 차간 거리, 전방 차량 출발 알림 등 운전에 필요한 각종 정보들을 증강현실 기술을 통해 직관적으로 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26613.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358054",
+              "name": "디지털 센터 미러",
+              "price": 490000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "- 디지털 센터 미러 전용 카메라를 통해 보다 선명하게 후방을 확인할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26614.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358055",
+              "name": "비전루프",
+              "price": 730000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "비전루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4558/items/26625.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루 매트(XGE)",
+              "colorHexadecimal": "5586af",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "그래비티 골드 매트(W3T)",
+              "colorHexadecimal": "9f9c97",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e1e4ed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루(SFB)",
+              "colorHexadecimal": "5586af",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "505457",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "a4a09d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0a0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "소울트로닉 오렌지 펄(SOP)",
+              "colorHexadecimal": "982c22",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "0a0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

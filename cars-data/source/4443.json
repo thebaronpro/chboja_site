@@ -1,0 +1,36 @@
+{
+  "model_id": 4443,
+  "brand": "롤스로이스",
+  "name": "Phantom Series II",
+  "img": "https://autoimg.danawa.com/photo/4443/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 50230,
+      "name": "가솔린 6.8",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 81277,
+          "trimName": "Standard Wheel Base",
+          "price": 712000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 81278,
+          "trimName": "Extended Wheel Base",
+          "price": 826000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

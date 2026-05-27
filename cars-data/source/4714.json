@@ -1,0 +1,2147 @@
+{
+  "model_id": 4714,
+  "brand": "기아",
+  "name": "PV5",
+  "img": "https://autoimg.danawa.com/photo/4714/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53291,
+      "name": "전기 패신저 5인승",
+      "year": "2026년형",
+      "percent": 16,
+      "trims": [
+        {
+          "trimNo": 92897,
+          "trimName": "베이직",
+          "price": 45400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350712",
+              "name": "컨비니언스",
+              "price": 990000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "슬라이딩 도어 플러쉬 글라스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350713",
+              "name": "파워도어",
+              "price": 1180000,
+              "code": "A12",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350714",
+              "name": "스마트 커넥트",
+              "price": 540000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350715",
+              "name": "드라이브 와이즈",
+              "price": 540000,
+              "code": "A15",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350716",
+              "name": "모니터링",
+              "price": 790000,
+              "code": "A16",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350717",
+              "name": "유틸리티",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350718",
+              "name": "[KGA] 아웃도어 팩",
+              "price": 1080000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 애드기어(적용부위-러기지사이드)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 평탄화 데크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 테일게이트 램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙펄(ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "5f7381",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린(CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "네이비+그레이",
+              "colorHexadecimal": "25282c/777575",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92898,
+          "trimName": "플러스",
+          "price": 48200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350720",
+              "name": "파워도어",
+              "price": 790000,
+              "code": "A13",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350721",
+              "name": "스마트 커넥트",
+              "price": 540000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350722",
+              "name": "드라이브 와이즈",
+              "price": 540000,
+              "code": "A15",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350723",
+              "name": "모니터링",
+              "price": 790000,
+              "code": "A16",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350725",
+              "name": "[KGA] 아웃도어 팩",
+              "price": 1080000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 애드기어(적용부위-러기지사이드)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 평탄화 데크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 테일게이트 램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 1,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙펄(ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "5f7381",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린(CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "소프트 민트(SML)",
+              "colorHexadecimal": "767d7f",
+              "rank": 2,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "레이크하우스 그레이(LHG)",
+              "colorHexadecimal": "252c31",
+              "rank": 3,
+              "percent": 10,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 2,
+              "percent": 13,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "네이비+그레이",
+              "colorHexadecimal": "25282c/777575",
+              "rank": 3,
+              "percent": 8,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "4e4641",
+              "rank": 1,
+              "percent": 79,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53650,
+      "name": "전기 패신저 도너모델",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94543,
+          "trimName": "플러스",
+          "price": 49900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361422",
+              "name": "6스피커 출력 장치 (※ 옵션 미선택 시 6스피커 출력장치 미제공)",
+              "price": 200000,
+              "code": "A10",
+              "percent": 68,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "edeeed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이(KLM)",
+              "colorHexadecimal": "737477",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙펄(ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시티스케이프 그린(CGE)",
+              "colorHexadecimal": "404f4c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "소프트 민트(SML)",
+              "colorHexadecimal": "767d7f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "레이크하우스 그레이(LHG)",
+              "colorHexadecimal": "252c31",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "4e4641",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53292,
+      "name": "전기 카고 롱",
+      "year": "2026년형",
+      "percent": 79,
+      "trims": [
+        {
+          "trimNo": 92899,
+          "trimName": "베이직 스탠다드",
+          "price": 42000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350738",
+              "name": "컨비니언스",
+              "price": 1040000,
+              "code": "A11",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "좌측 매뉴얼 슬라이딩 도어(4도어)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인조가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2스피커(트위터)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350739",
+              "name": "스마트 커넥트",
+              "price": 520000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350740",
+              "name": "드라이브 와이즈",
+              "price": 520000,
+              "code": "A15",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350741",
+              "name": "모니터링",
+              "price": 710000,
+              "code": "A16",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350742",
+              "name": "유틸리티",
+              "price": 380000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙펄(ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92900,
+          "trimName": "베이직 롱레인지",
+          "price": 44700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350747",
+              "name": "컨비니언스",
+              "price": 1040000,
+              "code": "A11",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "좌측 매뉴얼 슬라이딩 도어(4도어)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인조가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2스피커(트위터)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350748",
+              "name": "스마트 커넥트",
+              "price": 520000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350749",
+              "name": "드라이브 와이즈",
+              "price": 520000,
+              "code": "A15",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350750",
+              "name": "모니터링",
+              "price": 710000,
+              "code": "A16",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350751",
+              "name": "유틸리티",
+              "price": 380000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 1,
+              "percent": 61,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 2,
+              "percent": 29,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙펄(ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 3,
+              "percent": 11,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53652,
+      "name": "전기 WAV",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94545,
+          "trimName": "베이직",
+          "price": 51100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361432",
+              "name": "컨비니언스 I",
+              "price": 1130000,
+              "code": "A11",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "인조가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "슬라이딩 도어 플러쉬 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "4스피커(트위터,뒷좌석 사이드트림 스피커)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 대화 모드",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361433",
+              "name": "컨비니언스 II",
+              "price": 390000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361434",
+              "name": "파워도어 I",
+              "price": 790000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "우측 스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361435",
+              "name": "파워도어 II",
+              "price": 390000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "좌측 스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361436",
+              "name": "스마트 커넥트",
+              "price": 540000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361437",
+              "name": "드라이브 와이즈",
+              "price": 540000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361438",
+              "name": "모니터링",
+              "price": 790000,
+              "code": "A16",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361439",
+              "name": "유틸리티",
+              "price": 390000,
+              "code": "A17",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53651,
+      "name": "전기 오픈베드",
+      "year": "2026년형",
+      "percent": 3,
+      "trims": [
+        {
+          "trimNo": 94547,
+          "trimName": "베이직 스탠다드",
+          "price": 43450000,
+          "transmission": "",
+          "percent": 7,
+          "options": [
+            {
+              "seq": "361423",
+              "name": "컨비니언스",
+              "price": 800000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 전동식 허리 지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361424",
+              "name": "스마트 커넥트",
+              "price": 450000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361425",
+              "name": "드라이브 와이즈",
+              "price": 520000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361426",
+              "name": "유틸리티",
+              "price": 380000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94548,
+          "trimName": "베이직 롱레인지",
+          "price": 46150000,
+          "transmission": "",
+          "percent": 20,
+          "options": [
+            {
+              "seq": "361427",
+              "name": "컨비니언스",
+              "price": 800000,
+              "code": "A11",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 전동식 허리 지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361428",
+              "name": "스마트 커넥트",
+              "price": 450000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361429",
+              "name": "드라이브 와이즈",
+              "price": 520000,
+              "code": "A15",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361430",
+              "name": "유틸리티",
+              "price": 380000,
+              "code": "A17",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94549,
+          "trimName": "플러스 스탠다드",
+          "price": 46950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94550,
+          "trimName": "플러스 롱레인지",
+          "price": 49650000,
+          "transmission": "",
+          "percent": 71,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53295,
+      "name": "전기 패신저 5인승 (택시)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92917,
+          "trimName": "택시 베이직",
+          "price": 45400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350893",
+              "name": "컨비니언스 I",
+              "price": 1090000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 플러쉬 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "4스피커(트위터, 2열 도어 스피커)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350894",
+              "name": "컨비니언스 II",
+              "price": 380000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350895",
+              "name": "파워도어 I",
+              "price": 760000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "우측 스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350896",
+              "name": "파워도어 II",
+              "price": 380000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "좌측 스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350897",
+              "name": "드라이브 와이즈",
+              "price": 520000,
+              "code": "A15",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350898",
+              "name": "모니터링",
+              "price": 760000,
+              "code": "A16",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350899",
+              "name": "유틸리티",
+              "price": 380000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "357967",
+              "name": "올인원 디스플레이 2",
+              "price": 370000,
+              "code": "A18",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "티머니모빌리티/이동의 즐거움 미터기앱",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카카오T 택시 기사용 앱",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카카오내비",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53653,
+      "name": "전기 WAV (택시)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94551,
+          "trimName": "베이직",
+          "price": 51100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361442",
+              "name": "컨비니언스 I",
+              "price": 1090000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 플러쉬 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "4스피커(트위터,뒷좌석 사이드트림 스피커)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 대화 모드",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361443",
+              "name": "컨비니언스 II",
+              "price": 380000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361444",
+              "name": "파워도어 I",
+              "price": 760000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "우측 스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361445",
+              "name": "파워도어 II",
+              "price": 380000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "좌측 스마트 파워 슬라이딩 도어",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361446",
+              "name": "드라이브 와이즈",
+              "price": 520000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361447",
+              "name": "모니터링",
+              "price": 760000,
+              "code": "A16",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361451",
+              "name": "유틸리티",
+              "price": 380000,
+              "code": "A17",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361450",
+              "name": "올인원 디스플레이 2",
+              "price": 370000,
+              "code": "A20",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "티머니모빌리티/이동의 즐거움 미터기앱",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카카오T 택시 기사용 앱",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카카오내비",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스틸 그레이(KLG)",
+              "colorHexadecimal": "7b7a7e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "네이비",
+              "colorHexadecimal": "25282c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

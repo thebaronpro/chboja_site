@@ -1,0 +1,78 @@
+{
+  "model_id": 4750,
+  "brand": "볼보",
+  "name": "EX30 CC",
+  "img": "https://autoimg.danawa.com/photo/4750/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53699,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94741,
+          "trimName": "Twin Motor Performance Ultra",
+          "price": 48120000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클라우드 블루",
+              "colorHexadecimal": "c8d4e1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "크리스탈 화이트",
+              "colorHexadecimal": "f2f2f2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오닉스 블랙",
+              "colorHexadecimal": "2d2926",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "베이퍼 그레이",
+              "colorHexadecimal": "7b8082",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "파인",
+              "colorHexadecimal": "677552",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

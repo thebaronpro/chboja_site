@@ -1,0 +1,54 @@
+{
+  "model_id": 4171,
+  "brand": "BMW",
+  "name": "8 Series",
+  "img": "https://autoimg.danawa.com/photo/4171/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53551,
+      "name": "쿠페 가솔린 4.4",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94053,
+          "trimName": "M850i xDrive Coupe M Performance",
+          "price": 150700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53515,
+      "name": "그란쿠페 가솔린 4.4",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94825,
+          "trimName": "M850i xDrive Gran Coupe M Performance (P1-1)",
+          "price": 146700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93991,
+          "trimName": "M850i xDrive Gran Coupe Individual Dark Emerald ED",
+          "price": 162300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

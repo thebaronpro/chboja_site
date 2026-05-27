@@ -21,3 +21,10 @@ node_modules/
 # Python cache
 __pycache__/
 *.pyc
+
+# 백업 파일
+*.bak
+*.bak.*
+
+# Claude tool 임시 응답 캐시 (루트로 누적되는 임시 HTML/JS 캡처)
+UsersuserAppDataLocalTemp*

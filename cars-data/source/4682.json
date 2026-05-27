@@ -1,0 +1,36 @@
+{
+  "model_id": 4682,
+  "brand": "롤스로이스",
+  "name": "Cullinan Series2",
+  "img": "https://autoimg.danawa.com/photo/4682/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52065,
+      "name": "가솔린 6.75",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 88891,
+          "trimName": "V12",
+          "price": 577000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 88892,
+          "trimName": "V12 Black Badge",
+          "price": 670000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

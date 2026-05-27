@@ -1,0 +1,46 @@
+{
+  "model_id": 4572,
+  "brand": "미니",
+  "name": "Countryman Electric",
+  "img": "https://autoimg.danawa.com/photo/4572/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53112,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92371,
+          "trimName": "E Classic",
+          "price": 56700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92372,
+          "trimName": "SE All4 Favoured",
+          "price": 63100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92373,
+          "trimName": "SE All4 JCW",
+          "price": 66100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

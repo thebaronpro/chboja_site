@@ -1,0 +1,26 @@
+{
+  "model_id": 4505,
+  "brand": "람보르기니",
+  "name": "Revuelto",
+  "img": "https://autoimg.danawa.com/photo/4505/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 50394,
+      "name": "가솔린 6.5 플러그인 하이브리드",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 82100,
+          "trimName": "V12",
+          "price": 780000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

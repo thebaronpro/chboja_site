@@ -1,0 +1,104 @@
+{
+  "model_id": 4574,
+  "brand": "로터스",
+  "name": "Emeya",
+  "img": "https://autoimg.danawa.com/photo/4574/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52831,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91616,
+          "trimName": "600",
+          "price": 144900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91617,
+          "trimName": "600 GT SE",
+          "price": 153900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93333,
+          "trimName": "600 Sport SE",
+          "price": 173900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91618,
+          "trimName": "900 Sport",
+          "price": 201900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93334,
+          "trimName": "900 Sport Carbon",
+          "price": 222900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52104,
+      "name": "전기",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 89016,
+          "trimName": "Emeya BASE",
+          "price": 148000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 89017,
+          "trimName": "Emeya S",
+          "price": 169900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 89018,
+          "trimName": "Emeya R",
+          "price": 199900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

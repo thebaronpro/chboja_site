@@ -1,0 +1,3109 @@
+{
+  "model_id": 4641,
+  "brand": "기아",
+  "name": "EV6",
+  "img": "https://autoimg.danawa.com/photo/4641/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53639,
+      "name": "전기 (롱레인지)",
+      "year": "2026년형",
+      "percent": 73,
+      "trims": [
+        {
+          "trimNo": 94509,
+          "trimName": "라이트 2WD",
+          "price": 47610000,
+          "transmission": "",
+          "percent": 20,
+          "options": [
+            {
+              "seq": "361043",
+              "name": "스마트 파워테일게이트",
+              "price": 390000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361044",
+              "name": "드라이브 와이즈",
+              "price": 1080000,
+              "code": "A11",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361045",
+              "name": "컨비니언스 I",
+              "price": 490000,
+              "code": "A14",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361046",
+              "name": "컨비니언스 II",
+              "price": 890000,
+              "code": "A26",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "운전석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361047",
+              "name": "20인치 휠+타이어",
+              "price": 390000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "255/45 R20 컨티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 3,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 1,
+              "percent": 71,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 2,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94510,
+          "trimName": "라이트 4WD",
+          "price": 49950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361052",
+              "name": "스마트 파워테일게이트",
+              "price": 390000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361053",
+              "name": "드라이브 와이즈",
+              "price": 1080000,
+              "code": "A11",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361054",
+              "name": "컨비니언스 I",
+              "price": 490000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361055",
+              "name": "컨비니언스 II",
+              "price": 890000,
+              "code": "A26",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "운전석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361056",
+              "name": "20인치 휠+타이어",
+              "price": 390000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "255/45 R20 컨티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94511,
+          "trimName": "에어 2WD",
+          "price": 52390000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361061",
+              "name": "드라이브 와이즈",
+              "price": 640000,
+              "code": "A12",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361062",
+              "name": "컴포트",
+              "price": 1020000,
+              "code": "A13",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 릴렉션 컴포트시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 워크인 디바이스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전동식 틸트&amp;텔레스코픽 스티어링 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자세 메모리 시스템(운전석 시트, 스티어링 휠, 아웃사이드 미러)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진연동 자동하향 아웃사이드 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석/2열 세이프티 파워윈도우",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361063",
+              "name": "하이테크",
+              "price": 680000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361064",
+              "name": "프리미엄",
+              "price": 1020000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "순차점등 턴시그널램프(프론트/리어)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙하이그로시(프론트/리어 범퍼 하단부, 휠아치 몰딩, 사이드 가니쉬)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지오닉 3D 패턴 원단 감싸기(크래쉬패드 상단, 콘솔암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "패드 프린트 내장재(콘솔 어퍼커버, 도어트림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "센터 콘솔 터치 스위치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지능형 헤드램프(IFS)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361065",
+              "name": "모니터링",
+              "price": 780000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361066",
+              "name": "빌트인 캠 2",
+              "price": 440000,
+              "code": "A20",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361067",
+              "name": "스마트 커넥트",
+              "price": 640000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지문 인증 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361068",
+              "name": "20인치 휠+타이어",
+              "price": 390000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "255/45 R20 컨티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94512,
+          "trimName": "에어 4WD",
+          "price": 54750000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361073",
+              "name": "드라이브 와이즈",
+              "price": 640000,
+              "code": "A12",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361074",
+              "name": "컴포트",
+              "price": 1020000,
+              "code": "A13",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 릴렉션 컴포트시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 워크인 디바이스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전동식 틸트&amp;텔레스코픽 스티어링 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자세 메모리 시스템(운전석 시트, 스티어링 휠, 아웃사이드 미러)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진연동 자동하향 아웃사이드 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석/2열 세이프티 파워윈도우",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361075",
+              "name": "하이테크",
+              "price": 680000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361076",
+              "name": "프리미엄",
+              "price": 1020000,
+              "code": "A16",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "순차점등 턴시그널램프(프론트/리어)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙하이그로시(프론트/리어 범퍼 하단부, 휠아치 몰딩, 사이드 가니쉬)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지오닉 3D 패턴 원단 감싸기(크래쉬패드 상단, 콘솔암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "패드 프린트 내장재(콘솔 어퍼커버, 도어트림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "센터 콘솔 터치 스위치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지능형 헤드램프(IFS)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361077",
+              "name": "모니터링",
+              "price": 780000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361078",
+              "name": "빌트인 캠 2",
+              "price": 440000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361079",
+              "name": "스마트 커넥트",
+              "price": 640000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지문 인증 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361080",
+              "name": "20인치 휠+타이어",
+              "price": 390000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "255/45 R20 컨티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94513,
+          "trimName": "어스 2WD",
+          "price": 56400000,
+          "transmission": "",
+          "percent": 42,
+          "options": [
+            {
+              "seq": "361085",
+              "name": "드라이브 와이즈",
+              "price": 640000,
+              "code": "A12",
+              "percent": 30,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361086",
+              "name": "메리디안 프리미엄 사운드",
+              "price": 980000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "메리디안 프리미엄 사운드(14스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "액티브 사운드 디자인(e-ASD)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361087",
+              "name": "와이드 선루프",
+              "price": 630000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "와이드 선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361088",
+              "name": "빌트인 캠 2",
+              "price": 440000,
+              "code": "A20",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361089",
+              "name": "스마트 커넥트",
+              "price": 690000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지문 인증 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361090",
+              "name": "20인치 휠+타이어",
+              "price": 390000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "255/45 R20 컨티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 1,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 2,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 2,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 3,
+              "percent": 13,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "토피 브라운",
+              "colorHexadecimal": "8c6e60",
+              "rank": 1,
+              "percent": 67,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "그린+라이트 그레이",
+              "colorHexadecimal": "556463/b9beb9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94514,
+          "trimName": "어스 4WD",
+          "price": 58750000,
+          "transmission": "",
+          "percent": 13,
+          "options": [
+            {
+              "seq": "361095",
+              "name": "드라이브 와이즈",
+              "price": 640000,
+              "code": "A12",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361096",
+              "name": "메리디안 프리미엄 사운드",
+              "price": 980000,
+              "code": "A18",
+              "percent": 13,
+              "items": [
+                {
+                  "name": "메리디안 프리미엄 사운드(14스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "액티브 사운드 디자인(e-ASD)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361097",
+              "name": "와이드 선루프",
+              "price": 630000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "와이드 선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361098",
+              "name": "빌트인 캠 2",
+              "price": 440000,
+              "code": "A20",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361099",
+              "name": "스마트 커넥트",
+              "price": 690000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지문 인증 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361100",
+              "name": "20인치 휠+타이어",
+              "price": 390000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "255/45 R20 컨티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 3,
+              "percent": 22,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "토피 브라운",
+              "colorHexadecimal": "8c6e60",
+              "rank": 1,
+              "percent": 44,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "그린+라이트 그레이",
+              "colorHexadecimal": "556463/b9beb9",
+              "rank": 2,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94515,
+          "trimName": "GT-Line 2WD",
+          "price": 57000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361104",
+              "name": "드라이브 와이즈",
+              "price": 640000,
+              "code": "A12",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361105",
+              "name": "메리디안 프리미엄 사운드",
+              "price": 980000,
+              "code": "A18",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "메리디안 프리미엄 사운드(14스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "액티브 사운드 디자인(e-ASD)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361106",
+              "name": "와이드 선루프",
+              "price": 630000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "와이드 선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361107",
+              "name": "빌트인 캠 2",
+              "price": 440000,
+              "code": "A20",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361108",
+              "name": "스마트 커넥트",
+              "price": 690000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지문 인증 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361109",
+              "name": "20인치 휠+타이어",
+              "price": 390000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "255/45 R20 컨티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361110",
+              "name": "스웨이드 컬렉션",
+              "price": 440000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙 스웨이드 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "도어 센터트림 스웨이드감싸기",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "GT-line 전용 스웨이드시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울프 그레이 (C7S)",
+              "colorHexadecimal": "75797f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "요트 매트 블루 (DUM)",
+              "colorHexadecimal": "313965",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "블랙+화이트",
+              "colorHexadecimal": "03050a/bac3c3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94516,
+          "trimName": "GT-Line 4WD",
+          "price": 59340000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361114",
+              "name": "드라이브 와이즈",
+              "price": 640000,
+              "code": "A12",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361115",
+              "name": "메리디안 프리미엄 사운드",
+              "price": 980000,
+              "code": "A18",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "메리디안 프리미엄 사운드(14스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "액티브 사운드 디자인(e-ASD)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361116",
+              "name": "와이드 선루프",
+              "price": 630000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "와이드 선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361117",
+              "name": "빌트인 캠 2",
+              "price": 440000,
+              "code": "A20",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361118",
+              "name": "스마트 커넥트",
+              "price": 690000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지문 인증 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 승객 알림(센서 타입)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361119",
+              "name": "20인치 휠+타이어",
+              "price": 390000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "255/45 R20 컨티넨탈 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361120",
+              "name": "스웨이드 컬렉션",
+              "price": 440000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙 스웨이드 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "도어 센터트림 스웨이드감싸기",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "GT-line 전용 스웨이드시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 1,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 2,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울프 그레이 (C7S)",
+              "colorHexadecimal": "75797f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "요트 매트 블루 (DUM)",
+              "colorHexadecimal": "313965",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "블랙+화이트",
+              "colorHexadecimal": "03050a/bac3c3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53640,
+      "name": "전기 (스탠다드)",
+      "year": "2026년형",
+      "percent": 11,
+      "trims": [
+        {
+          "trimNo": 94517,
+          "trimName": "라이트 2WD",
+          "price": 43600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361147",
+              "name": "스마트 파워테일게이트",
+              "price": 390000,
+              "code": "A27",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361148",
+              "name": "드라이브 와이즈",
+              "price": 1080000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361149",
+              "name": "컨비니언스 I",
+              "price": 490000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템(e hi-pass 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361150",
+              "name": "컨비니언스 II",
+              "price": 890000,
+              "code": "A26",
+              "percent": 32,
+              "items": [
+                {
+                  "name": "운전석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94518,
+          "trimName": "에어 2WD",
+          "price": 48400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361155",
+              "name": "드라이브 와이즈",
+              "price": 640000,
+              "code": "A12",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361156",
+              "name": "컴포트",
+              "price": 1020000,
+              "code": "A13",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 릴렉션 컴포트시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 워크인 디바이스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전동식 틸트&amp;텔레스코픽 스티어링 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자세 메모리 시스템(운전석 시트, 스티어링 휠, 아웃사이드 미러)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진연동 자동하향 아웃사이드 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석/2열 세이프티 파워윈도우",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361157",
+              "name": "하이테크",
+              "price": 680000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361158",
+              "name": "프리미엄",
+              "price": 1020000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "순차점등 턴시그널램프(프론트/리어)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙하이그로시(프론트/리어 범퍼 하단부, 휠아치 몰딩, 사이드 가니쉬)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지오닉 3D 패턴 원단 감싸기(크래쉬패드 상단, 콘솔암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "패드 프린트 내장재(콘솔 어퍼커버, 도어트림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "센터 콘솔 터치 스위치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지능형 헤드램프(IFS)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361159",
+              "name": "모니터링",
+              "price": 780000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361160",
+              "name": "빌트인 캠 2",
+              "price": 440000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94519,
+          "trimName": "어스 2WD",
+          "price": 52390000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361165",
+              "name": "드라이브 와이즈",
+              "price": 640000,
+              "code": "A12",
+              "percent": 30,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361166",
+              "name": "메리디안 프리미엄 사운드",
+              "price": 980000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "메리디안 프리미엄 사운드(14스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "액티브 사운드 디자인(e-ASD)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361167",
+              "name": "와이드 선루프",
+              "price": 630000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "와이드 선루프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361168",
+              "name": "빌트인 캠 2",
+              "price": 440000,
+              "code": "A20",
+              "percent": 31,
+              "items": [
+                {
+                  "name": "빌트인 캠 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "인터스텔라 그레이 (AGT)",
+              "colorHexadecimal": "2c3033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "문스케이프 매트 그레이 (KLM)",
+              "colorHexadecimal": "727272",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "글래시어 (GLB)",
+              "colorHexadecimal": "a6a89d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "요트 블루 (DU3)",
+              "colorHexadecimal": "142f8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버 (ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "03050a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미디움 그레이",
+              "colorHexadecimal": "646865",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "토피 브라운",
+              "colorHexadecimal": "8c6e60",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "그린+라이트 그레이",
+              "colorHexadecimal": "556463/b9beb9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53641,
+      "name": "전기 (GT)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94520,
+          "trimName": "GT",
+          "price": 71990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361192",
+              "name": "와이드 선루프",
+              "price": 630000,
+              "code": "A19",
+              "percent": 18,
+              "items": []
+            },
+            {
+              "seq": "361193",
+              "name": "스마트 커넥트",
+              "price": 1280000,
+              "code": "A22",
+              "percent": 45,
+              "items": [
+                {
+                  "name": "디지털 센터 미러",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "지문 인증 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전/측방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄 (SWP)",
+              "colorHexadecimal": "cecfd2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "171514",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "런웨이 레드 (CR5)",
+              "colorHexadecimal": "6d1418",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "울프 그레이 (C7S)",
+              "colorHexadecimal": "75797f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "요트 매트 블루 (DUM)",
+              "colorHexadecimal": "313965",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙+네온",
+              "colorHexadecimal": "333638/b2ca35",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

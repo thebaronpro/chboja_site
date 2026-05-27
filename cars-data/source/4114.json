@@ -1,0 +1,120 @@
+{
+  "model_id": 4114,
+  "brand": "BMW",
+  "name": "2 Series Active Tourer",
+  "img": "https://autoimg.danawa.com/photo/4114/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53448,
+      "name": "가솔린 2.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93819,
+          "trimName": "220i Active Tourer Luxury",
+          "price": 50800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "알파인 화이트 (300)",
+              "colorHexadecimal": "e7e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스카이스크래퍼 그레이 (C4W)",
+              "colorHexadecimal": "4d5353",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "산마리노 그린 (C4E)",
+              "colorHexadecimal": "202f18",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "퍼포레이티드 블랙",
+              "colorHexadecimal": "1c1c1c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93820,
+          "trimName": "220i Active Tourer M Sport Design",
+          "price": 52400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "알파인 화이트 (300)",
+              "colorHexadecimal": "e7e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "스카이스크래퍼 그레이 (C4W)",
+              "colorHexadecimal": "4d5353",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "산마리노 그린 (C4E)",
+              "colorHexadecimal": "202f18",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "퍼포레이티드 블랙",
+              "colorHexadecimal": "1c1c1c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

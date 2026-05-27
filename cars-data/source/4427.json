@@ -1,0 +1,701 @@
+{
+  "model_id": 4427,
+  "brand": "메르세데스-벤츠",
+  "name": "A-Class",
+  "img": "https://autoimg.danawa.com/photo/4427/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53411,
+      "name": "해치백 가솔린 2.0",
+      "year": "2026년형",
+      "percent": 38,
+      "trims": [
+        {
+          "trimNo": 93725,
+          "trimName": "A220 Hatchback",
+          "price": 48100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U) - 유료",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U) - 유료",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U) - 유료",
+              "colorHexadecimal": "97979a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U) - 유료",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 마그노 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53412,
+      "name": "세단 가솔린 2.0",
+      "year": "2026년형",
+      "percent": 39,
+      "trims": [
+        {
+          "trimNo": 93726,
+          "trimName": "A220 Sedan",
+          "price": 49900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U) - 유료",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U) - 유료",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U) - 유료",
+              "colorHexadecimal": "97979a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U) - 유료",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 마그노 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53585,
+      "name": "AMG 해치백 가솔린 2.0",
+      "year": "2026년형",
+      "percent": 15,
+      "trims": [
+        {
+          "trimNo": 94184,
+          "trimName": "AMG A45 S 4MATIC+ Hatchback",
+          "price": 80400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U)",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U)",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이테크 실버 (992U)",
+              "colorHexadecimal": "97979a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U) - 유료",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53190,
+      "name": "해치백 가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92595,
+          "trimName": "A220 Hatchback",
+          "price": 48100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U) - 유료",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U) - 유료",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U) - 유료",
+              "colorHexadecimal": "97979a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U) - 유료",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 마그노 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53191,
+      "name": "세단 가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92596,
+          "trimName": "A220 Sedan",
+          "price": 49900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U) - 유료",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U) - 유료",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이 테크 실버 (922U) - 유료",
+              "colorHexadecimal": "97979a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U) - 유료",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 마그노 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53192,
+      "name": "AMG 세단 가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92597,
+          "trimName": "AMG A35 4MATIC Sedan",
+          "price": 67700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U)",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U)",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U)",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "하이테크 실버 (922U)",
+              "colorHexadecimal": "97979a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 (662U)",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53193,
+      "name": "AMG 해치백 가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92598,
+          "trimName": "AMG A45 S 4MATIC+ Hatchback",
+          "price": 80400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "코스모스 블랙 (191U)",
+              "colorHexadecimal": "0c0e14",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "폴라 화이트 (149U)",
+              "colorHexadecimal": "ced3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "나이트 블랙 (696U)",
+              "colorHexadecimal": "070707",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "마운틴 그레이 (787U)",
+              "colorHexadecimal": "3b3e46",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "하이테크 실버 (992U)",
+              "colorHexadecimal": "97979a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스펙트럴 블루 (970U) - 유료",
+              "colorHexadecimal": "1b568d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 마운틴 그레이 (662U) - 유료",
+              "colorHexadecimal": "3f434b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 파타고니아 레드 (993U) - 유료",
+              "colorHexadecimal": "ba0f2b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92599,
+          "trimName": "AMG A45 S 4MATIC+ Hatchback Limited Edition",
+          "price": 87700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

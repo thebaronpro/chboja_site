@@ -1,0 +1,96 @@
+{
+  "model_id": 4498,
+  "brand": "BYD",
+  "name": "T4K",
+  "img": "https://autoimg.danawa.com/photo/4498/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53008,
+      "name": "전기",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91965,
+          "trimName": "슈퍼캡 롱레인지 프리미엄",
+          "price": 46690000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "Roland Silver",
+              "colorHexadecimal": "9f9ebe",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Iceberg White",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 51891,
+      "name": "전기 (특장차)",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 88117,
+          "trimName": "냉동탑차",
+          "price": 64900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "Roland Silver",
+              "colorHexadecimal": "9f9ebe",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Iceberg White",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93766,
+          "trimName": "하이내장탑차",
+          "price": 52500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

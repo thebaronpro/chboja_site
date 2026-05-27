@@ -1,0 +1,66 @@
+{
+  "_metadata": {
+    "capital_code": "KB",
+    "capital_name": "KB캐피탈",
+    "product_code": "5010000003",
+    "collected_at": "2026-05-26",
+    "version": "v3 — 전체 변수 조합 응답 가능",
+    "description": "아반떼 스마트 1대를 데모용으로 풀 매트릭스 수집. 베이스 16건으로 400+ 조합 응답 가능",
+    "common_conditions": {
+      "보험": "만 26세 / 대물 1억",
+      "정비상품": "Finance+ 12개월",
+      "수수료": "0%"
+    },
+    "kb_irr_observed": "6.20~6.29% (사이트 자동 표시값)",
+    "formula_used_in_demo": {
+      "interest_rate": 0.062,
+      "deposit_factor": 0.0004
+    }
+  },
+  "vehicle": {
+    "brand": "현대",
+    "model_name": "더 뉴 아반떼",
+    "year_code": "26MY",
+    "trim_name": "[26MY]현대 더 뉴 아반떼(CN7) 1.6 가솔린 스마트",
+    "engine_cc": 1598,
+    "drivetrain": "2WD",
+    "base_price": 20650000
+  },
+  "base_matrix": [
+    {"term_months": 24, "annual_mileage_km": 10000, "residual_pct": 74.0, "residual_amount": 15281000, "monthly_base_payment": 419390},
+    {"term_months": 24, "annual_mileage_km": 15000, "residual_pct": 72.5, "residual_amount": 14972000, "monthly_base_payment": 431970},
+    {"term_months": 24, "annual_mileage_km": 20000, "residual_pct": 71.0, "residual_amount": 14662000, "monthly_base_payment": 443050},
+    {"term_months": 24, "annual_mileage_km": 30000, "residual_pct": 68.5, "residual_amount": 14146000, "monthly_base_payment": 464300},
+    {"term_months": 36, "annual_mileage_km": 10000, "residual_pct": 71.0, "residual_amount": 14662000, "monthly_base_payment": 355330},
+    {"term_months": 36, "annual_mileage_km": 15000, "residual_pct": 69.0, "residual_amount": 14249000, "monthly_base_payment": 366210},
+    {"term_months": 36, "annual_mileage_km": 20000, "residual_pct": 67.0, "residual_amount": 13836000, "monthly_base_payment": 375600},
+    {"term_months": 36, "annual_mileage_km": 30000, "residual_pct": 64.0, "residual_amount": 13216000, "monthly_base_payment": 392280},
+    {"term_months": 48, "annual_mileage_km": 10000, "residual_pct": 64.0, "residual_amount": 13216000, "monthly_base_payment": 332620},
+    {"term_months": 48, "annual_mileage_km": 15000, "residual_pct": 62.0, "residual_amount": 12803000, "monthly_base_payment": 342840},
+    {"term_months": 48, "annual_mileage_km": 20000, "residual_pct": 60.0, "residual_amount": 12390000, "monthly_base_payment": 349430},
+    {"term_months": 48, "annual_mileage_km": 30000, "residual_pct": 56.5, "residual_amount": 11668000, "monthly_base_payment": 363710},
+    {"term_months": 60, "annual_mileage_km": 10000, "residual_pct": 56.0, "residual_amount": 11564000, "monthly_base_payment": 323710},
+    {"term_months": 60, "annual_mileage_km": 15000, "residual_pct": 54.0, "residual_amount": 11151000, "monthly_base_payment": 330040},
+    {"term_months": 60, "annual_mileage_km": 20000, "residual_pct": 52.0, "residual_amount": 10738000, "monthly_base_payment": 334990},
+    {"term_months": 60, "annual_mileage_km": 30000, "residual_pct": 48.0, "residual_amount": 9912000, "monthly_base_payment": 347790}
+  ],
+  "validation": {
+    "prepay": {
+      "_condition": "48개월 / 1만km",
+      "samples": [
+        {"prepay_pct": 10, "site_monthly_payment": 286120, "formula_calc": 284265, "error_pct": -0.648},
+        {"prepay_pct": 20, "site_monthly_payment": 238070, "formula_calc": 235909, "error_pct": -0.908},
+        {"prepay_pct": 30, "site_monthly_payment": 189820, "formula_calc": 187554, "error_pct": -1.194}
+      ]
+    },
+    "deposit": {
+      "_condition": "48개월 / 1만km",
+      "_note": "노이즈 있음 — Phase 2에서 별도 검증 필요. 보증금 효과는 선납금의 ~1/100 수준",
+      "samples": [
+        {"deposit_pct": 10, "site_monthly_payment": 323070, "diff_from_base": 9550},
+        {"deposit_pct": 20, "site_monthly_payment": 300050, "diff_from_base": 32570, "_status": "noisy"},
+        {"deposit_pct": 30, "site_monthly_payment": 324990, "diff_from_base": 7630}
+      ]
+    }
+  }
+}

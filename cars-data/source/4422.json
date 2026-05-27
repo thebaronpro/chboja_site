@@ -1,0 +1,118 @@
+{
+  "model_id": 4422,
+  "brand": "BMW",
+  "name": "XM",
+  "img": "https://autoimg.danawa.com/photo/4422/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53540,
+      "name": "가솔린 4.4 플러그인 하이브리드",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94836,
+          "trimName": "XM Label (P1)",
+          "price": 227700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "블랙 사파이어",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "미네랄 화이트",
+              "colorHexadecimal": "cac9c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "케이프 요크 그린",
+              "colorHexadecimal": "364a41",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "BMW 인디비주얼 드라빗 그레이",
+              "colorHexadecimal": "454449",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "282828",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "샤키르 오렌지",
+              "colorHexadecimal": "8d332b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "딥 라군",
+              "colorHexadecimal": "1b3a3f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "실버 스톤",
+              "colorHexadecimal": "b3b9af",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94393,
+          "trimName": "XM Label First Edition",
+          "price": 240000000,
+          "transmission": "",
+          "percent": 21,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

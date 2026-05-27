@@ -1,0 +1,26 @@
+{
+  "model_id": 4366,
+  "brand": "마세라티",
+  "name": "MC20 Cielo",
+  "img": "https://autoimg.danawa.com/photo/4366/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 51390,
+      "name": "가솔린 3.0",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 86042,
+          "trimName": "V6",
+          "price": 383000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

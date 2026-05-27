@@ -1,0 +1,114 @@
+{
+  "model_id": 4587,
+  "brand": "미니",
+  "name": "Countryman",
+  "img": "https://autoimg.danawa.com/photo/4587/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53543,
+      "name": "가솔린 2.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94025,
+          "trimName": "S ALL4 Essential",
+          "price": 45500000,
+          "transmission": "",
+          "percent": 18,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94026,
+          "trimName": "S ALL4 Classic",
+          "price": 50500000,
+          "transmission": "",
+          "percent": 23,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94027,
+          "trimName": "S ALL4 Favoured",
+          "price": 56600000,
+          "transmission": "",
+          "percent": 45,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94028,
+          "trimName": "JCW ALL4",
+          "price": 66200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53058,
+      "name": "가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92113,
+          "trimName": "S ALL4 Classic",
+          "price": 49300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92116,
+          "trimName": "S ALL4 Classic First Edition",
+          "price": 49300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92114,
+          "trimName": "S ALL4 Favoured",
+          "price": 56400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92115,
+          "trimName": "JCW ALL4",
+          "price": 66200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92117,
+          "trimName": "JCW ALL4 First Edition",
+          "price": 66200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "model_id": 4734,
+  "brand": "마세라티",
+  "name": "GranCabrio Folgore",
+  "img": "https://autoimg.danawa.com/photo/4734/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53712,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94849,
+          "trimName": "Folgore",
+          "price": 292900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53247,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92721,
+          "trimName": "Folgore",
+          "price": 283800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

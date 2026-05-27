@@ -1,0 +1,120 @@
+{
+  "model_id": 4629,
+  "brand": "메르세데스-벤츠",
+  "name": "G-Class",
+  "img": "https://autoimg.danawa.com/photo/4629/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53613,
+      "name": "디젤 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94371,
+          "trimName": "G450d",
+          "price": 193500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94372,
+          "trimName": "G450d MANUFAKTUR",
+          "price": 217700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53614,
+      "name": "AMG 가솔린 4.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94373,
+          "trimName": "Mercedes-AMG G63",
+          "price": 261200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53234,
+      "name": "디젤 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92662,
+          "trimName": "G450d",
+          "price": 187600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93377,
+          "trimName": "G450d MANUFAKTUR",
+          "price": 211300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93660,
+          "trimName": "G450d Edition Stronger Than 1980s",
+          "price": 218200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53235,
+      "name": "AMG 가솔린 4.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92663,
+          "trimName": "Mercedes-AMG G63",
+          "price": 253100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92664,
+          "trimName": "Mercedes-AMG G63 MANUFAKTUR",
+          "price": 279600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

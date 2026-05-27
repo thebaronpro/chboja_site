@@ -1,0 +1,26 @@
+{
+  "model_id": 4184,
+  "brand": "페라리",
+  "name": "Purosangue",
+  "img": "https://autoimg.danawa.com/photo/4184/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52160,
+      "name": "가솔린 6.5",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 89197,
+          "trimName": "V12",
+          "price": 549000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

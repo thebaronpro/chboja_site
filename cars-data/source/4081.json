@@ -1,0 +1,44 @@
+{
+  "model_id": 4081,
+  "brand": "로터스",
+  "name": "Emira",
+  "img": "https://autoimg.danawa.com/photo/4081/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52828,
+      "name": "가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91610,
+          "trimName": "I4",
+          "price": 149900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52829,
+      "name": "가솔린 3.5",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91612,
+          "trimName": "V6",
+          "price": 153900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

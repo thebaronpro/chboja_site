@@ -1,0 +1,132 @@
+{
+  "_metadata": {
+    "capital_code": "KB",
+    "capital_name": "KB캐피탈",
+    "product_code": "5010000003",
+    "product_name": "장기렌터카(다이렉트)",
+    "collected_at": "2026-05-26",
+    "collector": "Cowork manual verification",
+    "common_conditions": {
+      "보험": "만 26세 / 대물 1억",
+      "정비상품": "Finance+ 12개월",
+      "수수료": "0%",
+      "색상": "무료 색상 선택"
+    }
+  },
+  "vehicles": [
+    {
+      "brand": "현대",
+      "model_name": "더 뉴 아반떼",
+      "year_code": "26MY",
+      "fuel_type": "가솔린",
+      "trim_name": "[26MY]현대 더 뉴 아반떼(CN7) 1.6 가솔린 스마트",
+      "engine_cc": 1598,
+      "drivetrain": "2WD",
+      "base_price": 20650000,
+      "is_representative": true,
+      "base_quotes": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 64.0,
+          "residual_amount": 13216000,
+          "monthly_base_payment": 332620,
+          "source_quote_no": "20260526A495",
+          "prepay_pct_recorded": 0
+        }
+      ],
+      "validation_samples": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "prepay_pct": 30,
+          "site_monthly_payment": 187630
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "model_name": "디 올 뉴 싼타페",
+      "year_code": "26MY",
+      "fuel_type": "가솔린",
+      "trim_name": "[26MY]현대 디 올 뉴 싼타페 MX5 가솔린 2.5T 2WD 익스클루시브 5인승",
+      "engine_cc": 2497,
+      "drivetrain": "2WD",
+      "base_price": 36620000,
+      "is_representative": true,
+      "base_quotes": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 63.0,
+          "residual_amount": 23071000,
+          "monthly_base_payment": 539040,
+          "source_quote_no": null,
+          "prepay_pct_recorded": 0
+        }
+      ],
+      "validation_samples": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "prepay_pct": 30,
+          "site_monthly_payment": 282390
+        }
+      ]
+    },
+    {
+      "brand": "현대",
+      "model_name": "디 올 뉴 팰리세이드",
+      "year_code": "25MY",
+      "fuel_type": "가솔린",
+      "trim_name": "[25MY]현대 디 올 뉴 팰리세이드 2.5 가솔린 터보 2WD 9인승 익스클루시브",
+      "engine_cc": 2497,
+      "drivetrain": "2WD",
+      "base_price": 43830000,
+      "is_representative": true,
+      "base_quotes": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "residual_pct": 64.0,
+          "residual_amount": 28052000,
+          "monthly_base_payment": 652350,
+          "source_quote_no": "20260526A641",
+          "prepay_pct_recorded": 0
+        }
+      ],
+      "validation_samples": [
+        {
+          "term_months": 48,
+          "annual_mileage_km": 10000,
+          "prepay_pct": 30,
+          "site_monthly_payment": 344610
+        }
+      ]
+    },
+    {
+      "brand": "기아",
+      "model_name": "더 뉴 스포티지",
+      "year_code": "26MY",
+      "fuel_type": "가솔린",
+      "trim_name": "[26MY]기아 더 뉴 스포티지 1.6 가솔린 터보 2WD 프레스티지",
+      "engine_cc": 1598,
+      "drivetrain": "2WD",
+      "base_price": 29150000,
+      "is_representative": true,
+      "base_quotes": [
+        {
+          "term_months": 12,
+          "annual_mileage_km": 10000,
+          "residual_pct": 80.0,
+          "residual_amount": 23320000,
+          "monthly_base_payment": 716090,
+          "source_quote_no": null,
+          "prepay_pct_recorded": 0,
+          "_note": "테스트 견적 — 12개월 조건 (다른 차량과 비교 시 주의)"
+        }
+      ],
+      "validation_samples": []
+    }
+  ]
+}

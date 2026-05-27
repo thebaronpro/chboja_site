@@ -1,0 +1,110 @@
+{
+  "model_id": 4024,
+  "brand": "벤틀리",
+  "name": "Bentayga",
+  "img": "https://autoimg.danawa.com/photo/4024/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53705,
+      "name": "가솔린 4.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94798,
+          "trimName": "V8 Speed",
+          "price": 333000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52790,
+      "name": "가솔린 4.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92351,
+          "trimName": "V8 Atelier Edition",
+          "price": 308000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53109,
+      "name": "가솔린 4.0 EWB",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92352,
+          "trimName": "V8 Atelier Edition EWB",
+          "price": 335000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 51877,
+      "name": "가솔린 4.0",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 88071,
+          "trimName": "V8 Base",
+          "price": 263500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 88072,
+          "trimName": "V8 S",
+          "price": 307500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 88073,
+          "trimName": "V8 Azure",
+          "price": 317600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 88074,
+          "trimName": "V8 S Black Edition",
+          "price": 346800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

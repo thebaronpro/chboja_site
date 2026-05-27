@@ -1,0 +1,4825 @@
+{
+  "model_id": 4455,
+  "brand": "현대",
+  "name": "아반떼",
+  "img": "https://autoimg.danawa.com/photo/4455/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53228,
+      "name": "가솔린 1.6 하이브리드",
+      "year": "2026년형",
+      "percent": 23,
+      "trims": [
+        {
+          "trimNo": 92647,
+          "trimName": "스마트",
+          "price": 25230000,
+          "transmission": "",
+          "percent": 34,
+          "options": [
+            {
+              "seq": "348912",
+              "name": "인포테인먼트 내비",
+              "price": 780000,
+              "code": "A12",
+              "percent": 32,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션",
+                  "exp": "- 블루링크, 폰 프로젝션, 블루투스 핸즈프리, 인카페이먼트, 발레모드",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25478.jpg"
+                },
+                {
+                  "name": "앰비언트 무드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25479.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348913",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A13",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348914",
+              "name": "현대 스마트센스",
+              "price": 680000,
+              "code": "A14",
+              "percent": 36,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348915",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 300000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92652,
+          "trimName": "모던 라이트",
+          "price": 25480000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348916",
+              "name": "인포테인먼트 내비",
+              "price": 780000,
+              "code": "A12",
+              "percent": 32,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션",
+                  "exp": "- 블루링크, 폰 프로젝션, 블루투스 핸즈프리, 인카페이먼트, 발레모드",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25478.jpg"
+                },
+                {
+                  "name": "앰비언트 무드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25479.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348917",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A13",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348918",
+              "name": "현대 스마트센스",
+              "price": 680000,
+              "code": "A14",
+              "percent": 34,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348919",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 300000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92648,
+          "trimName": "모던",
+          "price": 27890000,
+          "transmission": "",
+          "percent": 12,
+          "options": [
+            {
+              "seq": "348920",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348921",
+              "name": "파킹 어시스트 플러스",
+              "price": 1270000,
+              "code": "A17",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348922",
+              "name": "익스테리어 디자인",
+              "price": 440000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349136",
+              "name": "현대 스마트센스",
+              "price": 680000,
+              "code": "A14",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348923",
+              "name": "컴포트Ⅲ",
+              "price": 750000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "운전석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24017.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "2열 암레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25489.jpg"
+                },
+                {
+                  "name": "2열 6:4 폴딩",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25490.jpg"
+                },
+                {
+                  "name": "2열 센터 높이조절 헤드레스트(센터)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25491.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348924",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 300000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348925",
+              "name": "세이지그린 인테리어 컬러",
+              "price": 150000,
+              "code": "A22",
+              "percent": 15,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "B",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "세이지 그린(바이오 소재 시트 커버링 적용)",
+              "colorHexadecimal": "636d6f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "AB",
+              "sAddOptionCode": "A22"
+            }
+          ]
+        },
+        {
+          "trimNo": 92650,
+          "trimName": "인스퍼레이션",
+          "price": 31150000,
+          "transmission": "",
+          "percent": 40,
+          "options": [
+            {
+              "seq": "348926",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348927",
+              "name": "빌트인 캠(보조배터리 포함)",
+              "price": 680000,
+              "code": "A23",
+              "percent": 51,
+              "items": [
+                {
+                  "name": "빌트인 캠",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348928",
+              "name": "세이지그린 인테리어 컬러",
+              "price": 150000,
+              "code": "A22",
+              "percent": 30,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 2,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 1,
+              "percent": 60,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 1,
+              "percent": 36,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "세이지 그린(바이오 소재 시트 커버링 적용)",
+              "colorHexadecimal": "636d6f",
+              "rank": 3,
+              "percent": 29,
+              "bundle": "AB",
+              "sAddOptionCode": "A22"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "캐시미어 베이지",
+              "colorHexadecimal": "c4bdab",
+              "rank": 2,
+              "percent": 36,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92651,
+          "trimName": "N라인",
+          "price": 31840000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348929",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 41,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348930",
+              "name": "빌트인 캠(보조배터리 포함)",
+              "price": 680000,
+              "code": "A23",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "빌트인 캠",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23993.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "블랙 원톤(레드 스티치)",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53231,
+      "name": "가솔린 1.6",
+      "year": "2026년형",
+      "percent": 72,
+      "trims": [
+        {
+          "trimNo": 92655,
+          "trimName": "스마트",
+          "price": 20340000,
+          "transmission": "",
+          "percent": 11,
+          "options": [
+            {
+              "seq": "348949",
+              "name": "컨비니언스",
+              "price": 370000,
+              "code": "A11",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "듀얼 풀오토 에어컨",
+                  "exp": "- 오토디포그/미세먼지 센서/공기청정모드/애프터블로우 포함<br>\n차량 내부의 공기질을 실시간으로 모니터링하며 자동 공기 정화 기능을 작동하여 쾌적한 실내 환경을 제공하고 애프터 블로우로 에어컨 냄새 저감 효과를 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23990.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348950",
+              "name": "인포테인먼트 내비",
+              "price": 780000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션",
+                  "exp": "- 블루링크, 폰 프로젝션, 블루투스 핸즈프리, 인카페이먼트, 발레모드",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25478.jpg"
+                },
+                {
+                  "name": "앰비언트 무드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25479.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348951",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A13",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348952",
+              "name": "현대 스마트센스",
+              "price": 680000,
+              "code": "A14",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348953",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅰ",
+              "price": 480000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92656,
+          "trimName": "모던",
+          "price": 23550000,
+          "transmission": "",
+          "percent": 34,
+          "options": [
+            {
+              "seq": "348954",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348955",
+              "name": "파킹 어시스트 플러스",
+              "price": 1270000,
+              "code": "A17",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348956",
+              "name": "익스테리어 디자인",
+              "price": 440000,
+              "code": "A19",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348957",
+              "name": "현대 스마트센스",
+              "price": 680000,
+              "code": "A14",
+              "percent": 44,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348958",
+              "name": "컴포트Ⅰ",
+              "price": 1040000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "2열 암레스트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25489.jpg"
+                },
+                {
+                  "name": "2열 6:4 폴딩",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25490.jpg"
+                },
+                {
+                  "name": "2열 센터 높이조절 헤드레스트(센터)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25491.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348959",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 300000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348960",
+              "name": "세이지그린 인테리어 컬러",
+              "price": 150000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 1,
+              "percent": 53,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 2,
+              "percent": 24,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 3,
+              "percent": 18,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "B",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "세이지 그린(바이오 소재 시트 커버링 적용)",
+              "colorHexadecimal": "636d6f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "AB",
+              "sAddOptionCode": "A22"
+            }
+          ]
+        },
+        {
+          "trimNo": 92658,
+          "trimName": "인스퍼레이션",
+          "price": 27170000,
+          "transmission": "",
+          "percent": 54,
+          "options": [
+            {
+              "seq": "348961",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348962",
+              "name": "빌트인 캠(보조배터리 포함)",
+              "price": 680000,
+              "code": "A23",
+              "percent": 50,
+              "items": [
+                {
+                  "name": "빌트인 캠",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23993.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348963",
+              "name": "세이지그린 인테리어 컬러",
+              "price": 150000,
+              "code": "A22",
+              "percent": 33,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 1,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 3,
+              "percent": 24,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 2,
+              "percent": 29,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 1,
+              "percent": 48,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "세이지 그린(바이오 소재 시트 커버링 적용)",
+              "colorHexadecimal": "636d6f",
+              "rank": 3,
+              "percent": 6,
+              "bundle": "AB",
+              "sAddOptionCode": "A22"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "캐시미어 베이지",
+              "colorHexadecimal": "c4bdab",
+              "rank": 2,
+              "percent": 45,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92659,
+          "trimName": "N라인",
+          "price": 28060000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348964",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348965",
+              "name": "빌트인 캠(보조배터리 포함)",
+              "price": 680000,
+              "code": "A23",
+              "percent": 34,
+              "items": [
+                {
+                  "name": "빌트인 캠",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23993.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "블랙 원톤(레드 스티치)",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53237,
+      "name": "LPG 1.6 (일반판매용)",
+      "year": "2026년형",
+      "percent": 4,
+      "trims": [
+        {
+          "trimNo": 92666,
+          "trimName": "스마트",
+          "price": 21720000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348982",
+              "name": "컨비니언스",
+              "price": 370000,
+              "code": "A11",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "듀얼 풀오토 에어컨",
+                  "exp": "- 오토디포그/미세먼지 센서/공기청정모드/애프터블로우 포함<br>\n차량 내부의 공기질을 실시간으로 모니터링하며 자동 공기 정화 기능을 작동하여 쾌적한 실내 환경을 제공하고 애프터 블로우로 에어컨 냄새 저감 효과를 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23990.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348983",
+              "name": "인포테인먼트 내비",
+              "price": 780000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션",
+                  "exp": "- 블루링크, 폰 프로젝션, 블루투스 핸즈프리, 인카페이먼트, 발레모드",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25478.jpg"
+                },
+                {
+                  "name": "앰비언트 무드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25479.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348984",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A13",
+              "percent": 39,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348985",
+              "name": "현대 스마트센스",
+              "price": 680000,
+              "code": "A14",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348986",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅰ",
+              "price": 480000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92667,
+          "trimName": "모던",
+          "price": 24920000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348987",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348988",
+              "name": "파킹 어시스트 플러스",
+              "price": 1270000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348989",
+              "name": "익스테리어 디자인",
+              "price": 440000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348990",
+              "name": "현대 스마트센스",
+              "price": 680000,
+              "code": "A14",
+              "percent": 30,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348991",
+              "name": "컴포트Ⅱ",
+              "price": 900000,
+              "code": "A20",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348992",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 300000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348993",
+              "name": "세이지그린 인테리어 컬러",
+              "price": 150000,
+              "code": "A22",
+              "percent": 19,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "B",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "세이지 그린(바이오 소재 시트 커버링 적용)",
+              "colorHexadecimal": "636d6f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "AB",
+              "sAddOptionCode": "A22"
+            }
+          ]
+        },
+        {
+          "trimNo": 92668,
+          "trimName": "인스퍼레이션",
+          "price": 28420000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348994",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348995",
+              "name": "세이지그린 인테리어 컬러",
+              "price": 150000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BC",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "세이지 그린(바이오 소재 시트 커버링 적용)",
+              "colorHexadecimal": "636d6f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "AB",
+              "sAddOptionCode": "A22"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "캐시미어 베이지",
+              "colorHexadecimal": "c4bdab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53238,
+      "name": "LPG 1.6 (렌터카/장애인용)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92669,
+          "trimName": "렌터카 스마트",
+          "price": 20930000,
+          "transmission": "",
+          "percent": 50,
+          "options": [
+            {
+              "seq": "349007",
+              "name": "컨비니언스",
+              "price": 360000,
+              "code": "A11",
+              "percent": 43,
+              "items": [
+                {
+                  "name": "듀얼 풀오토 에어컨",
+                  "exp": "- 오토디포그/미세먼지 센서/공기청정모드/애프터블로우 포함<br>\n차량 내부의 공기질을 실시간으로 모니터링하며 자동 공기 정화 기능을 작동하여 쾌적한 실내 환경을 제공하고 애프터 블로우로 에어컨 냄새 저감 효과를 제공합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23990.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349008",
+              "name": "인포테인먼트 내비",
+              "price": 750000,
+              "code": "A12",
+              "percent": 43,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션",
+                  "exp": "- 블루링크, 폰 프로젝션, 블루투스 핸즈프리, 인카페이먼트, 발레모드",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25478.jpg"
+                },
+                {
+                  "name": "앰비언트 무드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25479.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349009",
+              "name": "하이패스",
+              "price": 190000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349010",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349011",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅰ",
+              "price": 470000,
+              "code": "A21",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92670,
+          "trimName": "렌터카 모던",
+          "price": 24020000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349012",
+              "name": "선루프",
+              "price": 420000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349013",
+              "name": "파킹 어시스트 플러스",
+              "price": 1220000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349014",
+              "name": "익스테리어 디자인",
+              "price": 420000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349015",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349016",
+              "name": "컴포트Ⅱ",
+              "price": 860000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349017",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92671,
+          "trimName": "장애인용 모던 왼발장애",
+          "price": 24020000,
+          "transmission": "",
+          "percent": 19,
+          "options": [
+            {
+              "seq": "349018",
+              "name": "선루프",
+              "price": 420000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349019",
+              "name": "파킹 어시스트 플러스",
+              "price": 1220000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349020",
+              "name": "익스테리어 디자인",
+              "price": 420000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349021",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349022",
+              "name": "컴포트Ⅱ",
+              "price": 860000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349023",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92672,
+          "trimName": "장애인용 모던 왼손왼발장애",
+          "price": 23950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349024",
+              "name": "선루프",
+              "price": 420000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349025",
+              "name": "파킹 어시스트 플러스",
+              "price": 1220000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349026",
+              "name": "익스테리어 디자인",
+              "price": 420000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349027",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349028",
+              "name": "컴포트Ⅱ",
+              "price": 860000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349029",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92673,
+          "trimName": "장애인용 모던 왼손오른발장애",
+          "price": 24040000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349030",
+              "name": "선루프",
+              "price": 420000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349031",
+              "name": "파킹 어시스트 플러스",
+              "price": 1220000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349032",
+              "name": "익스테리어 디자인",
+              "price": 420000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349033",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349034",
+              "name": "컴포트Ⅱ",
+              "price": 860000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349035",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92674,
+          "trimName": "장애인용 모던 오른손오른발장애",
+          "price": 24040000,
+          "transmission": "",
+          "percent": 13,
+          "options": [
+            {
+              "seq": "349036",
+              "name": "선루프",
+              "price": 420000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349037",
+              "name": "파킹 어시스트 플러스",
+              "price": 1220000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349038",
+              "name": "익스테리어 디자인",
+              "price": 420000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349039",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349040",
+              "name": "컴포트Ⅱ",
+              "price": 860000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349041",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92675,
+          "trimName": "장애인용 모던 오른발장애",
+          "price": 24110000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349042",
+              "name": "선루프",
+              "price": 420000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349043",
+              "name": "파킹 어시스트 플러스",
+              "price": 1220000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349044",
+              "name": "익스테리어 디자인",
+              "price": 420000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349045",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349046",
+              "name": "컴포트Ⅱ",
+              "price": 860000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349047",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92676,
+          "trimName": "장애인용 모던 양발장애",
+          "price": 24200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349048",
+              "name": "선루프",
+              "price": 420000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349049",
+              "name": "파킹 어시스트 플러스",
+              "price": 1220000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349050",
+              "name": "익스테리어 디자인",
+              "price": 420000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349051",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349052",
+              "name": "컴포트Ⅱ",
+              "price": 860000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349053",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92677,
+          "trimName": "장애인용 모던 오른손장애",
+          "price": 23950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349054",
+              "name": "선루프",
+              "price": 420000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/27364.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349055",
+              "name": "파킹 어시스트 플러스",
+              "price": 1220000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 디스플레이",
+                  "exp": "- 10.25인치 풀 컬러 클러스터, 클러스터/내비게이션 일체형 글라스 적용",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25480.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "안전한 주차를 위해 차량 주변의 상황을 고화질 카메라 및 디지털 영상 전송 방식을 적용하여 선명한 화질의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23987.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "방향지시등 조작과 연동하여 차선 변경 시 아웃사이드 미러의 사각지대 영역을 대폭 개선한 사각 지역 영상을 클러스터에 표시하여 시각적 안전운행을 보조하는 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23988.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25481.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349056",
+              "name": "익스테리어 디자인",
+              "price": 420000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24012.jpg"
+                },
+                {
+                  "name": "LED 방향지시등(앞)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24013.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24014.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25485.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349057",
+              "name": "현대 스마트센스",
+              "price": 660000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "차로 변경을 위하여 방향지시등 스위치 조작 시 후측방 차량과 충돌 위험이 감지되면 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 차량을 제어하여 충돌 회피를 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23995.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23997.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "정차 후 탑승자가 차에서 내리기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23996.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349058",
+              "name": "컴포트Ⅱ",
+              "price": 860000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트",
+                  "exp": "- 8way, 럼버서포트, 자세 메모리 시스템",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24019.jpg"
+                },
+                {
+                  "name": "동승석 전동시트(4way)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/25487.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "스마트워치나 스마트폰으로 도어 잠금/해제 및 시동이 가능하고 최대 7명까지 사용 권한을 공유할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/23991.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24018.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24020.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349059",
+              "name": "17인치 알로이 휠 &amp; 타이어Ⅱ",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "17인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4455/items/24001.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "e8e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "797c85",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루이드 그레이 메탈릭(M6T)",
+              "colorHexadecimal": "747379",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "52555e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "3f443e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0e0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "메타 블루 펄((PM2)",
+              "colorHexadecimal": "636d88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "미라지 그린(RRR)",
+              "colorHexadecimal": "667574",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭((R2P)",
+              "colorHexadecimal": "9c252b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "28292e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

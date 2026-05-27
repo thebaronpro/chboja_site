@@ -1,0 +1,240 @@
+{
+  "model_id": 4674,
+  "brand": "토요타",
+  "name": "Camry",
+  "img": "https://autoimg.danawa.com/photo/4674/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53546,
+      "name": "가솔린 2.5 하이브리드",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94033,
+          "trimName": "XLE",
+          "price": 47750000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "플래티넘 화이트 펄 마이카",
+              "colorHexadecimal": "e8e9ed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "실버 메탈릭 ",
+              "colorHexadecimal": "bebdc1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "프레셔스 메탈 ",
+              "colorHexadecimal": "a2a09b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "뉴트럴 블랙",
+              "colorHexadecimal": "1d1d21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "이모셔널 레드 3",
+              "colorHexadecimal": "ba1e26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "프레셔스 브론즈 2 ",
+              "colorHexadecimal": "a26b00",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "다크 블루 마이카",
+              "colorHexadecimal": "2b2e7c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "BLACK",
+              "colorHexadecimal": "101213",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "FROMAGE",
+              "colorHexadecimal": "c3b392",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "YELLOW BROWN",
+              "colorHexadecimal": "8d533b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94034,
+          "trimName": "XLE Premium",
+          "price": 53270000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "플래티넘 화이트 펄 마이카",
+              "colorHexadecimal": "e8e9ed",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "실버 메탈릭 ",
+              "colorHexadecimal": "bebdc1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "프레셔스 메탈 ",
+              "colorHexadecimal": "a2a09b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "뉴트럴 블랙",
+              "colorHexadecimal": "1d1d21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "이모셔널 레드 3",
+              "colorHexadecimal": "ba1e26",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "프레셔스 브론즈 2 ",
+              "colorHexadecimal": "a26b00",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "다크 블루 마이카",
+              "colorHexadecimal": "2b2e7c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "BLACK",
+              "colorHexadecimal": "101213",
+              "rank": 1,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "FROMAGE",
+              "colorHexadecimal": "c3b392",
+              "rank": 2,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "YELLOW BROWN",
+              "colorHexadecimal": "8d533b",
+              "rank": 3,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

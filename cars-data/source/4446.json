@@ -1,0 +1,150 @@
+{
+  "model_id": 4446,
+  "brand": "볼보",
+  "name": "EX30",
+  "img": "https://autoimg.danawa.com/photo/4446/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53692,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94721,
+          "trimName": "Core",
+          "price": 39910000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클라우드 블루",
+              "colorHexadecimal": "565f70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "오닉스 블랙",
+              "colorHexadecimal": "2d2926",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "베이퍼 그레이",
+              "colorHexadecimal": "a6a7aa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "크리스탈 화이트",
+              "colorHexadecimal": "f2f2f2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "인디고",
+              "colorHexadecimal": "384957",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94722,
+          "trimName": "Ultra",
+          "price": 44790000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클라우드 블루",
+              "colorHexadecimal": "565f70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "오닉스 블랙",
+              "colorHexadecimal": "2d2926",
+              "rank": 2,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "베이퍼 그레이",
+              "colorHexadecimal": "a6a7aa",
+              "rank": 3,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "크리스탈 화이트",
+              "colorHexadecimal": "f2f2f2",
+              "rank": 1,
+              "percent": 57,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "미스트",
+              "colorHexadecimal": "d0c4ba",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브리즈",
+              "colorHexadecimal": "afb3b8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

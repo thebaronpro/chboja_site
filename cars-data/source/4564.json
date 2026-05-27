@@ -1,0 +1,756 @@
+{
+  "model_id": 4564,
+  "brand": "현대",
+  "name": "아반떼 N",
+  "img": "https://autoimg.danawa.com/photo/4564/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53239,
+      "name": "가솔린 터보 2.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92678,
+          "trimName": "아반떼 N",
+          "price": 33090000,
+          "transmission": "",
+          "percent": 40,
+          "options": [
+            {
+              "seq": "349082",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A10",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/27365.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349083",
+              "name": "N 라이트 스포츠 버켓 시트 ",
+              "price": 1070000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "N 라이트 스포츠 버켓 시트",
+                  "exp": "- 알칸타라 스웨이드+인조가죽 콤비, 헤드레스트 일체형, 열선 포함",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25526.jpg"
+                },
+                {
+                  "name": "알칸타라 도어 센터 트림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25529.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25530.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349084",
+              "name": "19인치 초경량 단조 휠",
+              "price": 780000,
+              "code": "A13",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "19인치 초경량 단조 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/27366.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349085",
+              "name": "N 컴포트",
+              "price": 580000,
+              "code": "A16",
+              "percent": 30,
+              "items": [
+                {
+                  "name": "운전석 전동시트(8way, 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25544.jpg"
+                },
+                {
+                  "name": "운전석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25545.jpg"
+                },
+                {
+                  "name": " 동승석 4way 전동시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25546.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25530.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25547.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0f0f0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "7d7c82",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "535258",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "메타 블루 펄(PM2)",
+              "colorHexadecimal": "575d75",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭(R2P)",
+              "colorHexadecimal": "7d1d16",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루(XFB)",
+              "colorHexadecimal": "688cbc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "16191e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92679,
+          "trimName": "아반떼 N",
+          "price": 35140000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349095",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A10",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/27365.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349096",
+              "name": "빌트인 캠(보조배터리 포함)",
+              "price": 680000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25524.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349097",
+              "name": "N 라이트 스포츠 버켓 시트 ",
+              "price": 1070000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "N 라이트 스포츠 버켓 시트",
+                  "exp": "- 알칸타라 스웨이드+인조가죽 콤비, 헤드레스트 일체형, 열선 포함",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25526.jpg"
+                },
+                {
+                  "name": "알칸타라 도어 센터 트림",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25529.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25530.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349098",
+              "name": "19인치 초경량 단조 휠",
+              "price": 780000,
+              "code": "A13",
+              "percent": 38,
+              "items": [
+                {
+                  "name": "19인치 초경량 단조 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/27366.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349099",
+              "name": "N 현대 스마트센스Ⅰ(DCT 전용)",
+              "price": 1270000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전동식 파킹 브레이크(오토홀드 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25531.jpg"
+                },
+                {
+                  "name": "깊이 가변형 컵홀더",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25533.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차 및 재출발 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25534.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25535.jpg"
+                },
+                {
+                  "name": "고속도로 주행보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25536.jpg"
+                },
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차/정면대향차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25537.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터(SVM)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25538.jpg"
+                },
+                {
+                  "name": "후측방 모니터(BVM)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25539.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조(PCA-R)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25540.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349100",
+              "name": "N 현대 스마트센스Ⅱ(DCT 전용)",
+              "price": 680000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌경고(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25541.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25542.jpg"
+                },
+                {
+                  "name": " 안전 하차 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25543.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349101",
+              "name": "N 컴포트",
+              "price": 580000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 전동시트(8way, 럼버서포트)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25544.jpg"
+                },
+                {
+                  "name": "운전석 자세 메모리 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25545.jpg"
+                },
+                {
+                  "name": " 동승석 4way 전동시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25546.jpg"
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25530.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25547.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0f0f0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "7d7c82",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "535258",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "메타 블루 펄(PM2)",
+              "colorHexadecimal": "575d75",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭(R2P)",
+              "colorHexadecimal": "7d1d16",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루(XFB)",
+              "colorHexadecimal": "688cbc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "16191e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92684,
+          "trimName": "아반떼 N (시티 팩)",
+          "price": 36680000,
+          "transmission": "",
+          "percent": 55,
+          "options": [
+            {
+              "seq": "349112",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A10",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/27365.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349113",
+              "name": "빌트인 캠(보조배터리 포함)",
+              "price": 680000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25524.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349114",
+              "name": "19인치 초경량 단조 휠",
+              "price": 780000,
+              "code": "A13",
+              "percent": 38,
+              "items": [
+                {
+                  "name": "19인치 초경량 단조 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/27366.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0f0f0",
+              "rank": 1,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "7d7c82",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "535258",
+              "rank": 2,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "메타 블루 펄(PM2)",
+              "colorHexadecimal": "575d75",
+              "rank": 3,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭(R2P)",
+              "colorHexadecimal": "7d1d16",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루(XFB)",
+              "colorHexadecimal": "688cbc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "16191e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92685,
+          "trimName": "아반떼 N (트랙 팩)",
+          "price": 37180000,
+          "transmission": "",
+          "percent": 4,
+          "options": [
+            {
+              "seq": "349124",
+              "name": "선루프",
+              "price": 440000,
+              "code": "A10",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/27365.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349125",
+              "name": "빌트인 캠(보조배터리 포함)",
+              "price": 680000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인 캠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/25524.jpg"
+                },
+                {
+                  "name": "보조배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349126",
+              "name": "19인치 초경량 단조 휠",
+              "price": 780000,
+              "code": "A13",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "19인치 초경량 단조 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4564/items/27366.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "141414",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f0f0f0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "사이버 그레이 메탈릭(C5G)",
+              "colorHexadecimal": "7d7c82",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "535258",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "메타 블루 펄(PM2)",
+              "colorHexadecimal": "575d75",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "얼티메이트 레드 메탈릭(R2P)",
+              "colorHexadecimal": "7d1d16",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루(XFB)",
+              "colorHexadecimal": "688cbc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "16191e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

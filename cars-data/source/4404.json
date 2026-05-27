@@ -1,0 +1,1235 @@
+{
+  "model_id": 4404,
+  "brand": "기아",
+  "name": "봉고 3 EV",
+  "img": "https://autoimg.danawa.com/photo/4404/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 50833,
+      "name": "전기 (EV)",
+      "year": "2026년형",
+      "percent": 34,
+      "trims": [
+        {
+          "trimNo": 94336,
+          "trimName": "1톤 2WD 킹캡 초장축 스마트 셀렉션",
+          "price": 43450000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359964",
+              "name": "운전석 통풍시트+하이패스 자동결제 시스템",
+              "price": 300000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "1b2b65",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 84640,
+          "trimName": "1톤 2WD 킹캡 초장축 GL",
+          "price": 44700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "291012",
+              "name": "적재함 평바닥",
+              "price": 280000,
+              "code": "A15",
+              "percent": 23,
+              "items": []
+            },
+            {
+              "seq": "291014",
+              "name": "운전석 통풍시트",
+              "price": 200000,
+              "code": "A14",
+              "percent": 31,
+              "items": []
+            },
+            {
+              "seq": "291015",
+              "name": "하이패스 자동결제 시스템",
+              "price": 100000,
+              "code": "A16",
+              "percent": 46,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "1b2b65",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 84641,
+          "trimName": "1톤 2WD 킹캡 초장축 GLS",
+          "price": 46350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "291016",
+              "name": "적재함 평바닥",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "1b2b65",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53296,
+      "name": "전기 (냉동탑차/내장탑차/윙바디/양문형 미닫이탑차/파워게이트)",
+      "year": "2026년형",
+      "percent": 31,
+      "trims": [
+        {
+          "trimNo": 94337,
+          "trimName": "냉동탑차 로우 킹캡 초장축 GL 듀얼컴프",
+          "price": 63120000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359967",
+              "name": "알루미늄 평바닥",
+              "price": 40000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94338,
+          "trimName": "냉동탑차 스탠다드 킹캡 초장축 GL 듀얼컴프",
+          "price": 63220000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359968",
+              "name": "알루미늄 평바닥",
+              "price": 40000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94348,
+          "trimName": "냉동탑차 하이 킹캡 초장축 GL 듀얼컴프",
+          "price": 63610000,
+          "transmission": "",
+          "percent": 19,
+          "options": [
+            {
+              "seq": "359969",
+              "name": "알루미늄 평바닥",
+              "price": 40000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94339,
+          "trimName": "내장탑차 로우 킹캡 초장축 GL",
+          "price": 48870000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94340,
+          "trimName": "내장탑차 스탠다드 킹캡 초장축 GL",
+          "price": 50020000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94341,
+          "trimName": "내장탑차 하이 킹캡 초장축 GL",
+          "price": 50310000,
+          "transmission": "",
+          "percent": 35,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94342,
+          "trimName": "윙바디 수동식 킹캡 초장축 GL",
+          "price": 51000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94343,
+          "trimName": "윙바디 전동식 킹캡 초장축 GL",
+          "price": 52500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94344,
+          "trimName": "양문형 미닫이탑차 로우 킹캡 초장축 GL",
+          "price": 50280000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94345,
+          "trimName": "양문형 미닫이탑차 하이 킹캡 초장축 GL",
+          "price": 50940000,
+          "transmission": "",
+          "percent": 31,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94346,
+          "trimName": "파워게이트 수직형(2단) 킹캡 초장축 GL",
+          "price": 49260000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359970",
+              "name": "알루미늄 확장형 리프트 판넬",
+              "price": 200000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "2e3f5b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94347,
+          "trimName": "파워게이트 턴인형(2단) 킹캡 초장축 GL",
+          "price": 49390000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359971",
+              "name": "알루미늄 확장형 리프트 판넬",
+              "price": 300000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "2e3f5b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52372,
+      "name": "전기 (EV)",
+      "year": "2025년형",
+      "percent": 21,
+      "trims": [
+        {
+          "trimNo": 90399,
+          "trimName": "1톤 2WD 킹캡 초장축 스마트 셀렉션",
+          "price": 43250000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "332455",
+              "name": "운전석 통풍시트 + 하이패스 자동결제 시스템",
+              "price": 300000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "1b2b65",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90398,
+          "trimName": "1톤 2WD 킹캡 초장축 GL",
+          "price": 44500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "332452",
+              "name": "적재함 평바닥",
+              "price": 280000,
+              "code": "A15",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "332453",
+              "name": "운전석 통풍시트",
+              "price": 200000,
+              "code": "A14",
+              "percent": 50,
+              "items": []
+            },
+            {
+              "seq": "332454",
+              "name": "하이패스 자동결제 시스템",
+              "price": 100000,
+              "code": "A16",
+              "percent": 25,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "1b2b65",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90397,
+          "trimName": "1톤 2WD 킹캡 초장축 GLS",
+          "price": 46150000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "332451",
+              "name": "적재함 평바닥",
+              "price": 280000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "순백색(UD)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "1b2b65",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52405,
+      "name": "전기 (냉동탑차/내장탑차/윙바디/양문형 미닫이탑차/파워게이트)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 90624,
+          "trimName": "냉동탑차 로우 킹캡 초장축 GL",
+          "price": 62920000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "334781",
+              "name": "알루미늄 평바닥",
+              "price": 40000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90625,
+          "trimName": "냉동탑차 스탠다드 킹캡 초장축 GL",
+          "price": 63020000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "334782",
+              "name": "알루미늄 평바닥",
+              "price": 40000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90626,
+          "trimName": "내장탑차 로우 킹캡 초장축 GL",
+          "price": 48670000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90627,
+          "trimName": "내장탑차 스탠다드 킹캡 초장축 GL",
+          "price": 49820000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90628,
+          "trimName": "내장탑차 하이 킹캡 초장축 GL",
+          "price": 50110000,
+          "transmission": "",
+          "percent": 12,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90629,
+          "trimName": "윙바디 수동식 킹캡 초장축 GL",
+          "price": 50800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90630,
+          "trimName": "윙바디 전동식 킹캡 초장축 GL",
+          "price": 52300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90623,
+          "trimName": "양문형 미닫이탑차 로우 킹캡 초장축 GL",
+          "price": 50080000,
+          "transmission": "",
+          "percent": 20,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90631,
+          "trimName": "양문형 미닫이탑차 하이 킹캡 초장축 GL",
+          "price": 50740000,
+          "transmission": "",
+          "percent": 60,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90633,
+          "trimName": "파워게이트 수직형(2단) 킹캡 초장축 GL",
+          "price": 49060000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350903",
+              "name": "알루미늄 확장형 리프트 판넬",
+              "price": 200000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "2e3f5b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90632,
+          "trimName": "파워게이트 턴인형(2단) 킹캡 초장축 GL",
+          "price": 49190000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350904",
+              "name": "알루미늄 확장형 리프트 판넬",
+              "price": 300000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "진감청(MA)",
+              "colorHexadecimal": "2e3f5b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이+블랙 투톤",
+              "colorHexadecimal": "6a6e71/292e2e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

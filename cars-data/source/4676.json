@@ -1,0 +1,66 @@
+{
+  "model_id": 4676,
+  "brand": "벤틀리",
+  "name": "The New Flying Spur",
+  "img": "https://autoimg.danawa.com/photo/4676/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 51999,
+      "name": "가솔린 터보 4.0 플러그인 하이브리드",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 88713,
+          "trimName": "Speed",
+          "price": 375700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 88716,
+          "trimName": "Speed first edition",
+          "price": 441900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92271,
+          "trimName": "Mulliner",
+          "price": 426700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93141,
+          "trimName": "Core",
+          "price": 322300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93142,
+          "trimName": "Azure",
+          "price": 382800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

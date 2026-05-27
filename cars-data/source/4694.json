@@ -1,0 +1,26 @@
+{
+  "model_id": 4694,
+  "brand": "페라리",
+  "name": "296 GTS",
+  "img": "https://autoimg.danawa.com/photo/4694/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 51260,
+      "name": "가솔린 3.0 플러그인 하이브리드",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 85803,
+          "trimName": "V6",
+          "price": 460000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

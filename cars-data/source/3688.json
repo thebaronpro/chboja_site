@@ -1,0 +1,230 @@
+{
+  "model_id": 3688,
+  "brand": "렉서스",
+  "name": "UX",
+  "img": "https://autoimg.danawa.com/photo/3688/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53601,
+      "name": "가솔린 2.0 하이브리드",
+      "year": "2027년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94334,
+          "trimName": "300h 2WD",
+          "price": 52120000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "Sonic Copper",
+              "colorHexadecimal": "cb7662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "Madder Red",
+              "colorHexadecimal": "cd1a1d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Sonic Quartz",
+              "colorHexadecimal": "eeeeee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Sonic Titanium",
+              "colorHexadecimal": "c2c1bc",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "Sonic Iridium",
+              "colorHexadecimal": "9f9fa7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Graphite Black Glass Flake",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Sonic Chome",
+              "colorHexadecimal": "1e1f21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "Terrane Khaki Mica Metallic",
+              "colorHexadecimal": "2f341e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Celestial Blue Glass Flake",
+              "colorHexadecimal": "133572",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "WHITE ASH",
+              "colorHexadecimal": "cac6c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "BLACK",
+              "colorHexadecimal": "0d0d0d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "HAZEL",
+              "colorHexadecimal": "896652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94335,
+          "trimName": "300h F SPORT",
+          "price": 58700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C24",
+              "colorType": 1,
+              "colorName": "Sonic Copper",
+              "colorHexadecimal": "cb7662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C23",
+              "colorType": 1,
+              "colorName": "Sonic Iridium",
+              "colorHexadecimal": "9f9fa7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "Sonic Chome",
+              "colorHexadecimal": "1e1f21",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "Heat Blue Contrast Layering(F-Sport전용)",
+              "colorHexadecimal": "112469",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "White Nova Glass Fake(F-Sport전용)",
+              "colorHexadecimal": "e9eaef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "FLARE RED(F-Sport전용)",
+              "colorHexadecimal": "cd1a1d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "BLACK(F-Sport전용)",
+              "colorHexadecimal": "252525",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

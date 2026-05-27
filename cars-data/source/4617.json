@@ -1,0 +1,36 @@
+{
+  "model_id": 4617,
+  "brand": "링컨",
+  "name": "Aviator",
+  "img": "https://autoimg.danawa.com/photo/4617/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52937,
+      "name": "가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91798,
+          "trimName": "Reserve",
+          "price": 89900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91799,
+          "trimName": "Black Label",
+          "price": 104400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

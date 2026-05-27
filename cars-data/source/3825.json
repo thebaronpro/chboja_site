@@ -1,0 +1,70 @@
+{
+  "model_id": 3825,
+  "brand": "테슬라",
+  "name": "Cybertruck",
+  "img": "https://autoimg.danawa.com/photo/3825/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 44980,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 63485,
+          "trimName": "AWD",
+          "price": 145000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "357875",
+              "name": "화이트 데코",
+              "price": 3500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "360653",
+              "name": "풀 셀프 드라이빙(감독형)",
+              "price": 9043000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 63486,
+          "trimName": "Cyberbeast",
+          "price": 160000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "357876",
+              "name": "화이트 데코",
+              "price": 3500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "360654",
+              "name": "풀 셀프 드라이빙(감독형)",
+              "price": 9043000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

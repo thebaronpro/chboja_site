@@ -1,0 +1,144 @@
+{
+  "model_id": 3664,
+  "brand": "이스즈",
+  "name": "ELF",
+  "img": "https://autoimg.danawa.com/photo/3664/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 51319,
+      "name": "디젤 5.2 (2.5톤 저상)",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 85899,
+          "trimName": "단축 캡 &amp; 샤시",
+          "price": 60600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85900,
+          "trimName": "단축 타카다 카고",
+          "price": 61700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85901,
+          "trimName": "단축 스틸 카고",
+          "price": 62900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 51320,
+      "name": "디젤 5.2 (3.5톤 고상)",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 85903,
+          "trimName": "단축 캡 &amp; 샤시",
+          "price": 62250000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85905,
+          "trimName": "단축 타카다 카고",
+          "price": 62800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85907,
+          "trimName": "장축 캡 &amp; 샤시",
+          "price": 62750000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85909,
+          "trimName": "장축 타카다 카고",
+          "price": 64350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85910,
+          "trimName": "장축 스틸 카고",
+          "price": 64350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85911,
+          "trimName": "장축 스틸광폭 카고",
+          "price": 65450000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85912,
+          "trimName": "초장축 캡 &amp; 샤시",
+          "price": 66550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85913,
+          "trimName": "초장축 타가다 카고",
+          "price": 70550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 85914,
+          "trimName": "초장축 스틸광폭 카고",
+          "price": 72050000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

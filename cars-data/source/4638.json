@@ -1,0 +1,177 @@
+{
+  "model_id": 4638,
+  "brand": "메르세데스-벤츠",
+  "name": "Electric G-Class",
+  "img": "https://autoimg.danawa.com/photo/4638/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53615,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94374,
+          "trimName": "G580 with EQ Technology",
+          "price": 214700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 사우스씨 블루 마그노 (591U)",
+              "colorHexadecimal": "2e6088",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 클래식 그레이 논-메탈릭 (124U)",
+              "colorHexadecimal": "858680",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "dddddd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e7e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53236,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92880,
+          "trimName": "G580 with EQ Technology",
+          "price": 207600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 사우스씨 블루 마그노 (591U)",
+              "colorHexadecimal": "2e6088",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 클래식 그레이 논-메탈릭 (124U)",
+              "colorHexadecimal": "858680",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "dddddd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e7e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92665,
+          "trimName": "G580 with EQ Technology Edition ONE",
+          "price": 242600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 사우스씨 블루 마그노 (591U)",
+              "colorHexadecimal": "2e6088",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 클래식 그레이 논-메탈릭 (124U)",
+              "colorHexadecimal": "858680",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "dddddd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 브라이트 (885U)",
+              "colorHexadecimal": "e7e7e7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

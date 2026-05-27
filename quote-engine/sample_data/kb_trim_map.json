@@ -1,0 +1,153 @@
+{
+  "_metadata": {
+    "version": "v2 (auto-generated from kb_collected.json)",
+    "generated_at": "2026-05-26",
+    "mapping_count": 11
+  },
+  "mappings": [
+    {
+      "danawa_keys": {
+        "brand": "현대",
+        "model_keyword": "아반떼(CN7)",
+        "engine": "가솔린 1.6",
+        "trim_keyword": "스마트"
+      },
+      "kb": {
+        "trim_name": "[26MY]현대 더 뉴 아반떼(CN7) 1.6 가솔린 스마트",
+        "base_price": 20650000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "현대",
+        "model_keyword": "아반떼(CN7)",
+        "engine": "가솔린 1.6",
+        "trim_keyword": "모던"
+      },
+      "kb": {
+        "trim_name": "[26MY]현대 더 뉴 아반떼(CN7) 1.6 가솔린 모던",
+        "base_price": 23910000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "현대",
+        "model_keyword": "엣지(DN8)",
+        "engine": "가솔린 2.0",
+        "trim_keyword": "프리미엄"
+      },
+      "kb": {
+        "trim_name": "[26MY]현대 쏘나타 디 엣지(DN8) 2.0 프리미엄",
+        "base_price": 28700000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "현대",
+        "model_keyword": "그랜저",
+        "engine": "가솔린 2.5",
+        "trim_keyword": "프리미엄"
+      },
+      "kb": {
+        "trim_name": "[26MY]현대 디 올 뉴 그랜저 2.5 가솔린 2WD 프리미엄",
+        "base_price": 38570000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "현대",
+        "model_keyword": "싼타페",
+        "engine": "가솔린 터보 2.5",
+        "trim_keyword": "익스클루시브"
+      },
+      "kb": {
+        "trim_name": "[26MY]현대 디 올 뉴 싼타페 MX5 가솔린 2.5T 2WD 익스클루시브 5인승",
+        "base_price": 36620000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "현대",
+        "model_keyword": "팰리세이드",
+        "engine": "가솔린 터보 2.5",
+        "trim_keyword": "익스클루시브"
+      },
+      "kb": {
+        "trim_name": "[25MY]현대 디 올 뉴 팰리세이드 2.5 가솔린 터보 2WD 9인승 익스클루시브",
+        "base_price": 43830000,
+        "year_code": "25MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "기아",
+        "model_keyword": "스포티지",
+        "engine": "가솔린 터보 1.6",
+        "trim_keyword": "프레스티지"
+      },
+      "kb": {
+        "trim_name": "[26MY]기아 더 뉴 스포티지 1.6 가솔린 터보 2WD 프레스티지",
+        "base_price": 29150000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "기아",
+        "model_keyword": "K5",
+        "engine": "LPG 2.0",
+        "trim_keyword": "트렌디",
+        "extra": "렌터카"
+      },
+      "kb": {
+        "trim_name": "[26MY]기아 더 뉴 K5 3세대 2.0 LPG 렌터카 트렌디",
+        "base_price": 25070000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "기아",
+        "model_keyword": "카니발",
+        "engine": "가솔린 3.5",
+        "trim_keyword": "프레스티지"
+      },
+      "kb": {
+        "trim_name": "[26MY]기아 더 뉴 카니발 4세대 G3.5 GDI 9인승 프레스티지",
+        "base_price": 36360000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "기아",
+        "model_keyword": "올뉴셀토스",
+        "engine": "가솔린 터보 1.6",
+        "trim_keyword": "트렌디"
+      },
+      "kb": {
+        "trim_name": "[26MY]기아 디 올뉴셀토스 1.6 가솔린 터보 2WD 트렌디",
+        "base_price": 25150000,
+        "year_code": "26MY"
+      }
+    },
+    {
+      "danawa_keys": {
+        "brand": "테슬라",
+        "model_keyword": "3",
+        "engine": "전기",
+        "trim_keyword": "RWD"
+      },
+      "kb": {
+        "trim_name": "[26MY]테슬라 Model 3 RWD 스탠다드",
+        "base_price": 41990000,
+        "year_code": "26MY"
+      }
+    }
+  ]
+}

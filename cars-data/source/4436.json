@@ -1,0 +1,72 @@
+{
+  "model_id": 4436,
+  "brand": "아우디",
+  "name": "Q8 e-tron",
+  "img": "https://autoimg.danawa.com/photo/4436/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52648,
+      "name": "전기",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91247,
+          "trimName": "55 e-tron Quattro",
+          "price": 118720000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91248,
+          "trimName": "55 e-tron Quattro Premium",
+          "price": 129720000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52661,
+      "name": "스포트백 전기",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91271,
+          "trimName": "55 e-tron Quattro",
+          "price": 122720000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52662,
+      "name": "SQ8 스포트백 전기",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91273,
+          "trimName": "SQ8 e-tron",
+          "price": 152720000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

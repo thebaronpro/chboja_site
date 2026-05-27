@@ -1,0 +1,62 @@
+{
+  "model_id": 3489,
+  "brand": "동풍",
+  "name": "C35",
+  "img": "https://autoimg.danawa.com/photo/3489/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 47809,
+      "name": "가솔린 1.5 밴",
+      "year": "2019년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 71717,
+          "trimName": "2인승",
+          "price": 14900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "190191",
+              "name": "적재함 평바닥",
+              "price": 200000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "190192",
+              "name": "알루미늄 휠",
+              "price": 300000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 71718,
+          "trimName": "5인승",
+          "price": 15600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "190193",
+              "name": "적재함 평바닥",
+              "price": 180000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

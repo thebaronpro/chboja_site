@@ -1,0 +1,26 @@
+{
+  "model_id": 3818,
+  "brand": "페라리",
+  "name": "812 GTS",
+  "img": "https://autoimg.danawa.com/photo/3818/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 44930,
+      "name": "가솔린 6.5",
+      "year": "2020년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 63354,
+          "trimName": "V12",
+          "price": 515000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,963 @@
+{
+  "model_id": 4691,
+  "brand": "기아",
+  "name": "레이 EV",
+  "img": "https://autoimg.danawa.com/photo/4691/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53388,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93634,
+          "trimName": "라이트",
+          "price": 28350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356725",
+              "name": "스타일",
+              "price": 600000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "14인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26390.jpg"
+                },
+                {
+                  "name": "프로젝션 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26386.jpg"
+                },
+                {
+                  "name": "LED 주간 주행등",
+                  "exp": "시동「ON」시 주간주행등(DRL)이 자동으로 켜져 낮 시간에 다른 사람들이 차량을 쉽게 볼 수 있도록 하여 사고 예방에 도움을 줍니다.",
+                  "image": ""
+                },
+                {
+                  "name": "LED 리어 콤비네이션램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26388.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26389.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "356726",
+              "name": "컴포트 I",
+              "price": 600000,
+              "code": "A14",
+              "percent": 37,
+              "items": [
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앞좌석 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 풀 폴딩시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트 높이조절장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트벨트 높이조절장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "356727",
+              "name": "컴포트 II",
+              "price": 450000,
+              "code": "A15",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "뒷좌석 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 슬라이딩 6:4 폴딩시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고급형 센터콘솔",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 세이프티 파워윈도우",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷좌석 C타입 USB 단자(충전용)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 보드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 언더트레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "356728",
+              "name": "드라이브 와이즈",
+              "price": 300000,
+              "code": "A17",
+              "percent": 34,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/27201.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26432.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26433.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26434.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "ebecee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아스트로 그레이(M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "밀키 베이지(M9Y)",
+              "colorHexadecimal": "c5c3bd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아쿠아 민트(AEQ)",
+              "colorHexadecimal": "a2c7c4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스모크 블루(EU3)",
+              "colorHexadecimal": "282d47",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린(A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93635,
+          "trimName": "에어",
+          "price": 30350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "ebecee",
+              "rank": 1,
+              "percent": 64,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아스트로 그레이(M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 3,
+              "percent": 12,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "밀키 베이지(M9Y)",
+              "colorHexadecimal": "c5c3bd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아쿠아 민트(AEQ)",
+              "colorHexadecimal": "a2c7c4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스모크 블루(EU3)",
+              "colorHexadecimal": "282d47",
+              "rank": 2,
+              "percent": 16,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린(A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "b6b8b6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53389,
+      "name": "전기 (1인승 밴)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93636,
+          "trimName": "라이트",
+          "price": 27950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356739",
+              "name": "컴포트 I",
+              "price": 350000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트 암레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트 높이조절장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트벨트 높이조절장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷유리 와이퍼&amp;와셔 노즐",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "356740",
+              "name": "드라이브 와이즈",
+              "price": 300000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/27201.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26432.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26433.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26434.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "ebecee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아스트로 그레이(M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "밀키 베이지(M9Y)",
+              "colorHexadecimal": "c5c3bd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아쿠아 민트(AEQ)",
+              "colorHexadecimal": "a2c7c4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스모크 블루(EU3)",
+              "colorHexadecimal": "282d47",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린(A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93637,
+          "trimName": "에어",
+          "price": 28400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356741",
+              "name": "드라이브 와이즈",
+              "price": 300000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/27201.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26432.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26433.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26434.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "ebecee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아스트로 그레이(M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "밀키 베이지(M9Y)",
+              "colorHexadecimal": "c5c3bd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아쿠아 민트(AEQ)",
+              "colorHexadecimal": "a2c7c4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스모크 블루(EU3)",
+              "colorHexadecimal": "282d47",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린(A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53390,
+      "name": "전기 (2인승 밴)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93638,
+          "trimName": "라이트",
+          "price": 28050000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356749",
+              "name": "컴포트 I",
+              "price": 400000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앞좌석 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트 암레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트 높이조절장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트벨트 높이조절장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "뒷유리 와이퍼&amp;와셔 노즐",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "356750",
+              "name": "드라이브 와이즈",
+              "price": 300000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/27201.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26432.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26433.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26434.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "ebecee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아스트로 그레이(M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "밀키 베이지(M9Y)",
+              "colorHexadecimal": "c5c3bd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아쿠아 민트(AEQ)",
+              "colorHexadecimal": "a2c7c4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스모크 블루(EU3)",
+              "colorHexadecimal": "282d47",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린(A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93639,
+          "trimName": "에어",
+          "price": 28550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356751",
+              "name": "컴포트 II",
+              "price": 250000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 풀 폴딩시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "356752",
+              "name": "드라이브 와이즈",
+              "price": 300000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/27201.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26432.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26433.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4567/items/26434.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트(UD)",
+              "colorHexadecimal": "ebecee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아스트로 그레이(M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄(ABP)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "밀키 베이지(M9Y)",
+              "colorHexadecimal": "c5c3bd",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "아쿠아 민트(AEQ)",
+              "colorHexadecimal": "a2c7c4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스모크 블루(EU3)",
+              "colorHexadecimal": "282d47",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린(A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

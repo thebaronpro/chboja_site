@@ -1,0 +1,62 @@
+{
+  "model_id": 4472,
+  "brand": "랜드로버",
+  "name": "Range Rover Velar",
+  "img": "https://autoimg.danawa.com/photo/4472/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53686,
+      "name": "가솔린 2.0 플러그인 하이브리드",
+      "year": "2026.5년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94657,
+          "trimName": "P400e Dynamic SE",
+          "price": 120970000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53687,
+      "name": "가솔린 2.0",
+      "year": "2026.5년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94658,
+          "trimName": "P250 Dynamic SE",
+          "price": 94100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53688,
+      "name": "가솔린 3.0",
+      "year": "2026.5년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94659,
+          "trimName": "P400 Dynamic HSE",
+          "price": 130570000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5342 @@
+{
+  "model_id": 4646,
+  "brand": "KG모빌리티",
+  "name": "토레스",
+  "img": "https://autoimg.danawa.com/photo/4646/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53096,
+      "name": "가솔린 터보 하이브리드 1.5",
+      "year": "2025년형",
+      "percent": 56,
+      "trims": [
+        {
+          "trimNo": 92322,
+          "trimName": "T5 2WD",
+          "price": 31400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "347201",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 16,
+              "items": []
+            },
+            {
+              "seq": "347202",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347203",
+              "name": "밸류업 패키지",
+              "price": 1200000,
+              "code": "A12",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "하이패스 시스템(ETCS)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27997.jpg"
+                },
+                {
+                  "name": "전방 주차 보조 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 다이아몬드 컷팅 휠 &amp; 235/55R18 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27999.jpg"
+                },
+                {
+                  "name": "운전석 8way 전동시트 &amp; 전동식 2way 럼버서포트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "유틸리티 루프랙",
+                  "exp": "-아웃도어 루프박스, 루프탑 텐트를 안전하게 체결할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28082.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350784",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지 + 인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+              "price": 1500000,
+              "code": "A28",
+              "percent": 35,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+                  "exp": "-고속도로 및 일반 도로 주행 시 운전자가 설정한 속도를 기준으로 앞차와의 거리를 유지(가속/감속/정차/출발)하고, 최첨단 주행안전 보조 시스템을 통해 차선을 유지하도록 보조합니다. 또, 고속도로 주행 시 내비게이션 데이터를 바탕으로 안전 속도를 조절해 운전이 더 편해지는 최첨단 자율주행 보조 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27989.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350785",
+              "name": "딥 컨트롤 패키지Ⅱ + 스마트 파워 테일게이트 패키지",
+              "price": 1300000,
+              "code": "A29",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "테일게이트 실내 문열림 버튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92306,
+          "trimName": "T7 2WD",
+          "price": 36350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "347224",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347225",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347226",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A24",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347227",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347228",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A17",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "347229",
+              "name": "하이컴포트 패키지",
+              "price": 1800000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28090.jpg"
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 흡음형 타이어",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347230",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "그레이 투톤 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "그레이 투톤 인테리어 적용",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347231",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "브라운 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "브라운 인테리어 적용",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28005.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348896",
+              "name": "20인치 다이아몬드 컷팅 휠 + 흡음형 타이어",
+              "price": 650000,
+              "code": "A27",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347232",
+              "name": "스마트 파워 테일게이트 패키지",
+              "price": 750000,
+              "code": "A19",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "테일게이트 실내 문열림 버튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347233",
+              "name": "천연 가죽시트",
+              "price": 650000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347234",
+              "name": "딥 컨트롤 패키지 II",
+              "price": 650000,
+              "code": "A21",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/라떼 그레이지(EBL)",
+              "colorHexadecimal": "0e0d0e/b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/그랜드 화이트(WAA)",
+              "colorHexadecimal": "0e0d0e/ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/아이언 메탈(ADE)",
+              "colorHexadecimal": "0e0d0e/83899a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/포레스트 그린 (GAO)",
+              "colorHexadecimal": "0e0d0e/314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11,A20,A25"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A22,A20,A25"
+            }
+          ]
+        },
+        {
+          "trimNo": 92753,
+          "trimName": "블랙엣지 2WD",
+          "price": 39700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349646",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 23,
+              "items": []
+            },
+            {
+              "seq": "349647",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350781",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A24",
+              "percent": 15,
+              "items": []
+            },
+            {
+              "seq": "349650",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349651",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A17",
+              "percent": 35,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349648",
+              "name": "[커스터마이징] 알파인 오디오 시스템",
+              "price": 620000,
+              "code": "A26",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/라떼 그레이지(EBL)",
+              "colorHexadecimal": "0e0d0e/b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/그랜드 화이트(WAA)",
+              "colorHexadecimal": "0e0d0e/ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/아이언 메탈(ADE)",
+              "colorHexadecimal": "0e0d0e/83899a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/포레스트 그린 (GAO)",
+              "colorHexadecimal": "0e0d0e/314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53146,
+      "name": "가솔린 터보 1.5",
+      "year": "2025년형",
+      "percent": 32,
+      "trims": [
+        {
+          "trimNo": 92499,
+          "trimName": "T5 2WD",
+          "price": 28100000,
+          "transmission": "",
+          "percent": 11,
+          "options": [
+            {
+              "seq": "347734",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347735",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347736",
+              "name": "밸류업 패키지",
+              "price": 1200000,
+              "code": "A12",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "하이패스 시스템(ETCS)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27997.jpg"
+                },
+                {
+                  "name": "전방 주차 보조 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 다이아몬드 컷팅 휠 &amp; 235/55R18 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27999.jpg"
+                },
+                {
+                  "name": "운전석 8way 전동시트 &amp; 전동식 2way 럼버서포트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350788",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지 + 인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+              "price": 1500000,
+              "code": "A25",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+                  "exp": "-고속도로 및 일반 도로 주행 시 운전자가 설정한 속도를 기준으로 앞차와의 거리를 유지(가속/감속/정차/출발)하고, 최첨단 주행안전 보조 시스템을 통해 차선을 유지하도록 보조합니다. 또, 고속도로 주행 시 내비게이션 데이터를 바탕으로 안전 속도를 조절해 운전이 더 편해지는 최첨단 자율주행 보조 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27989.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350789",
+              "name": "딥 컨트롤 패키지Ⅱ + 스마트 파워 테일게이트 패키지",
+              "price": 1300000,
+              "code": "A26",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "테일게이트 실내 문열림 버튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A22"
+            }
+          ]
+        },
+        {
+          "trimNo": 92500,
+          "trimName": "T7 2WD",
+          "price": 31990000,
+          "transmission": "",
+          "percent": 67,
+          "options": [
+            {
+              "seq": "347758",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347759",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350791",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A27",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347761",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347762",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "347763",
+              "name": "하이컴포트 패키지",
+              "price": 1800000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 245/45R20 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28035.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "347764",
+              "name": "20인치 다이아몬드 컷팅 휠 + 타이어",
+              "price": 650000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347765",
+              "name": "스마트 파워 테일게이트 패키지",
+              "price": 750000,
+              "code": "A19",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "테일게이트 실내 문열림 버튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347766",
+              "name": "천연 가죽시트",
+              "price": 650000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347767",
+              "name": "딥 컨트롤 패키지 II",
+              "price": 650000,
+              "code": "A21",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "347768",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "그레이 투톤 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "그레이 투톤 인테리어 적용",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347769",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A22",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "브라운 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "브라운 인테리어 적용",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28005.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/라떼 그레이지(EBL)",
+              "colorHexadecimal": "0e0d0e/b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/그랜드 화이트(WAA)",
+              "colorHexadecimal": "0e0d0e/ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/아이언 메탈(ADE)",
+              "colorHexadecimal": "0e0d0e/83899a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/포레스트 그린 (GAO)",
+              "colorHexadecimal": "0e0d0e/314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11,A20,A24"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A22,A20,A24"
+            }
+          ]
+        },
+        {
+          "trimNo": 92501,
+          "trimName": "T7 AWD",
+          "price": 34010000,
+          "transmission": "",
+          "percent": 8,
+          "options": [
+            {
+              "seq": "347790",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347791",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350792",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A27",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347793",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347794",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A17",
+              "percent": 10,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "347795",
+              "name": "하이컴포트 패키지",
+              "price": 1800000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 245/45R20 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28035.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "347796",
+              "name": "20인치 다이아몬드 컷팅 휠 + 타이어",
+              "price": 650000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347797",
+              "name": "스마트 파워 테일게이트 패키지",
+              "price": 750000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "테일게이트 실내 문열림 버튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347798",
+              "name": "천연 가죽시트",
+              "price": 650000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347799",
+              "name": "딥 컨트롤 패키지 II",
+              "price": 650000,
+              "code": "A21",
+              "percent": 10,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "347800",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "그레이 투톤 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "그레이 투톤 인테리어 적용",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "347801",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "브라운 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "브라운 인테리어 적용",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28005.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/라떼 그레이지(EBL)",
+              "colorHexadecimal": "0e0d0e/b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/그랜드 화이트(WAA)",
+              "colorHexadecimal": "0e0d0e/ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/아이언 메탈(ADE)",
+              "colorHexadecimal": "0e0d0e/83899a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/포레스트 그린 (GAO)",
+              "colorHexadecimal": "0e0d0e/314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11,A20,A24"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A22,A20,A24"
+            }
+          ]
+        },
+        {
+          "trimNo": 92502,
+          "trimName": "블랙 엣지 2WD",
+          "price": 35150000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "347822",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347823",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350793",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A27",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347825",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347826",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/라떼 그레이지(EBL)",
+              "colorHexadecimal": "0e0d0e/b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/그랜드 화이트(WAA)",
+              "colorHexadecimal": "0e0d0e/ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/아이언 메탈(ADE)",
+              "colorHexadecimal": "0e0d0e/83899a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/포레스트 그린 (GAO)",
+              "colorHexadecimal": "0e0d0e/314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92503,
+          "trimName": "블랙 엣지 AWD",
+          "price": 37170000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "347844",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347845",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350794",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A27",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347847",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347848",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/라떼 그레이지(EBL)",
+              "colorHexadecimal": "0e0d0e/b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/그랜드 화이트(WAA)",
+              "colorHexadecimal": "0e0d0e/ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/아이언 메탈(ADE)",
+              "colorHexadecimal": "0e0d0e/83899a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/포레스트 그린 (GAO)",
+              "colorHexadecimal": "0e0d0e/314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53260,
+      "name": "LPG 1.5 (가솔린 바이퓨얼)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92770,
+          "trimName": "TL5 2WD",
+          "price": 31400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349856",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349857",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349858",
+              "name": "밸류업 패키지",
+              "price": 1200000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스 시스템(ETCS)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27997.jpg"
+                },
+                {
+                  "name": "전방 주차 보조 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 다이아몬드 컷팅 휠 &amp; 235/55R18 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27999.jpg"
+                },
+                {
+                  "name": "운전석 8way 전동시트 &amp; 전동식 2way 럼버서포트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349859",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "350798",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지 + 인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+              "price": 1500000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+                  "exp": "-고속도로 및 일반 도로 주행 시 운전자가 설정한 속도를 기준으로 앞차와의 거리를 유지(가속/감속/정차/출발)하고, 최첨단 주행안전 보조 시스템을 통해 차선을 유지하도록 보조합니다. 또, 고속도로 주행 시 내비게이션 데이터를 바탕으로 안전 속도를 조절해 운전이 더 편해지는 최첨단 자율주행 보조 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27989.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350799",
+              "name": "딥 컨트롤 패키지Ⅱ + 스마트 파워 테일게이트 패키지",
+              "price": 1300000,
+              "code": "A26",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "테일게이트 실내 문열림 버튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92771,
+          "trimName": "TL7 2WD",
+          "price": 35290000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349879",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349880",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350800",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A27",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349903",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349904",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A17",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349905",
+              "name": "하이컴포트 패키지",
+              "price": 1800000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 245/45R20 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28035.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349906",
+              "name": "20인치 다이아몬드 컷팅 휠 + 타이어",
+              "price": 650000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349907",
+              "name": "스마트 파워 테일게이트 패키지",
+              "price": 750000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "테일게이트 실내 문열림 버튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349908",
+              "name": "천연 가죽시트",
+              "price": 650000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349909",
+              "name": "딥 컨트롤 패키지 II",
+              "price": 650000,
+              "code": "A21",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349910",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "그레이 투톤 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "그레이 투톤 인테리어 적용",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349911",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A22",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "브라운 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "브라운 인테리어 적용",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28005.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/라떼 그레이지(EBL)",
+              "colorHexadecimal": "0e0d0e/b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/그랜드 화이트(WAA)",
+              "colorHexadecimal": "0e0d0e/ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/아이언 메탈(ADE)",
+              "colorHexadecimal": "0e0d0e/83899a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/포레스트 그린 (GAO)",
+              "colorHexadecimal": "0e0d0e/314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11,A20,A24"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A22,A20,A24"
+            }
+          ]
+        },
+        {
+          "trimNo": 92772,
+          "trimName": "TL7 AWD",
+          "price": 37310000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349913",
+              "name": "운전석 무릎 에어백",
+              "price": 250000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349914",
+              "name": "[커스터마이징] 사이드 스텝",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350801",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A27",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349916",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349917",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349918",
+              "name": "하이컴포트 패키지",
+              "price": 1800000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 245/45R20 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28035.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349919",
+              "name": "20인치 다이아몬드 컷팅 휠 + 타이어",
+              "price": 650000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349920",
+              "name": "스마트 파워 테일게이트 패키지",
+              "price": 750000,
+              "code": "A19",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "스마트 파워 테일게이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "테일게이트 실내 문열림 버튼",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349921",
+              "name": "천연 가죽시트",
+              "price": 650000,
+              "code": "A20",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349922",
+              "name": "딥 컨트롤 패키지 II",
+              "price": 650000,
+              "code": "A21",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349923",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "그레이 투톤 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "그레이 투톤 인테리어 적용",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349924",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "브라운 매쉬타입 인조 가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "브라운 인테리어 적용",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28005.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/라떼 그레이지(EBL)",
+              "colorHexadecimal": "0e0d0e/b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/그랜드 화이트(WAA)",
+              "colorHexadecimal": "0e0d0e/ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/아이언 메탈(ADE)",
+              "colorHexadecimal": "0e0d0e/83899a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙(LAK)/포레스트 그린 (GAO)",
+              "colorHexadecimal": "0e0d0e/314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A16"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "dfdedf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11,A20,A24"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "b3816c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A22,A20,A24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53148,
+      "name": "가솔린 터보 1.5 (밴)",
+      "year": "2025년형",
+      "percent": 6,
+      "trims": [
+        {
+          "trimNo": 92508,
+          "trimName": "TV5 2WD",
+          "price": 26710000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348033",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지",
+              "price": 1160000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348034",
+              "name": "운전석 무릎에어백",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348035",
+              "name": "[커스터마이징] 사이드 스텝 (좌/우)",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348036",
+              "name": "밸류업 패키지",
+              "price": 1880000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스 시스템(ETCS)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27997.jpg"
+                },
+                {
+                  "name": "전방 주차 보조 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 다이아몬드 컷팅 휠 &amp; 235/55R18 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27999.jpg"
+                },
+                {
+                  "name": "운전석 8way 전동시트 &amp; 전동식 2way 럼버서포트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+                  "exp": "-고속도로 및 일반 도로 주행 시 운전자가 설정한 속도를 기준으로 앞차와의 거리를 유지(가속/감속/정차/출발)하고, 최첨단 주행안전 보조 시스템을 통해 차선을 유지하도록 보조합니다. 또, 고속도로 주행 시 내비게이션 데이터를 바탕으로 안전 속도를 조절해 운전이 더 편해지는 최첨단 자율주행 보조 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27989.jpg"
+                },
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                },
+                {
+                  "name": "지능형 속도제한 보조(ISA)",
+                  "exp": "-고속도로 주행 시 내비게이션 정보(고정식/이동식/구간 단속 정보)와 차선 중심 추종 제어(횡방향 제어) 기술을 바탕으로 고속도로 주행을 보조해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28069.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92509,
+          "trimName": "TV7 2WD",
+          "price": 29670000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348048",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지",
+              "price": 1160000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348049",
+              "name": "운전석 무릎에어백",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348050",
+              "name": "[커스터마이징] 사이드 스텝 (좌/우)",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348051",
+              "name": "인텐스 패키지",
+              "price": 1530000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 245/45R20 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28035.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트 패키지(실내 문열림 버튼 미포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348052",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 630000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348053",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1070000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "c0c3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "875242",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            }
+          ]
+        },
+        {
+          "trimNo": 92510,
+          "trimName": "TV7 AWD",
+          "price": 31650000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348066",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지",
+              "price": 1160000,
+              "code": "A14",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348067",
+              "name": "운전석 무릎에어백",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348068",
+              "name": "[커스터마이징] 사이드 스텝 (좌/우)",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348069",
+              "name": "인텐스 패키지",
+              "price": 1530000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 245/45R20 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28035.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트 패키지(실내 문열림 버튼 미포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348070",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 630000,
+              "code": "A21",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348071",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1070000,
+              "code": "A17",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "c0c3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "875242",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53149,
+      "name": "LPG 1.5 (가솔린 바이퓨얼 밴)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92511,
+          "trimName": "TV5 2WD",
+          "price": 30010000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348105",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지",
+              "price": 1160000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348106",
+              "name": "운전석 무릎에어백",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348107",
+              "name": "[커스터마이징] 사이드 스텝 (좌/우)",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348108",
+              "name": "밸류업 패키지",
+              "price": 1880000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스 시스템(ETCS)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "ECM 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27997.jpg"
+                },
+                {
+                  "name": "전방 주차 보조 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "18인치 다이아몬드 컷팅 휠 &amp; 235/55R18 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27999.jpg"
+                },
+                {
+                  "name": "운전석 8way 전동시트 &amp; 전동식 2way 럼버서포트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+                  "exp": "-고속도로 및 일반 도로 주행 시 운전자가 설정한 속도를 기준으로 앞차와의 거리를 유지(가속/감속/정차/출발)하고, 최첨단 주행안전 보조 시스템을 통해 차선을 유지하도록 보조합니다. 또, 고속도로 주행 시 내비게이션 데이터를 바탕으로 안전 속도를 조절해 운전이 더 편해지는 최첨단 자율주행 보조 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27989.jpg"
+                },
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                },
+                {
+                  "name": "지능형 속도제한 보조(ISA)",
+                  "exp": "-고속도로 주행 시 내비게이션 정보(고정식/이동식/구간 단속 정보)와 차선 중심 추종 제어(횡방향 제어) 기술을 바탕으로 고속도로 주행을 보조해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28069.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92512,
+          "trimName": "TV7 2WD",
+          "price": 32970000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348120",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지",
+              "price": 1160000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348121",
+              "name": "운전석 무릎에어백",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348122",
+              "name": "[커스터마이징] 사이드 스텝 (좌/우)",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348123",
+              "name": "인텐스 패키지",
+              "price": 1530000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 245/45R20 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28035.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트 패키지(실내 문열림 버튼 미포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348124",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 630000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348125",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1070000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "c0c3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "875242",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            }
+          ]
+        },
+        {
+          "trimNo": 92513,
+          "trimName": "TV7 AWD",
+          "price": 34950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348138",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지",
+              "price": 1160000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348139",
+              "name": "운전석 무릎에어백",
+              "price": 250000,
+              "code": "A22",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348140",
+              "name": "[커스터마이징] 사이드 스텝 (좌/우)",
+              "price": 450000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348141",
+              "name": "인텐스 패키지",
+              "price": 1530000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "천연 가죽시트 (블랙 / 그레이 투톤 / 브라운 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다이아몬드 컷팅 휠 &amp; 245/45R20 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28035.jpg"
+                },
+                {
+                  "name": "스마트 파워 테일게이트 패키지(실내 문열림 버튼 미포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "348142",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 630000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "348143",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1070000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "라떼 그레이지(EBL)",
+              "colorHexadecimal": "b8aa9d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ebedea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "a0a0a0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "314442",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루(BAS)",
+              "colorHexadecimal": "2a2738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "0e0d0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "라이트 그레이",
+              "colorHexadecimal": "c0c3c8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "875242",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 51852,
+      "name": "LPG 1.5 (가솔린 바이퓨얼 택시)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 87973,
+          "trimName": "택시 2WD",
+          "price": 30930000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "312103",
+              "name": "운전석 무릎 에어백",
+              "price": 200000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "312104",
+              "name": "컨비니언스 패키지",
+              "price": 340000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 키",
+                  "exp": "- NFC 카드 타입",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28043.jpg"
+                },
+                {
+                  "name": "휴대폰 무선 충전기(15W)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28060.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "312105",
+              "name": "딥 컨트롤 패키지",
+              "price": 830000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+                  "exp": "-고속도로 및 일반 도로 주행 시 운전자가 설정한 속도를 기준으로 앞차와의 거리를 유지(가속/감속/정차/출발)하고, 최첨단 주행안전 보조 시스템을 통해 차선을 유지하도록 보조합니다. 또, 고속도로 주행 시 내비게이션 데이터를 바탕으로 안전 속도를 조절해 운전이 더 편해지는 최첨단 자율주행 보조 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27989.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "312106",
+              "name": "12.3인치 인포콘 내비게이션 패키지",
+              "price": 1050000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "양방향 공조제어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "312107",
+              "name": "스마트 파워 테일게이트",
+              "price": 690000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "312108",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ededea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "848aa1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 87974,
+          "trimName": "택시 AWD",
+          "price": 32850000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "312109",
+              "name": "운전석 무릎 에어백",
+              "price": 200000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "312110",
+              "name": "컨비니언스 패키지",
+              "price": 340000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 키",
+                  "exp": "- NFC 카드 타입",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28043.jpg"
+                },
+                {
+                  "name": "휴대폰 무선 충전기(15W)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28060.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "312111",
+              "name": "딥 컨트롤 패키지",
+              "price": 830000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인텔리전트 어댑티브 크루즈 컨트롤(IACC)",
+                  "exp": "-고속도로 및 일반 도로 주행 시 운전자가 설정한 속도를 기준으로 앞차와의 거리를 유지(가속/감속/정차/출발)하고, 최첨단 주행안전 보조 시스템을 통해 차선을 유지하도록 보조합니다. 또, 고속도로 주행 시 내비게이션 데이터를 바탕으로 안전 속도를 조절해 운전이 더 편해지는 최첨단 자율주행 보조 시스템입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27989.jpg"
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27990.jpg"
+                },
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "-차로를 변경할 때 후측방에 위치한 상대 차량과의 충돌 위험이 있다고 판단되면 운전자에게 경고해 주고, 편제동 제어를 통해 원래의 차선으로 유지시켜주는 기능입니다. (후측방 경고 BSW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27991.jpg"
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 주고, 긴급 제동하는 기능입니다.(후측방 접근 경고 RCTW 포함)",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27992.jpg"
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "-주차 중이거나 후진 주행 시 센서가 차량에 접근하는 물체를 감지하면 운전자에게 위험을 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27993.jpg"
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "-후방에 70m 이내로 접근하는 추월 차량을 감지하고 1차 (고속 추월 차량 존재 시), 2차(1차 경고 중 방향 지시등 조작 시)로 경고해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27994.jpg"
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "-주차 후 하차할 때 후측방으로 차량이 접근할 경우 경고 표시/경고음을 탑승객에게 알려줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/27995.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "312112",
+              "name": "12.3인치 인포콘 내비게이션 패키지",
+              "price": 1050000,
+              "code": "A13",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28007.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 맵 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안드로이드 오토",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28009.jpg"
+                },
+                {
+                  "name": "애플 카플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28010.jpg"
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28011.jpg"
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28012.jpg"
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28014.jpg"
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "양방향 공조제어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "312113",
+              "name": "스마트 파워 테일게이트",
+              "price": 690000,
+              "code": "A14",
+              "percent": 17,
+              "items": []
+            },
+            {
+              "seq": "312114",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A15",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "전방카메라 (클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4646/items/28006.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "ededea",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아이언 메탈(ADE)",
+              "colorHexadecimal": "848aa1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "303336",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

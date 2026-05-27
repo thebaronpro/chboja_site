@@ -1,0 +1,134 @@
+# ============================================================================
+# 수집 대상 차량 마스터 (Phase 1B — 15대)
+# 카테고리별로 인기/비인기, 잔가 패턴 분산 고려해서 선정
+# ============================================================================
+
+collection_policy:
+  contract_terms: [12, 24, 36, 48, 60]
+  annual_mileages: [10000, 15000, 20000, 30000, -1]   # -1 = 무제한
+  trims_per_vehicle: 2          # 최저 + 상위
+  prefer_year_code: "26MY"
+
+  validation_at:
+    term: 48
+    mileage: 10000
+  validation_prepay_pcts: [10, 20, 30]
+  validation_deposit_pcts: [10, 20, 30]
+
+
+vehicles:
+  # ─── 인기 가솔린 세단 (4대) ───
+  - id: avante
+    keyword: 아반떼
+    brand: 현대
+    category: sedan_popular
+    priority: P0
+    expected_residual_pct: [60, 70]
+
+  - id: sonata
+    keyword: 쏘나타
+    brand: 현대
+    category: sedan_popular
+    priority: P0
+    expected_residual_pct: [58, 68]
+
+  - id: grandeur
+    keyword: 그랜저
+    brand: 현대
+    category: sedan_popular
+    priority: P0
+    expected_residual_pct: [62, 72]
+
+  - id: k5
+    keyword: K5
+    brand: 기아
+    category: sedan_popular
+    priority: P1
+    expected_residual_pct: [55, 65]
+    notes: LPi 렌터카 트림 주의
+
+  # ─── 인기 SUV (4대) ───
+  - id: sportage
+    keyword: 스포티지
+    brand: 기아
+    category: suv_popular
+    priority: P0
+    expected_residual_pct: [62, 72]
+
+  - id: santafe
+    keyword: 싼타페
+    brand: 현대
+    category: suv_popular
+    priority: P0
+    expected_residual_pct: [60, 70]
+
+  - id: palisade
+    keyword: 팰리세이드
+    brand: 현대
+    category: suv_popular
+    priority: P0
+    expected_residual_pct: [60, 70]
+
+  - id: seltos
+    keyword: 셀토스
+    brand: 기아
+    category: suv_compact
+    priority: P0
+    expected_residual_pct: [60, 68]
+
+  # ─── 미니밴 (1대) ───
+  - id: carnival
+    keyword: 카니발
+    brand: 기아
+    category: minivan
+    priority: P0
+    expected_residual_pct: [62, 70]
+
+  # ─── 경차/소형 (2대 — 저잔가 패턴) ───
+  - id: morning
+    keyword: 모닝
+    brand: 기아
+    category: compact_low
+    priority: P1
+    expected_residual_pct: [45, 55]
+
+  - id: ray
+    keyword: 레이
+    brand: 기아
+    category: compact_low
+    priority: P1
+    expected_residual_pct: [48, 58]
+
+  # ─── 전기차 (2대 — 별도 상품코드) ───
+  - id: model3
+    keyword: Model 3
+    brand: 테슬라
+    category: ev_imported
+    priority: P1
+    product_code_override: "5020000002"
+    expected_residual_pct: [42, 52]
+
+  - id: ev6
+    keyword: EV6
+    brand: 기아
+    category: ev_domestic
+    priority: P1
+    product_code_override: "5020000002"
+    expected_residual_pct: [50, 60]
+
+  # ─── 수입차 (2대) ───
+  - id: bmw3
+    keyword: 3시리즈
+    brand: BMW
+    category: imported_sedan
+    priority: P2
+    product_code_override: "5020000002"
+    expected_residual_pct: [50, 60]
+
+  - id: benz_c
+    keyword: C-Class
+    brand: 벤츠
+    category: imported_sedan
+    priority: P2
+    product_code_override: "5020000002"
+    expected_residual_pct: [50, 60]

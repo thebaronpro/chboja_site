@@ -1,0 +1,84 @@
+{
+  "model_id": 4688,
+  "brand": "벤틀리",
+  "name": "The new Continental",
+  "img": "https://autoimg.danawa.com/photo/4688/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52082,
+      "name": "쿠페 가솔린 터보 4.0 플러그인 하이브리드",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93137,
+          "trimName": "GT Core",
+          "price": 336600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 88931,
+          "trimName": "GT Speed",
+          "price": 346100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 88933,
+          "trimName": "GT Mulliner",
+          "price": 374000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93138,
+          "trimName": "GT Azure",
+          "price": 393800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52083,
+      "name": "컨버터블 가솔린 터보 4.0 플러그인 하이브리드",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92444,
+          "trimName": "GTC Speed",
+          "price": 417000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92445,
+          "trimName": "GTC Mulliner",
+          "price": 451000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

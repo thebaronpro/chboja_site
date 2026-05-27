@@ -1,0 +1,26 @@
+{
+  "model_id": 3803,
+  "brand": "BMW",
+  "name": "2 Series",
+  "img": "https://autoimg.danawa.com/photo/3803/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52644,
+      "name": "쿠페 가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91238,
+          "trimName": "M240i xDrive Coupe Online Exclusive",
+          "price": 74300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

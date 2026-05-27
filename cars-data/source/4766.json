@@ -1,0 +1,5112 @@
+{
+  "model_id": 4766,
+  "brand": "KG모빌리티",
+  "name": "무쏘",
+  "img": "https://autoimg.danawa.com/photo/4766/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53570,
+      "name": "가솔린 터보 2.0",
+      "year": "2026년형",
+      "percent": 56,
+      "trims": [
+        {
+          "trimNo": 94135,
+          "trimName": "M5 2WD",
+          "price": 29900000,
+          "transmission": "",
+          "percent": 28,
+          "options": [
+            {
+              "seq": "359197",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359198",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지(M5)",
+              "price": 2300000,
+              "code": "A12",
+              "percent": 52,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30040.jpg"
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 안드로이드 오토",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 애플 카플레이",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침 모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "- 매뉴얼 에어컨 기본 적용시 자동 내기 순환 기능은 미작동함",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 유료 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 디지털 클러스터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트키 시스템(원격 시동, 오토 클로징 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인스트루먼트 패널 인조가죽 커버링",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94160,
+          "trimName": "M5 4WD",
+          "price": 31900000,
+          "transmission": "",
+          "percent": 21,
+          "options": [
+            {
+              "seq": "359212",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359213",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지(M5)",
+              "price": 2300000,
+              "code": "A12",
+              "percent": 37,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30040.jpg"
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 안드로이드 오토",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 애플 카플레이",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침 모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "- 매뉴얼 에어컨 기본 적용시 자동 내기 순환 기능은 미작동함",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 유료 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 디지털 클러스터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트키 시스템(원격 시동, 오토 클로징 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인스트루먼트 패널 인조가죽 커버링",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94161,
+          "trimName": "M7 2WD",
+          "price": 35900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359240",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359241",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359242",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 41,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359243",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359244",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94163,
+          "trimName": "M7 (그랜드 스타일) 2WD",
+          "price": 36700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359245",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359246",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359247",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359248",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359249",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94162,
+          "trimName": "M7 4WD",
+          "price": 37900000,
+          "transmission": "",
+          "percent": 24,
+          "options": [
+            {
+              "seq": "359263",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359264",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359265",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359266",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 11,
+              "items": []
+            },
+            {
+              "seq": "359267",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94164,
+          "trimName": "M7 (그랜드 스타일) 4WD",
+          "price": 38700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359281",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359282",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359283",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 11,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359284",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359285",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 11,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94165,
+          "trimName": "M9 2WD",
+          "price": 39900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359299",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94167,
+          "trimName": "M9 (그랜드 스타일) 2WD",
+          "price": 40700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359313",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94166,
+          "trimName": "M9 4WD",
+          "price": 41900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359327",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94168,
+          "trimName": "M9 (그랜드 스타일) 4WD",
+          "price": 42700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359341",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53583,
+      "name": "디젤 2.2",
+      "year": "2026년형",
+      "percent": 19,
+      "trims": [
+        {
+          "trimNo": 94169,
+          "trimName": "M5 2WD",
+          "price": 31700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359375",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359376",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지(M5)",
+              "price": 2300000,
+              "code": "A12",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30040.jpg"
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 안드로이드 오토",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 애플 카플레이",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침 모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "- 매뉴얼 에어컨 기본 적용시 자동 내기 순환 기능은 미작동함",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 유료 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 디지털 클러스터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트키 시스템(원격 시동, 오토 클로징 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인스트루먼트 패널 인조가죽 커버링",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94170,
+          "trimName": "M5 4WD",
+          "price": 33800000,
+          "transmission": "",
+          "percent": 28,
+          "options": [
+            {
+              "seq": "359390",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359391",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지(M5)",
+              "price": 2300000,
+              "code": "A12",
+              "percent": 44,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30040.jpg"
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 안드로이드 오토",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 애플 카플레이",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침 모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "- 매뉴얼 에어컨 기본 적용시 자동 내기 순환 기능은 미작동함",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 유료 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 디지털 클러스터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트키 시스템(원격 시동, 오토 클로징 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인스트루먼트 패널 인조가죽 커버링",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94171,
+          "trimName": "M7 2WD",
+          "price": 37700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359405",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359406",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359407",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 35,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359408",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359409",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94172,
+          "trimName": "M7 (그랜드 스타일) 2WD",
+          "price": 38500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359423",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359424",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359425",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359426",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359427",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94173,
+          "trimName": "M7 4WD",
+          "price": 39800000,
+          "transmission": "",
+          "percent": 34,
+          "options": [
+            {
+              "seq": "359441",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359442",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359443",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359444",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359445",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94174,
+          "trimName": "M7 (그랜드 스타일) 4WD",
+          "price": 40600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359459",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359460",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359461",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359462",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359463",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94175,
+          "trimName": "M9 2WD",
+          "price": 41700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359477",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94176,
+          "trimName": "M9 (그랜드 스타일) 2WD",
+          "price": 42500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359491",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94177,
+          "trimName": "M9 4WD",
+          "price": 43800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359505",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94178,
+          "trimName": "M9 (그랜드 스타일) 4WD",
+          "price": 44600000,
+          "transmission": "",
+          "percent": 9,
+          "options": [
+            {
+              "seq": "359519",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53584,
+      "name": "가솔린 터보 2.0 (롱 데크)",
+      "year": "2026년형",
+      "percent": 15,
+      "trims": [
+        {
+          "trimNo": 94179,
+          "trimName": "M5 4WD",
+          "price": 34100000,
+          "transmission": "",
+          "percent": 32,
+          "options": [
+            {
+              "seq": "359553",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359554",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지(M5)",
+              "price": 2300000,
+              "code": "A12",
+              "percent": 35,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30040.jpg"
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 안드로이드 오토",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 애플 카플레이",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침 모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "- 매뉴얼 에어컨 기본 적용시 자동 내기 순환 기능은 미작동함",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 유료 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 디지털 클러스터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트키 시스템(원격 시동, 오토 클로징 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인스트루먼트 패널 인조가죽 커버링",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359555",
+              "name": "파워리프 패키지",
+              "price": 700000,
+              "code": "A17",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "파워리프 서스펜션",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "17인치 엑스트라 로드 타이어 적용(최대 적재량 700kg : XL 타이어)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94180,
+          "trimName": "M7 4WD",
+          "price": 40100000,
+          "transmission": "",
+          "percent": 34,
+          "options": [
+            {
+              "seq": "359569",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359570",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359571",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359572",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359573",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 11,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94181,
+          "trimName": "M7 (그랜드 스타일) 4WD",
+          "price": 40900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359587",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359588",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359589",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359590",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359591",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94182,
+          "trimName": "M9 4WD",
+          "price": 44100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359605",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94183,
+          "trimName": "M9 (그랜드 스타일) 4WD",
+          "price": 44900000,
+          "transmission": "",
+          "percent": 18,
+          "options": [
+            {
+              "seq": "359619",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53586,
+      "name": "디젤 2.2 (롱 데크)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94185,
+          "trimName": "M5 4WD",
+          "price": 36000000,
+          "transmission": "",
+          "percent": 35,
+          "options": [
+            {
+              "seq": "359653",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359654",
+              "name": "12.3인치 KGM 링크 내비게이션 패키지(M5)",
+              "price": 2300000,
+              "code": "A12",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "12.3인치 터치 스크린 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30040.jpg"
+                },
+                {
+                  "name": "무선 소프트웨어 업데이트(OTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 안드로이드 오토",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "무선 애플 카플레이",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "음성인식 기능",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 카메라(조향연동 다이내믹 주차 가이드)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "AM/FM라디오",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "샤크핀 통합 안테나",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "USB 미디어",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블루투스 뮤직",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후석 취침 모드",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "자동 내기 순환 장치",
+                  "exp": "- 매뉴얼 에어컨 기본 적용시 자동 내기 순환 기능은 미작동함",
+                  "image": ""
+                },
+                {
+                  "name": "안전제일 서비스(에어백 전개 알림)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "올인원 서비스(차량 원격 제어 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 유료 서비스(지니 뮤직, 팟캐스트 등)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 디지털 클러스터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트키 시스템(원격 시동, 오토 클로징 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인스트루먼트 패널 인조가죽 커버링",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359655",
+              "name": "파워리프 패키지",
+              "price": 700000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파워리프 서스펜션",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "17인치 엑스트라 로드 타이어 적용(최대 적재량 700kg : XL 타이어)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94186,
+          "trimName": "M7 4WD",
+          "price": 42000000,
+          "transmission": "",
+          "percent": 33,
+          "options": [
+            {
+              "seq": "359669",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359670",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359671",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 11,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359672",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 15,
+              "items": []
+            },
+            {
+              "seq": "359673",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94187,
+          "trimName": "M7 (그랜드 스타일) 4WD",
+          "price": 42800000,
+          "transmission": "",
+          "percent": 13,
+          "options": [
+            {
+              "seq": "359687",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359688",
+              "name": "스마트 패키지",
+              "price": 500000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "휴대폰 무선충전기",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30060.jpg"
+                },
+                {
+                  "name": "디지털 키",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30061.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "359689",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 600000,
+              "code": "A14",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "후측방 충돌 방지 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌 방지 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후진 충돌 방지 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "359690",
+              "name": "나파 가죽시트 (블랙 또는 브라운 택 1)",
+              "price": 650000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "359691",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1000000,
+              "code": "A16",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30068.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 94188,
+          "trimName": "M9 4WD",
+          "price": 46000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359705",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94189,
+          "trimName": "M9 (그랜드 스타일) 4WD",
+          "price": 46800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "359719",
+              "name": "세이프티 선루프",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "세이프티 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4766/items/30077.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스모크 토프 OBH",
+              "colorHexadecimal": "716761",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 WAA",
+              "colorHexadecimal": "e3e5e6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "샌드스톤 베이지 EBK",
+              "colorHexadecimal": "b9b498",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "아마조니아 그린 GAM",
+              "colorHexadecimal": "313731",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이 ACM",
+              "colorHexadecimal": "606065",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "울트라 마린 BBE",
+              "colorHexadecimal": "143662",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 LAK",
+              "colorHexadecimal": "171719",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "3d3f42",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "a16348",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

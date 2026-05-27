@@ -1,0 +1,26 @@
+{
+  "model_id": 3580,
+  "brand": "애스턴마틴",
+  "name": "Vantage",
+  "img": "https://autoimg.danawa.com/photo/3580/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 46372,
+      "name": "쿠페 가솔린 4.0",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 86408,
+          "trimName": "V8 Coupe",
+          "price": 215000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

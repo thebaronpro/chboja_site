@@ -1,0 +1,36 @@
+{
+  "model_id": 4433,
+  "brand": "롤스로이스",
+  "name": "Spectre",
+  "img": "https://autoimg.danawa.com/photo/4433/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 50150,
+      "name": "전기",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 80967,
+          "trimName": "2doors",
+          "price": 622000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92830,
+          "trimName": "Black Badge",
+          "price": 719000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

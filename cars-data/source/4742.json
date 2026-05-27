@@ -1,0 +1,178 @@
+{
+  "model_id": 4742,
+  "brand": "현대",
+  "name": "아이오닉 6 N",
+  "img": "https://autoimg.danawa.com/photo/4742/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53334,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93227,
+          "trimName": "AWD",
+          "price": 79900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358431",
+              "name": "녹턴 그레이 매트 외장 컬러",
+              "price": 200000,
+              "code": "C08",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358432",
+              "name": "퍼포먼스 블루 펄 외장 컬러",
+              "price": 80000,
+              "code": "C09",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358433",
+              "name": "세레니티 화이트 펄 외장 컬러",
+              "price": 80000,
+              "code": "C10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358434",
+              "name": "빌트인 캠 2 Plus + N Race Cam",
+              "price": 590000,
+              "code": "A11",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "358435",
+              "name": "와이드 선루프",
+              "price": 630000,
+              "code": "A12",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "와이드 선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4742/items/29954.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358436",
+              "name": "스웨이드 내장재 + N Performance Parts 프리미엄 인테리어 패키지",
+              "price": 890000,
+              "code": "A13",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "스웨이드 내장재(헤드라이닝, 선바이저, A&amp;B필러)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4742/items/29955.jpg"
+                },
+                {
+                  "name": "프리미엄 인테리어 패키지(파수비오 가죽 스티어링 휠, 스웨이드 도어 암레스트 &amp; 센터 콘솔)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4742/items/29956.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358437",
+              "name": "[N퍼포먼스] 스포츠 디자인 패키지",
+              "price": 740000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "[N퍼포먼스] N 퍼포먼스 전용 매트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4742/items/29957.jpg"
+                },
+                {
+                  "name": "[N퍼포먼스] 카본 휠 캡",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4742/items/29958.jpg"
+                },
+                {
+                  "name": "[N퍼포먼스] 카본 도어 스커프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4742/items/29959.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "녹턴 그레이 매트(T9M)",
+              "colorHexadecimal": "41474b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "퍼포먼스 블루 펄(WFB)",
+              "colorHexadecimal": "5d778b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "세레니티 화이트 펄(W6H)",
+              "colorHexadecimal": "f2f3ee",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "녹턴 그레이 메탈릭(T2G)",
+              "colorHexadecimal": "484d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "222124",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤",
+              "colorHexadecimal": "2e2d30",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

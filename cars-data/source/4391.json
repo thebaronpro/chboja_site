@@ -1,0 +1,4056 @@
+{
+  "model_id": 4391,
+  "brand": "기아",
+  "name": "셀토스",
+  "img": "https://autoimg.danawa.com/photo/4391/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53252,
+      "name": "가솔린 터보 1.6",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92733,
+          "trimName": "트렌디 2WD",
+          "price": 22660000,
+          "transmission": "",
+          "percent": 43,
+          "options": [
+            {
+              "seq": "349377",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349378",
+              "name": "컨비니언스",
+              "price": 780000,
+              "code": "A19",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "버튼시동 스마트키 시스템(원격시동 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23341.jpg"
+                },
+                {
+                  "name": "인조가죽 슬라이딩 센터 콘솔 암레스트",
+                  "exp": "- 앞뒤 슬라이딩 기능이 적용된 콘솔 암레스트를 적용하여 사용 편의성을 높였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23342.jpg"
+                },
+                {
+                  "name": "블랙하이그로시 콘솔 어퍼커버",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349379",
+              "name": "10.25인치 내비게이션",
+              "price": 880000,
+              "code": "A29",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23358.jpg"
+                },
+                {
+                  "name": "공기청정 모드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23360.jpg"
+                },
+                {
+                  "name": "오토 디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "애프터 블로우",
+                  "exp": "- 에어컨 작동 시 발생하는 응축수를 건조하여 냄새 발생을 사전에 방지하도록 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23361.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92734,
+          "trimName": "트렌디 4WD",
+          "price": 24410000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349384",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349385",
+              "name": "컨비니언스",
+              "price": 780000,
+              "code": "A19",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "버튼시동 스마트키 시스템(원격시동 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23341.jpg"
+                },
+                {
+                  "name": "인조가죽 슬라이딩 센터 콘솔 암레스트",
+                  "exp": "- 앞뒤 슬라이딩 기능이 적용된 콘솔 암레스트를 적용하여 사용 편의성을 높였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23342.jpg"
+                },
+                {
+                  "name": "블랙하이그로시 콘솔 어퍼커버",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349386",
+              "name": "10.25인치 내비게이션",
+              "price": 880000,
+              "code": "A29",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23358.jpg"
+                },
+                {
+                  "name": "공기청정 모드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23360.jpg"
+                },
+                {
+                  "name": "오토 디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "애프터 블로우",
+                  "exp": "- 에어컨 작동 시 발생하는 응축수를 건조하여 냄새 발생을 사전에 방지하도록 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23361.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92735,
+          "trimName": "프레스티지 2WD",
+          "price": 26090000,
+          "transmission": "",
+          "percent": 12,
+          "options": [
+            {
+              "seq": "349391",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349392",
+              "name": "스타일",
+              "price": 830000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23345.jpg"
+                },
+                {
+                  "name": "프론트 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23347.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비네이션램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23348.jpg"
+                },
+                {
+                  "name": "루프랙",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349393",
+              "name": "10.25인치 내비게이션",
+              "price": 880000,
+              "code": "A29",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23358.jpg"
+                },
+                {
+                  "name": "공기청정 모드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23360.jpg"
+                },
+                {
+                  "name": "오토 디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "애프터 블로우",
+                  "exp": "- 에어컨 작동 시 발생하는 응축수를 건조하여 냄새 발생을 사전에 방지하도록 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23361.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349394",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349395",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349396",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92736,
+          "trimName": "프레스티지 4WD",
+          "price": 27840000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349404",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 32,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349405",
+              "name": "스타일",
+              "price": 830000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23345.jpg"
+                },
+                {
+                  "name": "프론트 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23347.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비네이션램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23348.jpg"
+                },
+                {
+                  "name": "루프랙",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349406",
+              "name": "10.25인치 내비게이션",
+              "price": 880000,
+              "code": "A29",
+              "percent": 34,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23358.jpg"
+                },
+                {
+                  "name": "공기청정 모드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23360.jpg"
+                },
+                {
+                  "name": "오토 디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "애프터 블로우",
+                  "exp": "- 에어컨 작동 시 발생하는 응축수를 건조하여 냄새 발생을 사전에 방지하도록 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23361.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349407",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349408",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349409",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92737,
+          "trimName": "시그니처 2WD",
+          "price": 28570000,
+          "transmission": "",
+          "percent": 33,
+          "options": [
+            {
+              "seq": "349417",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349418",
+              "name": "컴포트",
+              "price": 580000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 메모리시트",
+                  "exp": "- 운전석 시트 포지션 기억/재생 시스템을 적용해 운전자 변경 시의 시트 조작 편의성을 향상하고,\n이지 억세스(EASY ACCESS) 기능을 통해 운전자 승·하차 편의성을 향상했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23352.jpg"
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349419",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349420",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349421",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349422",
+              "name": "Bose 프리미엄 사운드",
+              "price": 580000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Bose 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23375.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349423",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349424",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+클리어 화이트(F1D)",
+              "colorHexadecimal": "040406/eeefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+플루톤 블루(F1A)",
+              "colorHexadecimal": "040406/3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "캐러멜",
+              "colorHexadecimal": "99745f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92738,
+          "trimName": "시그니처 4WD",
+          "price": 30320000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349432",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349433",
+              "name": "컴포트",
+              "price": 580000,
+              "code": "A21",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 메모리시트",
+                  "exp": "- 운전석 시트 포지션 기억/재생 시스템을 적용해 운전자 변경 시의 시트 조작 편의성을 향상하고,\n이지 억세스(EASY ACCESS) 기능을 통해 운전자 승·하차 편의성을 향상했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23352.jpg"
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349434",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349435",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349436",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349437",
+              "name": "Bose 프리미엄 사운드",
+              "price": 580000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Bose 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23375.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349438",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349439",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+클리어 화이트(F1D)",
+              "colorHexadecimal": "040406/eeefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+플루톤 블루(F1A)",
+              "colorHexadecimal": "040406/3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "캐러멜",
+              "colorHexadecimal": "99745f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92739,
+          "trimName": "X-Line 2WD",
+          "price": 29060000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349447",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349448",
+              "name": "컴포트",
+              "price": 580000,
+              "code": "A21",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 메모리시트",
+                  "exp": "- 운전석 시트 포지션 기억/재생 시스템을 적용해 운전자 변경 시의 시트 조작 편의성을 향상하고,\n이지 억세스(EASY ACCESS) 기능을 통해 운전자 승·하차 편의성을 향상했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23352.jpg"
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349449",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349450",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349451",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349452",
+              "name": "Bose 프리미엄 사운드",
+              "price": 580000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Bose 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23375.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349453",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349454",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+클리어 화이트(F1D)",
+              "colorHexadecimal": "040406/eeefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+플루톤 블루(F1A)",
+              "colorHexadecimal": "040406/3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "캐러멜",
+              "colorHexadecimal": "99745f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "미드나잇 그린",
+              "colorHexadecimal": "192726",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92740,
+          "trimName": "X-Line 4WD",
+          "price": 30810000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349462",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349463",
+              "name": "컴포트",
+              "price": 580000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 메모리시트",
+                  "exp": "- 운전석 시트 포지션 기억/재생 시스템을 적용해 운전자 변경 시의 시트 조작 편의성을 향상하고,\n이지 억세스(EASY ACCESS) 기능을 통해 운전자 승·하차 편의성을 향상했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23352.jpg"
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349464",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349465",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349466",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349467",
+              "name": "Bose 프리미엄 사운드",
+              "price": 580000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Bose 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23375.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349468",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349469",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+클리어 화이트(F1D)",
+              "colorHexadecimal": "040406/eeefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+플루톤 블루(F1A)",
+              "colorHexadecimal": "040406/3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "캐러멜",
+              "colorHexadecimal": "99745f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "미드나잇 그린",
+              "colorHexadecimal": "192726",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53253,
+      "name": "가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92741,
+          "trimName": "트렌디 2WD",
+          "price": 21690000,
+          "transmission": "",
+          "percent": 57,
+          "options": [
+            {
+              "seq": "349494",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349495",
+              "name": "컨비니언스",
+              "price": 780000,
+              "code": "A19",
+              "percent": 34,
+              "items": [
+                {
+                  "name": "버튼시동 스마트키 시스템(원격시동 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23341.jpg"
+                },
+                {
+                  "name": "인조가죽 슬라이딩 센터 콘솔 암레스트",
+                  "exp": "- 앞뒤 슬라이딩 기능이 적용된 콘솔 암레스트를 적용하여 사용 편의성을 높였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23342.jpg"
+                },
+                {
+                  "name": "블랙하이그로시 콘솔 어퍼커버",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349496",
+              "name": "10.25인치 내비게이션",
+              "price": 880000,
+              "code": "A29",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23358.jpg"
+                },
+                {
+                  "name": "공기청정 모드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23360.jpg"
+                },
+                {
+                  "name": "오토 디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "애프터 블로우",
+                  "exp": "- 에어컨 작동 시 발생하는 응축수를 건조하여 냄새 발생을 사전에 방지하도록 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23361.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92742,
+          "trimName": "트렌디 4WD",
+          "price": 23440000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349501",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349502",
+              "name": "컨비니언스",
+              "price": 780000,
+              "code": "A19",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "버튼시동 스마트키 시스템(원격시동 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23341.jpg"
+                },
+                {
+                  "name": "인조가죽 슬라이딩 센터 콘솔 암레스트",
+                  "exp": "- 앞뒤 슬라이딩 기능이 적용된 콘솔 암레스트를 적용하여 사용 편의성을 높였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23342.jpg"
+                },
+                {
+                  "name": "블랙하이그로시 콘솔 어퍼커버",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349503",
+              "name": "10.25인치 내비게이션",
+              "price": 880000,
+              "code": "A29",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23358.jpg"
+                },
+                {
+                  "name": "공기청정 모드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23360.jpg"
+                },
+                {
+                  "name": "오토 디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "애프터 블로우",
+                  "exp": "- 에어컨 작동 시 발생하는 응축수를 건조하여 냄새 발생을 사전에 방지하도록 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23361.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92743,
+          "trimName": "프레스티지 2WD",
+          "price": 25110000,
+          "transmission": "",
+          "percent": 20,
+          "options": [
+            {
+              "seq": "349508",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349509",
+              "name": "스타일",
+              "price": 830000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23345.jpg"
+                },
+                {
+                  "name": "프론트 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23347.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비네이션램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23348.jpg"
+                },
+                {
+                  "name": "루프랙",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349510",
+              "name": "10.25인치 내비게이션",
+              "price": 880000,
+              "code": "A29",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23358.jpg"
+                },
+                {
+                  "name": "공기청정 모드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23360.jpg"
+                },
+                {
+                  "name": "오토 디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "애프터 블로우",
+                  "exp": "- 에어컨 작동 시 발생하는 응축수를 건조하여 냄새 발생을 사전에 방지하도록 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23361.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349511",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349512",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349513",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92744,
+          "trimName": "프레스티지 4WD",
+          "price": 26870000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349521",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349522",
+              "name": "스타일",
+              "price": 830000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23345.jpg"
+                },
+                {
+                  "name": "프론트 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23347.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비네이션램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23348.jpg"
+                },
+                {
+                  "name": "루프랙",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349523",
+              "name": "10.25인치 내비게이션",
+              "price": 880000,
+              "code": "A29",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "10.25인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23358.jpg"
+                },
+                {
+                  "name": "공기청정 모드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23360.jpg"
+                },
+                {
+                  "name": "오토 디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "애프터 블로우",
+                  "exp": "- 에어컨 작동 시 발생하는 응축수를 건조하여 냄새 발생을 사전에 방지하도록 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23361.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349524",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349525",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349526",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92745,
+          "trimName": "시그니처 2WD",
+          "price": 27590000,
+          "transmission": "",
+          "percent": 16,
+          "options": [
+            {
+              "seq": "349534",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 35,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349535",
+              "name": "컴포트",
+              "price": 580000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 메모리시트",
+                  "exp": "- 운전석 시트 포지션 기억/재생 시스템을 적용해 운전자 변경 시의 시트 조작 편의성을 향상하고,\n이지 억세스(EASY ACCESS) 기능을 통해 운전자 승·하차 편의성을 향상했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23352.jpg"
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349536",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349537",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349538",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349539",
+              "name": "Bose 프리미엄 사운드",
+              "price": 580000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Bose 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23375.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349540",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349541",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+클리어 화이트(F1D)",
+              "colorHexadecimal": "040406/eeefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+플루톤 블루(F1A)",
+              "colorHexadecimal": "040406/3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "캐러멜",
+              "colorHexadecimal": "99745f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92746,
+          "trimName": "시그니처 4WD",
+          "price": 29350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349549",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349550",
+              "name": "컴포트",
+              "price": 580000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 메모리시트",
+                  "exp": "- 운전석 시트 포지션 기억/재생 시스템을 적용해 운전자 변경 시의 시트 조작 편의성을 향상하고,\n이지 억세스(EASY ACCESS) 기능을 통해 운전자 승·하차 편의성을 향상했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23352.jpg"
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349551",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349552",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349553",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349554",
+              "name": "Bose 프리미엄 사운드",
+              "price": 580000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Bose 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23375.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349555",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349556",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+클리어 화이트(F1D)",
+              "colorHexadecimal": "040406/eeefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+플루톤 블루(F1A)",
+              "colorHexadecimal": "040406/3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "캐러멜",
+              "colorHexadecimal": "99745f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92747,
+          "trimName": "X-Line 2WD",
+          "price": 28090000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349564",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349565",
+              "name": "컴포트",
+              "price": 580000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 메모리시트",
+                  "exp": "- 운전석 시트 포지션 기억/재생 시스템을 적용해 운전자 변경 시의 시트 조작 편의성을 향상하고,\n이지 억세스(EASY ACCESS) 기능을 통해 운전자 승·하차 편의성을 향상했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23352.jpg"
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349566",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349567",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349568",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349569",
+              "name": "Bose 프리미엄 사운드",
+              "price": 580000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Bose 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23375.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349570",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349571",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+클리어 화이트(F1D)",
+              "colorHexadecimal": "040406/eeefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+플루톤 블루(F1A)",
+              "colorHexadecimal": "040406/3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "캐러멜",
+              "colorHexadecimal": "99745f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "미드나잇 그린",
+              "colorHexadecimal": "192726",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92748,
+          "trimName": "X-Line 4WD",
+          "price": 29840000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "349579",
+              "name": "드라이브 와이즈",
+              "price": 970000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차)",
+                  "exp": "- 주행 중 교차로에서 좌회전 시 맞은편에서 다가오는 차량과 충돌 위험이 있다면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23333.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "- 차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23334.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발)",
+                  "exp": "- 고속도로 / 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23332.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349580",
+              "name": "컴포트",
+              "price": 580000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "가죽 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 메모리시트",
+                  "exp": "- 운전석 시트 포지션 기억/재생 시스템을 적용해 운전자 변경 시의 시트 조작 편의성을 향상하고,\n이지 억세스(EASY ACCESS) 기능을 통해 운전자 승·하차 편의성을 향상했습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23352.jpg"
+                },
+                {
+                  "name": "운전석 이지 억세스",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349581",
+              "name": "HUD",
+              "price": 530000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "컴바이너 헤드업 디스플레이",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23362.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349582",
+              "name": "스마트 커넥트",
+              "price": 880000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "기아 디지털 키 2 터치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23365.jpg"
+                },
+                {
+                  "name": "터치타입 아웃사이드 도어핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "빌트인 캠",
+                  "exp": "- 주행/주차 중 전/후방 카메라를 통해 영상을 기록하고, 내비게이션 화면을 통해 영상을 확인하거나\n스마트폰으로 전송할 수 있는 빌트인 영상기록 장치입니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23367.jpg"
+                },
+                {
+                  "name": "보조 배터리",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "349583",
+              "name": "모니터링 팩",
+              "price": 1170000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(10.25인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23372.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "- 안전한 주차를 위해 차량 주변의 상황을 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23369.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "- 방향지시등 스위치를 조작하면 해당 방향의 후측방 영상을 클러스터에 표시해 줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23371.jpg"
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "- 후진 중 후방 보행자 또는 물체와 충돌 위험이 감지되면 경고를 해주고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23373.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "- 차량 외부에서 차량을 전진 또는 후진 제어하여, 원격으로 주차 및 출차하도록 도와줍니다",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23374.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349584",
+              "name": "Bose 프리미엄 사운드",
+              "price": 580000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "Bose 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4391/items/23375.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "349585",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A23",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349586",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "플루톤 블루(PLU)",
+              "colorHexadecimal": "3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다크 오션 블루(BU3)",
+              "colorHexadecimal": "031134",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+클리어 화이트(F1D)",
+              "colorHexadecimal": "040406/eeefef",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+플루톤 블루(F1A)",
+              "colorHexadecimal": "040406/3c5e69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A23"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "333638",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "캐러멜",
+              "colorHexadecimal": "99745f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "미드나잇 그린",
+              "colorHexadecimal": "192726",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

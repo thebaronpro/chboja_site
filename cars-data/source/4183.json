@@ -1,0 +1,104 @@
+{
+  "model_id": 4183,
+  "brand": "로터스",
+  "name": "Eletre",
+  "img": "https://autoimg.danawa.com/photo/4183/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52830,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91615,
+          "trimName": "600",
+          "price": 144900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91613,
+          "trimName": "600 GT SE",
+          "price": 153900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93331,
+          "trimName": "600 Sport SE",
+          "price": 173900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91614,
+          "trimName": "900 Sport",
+          "price": 201900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93332,
+          "trimName": "900 Sport Carbon",
+          "price": 222900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 51818,
+      "name": "전기",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 89199,
+          "trimName": "Eletre",
+          "price": 149000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 87847,
+          "trimName": "Eletre S",
+          "price": 179000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 87848,
+          "trimName": "Eletre R",
+          "price": 209000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

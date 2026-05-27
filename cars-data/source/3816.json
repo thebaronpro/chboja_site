@@ -1,0 +1,44 @@
+{
+  "model_id": 3816,
+  "brand": "애스턴마틴",
+  "name": "DBX",
+  "img": "https://autoimg.danawa.com/photo/3816/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 49896,
+      "name": "가솔린 4.0",
+      "year": "2022년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 80018,
+          "trimName": "V8 DBX707",
+          "price": 317000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 44891,
+      "name": "가솔린 4.0",
+      "year": "2020년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 63457,
+          "trimName": "V8",
+          "price": 248000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

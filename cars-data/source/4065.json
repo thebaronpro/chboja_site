@@ -1,0 +1,77 @@
+{
+  "model_id": 4065,
+  "brand": "지프",
+  "name": "Grand Cherokee",
+  "img": "https://autoimg.danawa.com/photo/4065/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52942,
+      "name": "가솔린 3.6 L",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91812,
+          "trimName": "Summit Reserve",
+          "price": 102300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Baltic Gray Metallic Clear-Coat",
+              "colorHexadecimal": "323232",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Velvet Red Pearl-Coat",
+              "colorHexadecimal": "510e1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Silver Zynith",
+              "colorHexadecimal": "acafa6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Bright White Clear-Coat",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Diamond Black Crystal Pearl-Coat",
+              "colorHexadecimal": "08080c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "model_id": 4733,
+  "brand": "마세라티",
+  "name": "GranTurismo Folgore",
+  "img": "https://autoimg.danawa.com/photo/4733/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53710,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94846,
+          "trimName": "Folgore",
+          "price": 275300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53246,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92720,
+          "trimName": "Folgore",
+          "price": 244700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

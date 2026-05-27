@@ -1,0 +1,184 @@
+{
+  "model_id": 4632,
+  "brand": "르노코리아",
+  "name": "세닉 E-테크 일렉트릭",
+  "img": "https://autoimg.danawa.com/photo/4632/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53319,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93092,
+          "trimName": "테크노",
+          "price": 51590000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f4f5f5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "멜란지 그레이",
+              "colorHexadecimal": "6c6c6c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93093,
+          "trimName": "테크노 플러스",
+          "price": 54910000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "351961",
+              "name": "파킹 어시스트 팩 + 360도 3D 어라운드 뷰 + 주차 조향보조 시스템(EPA) + 스마트 룸미러",
+              "price": 1300000,
+              "code": "A11",
+              "percent": 61,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f4f5f5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "353131",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "티타늄 블랙",
+              "colorHexadecimal": "322a37",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93094,
+          "trimName": "아이코닉",
+          "price": 59550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "351962",
+              "name": "solarbay 파노라믹 선루프",
+              "price": 2000000,
+              "code": "A12",
+              "percent": 44,
+              "items": []
+            },
+            {
+              "seq": "361453",
+              "name": "라이트",
+              "price": -1300000,
+              "code": "A13",
+              "percent": 11,
+              "items": [
+                {
+                  "name": "라이트",
+                  "exp": "※ 기본 아이코닉 대비 라이트 미적용 품목\n- 내장 : 스마트 룸미러 미적용(프레임리스 룸미러 적용)\n- 편의 : 360도 3D 어라운드 뷰 미적용, 주차 조향보조 시스템(EPA) 미적용",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f4f5f5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "484848",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "353131",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "티타늄 블랙",
+              "colorHexadecimal": "322a37",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

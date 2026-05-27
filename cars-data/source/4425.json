@@ -1,0 +1,26 @@
+{
+  "model_id": 4425,
+  "brand": "람보르기니",
+  "name": "Urus S",
+  "img": "https://autoimg.danawa.com/photo/4425/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 50187,
+      "name": "가솔린 4.0",
+      "year": "2022년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 81118,
+          "trimName": "V8",
+          "price": 290000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

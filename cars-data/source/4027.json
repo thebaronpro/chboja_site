@@ -1,0 +1,290 @@
+{
+  "model_id": 4027,
+  "brand": "테슬라",
+  "name": "Model X",
+  "img": "https://autoimg.danawa.com/photo/4027/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52950,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91829,
+          "trimName": "AWD",
+          "price": 135000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "340454",
+              "name": "22인치 마키나 휠",
+              "price": 7902000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "340455",
+              "name": "블랙 &amp; 화이트 인테리어",
+              "price": 2874000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "340456",
+              "name": "크림 인테리어",
+              "price": 2874000,
+              "code": "A13",
+              "percent": 21,
+              "items": []
+            },
+            {
+              "seq": "340457",
+              "name": "6인승 시트",
+              "price": 9338000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "340458",
+              "name": "7인승 시트",
+              "price": 5028000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "340461",
+              "name": "풀 셀프 드라이빙(감독형)",
+              "price": 9043000,
+              "code": "A16",
+              "percent": 28,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "Stealth Grey",
+              "colorHexadecimal": "2a2930",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pearl White Multi-Coat",
+              "colorHexadecimal": "f0f1f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C11"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "Diamond Black",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "Ultra Red",
+              "colorHexadecimal": "ab0014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "Frost Blue Metallic",
+              "colorHexadecimal": "49678b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "All Black",
+              "colorHexadecimal": "0f0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Black and White",
+              "colorHexadecimal": "c7c7c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "Cream",
+              "colorHexadecimal": "d5ccbf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            }
+          ]
+        },
+        {
+          "trimNo": 91830,
+          "trimName": "Plaid",
+          "price": 150000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "340469",
+              "name": "22인치 마키나 휠",
+              "price": 7902000,
+              "code": "A11",
+              "percent": 22,
+              "items": []
+            },
+            {
+              "seq": "340470",
+              "name": "블랙 &amp; 화이트 인테리어",
+              "price": 2874000,
+              "code": "A12",
+              "percent": 16,
+              "items": []
+            },
+            {
+              "seq": "340471",
+              "name": "크림 인테리어",
+              "price": 2874000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "340472",
+              "name": "요크 스티어링 휠",
+              "price": 1461000,
+              "code": "A14",
+              "percent": 22,
+              "items": []
+            },
+            {
+              "seq": "340474",
+              "name": "풀 셀프 드라이빙(감독형)",
+              "price": 9043000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "Stealth Grey",
+              "colorHexadecimal": "2a2930",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pearl White Multi-Coat",
+              "colorHexadecimal": "f0f1f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C11"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "Diamond Black",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "Ultra Red",
+              "colorHexadecimal": "ab0014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "Frost Blue Metallic",
+              "colorHexadecimal": "49678b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "All Black",
+              "colorHexadecimal": "0f0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Black and White",
+              "colorHexadecimal": "c7c7c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "Cream",
+              "colorHexadecimal": "d5ccbf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

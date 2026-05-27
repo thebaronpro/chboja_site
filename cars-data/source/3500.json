@@ -1,0 +1,4620 @@
+{
+  "model_id": 3500,
+  "brand": "현대",
+  "name": "마이티",
+  "img": "https://autoimg.danawa.com/photo/3500/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52249,
+      "name": "디젤 4.0 (2.5톤 카고)",
+      "year": "2025년형",
+      "percent": 34,
+      "trims": [
+        {
+          "trimNo": 89494,
+          "trimName": "일반캡 장축(저상) 모던",
+          "price": 51740000,
+          "transmission": "",
+          "percent": 51,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89495,
+          "trimName": "일반캡 장축(저상) 프리미엄",
+          "price": 53680000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89508,
+          "trimName": "일반캡 장축(저상) 프리미엄",
+          "price": 57630000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89496,
+          "trimName": "일반캡 장축 프리미엄",
+          "price": 53580000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89509,
+          "trimName": "일반캡 장축 프리미엄",
+          "price": 57530000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89497,
+          "trimName": "슈퍼캡 장축(저상) 프리미엄",
+          "price": 54210000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325412",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325413",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89498,
+          "trimName": "슈퍼캡 장축(저상) 프리미엄",
+          "price": 58160000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325415",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325416",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89499,
+          "trimName": "슈퍼캡 장축 프리미엄",
+          "price": 54110000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325418",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325419",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89500,
+          "trimName": "슈퍼캡 장축 프리미엄",
+          "price": 58060000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325421",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325422",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89501,
+          "trimName": "슈퍼캡 장축(저상) 프레스티지",
+          "price": 56160000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325424",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325426",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89502,
+          "trimName": "슈퍼캡 장축(저상) 프레스티지",
+          "price": 60110000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325428",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325430",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89503,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 56060000,
+          "transmission": "",
+          "percent": 31,
+          "options": [
+            {
+              "seq": "325432",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325433",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89504,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 60010000,
+          "transmission": "",
+          "percent": 9,
+          "options": [
+            {
+              "seq": "325436",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325437",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89506,
+          "trimName": "더블캡 장축 프리미엄",
+          "price": 62730000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53077,
+      "name": "디젤 4.0 (3.1톤 카고)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92241,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 61660000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345600",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52251,
+      "name": "디젤 4.0 (3.5톤 카고)",
+      "year": "2025년형",
+      "percent": 25,
+      "trims": [
+        {
+          "trimNo": 89522,
+          "trimName": "일반캡 장축 모던",
+          "price": 53540000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89521,
+          "trimName": "일반캡 장축 프리미엄",
+          "price": 55480000,
+          "transmission": "",
+          "percent": 23,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89520,
+          "trimName": "일반캡 장축 프리미엄",
+          "price": 59030000,
+          "transmission": "",
+          "percent": 31,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89519,
+          "trimName": "일반캡 장축 프레스티지",
+          "price": 57530000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89518,
+          "trimName": "일반캡 장축 프레스티지",
+          "price": 61080000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89524,
+          "trimName": "슈퍼캡 장축 프리미엄",
+          "price": 56010000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325476",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325477",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89517,
+          "trimName": "슈퍼캡 장축 프리미엄",
+          "price": 59560000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325462",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325463",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89523,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 58060000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325471",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325472",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325473",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325474",
+              "name": "디스크 브레이크 패키지",
+              "price": 1200000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디스크브레이크(전/후)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "롱테이퍼스프링(전/후)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스테빌라이져바(전/후)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "345601",
+              "name": "PTO (타옵션 동시 적용불가)",
+              "price": 400000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89516,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 61610000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325458",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325459",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325460",
+              "name": "디스크 브레이크 (전/후)",
+              "price": 800000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "325461",
+              "name": "디스크 브레이크 패키지",
+              "price": 1200000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디스크브레이크(전/후)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "롱테이퍼스프링(전/후)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스테빌라이져바(전/후)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89525,
+          "trimName": "슈퍼캡 장축(광폭) 프레스티지",
+          "price": 60640000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325480",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89527,
+          "trimName": "슈퍼캡 장축(광폭) 프레스티지",
+          "price": 64190000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325483",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89530,
+          "trimName": "슈퍼캡 장축(광폭) 프레스티지 (알루미늄 적재함)",
+          "price": 68310000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89528,
+          "trimName": "슈퍼캡 초장축(광폭) 프레스티지",
+          "price": 60840000,
+          "transmission": "",
+          "percent": 15,
+          "options": [
+            {
+              "seq": "325485",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89529,
+          "trimName": "슈퍼캡 초장축(광폭) 프레스티지",
+          "price": 64390000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325488",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89531,
+          "trimName": "슈퍼캡 초장축(광폭) 프레스티지 (알루미늄 적재함)",
+          "price": 76640000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52252,
+      "name": "디젤 4.0 (4톤 카고- 에어브레이크/광폭)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 89536,
+          "trimName": "슈퍼캡 장축 모던",
+          "price": 59400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89534,
+          "trimName": "슈퍼캡 장축 프리미엄",
+          "price": 61340000,
+          "transmission": "",
+          "percent": 30,
+          "options": [
+            {
+              "seq": "325499",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89537,
+          "trimName": "슈퍼캡 장축 프리미엄",
+          "price": 65940000,
+          "transmission": "",
+          "percent": 20,
+          "options": [
+            {
+              "seq": "325503",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89533,
+          "trimName": "슈퍼캡 초장축 프리미엄",
+          "price": 61540000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325497",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89538,
+          "trimName": "슈퍼캡 초장축 프리미엄",
+          "price": 66140000,
+          "transmission": "",
+          "percent": 30,
+          "options": [
+            {
+              "seq": "325505",
+              "name": "상용차 전용 내비게이션 (후방카메라)",
+              "price": 1000000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89539,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 64390000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325507",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89540,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 68990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325509",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89543,
+          "trimName": "슈퍼캡 장축 프레스티지 (알루미늄 적재함)",
+          "price": 73560000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89541,
+          "trimName": "슈퍼캡 초장축 프레스티지",
+          "price": 64590000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325511",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89542,
+          "trimName": "슈퍼캡 초장축 프레스티지",
+          "price": 69190000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325513",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89544,
+          "trimName": "슈퍼캡 초장축 프레스티지 (알루미늄 적재함)",
+          "price": 82080000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53079,
+      "name": "디젤 4.0 (5.1톤 카고- 에어브레이크/광폭)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92252,
+          "trimName": "슈퍼캡 초장축 프레스티지",
+          "price": 70460000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345742",
+              "name": "디지털 타코그라프",
+              "price": 440000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52253,
+      "name": "디젤 4.0 (7.5톤 샤시캡)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 89545,
+          "trimName": "일반캡 단축 프리미엄",
+          "price": 53430000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89546,
+          "trimName": "일반캡 단축 프리미엄",
+          "price": 56980000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52254,
+      "name": "디젤 4.0 (8톤 샤시캡)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 89547,
+          "trimName": "일반캡 단축 프리미엄",
+          "price": 54930000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89548,
+          "trimName": "일반캡 단축 프리미엄",
+          "price": 58080000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89549,
+          "trimName": "일반캡 단축 프레스티지",
+          "price": 56980000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345748",
+              "name": "상용차전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89550,
+          "trimName": "일반캡 단축 프레스티지",
+          "price": 60130000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345749",
+              "name": "상용차전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89553,
+          "trimName": "슈퍼캡 장축(광폭) 프레스티지",
+          "price": 58990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345744",
+              "name": "상용차전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89554,
+          "trimName": "슈퍼캡 장축(광폭) 프레스티지",
+          "price": 62540000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345745",
+              "name": "상용차전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89555,
+          "trimName": "슈퍼캡 초장축(광폭) 프레스티지",
+          "price": 59190000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345746",
+              "name": "상용차전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89556,
+          "trimName": "슈퍼캡 초장축(광폭) 프레스티지",
+          "price": 62740000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345747",
+              "name": "상용차전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52255,
+      "name": "디젤 4.0 (10.3톤 샤시캡-에어브레이크/광폭)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 89559,
+          "trimName": "일반캡 단축 모던",
+          "price": 58670000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89560,
+          "trimName": "일반캡 단축 프리미엄",
+          "price": 60460000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89562,
+          "trimName": "일반캡 단축 프리미엄 (PTO)",
+          "price": 66360000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89561,
+          "trimName": "일반캡 중축 프리미엄",
+          "price": 60360000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89573,
+          "trimName": "일반캡 중축 프리미엄 (PTO)",
+          "price": 66260000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89564,
+          "trimName": "일반캡 단축 프레스티지",
+          "price": 62510000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345751",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89574,
+          "trimName": "일반캡 단축 프레스티지 (PTO)",
+          "price": 68410000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345752",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89568,
+          "trimName": "일반캡 중축 프레스티지",
+          "price": 62410000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345753",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89563,
+          "trimName": "일반캡 중축 프레스티지 (PTO)",
+          "price": 68310000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345754",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89569,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 62740000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345755",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89575,
+          "trimName": "슈퍼캡 장축 프레스티지",
+          "price": 67340000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345756",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89565,
+          "trimName": "슈퍼캡 장축 프레스티지 (PTO)",
+          "price": 69040000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345757",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89570,
+          "trimName": "슈퍼캡 초장축 프레스티지",
+          "price": 62940000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345758",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89576,
+          "trimName": "슈퍼캡 초장축 프레스티지",
+          "price": 67540000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345759",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89566,
+          "trimName": "슈퍼캡 초장축 프레스티지 (PTO)",
+          "price": 69240000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345760",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89571,
+          "trimName": "슈퍼캡 극초장축 프레스티지",
+          "price": 63140000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345761",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89577,
+          "trimName": "슈퍼캡 극초장축 프레스티지",
+          "price": 67740000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345762",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89567,
+          "trimName": "슈퍼캡 극초장축 프레스티지 (PTO)",
+          "price": 69440000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345763",
+              "name": "상용차 전용 내비게이션(후방카메라)",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "하이퍼실버(Z5S)",
+              "colorHexadecimal": "b5b4b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52248,
+      "name": "디젤 4.0 (특장차)",
+      "year": "2025년형",
+      "percent": 22,
+      "trims": [
+        {
+          "trimNo": 89490,
+          "trimName": "내장탑차 7.5톤 슈퍼캡 장축고상 프리미엄",
+          "price": 66790000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89491,
+          "trimName": "하이내장탑차 7.5톤 슈퍼캡 장축고상 프리미엄",
+          "price": 67740000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325399",
+              "name": "파워게이트(+무선리모컨)",
+              "price": 4050000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89492,
+          "trimName": "하이내장탑차 7.5톤 슈퍼캡 장축저상 프리미엄",
+          "price": 67840000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89493,
+          "trimName": "하이내장탑차 8톤 슈퍼캡 장축고상 프리미엄",
+          "price": 70120000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325400",
+              "name": "파워게이트(+무선리모컨) (파워게이트 적용 시 최대적재량 3,000kg)",
+              "price": 4050000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89488,
+          "trimName": "냉동탑차 7.5톤 슈퍼캡 장축고상 프리미엄",
+          "price": 72970000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89458,
+          "trimName": "냉동탑차 8톤 일반캡 장축고상 프리미엄",
+          "price": 76090000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89457,
+          "trimName": "하이냉동탑차 7.5톤 슈퍼캡 장축고상 프리미엄",
+          "price": 74870000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89456,
+          "trimName": "하이냉동탑차 7.5톤 슈퍼캡 장축저상 프리미엄",
+          "price": 75400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89455,
+          "trimName": "하이냉동탑차 8톤 슈퍼캡 장축고상 프리미엄",
+          "price": 78100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345933",
+              "name": "냉동기 추가(더블 냉동기) + 이동식 파티션 + 스탠도어부품",
+              "price": 4720000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89465,
+          "trimName": "냉동/냉장겸용탑차 7.5톤 슈퍼캡 장축고상 프리미엄",
+          "price": 79000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89467,
+          "trimName": "광폭 냉동탑차 8톤(와이드6.6) 슈퍼캡 장축고상 프레스티지",
+          "price": 85390000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345934",
+              "name": "냉동기추가(더블냉동기) + 이동식 파티션 + 스케이트레일 겸용 평판 바닥",
+              "price": 5480000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89469,
+          "trimName": "광폭 프리미엄 냉동탑차 8톤(와이드6.6) 슈퍼캡 장축고상 프레스티지",
+          "price": 93860000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345935",
+              "name": "냉동기추가(더블냉동기) + 이동식 파티션 + 사이드 양문형 도어(RH)",
+              "price": 6290000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89471,
+          "trimName": "광폭 프리미엄 냉동탑차 8톤(와이드6.6) 슈퍼캡 초장축고상 프레스티지",
+          "price": 98380000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89489,
+          "trimName": "광폭 프리미엄 냉동탑차 10.3톤(에어브레이크) 슈퍼캡 초장축고상 프레스티지",
+          "price": 103180000,
+          "transmission": "",
+          "percent": 13,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89474,
+          "trimName": "윙바디 8톤 슈퍼캡 장축고상 프레스티지",
+          "price": 80150000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89476,
+          "trimName": "광폭 윙바디 8톤(와이드6.6) 슈퍼캡 장축고상 프레스티지",
+          "price": 84910000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89486,
+          "trimName": "광폭 윙바디 10.3톤(에어브레이크) 슈퍼캡 장축고상 프레스티지",
+          "price": 97420000,
+          "transmission": "",
+          "percent": 22,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89478,
+          "trimName": "광폭 윙바디 8톤(와이드6.6) 슈퍼캡 초장축고상 프레스티지",
+          "price": 91550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89487,
+          "trimName": "광폭 윙바디 10.3톤(에어브레이크) 슈퍼캡 초장축고상 프레스티지",
+          "price": 103900000,
+          "transmission": "",
+          "percent": 17,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92253,
+          "trimName": "광폭 윙바디 10.3톤(에어브레이크) 슈퍼캡 극초장축고상 프레스티지",
+          "price": 106940000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89480,
+          "trimName": "광폭 냉장 윙바디 8톤(와이드6.6) 슈퍼캡 장축고상 프레스티지",
+          "price": 95800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89481,
+          "trimName": "덤프 7.5톤 일반캡 단축고상 프리미엄",
+          "price": 62780000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89482,
+          "trimName": "덤프 8톤 일반캡 단축고상 프리미엄",
+          "price": 65410000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "양키블루(UYU)",
+              "colorHexadecimal": "002561",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89483,
+          "trimName": "이동주유차 7.5톤 일반캡 단축고상 프리미엄",
+          "price": 71420000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89484,
+          "trimName": "이동주유차 8톤 일반캡 단축고상 프리미엄",
+          "price": 78060000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89485,
+          "trimName": "활어운반차 10.3톤(에어브레이크) 슈퍼캡 장축고상 프레스티지",
+          "price": 100360000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YWA)",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "060807",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

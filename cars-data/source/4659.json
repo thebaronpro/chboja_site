@@ -1,0 +1,1120 @@
+{
+  "model_id": 4659,
+  "brand": "르노코리아",
+  "name": "그랑 콜레오스",
+  "img": "https://autoimg.danawa.com/photo/4659/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52469,
+      "name": "가솔린 1.5 하이브리드 (E-TECH)",
+      "year": "2026년형",
+      "percent": 73,
+      "trims": [
+        {
+          "trimNo": 90821,
+          "trimName": "테크노",
+          "price": 38150000,
+          "transmission": "",
+          "percent": 17,
+          "options": [
+            {
+              "seq": "357487",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "337631",
+              "name": "12.3인치 동승석 디스플레이(R:아케이드 게임, cinema(OTT), 음악 스트리밍, 웹브라우저, 앱스토어, 포토링크) + FULL 오토 파킹 보조 + 후방 긴급 제동 보조",
+              "price": 1630000,
+              "code": "A11",
+              "percent": 38,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "미네랄 코퍼",
+              "colorHexadecimal": "88654e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "다크 블루 인조가죽 시트",
+              "colorHexadecimal": "393840",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90822,
+          "trimName": "아이코닉",
+          "price": 42090000,
+          "transmission": "",
+          "percent": 64,
+          "options": [
+            {
+              "seq": "357503",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357528",
+              "name": "파노라마 선루프",
+              "price": 1090000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357529",
+              "name": "BOSE 프리미엄 사운드 시스템(10 스피커) + 액티브 노이즈 캔슬레이션",
+              "price": 1290000,
+              "code": "A12",
+              "percent": 21,
+              "items": []
+            },
+            {
+              "seq": "357530",
+              "name": "증강현실 헤드업 디스플레이(AR-HUD) + 차음 윈드 쉴드 글라스 + 프레임리스 룸미러",
+              "price": 1190000,
+              "code": "A13",
+              "percent": 30,
+              "items": []
+            },
+            {
+              "seq": "357531",
+              "name": "20인치 투톤 하이랜드 알로이 휠 + 245/45 R20 저소음 폼 타이어",
+              "price": 400000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 2,
+              "percent": 18,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "새틴 어반 그레이",
+              "colorHexadecimal": "717171",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 1,
+              "percent": 45,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 3,
+              "percent": 18,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "미네랄 코퍼",
+              "colorHexadecimal": "88654e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "퀼팅 라이트 브라운 나파 인조가죽 시트",
+              "colorHexadecimal": "857c71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "다크 블루 나파 인조가죽 시트",
+              "colorHexadecimal": "393840",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90823,
+          "trimName": "에스프리 알핀",
+          "price": 44060000,
+          "transmission": "",
+          "percent": 13,
+          "options": [
+            {
+              "seq": "357536",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357537",
+              "name": "파노라마 선루프",
+              "price": 1090000,
+              "code": "A16",
+              "percent": 17,
+              "items": []
+            },
+            {
+              "seq": "357538",
+              "name": "BOSE 프리미엄 사운드 시스템(10 스피커) + 액티브 노이즈 캔슬레이션",
+              "price": 1290000,
+              "code": "A12",
+              "percent": 21,
+              "items": []
+            },
+            {
+              "seq": "357561",
+              "name": "증강현실 헤드업 디스플레이(AR-HUD) + 차음 윈드 쉴드 글라스",
+              "price": 1140000,
+              "code": "A17",
+              "percent": 21,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "새틴 어반 그레이",
+              "colorHexadecimal": "717171",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "퓨어 라이트 그레이 나파 인조가죽 시트",
+              "colorHexadecimal": "8d8c8f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙 나파 인조가죽 시트",
+              "colorHexadecimal": "151311",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94638,
+          "trimName": "에스카파드",
+          "price": 43920000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362423",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362448",
+              "name": "파노라마 선루프",
+              "price": 1090000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362424",
+              "name": "BOSE 프리미엄 사운드 시스템(10 스피커) + 액티브 노이즈 캔슬레이션",
+              "price": 1290000,
+              "code": "A12",
+              "percent": 20,
+              "items": []
+            },
+            {
+              "seq": "362425",
+              "name": "증강현실 헤드업 디스플레이(AR-HUD) + 차음 윈드 쉴드 글라스 + 프레임리스 룸미러",
+              "price": 1190000,
+              "code": "A13",
+              "percent": 22,
+              "items": []
+            },
+            {
+              "seq": "362449",
+              "name": "[액세서리] 루프박스",
+              "price": 1930000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "새틴 어반 그레이",
+              "colorHexadecimal": "717171",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "퀼팅 라이트 브라운 나파 인조가죽 시트",
+              "colorHexadecimal": "857c71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52470,
+      "name": "가솔린 터보 2.0",
+      "year": "2026년형",
+      "percent": 27,
+      "trims": [
+        {
+          "trimNo": 90827,
+          "trimName": "테크노",
+          "price": 34970000,
+          "transmission": "",
+          "percent": 27,
+          "options": [
+            {
+              "seq": "357635",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357636",
+              "name": "12.3인치 동승석 디스플레이(R:아케이드 게임, cinema(OTT), 음악스트리밍, 웹브라우저, 앱스토어, 포토링크) + FULL 오토 파킹 보조 + 후방 긴급 제동 보조",
+              "price": 1630000,
+              "code": "A11",
+              "percent": 28,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "미네랄 코퍼",
+              "colorHexadecimal": "88654e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "다크 블루 인조가죽 시트",
+              "colorHexadecimal": "393840",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90825,
+          "trimName": "아이코닉 2WD",
+          "price": 38810000,
+          "transmission": "",
+          "percent": 38,
+          "options": [
+            {
+              "seq": "357660",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357685",
+              "name": "파노라마 선루프",
+              "price": 1090000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357686",
+              "name": "BOSE 프리미엄 사운드 시스템(10 스피커)+액티브 노이즈 캔슬레이션",
+              "price": 1290000,
+              "code": "A12",
+              "percent": 14,
+              "items": []
+            },
+            {
+              "seq": "357691",
+              "name": "증강현실 헤드업 디스플레이(AR-HUD) + 차음 윈드 쉴드 글라스 + 프레임리스 룸미러",
+              "price": 1190000,
+              "code": "A13",
+              "percent": 34,
+              "items": []
+            },
+            {
+              "seq": "357692",
+              "name": "20인치 투톤 하이랜드 알로이 휠 + 245/45 R20 저소음 폼 타이어",
+              "price": 400000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "새틴 어반 그레이",
+              "colorHexadecimal": "717171",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "미네랄 코퍼",
+              "colorHexadecimal": "88654e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "퀼팅 라이트 브라운 나파 인조가죽 시트",
+              "colorHexadecimal": "857c71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "다크 블루 나파 인조가죽 시트",
+              "colorHexadecimal": "393840",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90824,
+          "trimName": "아이코닉 4WD",
+          "price": 41470000,
+          "transmission": "",
+          "percent": 30,
+          "options": [
+            {
+              "seq": "357727",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357728",
+              "name": "파노라마 선루프",
+              "price": 1090000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357729",
+              "name": "BOSE 프리미엄 사운드 시스템(10 스피커)+액티브 노이즈 캔슬레이션",
+              "price": 1290000,
+              "code": "A12",
+              "percent": 18,
+              "items": []
+            },
+            {
+              "seq": "357730",
+              "name": "증강현실 헤드업 디스플레이(AR-HUD) + 차음 윈드 쉴드 글라스 + 프레임리스 룸미러",
+              "price": 1190000,
+              "code": "A13",
+              "percent": 27,
+              "items": []
+            },
+            {
+              "seq": "358418",
+              "name": "20인치 투톤 하이랜드 알로이 휠 + 245/45 R20 저소음 폼 타이어",
+              "price": 400000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 2,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "새틴 어반 그레이",
+              "colorHexadecimal": "717171",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 1,
+              "percent": 50,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 3,
+              "percent": 25,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "미네랄 코퍼",
+              "colorHexadecimal": "88654e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "퀼팅 라이트 브라운 나파 인조가죽 시트",
+              "colorHexadecimal": "857c71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "다크 블루 나파 인조가죽 시트",
+              "colorHexadecimal": "393840",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90826,
+          "trimName": "에스프리 알핀",
+          "price": 40920000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "357697",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357698",
+              "name": "파노라마 선루프",
+              "price": 1090000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "357699",
+              "name": "BOSE 프리미엄 사운드 시스템(10 스피커)+액티브 노이즈 캔슬레이션",
+              "price": 1290000,
+              "code": "A12",
+              "percent": 43,
+              "items": []
+            },
+            {
+              "seq": "357722",
+              "name": "증강현실 헤드업 디스플레이(AR-HUD) + 차음 윈드 쉴드 글라스",
+              "price": 1140000,
+              "code": "A17",
+              "percent": 28,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "새틴 어반 그레이",
+              "colorHexadecimal": "717171",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "메탈릭 블랙",
+              "colorHexadecimal": "150f10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "퓨어 라이트 그레이 나파 인조가죽 시트",
+              "colorHexadecimal": "8d8c8f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙 나파 인조가죽 시트",
+              "colorHexadecimal": "151311",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94639,
+          "trimName": "에스카파드 2WD",
+          "price": 40790000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362482",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362507",
+              "name": "파노라마 선루프",
+              "price": 1090000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362483",
+              "name": "BOSE 프리미엄 사운드 시스템(10 스피커)+액티브 노이즈 캔슬레이션",
+              "price": 1290000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362484",
+              "name": "증강현실 헤드업 디스플레이(AR-HUD) + 차음 윈드 쉴드 글라스 + 프레임리스 룸미러",
+              "price": 1190000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362508",
+              "name": "[액세서리] 루프박스",
+              "price": 1930000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "새틴 어반 그레이",
+              "colorHexadecimal": "717171",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "퀼팅 라이트 브라운 나파 인조가죽 시트",
+              "colorHexadecimal": "857c71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94640,
+          "trimName": "에스카파드 4WD",
+          "price": 43450000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "362512",
+              "name": "[액세서리] R·beat 노래방 마이크",
+              "price": 210000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362513",
+              "name": "파노라마 선루프",
+              "price": 1090000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "362514",
+              "name": "BOSE 프리미엄 사운드 시스템(10 스피커)+액티브 노이즈 캔슬레이션",
+              "price": 1290000,
+              "code": "A12",
+              "percent": 33,
+              "items": []
+            },
+            {
+              "seq": "362515",
+              "name": "증강현실 헤드업 디스플레이(AR-HUD) + 차음 윈드 쉴드 글라스 + 프레임리스 룸미러",
+              "price": 1190000,
+              "code": "A13",
+              "percent": 33,
+              "items": []
+            },
+            {
+              "seq": "362516",
+              "name": "[액세서리] 루프박스",
+              "price": 1930000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "새틴 유니버스 화이트",
+              "colorHexadecimal": "e4e6e8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "새틴 어반 그레이",
+              "colorHexadecimal": "717171",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "클라우드 펄",
+              "colorHexadecimal": "f2f3f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "어반 그레이",
+              "colorHexadecimal": "707070",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "퀼팅 라이트 브라운 나파 인조가죽 시트",
+              "colorHexadecimal": "857c71",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

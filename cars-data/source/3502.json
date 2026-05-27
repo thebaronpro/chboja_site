@@ -1,0 +1,2303 @@
+{
+  "model_id": 3502,
+  "brand": "현대",
+  "name": "카운티",
+  "img": "https://autoimg.danawa.com/photo/3502/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53381,
+      "name": "디젤 4.0 (단축)",
+      "year": "2026년형",
+      "percent": 48,
+      "trims": [
+        {
+          "trimNo": 93599,
+          "trimName": "디럭스 자가용 (25인승)",
+          "price": 74600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356601",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53382,
+      "name": "디젤 4.0 (장축)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93600,
+          "trimName": "슈퍼 자가용 (25인승)",
+          "price": 80800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356606",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356607",
+              "name": "알로이휠",
+              "price": 1000000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356608",
+              "name": "8인치 내비게이션 + 후방카메라",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93601,
+          "trimName": "슈퍼 자가용 (25인승)",
+          "price": 86000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356609",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356610",
+              "name": "8인치 내비게이션 + 후방카메라",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93602,
+          "trimName": "슈퍼 영업용 (25인승)",
+          "price": 81090000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356611",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356612",
+              "name": "알로이휠",
+              "price": 1000000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356613",
+              "name": "8인치 내비게이션 + 후방카메라",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93603,
+          "trimName": "슈퍼 영업용 (25인승)",
+          "price": 86290000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356614",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356615",
+              "name": "8인치 내비게이션 + 후방카메라",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93604,
+          "trimName": "스페셜 자가용 (25인승)",
+          "price": 86000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356616",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93605,
+          "trimName": "스페셜 자가용 (25인승)",
+          "price": 90200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356617",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93606,
+          "trimName": "스페셜 영업용 (25인승)",
+          "price": 86290000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356618",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93607,
+          "trimName": "스페셜 영업용 (25인승)",
+          "price": 90490000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356619",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93608,
+          "trimName": "골드 자가용 (25인승)",
+          "price": 86700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356620",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93609,
+          "trimName": "골드 자가용 (25인승)",
+          "price": 90900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356621",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93610,
+          "trimName": "골드 영업용 (25인승)",
+          "price": 86990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356622",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93611,
+          "trimName": "골드 영업용 (25인승)",
+          "price": 91190000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356623",
+              "name": "고유도색(2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53383,
+      "name": "디젤 4.0 (초장축)",
+      "year": "2026년형",
+      "percent": 17,
+      "trims": [
+        {
+          "trimNo": 93612,
+          "trimName": "슈퍼 자가용 (25인승)",
+          "price": 88150000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356626",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93613,
+          "trimName": "슈퍼 자가용 (29인승)",
+          "price": 88450000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356627",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93614,
+          "trimName": "슈퍼 영업용 (25인승)",
+          "price": 88440000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356628",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93615,
+          "trimName": "슈퍼 영업용 (29인승)",
+          "price": 88740000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356629",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93616,
+          "trimName": "스페셜 자가용 (25인승)",
+          "price": 92350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356630",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93617,
+          "trimName": "스페셜 자가용 (29인승)",
+          "price": 92650000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356631",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93618,
+          "trimName": "스페셜 영업용 (25인승)",
+          "price": 92640000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356632",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93619,
+          "trimName": "스페셜 영업용 (29인승)",
+          "price": 92940000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356633",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93620,
+          "trimName": "골드 자가용 (25인승)",
+          "price": 93050000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356634",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93621,
+          "trimName": "골드 자가용 (29인승)",
+          "price": 93350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356635",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93622,
+          "trimName": "골드 영업용 (25인승)",
+          "price": 93340000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356636",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93623,
+          "trimName": "골드 영업용 (29인승)",
+          "price": 93640000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356637",
+              "name": "고유도색(단 2도색까지 가능)",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53391,
+      "name": "디젤 4.0 (장축 렌터카/리무진)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93640,
+          "trimName": "투어 렌터카 (15인승)",
+          "price": 94000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93641,
+          "trimName": "리무진 자가용 (11인승)",
+          "price": 94500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53392,
+      "name": "디젤 4.0 (마을버스)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93642,
+          "trimName": "디럭스 장축 전중문 (21인승)",
+          "price": 74300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356757",
+              "name": "디지털 타코그래프 미적용",
+              "price": -280000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356758",
+              "name": "브레이크팩",
+              "price": 400000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전륜 디스크 브레이크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후륜 드럼 브레이크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디스크패드 마모 인디케이터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93643,
+          "trimName": "디럭스 장축 전중문 (21인승)",
+          "price": 78500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356759",
+              "name": "디지털 타코그래프 미적용",
+              "price": -280000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356760",
+              "name": "브레이크팩",
+              "price": 400000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전륜 디스크 브레이크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후륜 드럼 브레이크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디스크패드 마모 인디케이터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93644,
+          "trimName": "디럭스 장축 중후문 (23인승)",
+          "price": 76800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356761",
+              "name": "디지털 타코그래프 미적용",
+              "price": -280000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356762",
+              "name": "브레이크팩",
+              "price": 400000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전륜 디스크 브레이크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후륜 드럼 브레이크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디스크패드 마모 인디케이터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93645,
+          "trimName": "디럭스 장축 중후문 (23인승)",
+          "price": 81000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356763",
+              "name": "디지털 타코그래프 미적용",
+              "price": -280000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "356764",
+              "name": "브레이크팩",
+              "price": 400000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전륜 디스크 브레이크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후륜 드럼 브레이크",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "디스크패드 마모 인디케이터",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93646,
+          "trimName": "디럭스 초장축 전중문 (23인승)",
+          "price": 76400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356765",
+              "name": "디지털 타코그래프 미적용",
+              "price": -280000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93647,
+          "trimName": "디럭스 초장축 전중문 (23인승)",
+          "price": 80600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356766",
+              "name": "디지털 타코그래프 미적용",
+              "price": -280000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미화이트(YAW)",
+              "colorHexadecimal": "fefdf5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "에크루베이지 투톤(RAA)",
+              "colorHexadecimal": "eae2d8/796d68",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53393,
+      "name": "디젤 4.0 (어린이버스)",
+      "year": "2026년형",
+      "percent": 24,
+      "trims": [
+        {
+          "trimNo": 93648,
+          "trimName": "디럭스 장축 (29인승)",
+          "price": 82150000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93649,
+          "trimName": "디럭스 장축 (29인승)",
+          "price": 86350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93650,
+          "trimName": "디럭스 초장축 (33인승)",
+          "price": 84900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93651,
+          "trimName": "디럭스 초장축 (33인승)",
+          "price": 89100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "레몬옐로우(WEY)",
+              "colorHexadecimal": "e7ea8b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

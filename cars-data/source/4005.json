@@ -1,0 +1,67 @@
+{
+  "model_id": 4005,
+  "brand": "폭스바겐",
+  "name": "ID.4",
+  "img": "https://autoimg.danawa.com/photo/4005/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53579,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94154,
+          "trimName": "Pro",
+          "price": 60407000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "글레이셔 화이트 메탈릭",
+              "colorHexadecimal": "f8fbfa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "블루 더스크 메탈릭",
+              "colorHexadecimal": "223269",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "문스톤 그레이",
+              "colorHexadecimal": "656a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "그레나딜라 블랙 메탈릭",
+              "colorHexadecimal": "313033",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

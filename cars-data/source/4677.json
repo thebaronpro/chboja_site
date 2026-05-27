@@ -1,0 +1,543 @@
+{
+  "model_id": 4677,
+  "brand": "현대",
+  "name": "디 올 뉴 넥쏘",
+  "img": "https://autoimg.danawa.com/photo/4677/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52013,
+      "name": "수소전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 88746,
+          "trimName": "익스클루시브",
+          "price": 76440000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350767",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "- e hi-pass 포함",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29690.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "오션 인디고 매트(NBK)",
+              "colorHexadecimal": "373e50",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 펄(TW3)",
+              "colorHexadecimal": "eaeeeb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄(TCM)",
+              "colorHexadecimal": "221f1e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "4a534b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "4a4c48",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "고요 카퍼 펄(VC2)",
+              "colorHexadecimal": "989385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이/아이보리 투톤",
+              "colorHexadecimal": "5f594f/d2cec5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "다크 틸",
+              "colorHexadecimal": "3d4340",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "2a2a2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92901,
+          "trimName": "익스클루시브 스페셜",
+          "price": 79277000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350769",
+              "name": "빌트인 캠 2 Plus + 증강현실 내비게이션",
+              "price": 590000,
+              "code": "A12",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 Plus",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29691.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29692.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350770",
+              "name": "실내외 V2L",
+              "price": 840000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29693.jpg"
+                },
+                {
+                  "name": "실외 V2L(커넥터리스 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29694.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350771",
+              "name": "파킹어시스트",
+              "price": 940000,
+              "code": "A14",
+              "percent": 32,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29695.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29696.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29697.jpg"
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29698.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350772",
+              "name": "Audio by BANG + OLUFSEN 사운드",
+              "price": 1130000,
+              "code": "A15",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "Audio by BANG &amp; OLUFSEN 사운드(14스피커, 외장앰프 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29699.jpg"
+                },
+                {
+                  "name": "액티브 로드 노이즈 컨트롤",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29700.jpg"
+                },
+                {
+                  "name": "액티브 사운드 디자인",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29701.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350773",
+              "name": "19인치 알로이 휠 + 타이어",
+              "price": 250000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "19인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29702.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "오션 인디고 매트(NBK)",
+              "colorHexadecimal": "373e50",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 펄(TW3)",
+              "colorHexadecimal": "eaeeeb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄(TCM)",
+              "colorHexadecimal": "221f1e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "4a534b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "4a4c48",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "고요 카퍼 펄(VC2)",
+              "colorHexadecimal": "989385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이/아이보리 투톤",
+              "colorHexadecimal": "5f594f/d2cec5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "다크 틸",
+              "colorHexadecimal": "3d4340",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "2a2a2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92902,
+          "trimName": "프레스티지",
+          "price": 83454000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350775",
+              "name": "빌트인 캠 2 Plus + 증강현실 내비게이션",
+              "price": 590000,
+              "code": "A12",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "빌트인 캠 2 Plus",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29691.jpg"
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29692.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350776",
+              "name": "실내외 V2L",
+              "price": 840000,
+              "code": "A13",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "실내 V2L",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29693.jpg"
+                },
+                {
+                  "name": "실외 V2L(커넥터리스 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29694.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350777",
+              "name": "비전루프",
+              "price": 890000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "비전루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29703.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350778",
+              "name": "디지털 사이드 미러",
+              "price": 1360000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 사이드 미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29704.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350779",
+              "name": "카메라 패키지",
+              "price": 740000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "디지털 센터 미러(카메라 클리닝 시스템 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29705.jpg"
+                },
+                {
+                  "name": "운전자 모니터링 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29706.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350780",
+              "name": "19인치 알로이 휠 + 타이어",
+              "price": 250000,
+              "code": "A16",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "19인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4677/items/29702.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "오션 인디고 매트(NBK)",
+              "colorHexadecimal": "373e50",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 펄(TW3)",
+              "colorHexadecimal": "eaeeeb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "팬텀 블랙 펄(TCM)",
+              "colorHexadecimal": "221f1e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아마존 그레이 메탈릭(A5G)",
+              "colorHexadecimal": "4a534b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "에코트로닉 그레이 펄(PE2)",
+              "colorHexadecimal": "4a4c48",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "고요 카퍼 펄(VC2)",
+              "colorHexadecimal": "989385",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이/아이보리 투톤",
+              "colorHexadecimal": "5f594f/d2cec5",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "다크 틸",
+              "colorHexadecimal": "3d4340",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "2a2a2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

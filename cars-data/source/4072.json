@@ -1,0 +1,82 @@
+{
+  "model_id": 4072,
+  "brand": "BMW",
+  "name": "X4",
+  "img": "https://autoimg.danawa.com/photo/4072/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52611,
+      "name": "가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93956,
+          "trimName": "xDrive20i xLine (P3)",
+          "price": 73300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93957,
+          "trimName": "xDrive20i M Sport Pro SE (P2)",
+          "price": 79300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93958,
+          "trimName": "xDrive20i M Sport Pro SE (P2-0)",
+          "price": 79300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53115,
+      "name": "가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93959,
+          "trimName": "M40i (P3)",
+          "price": 102200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52612,
+      "name": "디젤 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93960,
+          "trimName": "xDrive20d M Sport (P3)",
+          "price": 82300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

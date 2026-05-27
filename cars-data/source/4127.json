@@ -1,0 +1,100 @@
+{
+  "model_id": 4127,
+  "brand": "GMC",
+  "name": "Sierra",
+  "img": "https://autoimg.danawa.com/photo/4127/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52445,
+      "name": "가솔린 6.2",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 90769,
+          "trimName": "Denali",
+          "price": 94200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "턱시도 블랙 (GBA)",
+              "colorHexadecimal": "050505",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "젯 블랙",
+              "colorHexadecimal": "0e0e11",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90770,
+          "trimName": "Denali-X",
+          "price": 95900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "턱시도 블랙 (GBA)",
+              "colorHexadecimal": "050505",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "인디고 블루 (GAD)",
+              "colorHexadecimal": "021a36",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "러쉬 그레이 (G6M)",
+              "colorHexadecimal": "202020",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운 스톤",
+              "colorHexadecimal": "30201b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

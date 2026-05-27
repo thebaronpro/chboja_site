@@ -1,0 +1,138 @@
+{
+  "model_id": 4460,
+  "brand": "토요타",
+  "name": "Highlander",
+  "img": "https://autoimg.danawa.com/photo/4460/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52230,
+      "name": "가솔린 2.5 하이브리드",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 89415,
+          "trimName": "Platinum",
+          "price": 74030000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "PLATINUM WHITE PEARL MICA",
+              "colorHexadecimal": "9aa099",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "SILVER METALLIC",
+              "colorHexadecimal": "5e6169",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "GRAY METALLIC",
+              "colorHexadecimal": "47494d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "ATTITUDE BLACK MICA",
+              "colorHexadecimal": "0e0e0e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "RED MICA",
+              "colorHexadecimal": "8c2123",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "DARK BLUE MICA",
+              "colorHexadecimal": "091740",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "GREEN MICA METALLIC",
+              "colorHexadecimal": "1b3224",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "PRECIOUS GALENA",
+              "colorHexadecimal": "4c6a92",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 천연 가죽",
+              "colorHexadecimal": "292d2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "그레이 천연 가죽",
+              "colorHexadecimal": "909090",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "옐로우 브라운 천연 가죽",
+              "colorHexadecimal": "9a6139",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "model_id": 4417,
+  "brand": "링컨",
+  "name": "Navigator",
+  "img": "https://autoimg.danawa.com/photo/4417/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52936,
+      "name": "가솔린 3.5",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91797,
+          "trimName": "Black Label",
+          "price": 150400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Manhattan Green",
+              "colorHexadecimal": "072815",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "ABC",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Pristine White",
+              "colorHexadecimal": "eaece6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Silver Radiance",
+              "colorHexadecimal": "929597",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Infinite Black",
+              "colorHexadecimal": "042512",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Chroma Caviar Dark Gray",
+              "colorHexadecimal": "1f211d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "F",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Chroma Crystal Blue",
+              "colorHexadecimal": "79818e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "DE",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Central Park",
+              "colorHexadecimal": "29332f/512319",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "D",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Invitation",
+              "colorHexadecimal": "182123/49251a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "AE",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "Yacht Club",
+              "colorHexadecimal": "555b60/ccc3b8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BF",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "Chalet",
+              "colorHexadecimal": "d5d0cd/2b2e31",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

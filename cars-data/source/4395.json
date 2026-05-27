@@ -1,0 +1,180 @@
+{
+  "model_id": 4395,
+  "brand": "쉐보레",
+  "name": "콜로라도",
+  "img": "https://autoimg.danawa.com/photo/4395/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52454,
+      "name": "가솔린 2.7",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 90791,
+          "trimName": "Z71",
+          "price": 72790000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "336291",
+              "name": "Z71-X 에디션",
+              "price": 1700000,
+              "code": "A11",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "오프로드 사이드스텝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 블랙 보타이(전면)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스테인리스 머플러팁",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 플로어라이너(1열 &amp; 2열)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "콜로라도 로고 도어 실플레이트(1열)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "336292",
+              "name": "테크놀로지 팩",
+              "price": 2850000,
+              "code": "A12",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "어댑티브 크루즈 컨트롤",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 보행자 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "서라운드 비전카메라",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "언더바디 카메라(전면 &amp; 후면)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "Bose 프리미엄 사운드(앰프, 7 스피커)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "20인치 다크 안드로이드 알로이 휠",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "336293",
+              "name": "선루프",
+              "price": 800000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "토파즈 블루(GLT)",
+              "colorHexadecimal": "20679f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "턱시도 블랙(GBA)",
+              "colorHexadecimal": "040404",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "퓨어 화이트(GAZ)",
+              "colorHexadecimal": "ecebf0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스털링 그레이(GZB)",
+              "colorHexadecimal": "69676a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "샌드 듄(GTL)",
+              "colorHexadecimal": "949491",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "글로우 레드(GNT)",
+              "colorHexadecimal": "8a0e10",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "젯 블랙",
+              "colorHexadecimal": "363739",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

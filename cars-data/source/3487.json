@@ -1,0 +1,57 @@
+{
+  "model_id": 3487,
+  "brand": "동풍",
+  "name": "C31",
+  "img": "https://autoimg.danawa.com/photo/3487/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 47810,
+      "name": "가솔린 1.5",
+      "year": "2019년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 71719,
+          "trimName": "싱글캡",
+          "price": 12500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Diamond Silver",
+              "colorHexadecimal": "dddddf",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Polar White",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Gray",
+              "colorHexadecimal": "7e7e7f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

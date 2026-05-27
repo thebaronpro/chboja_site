@@ -1,0 +1,36 @@
+{
+  "model_id": 4616,
+  "brand": "포드",
+  "name": "Explorer",
+  "img": "https://autoimg.danawa.com/photo/4616/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52934,
+      "name": "가솔린 2.3",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91794,
+          "trimName": "ST-Line",
+          "price": 62000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91795,
+          "trimName": "Platinum",
+          "price": 68000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

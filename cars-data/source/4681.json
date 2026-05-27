@@ -1,0 +1,84 @@
+{
+  "model_id": 4681,
+  "brand": "미니",
+  "name": "Convertible",
+  "img": "https://autoimg.danawa.com/photo/4681/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53486,
+      "name": "가솔린 2.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94024,
+          "trimName": "Cooper C Classic",
+          "price": 47100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93918,
+          "trimName": "Cooper S Favoured",
+          "price": 52900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93919,
+          "trimName": "JCW",
+          "price": 59400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53267,
+      "name": "가솔린 2.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92793,
+          "trimName": "Cooper C Classic",
+          "price": 47100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92794,
+          "trimName": "Cooper S Favoured",
+          "price": 52500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92795,
+          "trimName": "JCW",
+          "price": 59300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

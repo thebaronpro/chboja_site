@@ -1,0 +1,1249 @@
+{
+  "model_id": 4554,
+  "brand": "기아",
+  "name": "모닝",
+  "img": "https://autoimg.danawa.com/photo/4554/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52374,
+      "name": "가솔린 1.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 90405,
+          "trimName": "트렌디",
+          "price": 13950000,
+          "transmission": "",
+          "percent": 21,
+          "options": [
+            {
+              "seq": "332518",
+              "name": "버튼시동 PACK",
+              "price": 500000,
+              "code": "A11",
+              "percent": 27,
+              "items": [
+                {
+                  "name": "버튼시동 스마트키 시스템(원격시동 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25169.jpg"
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25211.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332519",
+              "name": "스타일",
+              "price": 900000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25172.jpg"
+                },
+                {
+                  "name": "프론트 LED 턴시그널램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25173.jpg"
+                },
+                {
+                  "name": "LED 주간 주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25174.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비네이션램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25175.jpg"
+                },
+                {
+                  "name": "14인치 알로이 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25176.jpg"
+                },
+                {
+                  "name": "LED 리피터 일체형 아웃사이드 미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25177.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332522",
+              "name": "16인치 전면가공 휠",
+              "price": 500000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "195/45 R16 타이어 &amp; 전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/27398.jpg"
+                },
+                {
+                  "name": "후륜 디스크 브레이크",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/27397.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332523",
+              "name": "16인치 전면가공 휠",
+              "price": 400000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "195/45 R16 타이어 &amp; 전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/27398.jpg"
+                },
+                {
+                  "name": "후륜 디스크 브레이크",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/27397.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332520",
+              "name": "컴포트",
+              "price": 300000,
+              "code": "A15",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "인조가죽시트(블랙)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25179.jpg"
+                },
+                {
+                  "name": "앞좌석 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25180.jpg"
+                },
+                {
+                  "name": "운전석 시트 암레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전석 시트 높이조절장치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25182.jpg"
+                },
+                {
+                  "name": "앞좌석 시트벨트 높이조절장치",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25183.jpg"
+                },
+                {
+                  "name": "동승석 시트백 포켓",
+                  "exp": "동승석 시트백에 다양한 소품을 수납할 수 있는 포켓을 적용하여 수납 편의성을 높였습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25184.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332521",
+              "name": "컨비니언스",
+              "price": 150000,
+              "code": "A16",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "인조가죽 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25186.jpg"
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25187.jpg"
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25188.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332524",
+              "name": "8인치 내비게이션",
+              "price": 800000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "8인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "하이테크한 감성을 더하는 풀터치 방식의 8인치 내비게이션은 필요한 정보를 더 편리하게 전달합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25206.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25207.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25208.jpg"
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25209.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25210.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트 (UD)",
+              "colorHexadecimal": "e0dfe4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "밀키 베이지 (M9Y)",
+              "colorHexadecimal": "ccc8c2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린 (A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스파클링 실버 (KCS)",
+              "colorHexadecimal": "a5a4a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시그널 레드 (BEG)",
+              "colorHexadecimal": "9d2321",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아스트로 그레이 (M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "181415",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "272727",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90406,
+          "trimName": "프레스티지",
+          "price": 15750000,
+          "transmission": "",
+          "percent": 47,
+          "options": [
+            {
+              "seq": "332526",
+              "name": "스타일",
+              "price": 850000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25172.jpg"
+                },
+                {
+                  "name": "프론트 LED 턴시그널램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25173.jpg"
+                },
+                {
+                  "name": "LED 주간 주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25174.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비네이션램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25175.jpg"
+                },
+                {
+                  "name": "프론트 LED 센터 포지셔닝 램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25178.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332527",
+              "name": "16인치 전면가공 휠",
+              "price": 650000,
+              "code": "A14",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "195/45 R16 타이어 &amp; 전면가공 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/27398.jpg"
+                },
+                {
+                  "name": "후륜 디스크 브레이크",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/27397.jpg"
+                },
+                {
+                  "name": "전자식 파킹 브레이크(오토홀드 포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "332528",
+              "name": "컨비니언스",
+              "price": 150000,
+              "code": "A16",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "인조가죽 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25186.jpg"
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25187.jpg"
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25188.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332530",
+              "name": "드라이브 와이즈",
+              "price": 500000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차/정면 대향차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25200.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(정차&amp;재출발 기능 미포함)",
+                  "exp": "선행 차량과의 거리를 유지하며 운전자가 설정한 속도로 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25201.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/27203.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "차로 변경 중, 후측방에서 다가오는 차량과 충돌 위험 발생 시 경고를 합니다. 또한 평행 주차상태에서 전진 출차 중, 후측방에서 다가오는 차량과 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25202.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "후진 중 좌/우측에서 다가오는 차량과 충돌 위험 발생 시 경고를 합니다. 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25203.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25204.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332531",
+              "name": "8인치 내비게이션",
+              "price": 700000,
+              "code": "A22",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "8인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "하이테크한 감성을 더하는 풀터치 방식의 8인치 내비게이션은 필요한 정보를 더 편리하게 전달합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25206.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25207.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25208.jpg"
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25209.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트 (UD)",
+              "colorHexadecimal": "e0dfe4",
+              "rank": 1,
+              "percent": 57,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "밀키 베이지 (M9Y)",
+              "colorHexadecimal": "ccc8c2",
+              "rank": 2,
+              "percent": 29,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린 (A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 3,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스파클링 실버 (KCS)",
+              "colorHexadecimal": "a5a4a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시그널 레드 (BEG)",
+              "colorHexadecimal": "9d2321",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아스트로 그레이 (M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "181415",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "272727",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "332621",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90407,
+          "trimName": "시그니처",
+          "price": 17750000,
+          "transmission": "",
+          "percent": 18,
+          "options": [
+            {
+              "seq": "332533",
+              "name": "스타일",
+              "price": 850000,
+              "code": "A13",
+              "percent": 30,
+              "items": [
+                {
+                  "name": "LED 헤드램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25172.jpg"
+                },
+                {
+                  "name": "프론트 LED 턴시그널램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25173.jpg"
+                },
+                {
+                  "name": "LED 주간 주행등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25174.jpg"
+                },
+                {
+                  "name": "LED 리어 콤비네이션램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25175.jpg"
+                },
+                {
+                  "name": "프론트 LED 센터 포지셔닝 램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25178.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332535",
+              "name": "8인치 내비게이션",
+              "price": 700000,
+              "code": "A22",
+              "percent": 43,
+              "items": [
+                {
+                  "name": "8인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "하이테크한 감성을 더하는 풀터치 방식의 8인치 내비게이션은 필요한 정보를 더 편리하게 전달합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25206.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25207.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25208.jpg"
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25209.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332536",
+              "name": "선루프",
+              "price": 400000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25654.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트 (UD)",
+              "colorHexadecimal": "e0dfe4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "밀키 베이지 (M9Y)",
+              "colorHexadecimal": "ccc8c2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린 (A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스파클링 실버 (KCS)",
+              "colorHexadecimal": "a5a4a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시그널 레드 (BEG)",
+              "colorHexadecimal": "9d2321",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아스트로 그레이 (M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "181415",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "272727",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "332621",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그린",
+              "colorHexadecimal": "2d352f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90408,
+          "trimName": "GT-Line",
+          "price": 18700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "332539",
+              "name": "8인치 내비게이션",
+              "price": 700000,
+              "code": "A22",
+              "percent": 49,
+              "items": [
+                {
+                  "name": "8인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "하이테크한 감성을 더하는 풀터치 방식의 8인치 내비게이션은 필요한 정보를 더 편리하게 전달합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25206.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25207.jpg"
+                },
+                {
+                  "name": "6스피커",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25208.jpg"
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25209.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332540",
+              "name": "선루프",
+              "price": 400000,
+              "code": "A23",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25654.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트 (UD)",
+              "colorHexadecimal": "e0dfe4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "밀키 베이지 (M9Y)",
+              "colorHexadecimal": "ccc8c2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린 (A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스파클링 실버 (KCS)",
+              "colorHexadecimal": "a5a4a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시그널 레드 (BEG)",
+              "colorHexadecimal": "9d2321",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아스트로 그레이 (M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "181415",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "272727",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "332621",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그린",
+              "colorHexadecimal": "2d352f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52377,
+      "name": "가솔린 1.0 (밴)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 90415,
+          "trimName": "트렌디",
+          "price": 13750000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "332629",
+              "name": "버튼시동 PACK",
+              "price": 500000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "버튼시동 스마트키 시스템(원격시동 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25169.jpg"
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25211.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332630",
+              "name": "컨비니언스",
+              "price": 300000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "인조가죽 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25186.jpg"
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25187.jpg"
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25188.jpg"
+                },
+                {
+                  "name": "전동접이&amp;락폴딩 아웃사이드 미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25221.jpg"
+                },
+                {
+                  "name": "뒷좌석 파워 윈도우",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25222.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332632",
+              "name": "8인치 내비게이션",
+              "price": 700000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "8인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "하이테크한 감성을 더하는 풀터치 방식의 8인치 내비게이션은 필요한 정보를 더 편리하게 전달합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25206.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25207.jpg"
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25209.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25210.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트 (UD)",
+              "colorHexadecimal": "e0dfe4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "밀키 베이지 (M9Y)",
+              "colorHexadecimal": "ccc8c2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린 (A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스파클링 실버 (KCS)",
+              "colorHexadecimal": "a5a4a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시그널 레드 (BEG)",
+              "colorHexadecimal": "9d2321",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아스트로 그레이 (M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "181415",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "272727",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 90416,
+          "trimName": "프레스티지",
+          "price": 14400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "332633",
+              "name": "버튼시동 PACK",
+              "price": 500000,
+              "code": "A11",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "버튼시동 스마트키 시스템(원격시동 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25169.jpg"
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25211.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "332634",
+              "name": "컨비니언스",
+              "price": 150000,
+              "code": "A18",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "인조가죽 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25186.jpg"
+                },
+                {
+                  "name": "가죽 변속기 노브",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25187.jpg"
+                },
+                {
+                  "name": "열선 스티어링 휠",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25188.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350204",
+              "name": "8인치 내비게이션",
+              "price": 700000,
+              "code": "A21",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "8인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "하이테크한 감성을 더하는 풀터치 방식의 8인치 내비게이션은 필요한 정보를 더 편리하게 전달합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25206.jpg"
+                },
+                {
+                  "name": "내비게이션 무선 업데이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25207.jpg"
+                },
+                {
+                  "name": "전자식 룸미러",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25209.jpg"
+                },
+                {
+                  "name": "풀오토 에어컨",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4554/items/25210.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "클리어 화이트 (UD)",
+              "colorHexadecimal": "e0dfe4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "밀키 베이지 (M9Y)",
+              "colorHexadecimal": "ccc8c2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "어드벤쳐러스 그린 (A2G)",
+              "colorHexadecimal": "4c5d55",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스파클링 실버 (KCS)",
+              "colorHexadecimal": "a5a4a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "시그널 레드 (BEG)",
+              "colorHexadecimal": "9d2321",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아스트로 그레이 (M7G)",
+              "colorHexadecimal": "52534e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "오로라 블랙 펄 (ABP)",
+              "colorHexadecimal": "181415",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "272727",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "model_id": 4625,
+  "brand": "마세라티",
+  "name": "GranCabrio",
+  "img": "https://autoimg.danawa.com/photo/4625/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53711,
+      "name": "가솔린 3.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94848,
+          "trimName": "V6",
+          "price": 242800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94847,
+          "trimName": "Trofeo",
+          "price": 299300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52856,
+      "name": "가솔린 3.0",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 91653,
+          "trimName": "Trofeo",
+          "price": 316700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

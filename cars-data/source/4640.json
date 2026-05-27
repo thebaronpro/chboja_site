@@ -1,0 +1,94 @@
+{
+  "model_id": 4640,
+  "brand": "미니",
+  "name": "Aceman",
+  "img": "https://autoimg.danawa.com/photo/4640/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53703,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94767,
+          "trimName": "E Classic",
+          "price": 49800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94768,
+          "trimName": "SE Favoured",
+          "price": 58000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53111,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92368,
+          "trimName": "E Classic",
+          "price": 49700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92369,
+          "trimName": "SE Favoured",
+          "price": 58000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92563,
+          "trimName": "SE",
+          "price": 58600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93449,
+          "trimName": "Urban Ace",
+          "price": 61500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92799,
+          "trimName": "JCW",
+          "price": 62500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

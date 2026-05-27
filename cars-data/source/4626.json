@@ -1,0 +1,658 @@
+{
+  "model_id": 4626,
+  "brand": "현대",
+  "name": "ST1",
+  "img": "https://autoimg.danawa.com/photo/4626/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 52293,
+      "name": "전기 카고",
+      "year": "2026년형",
+      "percent": 67,
+      "trims": [
+        {
+          "trimNo": 93322,
+          "trimName": "스타일",
+          "price": 58740000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "353548",
+              "name": "빌트인 캠",
+              "price": 450000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "353549",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27744.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353550",
+              "name": "테크",
+              "price": 1550000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27746.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27747.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "원격 스마트 주차 보조는 차량 외부에서 원격으로 주차 및 출차하도록 도와줍니다. 운전자가 차량 외부에서 스마트 키를 사용하여 원격 전/후진 기능을 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27748.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "안전 하차 경고는 정차 후 탑승자가 차에서 내리려고 도어를 열 때, 후측방에서 접근하는 차량과 충돌 위험 발생 시 경고를 합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27749.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27751.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "서라운드 뷰 모니터는 안전한 주차와 주행을 위해 차량 주변 상황을 다양한 시점의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27752.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "후측방 모니터는 방향지시등 스위치 조작과 연동해 차로 변경 시 기존 아웃사이드 미러 대비 더 넓은 후측방 영역을 클러스터에 표시하여 안전한 주행을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27753.jpg"
+                },
+                {
+                  "name": "바디컬러 아웃사이드 미러(LED 방향지시등)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27754.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트(YAW)",
+              "colorHexadecimal": "f4f6fa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤(NNB)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89903,
+          "trimName": "스마트",
+          "price": 60400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "326852",
+              "name": "빌트인 캠",
+              "price": 450000,
+              "code": "A10",
+              "percent": 33,
+              "items": []
+            },
+            {
+              "seq": "326854",
+              "name": "컨비니언스Ⅰ",
+              "price": 850000,
+              "code": "A11",
+              "percent": 36,
+              "items": [
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29794.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29795.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27743.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27744.jpg"
+                },
+                {
+                  "name": "스마트 드라이브 레디",
+                  "exp": "시동 버튼을 누르지 않아도 착좌를 감지하여 시동이 걸리고 내비게이션 디스플레이가 켜지며 하차 시에는 자동으로 시동이 꺼집니다.\n* 카고 냉동 모델은 냉동기 온도 유지를 위해 스마트 드라이브 레디 기능 중 하차 시 시동 OFF 기능 미지원됩니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27745.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "326853",
+              "name": "테크",
+              "price": 1550000,
+              "code": "A12",
+              "percent": 31,
+              "items": [
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27746.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27747.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "원격 스마트 주차 보조는 차량 외부에서 원격으로 주차 및 출차하도록 도와줍니다. 운전자가 차량 외부에서 스마트 키를 사용하여 원격 전/후진 기능을 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27748.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "안전 하차 경고는 정차 후 탑승자가 차에서 내리려고 도어를 열 때, 후측방에서 접근하는 차량과 충돌 위험 발생 시 경고를 합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27749.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27751.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "서라운드 뷰 모니터는 안전한 주차와 주행을 위해 차량 주변 상황을 다양한 시점의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27752.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "후측방 모니터는 방향지시등 스위치 조작과 연동해 차로 변경 시 기존 아웃사이드 미러 대비 더 넓은 후측방 영역을 클러스터에 표시하여 안전한 주행을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27753.jpg"
+                },
+                {
+                  "name": "바디컬러 아웃사이드 미러(LED 방향지시등)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27754.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트(YAW)",
+              "colorHexadecimal": "f4f6fa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤(NNB)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89902,
+          "trimName": "프리미엄",
+          "price": 64180000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "326851",
+              "name": "빌트인 캠",
+              "price": 450000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "353554",
+              "name": "컨비니언스Ⅱ",
+              "price": 200000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29794.jpg"
+                },
+                {
+                  "name": "동승석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29796.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트(YAW)",
+              "colorHexadecimal": "f4f6fa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤(NNB)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52296,
+      "name": "전기 카고 냉동",
+      "year": "2026년형",
+      "percent": 14,
+      "trims": [
+        {
+          "trimNo": 89908,
+          "trimName": "스마트",
+          "price": 68750000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "326892",
+              "name": "빌트인 캠",
+              "price": 450000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "326893",
+              "name": "컨비니언스Ⅰ",
+              "price": 850000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29794.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29795.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27743.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27744.jpg"
+                },
+                {
+                  "name": "스마트 드라이브 레디",
+                  "exp": "시동 버튼을 누르지 않아도 착좌를 감지하여 시동이 걸리고 내비게이션 디스플레이가 켜지며 하차 시에는 자동으로 시동이 꺼집니다.\n* 카고 냉동 모델은 냉동기 온도 유지를 위해 스마트 드라이브 레디 기능 중 하차 시 시동 OFF 기능 미지원됩니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27745.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "326894",
+              "name": "테크",
+              "price": 1550000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌방지 보조(전진출차)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27746.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27747.jpg"
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "원격 스마트 주차 보조는 차량 외부에서 원격으로 주차 및 출차하도록 도와줍니다. 운전자가 차량 외부에서 스마트 키를 사용하여 원격 전/후진 기능을 사용할 수 있습니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27748.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "안전 하차 경고는 정차 후 탑승자가 차에서 내리려고 도어를 열 때, 후측방에서 접근하는 차량과 충돌 위험 발생 시 경고를 합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27749.jpg"
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27751.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "서라운드 뷰 모니터는 안전한 주차와 주행을 위해 차량 주변 상황을 다양한 시점의 영상으로 보여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27752.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "후측방 모니터는 방향지시등 스위치 조작과 연동해 차로 변경 시 기존 아웃사이드 미러 대비 더 넓은 후측방 영역을 클러스터에 표시하여 안전한 주행을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27753.jpg"
+                },
+                {
+                  "name": "바디컬러 아웃사이드 미러(LED 방향지시등)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27754.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트(YAW)",
+              "colorHexadecimal": "f4f6fa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤(NNB)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89909,
+          "trimName": "프리미엄",
+          "price": 72530000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "326895",
+              "name": "빌트인 캠",
+              "price": 450000,
+              "code": "A10",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "353565",
+              "name": "컨비니언스Ⅱ",
+              "price": 200000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29794.jpg"
+                },
+                {
+                  "name": "동승석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29796.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트(YAW)",
+              "colorHexadecimal": "f4f6fa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤(NNB)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52327,
+      "name": "전기 샤시캡",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 90105,
+          "trimName": "스마트",
+          "price": 56550000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "328998",
+              "name": "컨비니언스Ⅰ",
+              "price": 850000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29794.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29795.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27743.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27744.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "328999",
+              "name": "하이루프용 루프 브라켓",
+              "price": 100000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "353567",
+              "name": "플러그 앤 플레이(보조제동등 미적용 사양)",
+              "price": 0,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "플러그 앤 플레이(보조제동등 미적용 사양)",
+                  "exp": "※ 승용자동차 및 차량총중량 3.5톤 이하 화물자동차 및 특수자동차 보조제동등 필수</br>\n※ 플러그 앤 플레이 사양은 보조제동등 기능이 기본 포함</br>\n※ 개방형 적재함이 설치된 화물자동차 등의 특장차로 개조 시 보조제동등 미적용 사양 선택 필요",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트(YAW)",
+              "colorHexadecimal": "f4f6fa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤(NNB)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52328,
+      "name": "전기 특장 하이탑",
+      "year": "2026년형",
+      "percent": 11,
+      "trims": [
+        {
+          "trimNo": 90106,
+          "trimName": "스마트",
+          "price": 58000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "329001",
+              "name": "컨비니언스Ⅰ",
+              "price": 850000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "동승석 열선시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29794.jpg"
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/29795.jpg"
+                },
+                {
+                  "name": "스마트폰 무선충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27743.jpg"
+                },
+                {
+                  "name": "하이패스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4626/items/27744.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트(YAW)",
+              "colorHexadecimal": "f4f6fa",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 모노톤(NNB)",
+              "colorHexadecimal": "000000",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

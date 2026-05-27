@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>차보자 — 캐피탈 견적 비교</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0;font-family:'Pretendard Variable',-apple-system,sans-serif}
+  body{background:#fafafa;color:#0a0a0a;padding:1.5rem;max-width:760px;margin:0 auto}
+  h1{font-size:1.4rem;font-weight:900;margin-bottom:.3rem}
+  h1 small{font-size:.7rem;color:#737373;font-weight:600;margin-left:.5rem}
+  .hint{font-size:.78rem;color:#737373;margin-bottom:1.5rem}
+
+  .card{background:#fff;border:1px solid #e5e5e5;border-radius:12px;padding:1rem 1.25rem;margin-bottom:1rem}
+  .card h3{font-size:.85rem;font-weight:800;color:#525252;margin-bottom:.7rem;letter-spacing:-.01em}
+
+  .search-box{position:relative}
+  .search-box input{width:100%;padding:.85rem 1rem;border:1.5px solid #e5e5e5;border-radius:10px;font-size:1rem;outline:none}
+  .search-box input:focus{border-color:#2858E0}
+  .search-results{position:absolute;top:100%;left:0;right:0;background:#fff;border:1.5px solid #e5e5e5;border-radius:10px;max-height:320px;overflow-y:auto;z-index:10;margin-top:.3rem;box-shadow:0 4px 12px rgba(0,0,0,.08);display:none}
+  .search-results.show{display:block}
+  .search-item{padding:.7rem 1rem;cursor:pointer;border-bottom:1px solid #f5f5f5;font-size:.85rem}
+  .search-item:hover{background:#f5f5f5}
+  .search-item .brand{color:#737373;font-size:.72rem;font-weight:600}
+  .search-item .price{color:#1E4FCC;font-weight:700;margin-left:.5rem;font-size:.78rem}
+
+  .vinfo{display:none}
+  .vinfo.show{display:block}
+  .vinfo .vname{font-weight:800;font-size:1rem;color:#0a0a0a;margin-bottom:.35rem}
+  .vinfo .vmeta{font-size:.78rem;color:#525252;line-height:1.5}
+  .vinfo .vmeta strong{color:#1E4FCC}
+
+  .slider-row{margin-bottom:.8rem}
+  .slider-row label{display:flex;justify-content:space-between;font-weight:700;color:#0a0a0a;margin-bottom:.4rem;font-size:.82rem}
+  .slider-row label .val{color:#2858E0;font-weight:900}
+  input[type="range"]{width:100%;-webkit-appearance:none;height:5px;background:#e5e5e5;border-radius:3px;outline:none}
+  input[type="range"]::-webkit-slider-thumb{-webkit-appearance:none;width:18px;height:18px;background:#2858E0;border-radius:50%;cursor:pointer;border:3px solid #fff;box-shadow:0 2px 6px rgba(40,88,224,.3)}
+  .ticks{display:flex;justify-content:space-between;font-size:.65rem;color:#a3a3a3;margin-top:.2rem;padding:0 .2rem}
+
+  /* 캐피탈 비교 카드 */
+  .compare-grid{display:flex;flex-direction:column;gap:.6rem}
+  .cap-card{border:2px solid #e5e5e5;border-radius:12px;padding:.85rem 1.1rem;display:flex;align-items:center;gap:.75rem;background:#fff;transition:all .15s}
+  .cap-card.cheapest{border-color:#2858E0;background:#f5f9ff;box-shadow:0 4px 12px rgba(40,88,224,.12)}
+  .cap-card.disabled{opacity:.45;background:#fafafa}
+  .cap-card .cap-name{flex:1;font-weight:800;font-size:.95rem}
+  .cap-card .cap-name .badge-best{background:#2858E0;color:#fff;font-size:.62rem;font-weight:800;padding:.13rem .45rem;border-radius:5px;margin-left:.45rem;vertical-align:.1em}
+  .cap-card .cap-name .badge-pending{background:#737373;color:#fff;font-size:.62rem;padding:.13rem .45rem;border-radius:5px;margin-left:.45rem}
+  .cap-card .cap-price{font-size:1.15rem;font-weight:900;color:#0a0a0a;letter-spacing:-.02em;text-align:right;min-width:130px}
+  .cap-card.cheapest .cap-price{color:#1E4FCC}
+  .cap-card .cap-price small{font-size:.7rem;color:#a3a3a3;font-weight:600;display:block;margin-top:.15rem}
+  .cap-card .cap-actions{display:flex;flex-direction:column;gap:.3rem;min-width:90px}
+  .cap-card .cap-actions button{padding:.5rem .7rem;border:none;border-radius:6px;font-size:.72rem;font-weight:700;cursor:pointer;letter-spacing:-.01em;font-family:inherit}
+  .btn-consult{background:#2858E0;color:#fff}
+  .btn-consult:hover{background:#1E4FCC}
+  .btn-direct{background:#fff;color:#525252;border:1px solid #d4d4d4 !important}
+  .btn-direct:hover{background:#f5f5f5}
+  .cap-card.disabled .cap-actions{visibility:hidden}
+
+  .detail{font-size:.7rem;color:#737373;padding:.4rem .9rem;background:#fafafa;border-radius:8px;margin-top:.4rem;line-height:1.5;display:none}
+  .detail.show{display:block}
+  .detail .src-kb{color:#2858E0;font-weight:700}
+  .detail .src-danawa{color:#a16207}
+
+  .meta-foot{font-size:.65rem;color:#a3a3a3;text-align:right;margin-top:.8rem}
+
+  /* 상담 모달 */
+  .modal{position:fixed;inset:0;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center;z-index:100;padding:1rem}
+  .modal.show{display:flex}
+  .modal-box{background:#fff;border-radius:14px;max-width:420px;width:100%;padding:1.5rem}
+  .modal-box h3{font-size:1.1rem;font-weight:900;margin-bottom:1rem}
+  .modal-box .form-row{margin-bottom:.85rem}
+  .modal-box label{display:block;font-size:.78rem;font-weight:700;color:#525252;margin-bottom:.3rem}
+  .modal-box input{width:100%;padding:.7rem .85rem;border:1.5px solid #e5e5e5;border-radius:8px;font-size:.92rem;font-family:inherit}
+  .modal-box .summary{background:#f5f9ff;border-radius:8px;padding:.65rem .85rem;font-size:.75rem;color:#1e40af;margin-bottom:1rem;line-height:1.5}
+  .modal-box .actions{display:flex;gap:.5rem}
+  .modal-box .actions button{flex:1;padding:.7rem;border:none;border-radius:8px;font-weight:700;cursor:pointer;font-family:inherit}
+  .btn-submit{background:#2858E0;color:#fff}
+  .btn-cancel{background:#f5f5f5;color:#525252}
+</style>
+</head>
+<body>
+<h1>차보자 견적 비교 <small>캐피탈사별 최저가 추천</small></h1>
+<div class="hint">차종 검색 → 조건 조정 → 캐피탈사별 견적 비교 → 상담 신청 또는 다이렉트 계약</div>
+
+<div class="card">
+  <h3>1. 차량 선택</h3>
+  <div class="search-box">
+    <input type="text" id="search" placeholder="차종 검색 (예: 아반떼, 그랜저, X5...)" autocomplete="off">
+    <div class="search-results" id="search-results"></div>
+  </div>
+  <div class="vinfo" id="vinfo" style="margin-top:.85rem">
+    <div class="vname" id="v-name"></div>
+    <div class="vmeta">
+      <span>다나와가 <strong id="v-price"></strong></span>
+      · <span id="v-fuel"></span>
+    </div>
+  </div>
+</div>
+
+<div class="card" id="conditions-card" style="display:none">
+  <h3>2. 조건 설정</h3>
+  <div class="slider-row">
+    <label>계약기간 <span class="val"><span id="term-val">48</span>개월</span></label>
+    <input type="range" id="term" min="0" max="4" step="1" value="3">
+    <div class="ticks"><span>12</span><span>24</span><span>36</span><span>48</span><span>60</span></div>
+  </div>
+  <div class="slider-row">
+    <label>연간 주행거리 <span class="val"><span id="mileage-val">1만</span>km</span></label>
+    <input type="range" id="mileage" min="0" max="3" step="1" value="0">
+    <div class="ticks"><span>1만</span><span>1.5만</span><span>2만</span><span>3만</span></div>
+  </div>
+  <div class="slider-row">
+    <label>선납금 <span class="val"><span id="prepay-val">0</span>%</span></label>
+    <input type="range" id="prepay" min="0" max="30" step="10" value="0">
+    <div class="ticks"><span>0</span><span>10</span><span>20</span><span>30</span></div>
+  </div>
+  <div class="slider-row">
+    <label>보증금 <span class="val"><span id="deposit-val">0</span>%</span></label>
+    <input type="range" id="deposit" min="0" max="30" step="10" value="0">
+    <div class="ticks"><span>0</span><span>10</span><span>20</span><span>30</span></div>
+  </div>
+</div>
+
+<div class="card" id="results-card" style="display:none">
+  <h3>3. 캐피탈사별 견적 비교</h3>
+  <div class="compare-grid" id="compare-grid"></div>
+  <div class="detail" id="detail"></div>
+  <div class="meta-foot" id="meta-foot"></div>
+</div>
+
+<!-- 상담 모달 -->
+<div class="modal" id="consult-modal">
+  <div class="modal-box">
+    <h3>상담 신청 — <span id="consult-cap"></span></h3>
+    <div class="summary" id="consult-summary"></div>
+    <div class="form-row">
+      <label>성함</label>
+      <input type="text" id="ci-name">
+    </div>
+    <div class="form-row">
+      <label>연락처</label>
+      <input type="tel" id="ci-phone" placeholder="010-0000-0000">
+    </div>
+    <div class="actions">
+      <button class="btn-cancel" onclick="closeModal()">취소</button>
+      <button class="btn-submit" onclick="submitConsult()">신청</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const TERMS = [12, 24, 36, 48, 60];
+const MILEAGES = [10000, 15000, 20000, 30000];
+const MILEAGE_LABELS = ['1만', '1.5만', '2만', '3만'];
+
+const API_COMPARE = '../api/quote_compare.php';
+const API_INQUIRY = '../api/inquiry.php';
+const CARS_URL = '../car_brands.json';
+
+let allTrims = [];
+let selectedVehicle = null;
+let lastQuote = null;
+let debounceTimer = null;
+
+const $ = id => document.getElementById(id);
+
+// 데이터 로드
+async function loadCars() {
+  const res = await fetch(CARS_URL);
+  const data = await res.json();
+  for (const b of data.brands) {
+    for (const v of b.vehicles) {
+      for (const t of (v.trims || [])) {
+        allTrims.push({
+          brand: b.name, model_name: v.name, trim_name: t.name,
+          base_price: t.base_price, fuel_type: t.fuel_type,
+          search_text: `${b.name} ${v.name} ${t.name}`.toLowerCase(),
+        });
+      }
+    }
+  }
+}
+
+function search(q) {
+  q = q.trim().toLowerCase();
+  if (!q) { $('search-results').classList.remove('show'); return; }
+  const tokens = q.split(/\s+/);
+  const r = allTrims.filter(t => tokens.every(tok => t.search_text.includes(tok))).slice(0, 30);
+  $('search-results').innerHTML = r.map(t => `
+    <div class="search-item" data-idx="${allTrims.indexOf(t)}">
+      <span class="brand">${t.brand}</span>
+      <span> ${t.model_name}</span>
+      <span style="color:#737373;font-size:.78rem"> ${t.trim_name}</span>
+      <span class="price">${(t.base_price/10000).toLocaleString()}만원</span>
+    </div>
+  `).join('') || '<div style="padding:.7rem 1rem;color:#a3a3a3;font-size:.85rem">검색 결과 없음</div>';
+  $('search-results').classList.add('show');
+}
+
+function selectVehicle(v) {
+  selectedVehicle = v;
+  $('v-name').textContent = `${v.brand} ${v.model_name} ${v.trim_name}`;
+  $('v-price').textContent = v.base_price.toLocaleString() + '원';
+  $('v-fuel').textContent = v.fuel_type || '-';
+  $('vinfo').classList.add('show');
+  $('conditions-card').style.display = 'block';
+  $('results-card').style.display = 'block';
+  $('search-results').classList.remove('show');
+  $('search').value = `${v.brand} ${v.model_name}`;
+  fetchCompare();
+}
+
+function updateLabels() {
+  $('term-val').textContent = TERMS[+$('term').value];
+  $('mileage-val').textContent = MILEAGE_LABELS[+$('mileage').value];
+  $('prepay-val').textContent = $('prepay').value;
+  $('deposit-val').textContent = $('deposit').value;
+}
+
+async function fetchCompare() {
+  if (!selectedVehicle) return;
+  const v = selectedVehicle;
+  const params = new URLSearchParams({
+    term: TERMS[+$('term').value],
+    mileage: MILEAGES[+$('mileage').value],
+    prepay_pct: $('prepay').value,
+    deposit_pct: $('deposit').value,
+    brand: v.brand, model_name: v.model_name, trim_name: v.trim_name,
+    fuel_type: v.fuel_type || '', vehicle_price: v.base_price,
+  });
+  const res = await fetch(`${API_COMPARE}?${params}`);
+  const data = await res.json();
+  lastQuote = data;
+  renderResults(data);
+}
+
+function renderResults(data) {
+  const grid = $('compare-grid');
+  grid.innerHTML = '';
+  for (const r of data.results) {
+    const isBest = r.capital_code === data.recommended;
+    const cls = !r.enabled ? 'disabled' : (isBest ? 'cheapest' : '');
+    const priceHtml = r.enabled && r.ok
+      ? `${r.monthly_payment.toLocaleString()}<small>원/월</small>${r.price_source === 'kb_actual' ? '<small style="color:#2858E0">★ KB 실측가 적용</small>' : ''}`
+      : (r.enabled ? '계산 실패' : `<small>${r.note || '준비중'}</small>`);
+    const actions = r.enabled && r.ok ? `
+      <button class="btn-consult" onclick="openModal('${r.capital_code}','${r.capital_name}',${r.monthly_payment})">상담</button>
+      <button class="btn-direct" onclick="alert('${r.capital_name} 다이렉트 페이지로 이동 (TODO)')">다이렉트</button>
+    ` : '';
+    grid.insertAdjacentHTML('beforeend', `
+      <div class="cap-card ${cls}">
+        <div class="cap-name">${r.capital_name}
+          ${isBest ? '<span class="badge-best">최저가</span>' : ''}
+          ${!r.enabled ? '<span class="badge-pending">준비중</span>' : ''}
+        </div>
+        <div class="cap-price">${priceHtml}</div>
+        <div class="cap-actions">${actions}</div>
+      </div>
+    `);
+  }
+  // 상세 정보 (KB 기준)
+  const kb = data.results.find(r => r.capital_code === 'KB');
+  if (kb && kb.ok) {
+    const c = kb.conditions;
+    $('detail').classList.add('show');
+    $('detail').innerHTML = `
+      <strong>KB 견적 상세</strong>:
+      ${c.price_source === 'kb_actual'
+        ? `<span class="src-kb">KB 실측가 ${c.vehicle_price.toLocaleString()}원</span> (다나와 ${c.danawa_price?.toLocaleString() || '?'}원)`
+        : `<span class="src-danawa">다나와 가격 ${c.vehicle_price.toLocaleString()}원 (KB 미수집 — 추정)</span>`}
+      · 잔가 ${c.residual_pct}% (${c.residual_amount.toLocaleString()}원)
+      · 선납금 ${c.prepay_amount.toLocaleString()}원
+      · 보증금 ${c.deposit_amount.toLocaleString()}원
+      · 카테고리 ${kb.calculation_source === 'estimated_from_category' ? '추정' : '정확'}
+    `;
+  }
+  $('meta-foot').textContent = `${data.meta.enabled_count}/${data.meta.total_count} 캐피탈 활성 · ${data.meta.response_ms}ms`;
+}
+
+// 상담 모달
+let consultData = null;
+function openModal(code, name, monthly) {
+  consultData = { code, name, monthly };
+  $('consult-cap').textContent = name;
+  const v = selectedVehicle;
+  const c = lastQuote?.results.find(r => r.capital_code === code)?.conditions;
+  $('consult-summary').innerHTML = `
+    <strong>${v.brand} ${v.model_name}</strong><br>
+    ${v.trim_name}<br>
+    ${TERMS[+$('term').value]}개월 / 연 ${MILEAGE_LABELS[+$('mileage').value]}km
+    / 선납 ${$('prepay').value}% / 보증 ${$('deposit').value}%<br>
+    추정 월납 <strong>${monthly.toLocaleString()}원/월</strong>
+  `;
+  $('consult-modal').classList.add('show');
+}
+function closeModal() { $('consult-modal').classList.remove('show'); }
+async function submitConsult() {
+  const name = $('ci-name').value.trim();
+  const phone = $('ci-phone').value.trim();
+  if (!name || !phone) { alert('성함과 연락처를 입력해주세요'); return; }
+  const v = selectedVehicle;
+  const payload = {
+    source: 'rental_quote',
+    name, phone,
+    car: `${v.brand} ${v.model_name} ${v.trim_name}`,
+    message: `[${consultData.name}] ${consultData.monthly.toLocaleString()}원/월\n조건: ${TERMS[+$('term').value]}개월/연${MILEAGE_LABELS[+$('mileage').value]}km/선납${$('prepay').value}%/보증${$('deposit').value}%`,
+    consent_marketing: true,
+  };
+  try {
+    const res = await fetch(API_INQUIRY, {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(payload),
+    });
+    const data = await res.json();
+    if (data.ok) {
+      alert('상담 신청이 접수되었습니다');
+      closeModal();
+    } else {
+      alert('신청 실패: ' + (data.error || '오류'));
+    }
+  } catch (e) {
+    alert('네트워크 오류: ' + e.message);
+  }
+}
+
+// 이벤트
+$('search').addEventListener('input', e => search(e.target.value));
+$('search').addEventListener('focus', e => { if (e.target.value) search(e.target.value); });
+$('search-results').addEventListener('click', e => {
+  const item = e.target.closest('.search-item');
+  if (item) selectVehicle(allTrims[+item.dataset.idx]);
+});
+document.addEventListener('click', e => {
+  if (!e.target.closest('.search-box')) $('search-results').classList.remove('show');
+});
+['term','mileage','prepay','deposit'].forEach(k => $(k).addEventListener('input', () => {
+  updateLabels();
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(fetchCompare, 200);
+}));
+updateLabels();
+loadCars();
+</script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "model_id": 3526,
+  "brand": "람보르기니",
+  "name": "Urus",
+  "img": "https://autoimg.danawa.com/photo/3526/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 50080,
+      "name": "퍼포만테 가솔린 4.0",
+      "year": "2022년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 80742,
+          "trimName": "V8",
+          "price": 328900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

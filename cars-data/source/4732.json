@@ -1,0 +1,87 @@
+{
+  "model_id": 4732,
+  "brand": "지프",
+  "name": "Gladiator",
+  "img": "https://autoimg.danawa.com/photo/4732/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53214,
+      "name": "가솔린 3.6",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92630,
+          "trimName": "Rubicon",
+          "price": 85100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Anvil Clear-Coat",
+              "colorHexadecimal": "3b4449",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Firecracker Red Clear-Coat",
+              "colorHexadecimal": "cc1301",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Hydro Blue Pearl-Coat",
+              "colorHexadecimal": "0c4676",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Black Clear-Coat",
+              "colorHexadecimal": "0e0a09",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "Bright White Clear-Coat",
+              "colorHexadecimal": "ffffff",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "Granite Crystal Metallic Clear-Coat",
+              "colorHexadecimal": "333738",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

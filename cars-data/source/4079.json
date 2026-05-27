@@ -1,0 +1,26 @@
+{
+  "model_id": 4079,
+  "brand": "페라리",
+  "name": "296 GTB",
+  "img": "https://autoimg.danawa.com/photo/4079/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 49497,
+      "name": "가솔린 3.0 플러그인 하이브리드",
+      "year": "2022년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 77825,
+          "trimName": "V6",
+          "price": 376000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

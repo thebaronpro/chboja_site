@@ -1,0 +1,26 @@
+{
+  "model_id": 4583,
+  "brand": "동풍",
+  "name": "Rich6 EV",
+  "img": "https://autoimg.danawa.com/photo/4583/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 51555,
+      "name": "전기",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 86740,
+          "trimName": "2WD",
+          "price": 59950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

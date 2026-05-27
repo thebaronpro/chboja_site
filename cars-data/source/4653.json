@@ -1,0 +1,1024 @@
+{
+  "model_id": 4653,
+  "brand": "현대",
+  "name": "캐스퍼 일렉트릭",
+  "img": "https://autoimg.danawa.com/photo/4653/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53342,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93317,
+          "trimName": "프리미엄",
+          "price": 27870000,
+          "transmission": "",
+          "percent": 28,
+          "options": [
+            {
+              "seq": "353508",
+              "name": "[HGA] 밴 패키지",
+              "price": 390000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "격벽",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28395.jpg"
+                },
+                {
+                  "name": "러기지 박스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28396.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28397.jpg"
+                },
+                {
+                  "name": "러기지 프로텍터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28398.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353509",
+              "name": "현대 스마트센스Ⅰ",
+              "price": 990000,
+              "code": "A12",
+              "percent": 42,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차로 대향차/정면 대향차)",
+                  "exp": "-전방 충돌 위험이 감지되면 운전자에게 경고하고, 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28350.jpg"
+                },
+                {
+                  "name": "후측방 충돌 경고(주행)",
+                  "exp": "-차로 변경을 위하여 방향지시등 스위치 조작 시, 후측방 차량과 충돌 위험이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28351.jpg"
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차)",
+                  "exp": "-평행 주차상태에서 전진 출차 중, 후측방에서 다가오는 차량과 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28352.jpg"
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "-후진 중 좌/우측에서 다가오는 차량과 충돌 위험이 감지되면 경고를 해줍니다. 경고 후에도 충돌 위험이 높아지면 자동으로 제동을 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28353.jpg"
+                },
+                {
+                  "name": "안전 하차 경고",
+                  "exp": "-정차 후 탑승자가 차에서 하차하기 위해 도어를 열 때, 후측방에서 접근하는 차량이 감지되면 경고를 해줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28354.jpg"
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(스탑앤고 기능 포함)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28355.jpg"
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(안전구간, 곡선로)",
+                  "exp": "-고속도로 및 자동차 전용도로 주행 시 도로 상황에 맞춰 안전한 속도로 주행하도록 도와주며, 안전속도 구간, 곡선 구간 진입 전에 자동으로 속도를 줄여줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28356.jpg"
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "-고속도로 및 자동차 전용 도로 주행 시 앞차와의 거리를 유지하며 운전자가 설정한 속도로 차로 중앙을 유지하며 주행하도록 도와줍니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28357.jpg"
+                },
+                {
+                  "name": "유광 아크릴 라디에이터 그릴",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28358.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353510",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A17",
+              "percent": 43,
+              "items": [
+                {
+                  "name": "하이패스 시스템",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28393.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f4f2f0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "414337",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "7d4e2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "버터크림 옐로우 펄(YLC)",
+              "colorHexadecimal": "c0bb9a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "b4b0a4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0f0f11",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "에어로 실버 매트(T4M)",
+              "colorHexadecimal": "a6a8a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "44453f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "더스크 블루 매트(UMA)",
+              "colorHexadecimal": "1a2129",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "181818",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93318,
+          "trimName": "인스퍼레이션",
+          "price": 31370000,
+          "transmission": "",
+          "percent": 56,
+          "options": [
+            {
+              "seq": "353521",
+              "name": "[HGA] 밴 패키지",
+              "price": 390000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "격벽",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28395.jpg"
+                },
+                {
+                  "name": "러기지 박스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28396.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28397.jpg"
+                },
+                {
+                  "name": "러기지 프로텍터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28398.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353514",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28347.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28348.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353516",
+              "name": "컨비니언스 플러스",
+              "price": 590000,
+              "code": "A13",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트폰 무선 충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28362.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "-아이폰, 애플워치 및 안드로이드 계열 스마트폰(예: 삼성 스마트폰)으로 도어 잠금/해제 및 시동이 가능하고, 최대 7개 디바이스까지 사용 권한을 공유할 수 있습니다. *지원 가능한 상세 기종은 현대자동차 홈페이지를 참조하세요.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28363.jpg"
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "-차량 외부에서도 실외 V2L 기능을 통해 다양한 전자기기 사용이 가능합니다. 실외 V2L 기능은 야외활동 시 여러 외부 환경 변화에서도 승객에게 편리한 경험을 제공합니다.\n*실내/외 V2L 기능은 충전잔량 20~100%일때만 사용 가능합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28364.jpg"
+                },
+                {
+                  "name": "LED 실내등(선바이저 램프, 러기지 램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28365.jpg"
+                },
+                {
+                  "name": "인터랙티브 픽셀 라이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28366.jpg"
+                },
+                {
+                  "name": "1열 터치타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28367.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353517",
+              "name": "컴포트",
+              "price": 590000,
+              "code": "A14",
+              "percent": 26,
+              "items": [
+                {
+                  "name": "1열 풀폴딩 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28370.jpg"
+                },
+                {
+                  "name": "2열 슬라이딩 &amp; 리클라이닝 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28371.jpg"
+                },
+                {
+                  "name": "USB C타입 단자(2열 충전 1개)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28372.jpg"
+                },
+                {
+                  "name": "동승석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28373.jpg"
+                },
+                {
+                  "name": "세이프티 파워 윈도우(동승석)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28374.jpg"
+                },
+                {
+                  "name": "러기지 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28375.jpg"
+                },
+                {
+                  "name": "동승석 시트백 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28376.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353518",
+              "name": "파킹 어시스트",
+              "price": 690000,
+              "code": "A16",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28387.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28388.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28389.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353519",
+              "name": "익스테리어 디자인",
+              "price": 1180000,
+              "code": "A15",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "Full LED 헤드램프(프로젝션 타입)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28379.jpg"
+                },
+                {
+                  "name": "LED 리어콤비램프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28380.jpg"
+                },
+                {
+                  "name": "루프랙",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28381.jpg"
+                },
+                {
+                  "name": "LED 보조제동등",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28382.jpg"
+                },
+                {
+                  "name": "LED 라이선스 플레이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28383.jpg"
+                },
+                {
+                  "name": "17인치 알로이 휠 &amp; 타이어",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28384.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353520",
+              "name": "실내 컬러 패키지(뉴트로 베이지)",
+              "price": 200000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "베이지 내장",
+                  "exp": "- 시트/스티어링 휠/크래쉬패드/센터 콘솔/도어 트림/도어 암레스트/도어 어퍼가니쉬/헤드라이닝/플로어 카펫)",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28399.jpg"
+                },
+                {
+                  "name": "도트 패턴 리얼 프린팅 도어 가니쉬",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28400.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f4f2f0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "414337",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "시에나 오렌지 메탈릭(SRM)",
+              "colorHexadecimal": "7d4e2c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "AB",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "버터크림 옐로우 펄(YLC)",
+              "colorHexadecimal": "c0bb9a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "C",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "b4b0a4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0f0f11",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "에어로 실버 매트(T4M)",
+              "colorHexadecimal": "a6a8a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "비자림 카키 매트(TKM)",
+              "colorHexadecimal": "44453f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "더스크 블루 매트(UMA)",
+              "colorHexadecimal": "1a2129",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "DE",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "181818",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "베이지",
+              "colorHexadecimal": "c8c4b6",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "AD",
+              "sAddOptionCode": "A19"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "다크 그레이/라이트 카키",
+              "colorHexadecimal": "494745/c3c3b3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "BCE",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 93319,
+          "trimName": "크로스",
+          "price": 33370000,
+          "transmission": "",
+          "percent": 10,
+          "options": [
+            {
+              "seq": "353526",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28347.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28348.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353528",
+              "name": "컨비니언스 플러스",
+              "price": 590000,
+              "code": "A13",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "스마트폰 무선 충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28362.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "-아이폰, 애플워치 및 안드로이드 계열 스마트폰(예: 삼성 스마트폰)으로 도어 잠금/해제 및 시동이 가능하고, 최대 7개 디바이스까지 사용 권한을 공유할 수 있습니다. *지원 가능한 상세 기종은 현대자동차 홈페이지를 참조하세요.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28363.jpg"
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "-차량 외부에서도 실외 V2L 기능을 통해 다양한 전자기기 사용이 가능합니다. 실외 V2L 기능은 야외활동 시 여러 외부 환경 변화에서도 승객에게 편리한 경험을 제공합니다.\n*실내/외 V2L 기능은 충전잔량 20~100%일때만 사용 가능합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28364.jpg"
+                },
+                {
+                  "name": "LED 실내등(선바이저 램프, 러기지 램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28365.jpg"
+                },
+                {
+                  "name": "인터랙티브 픽셀 라이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28366.jpg"
+                },
+                {
+                  "name": "1열 터치타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28367.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353529",
+              "name": "컴포트",
+              "price": 590000,
+              "code": "A14",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "1열 풀폴딩 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28370.jpg"
+                },
+                {
+                  "name": "2열 슬라이딩 &amp; 리클라이닝 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28371.jpg"
+                },
+                {
+                  "name": "USB C타입 단자(2열 충전 1개)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28372.jpg"
+                },
+                {
+                  "name": "동승석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28373.jpg"
+                },
+                {
+                  "name": "세이프티 파워 윈도우(동승석)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28374.jpg"
+                },
+                {
+                  "name": "러기지 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28375.jpg"
+                },
+                {
+                  "name": "동승석 시트백 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28376.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353530",
+              "name": "파킹 어시스트",
+              "price": 690000,
+              "code": "A16",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28387.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28388.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28389.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "353525",
+              "name": "[HGA] 밴 패키지",
+              "price": 390000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "격벽",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28395.jpg"
+                },
+                {
+                  "name": "러기지 박스",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28396.jpg"
+                },
+                {
+                  "name": "러기지 매트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28397.jpg"
+                },
+                {
+                  "name": "러기지 프로텍터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28398.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f4f2f0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "414337",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "b4b0a4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0f0f11",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "에어로 실버 매트(T4M)",
+              "colorHexadecimal": "a6a8a9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "더스크 블루 매트(UMA)",
+              "colorHexadecimal": "1a2129",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "아마조나스 그린 매트(ZRM)",
+              "colorHexadecimal": "3a3c20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "181818",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 0,
+              "colorName": "다크 그레이/아마조나스 그린",
+              "colorHexadecimal": "494745/3a3c20",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "A",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94843,
+          "trimName": "라운지",
+          "price": 34570000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "363172",
+              "name": "선루프",
+              "price": 390000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "선루프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28347.jpg"
+                },
+                {
+                  "name": "A필라 블랙테이프",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28348.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363173",
+              "name": "컨비니언스 플러스",
+              "price": 590000,
+              "code": "A13",
+              "percent": 31,
+              "items": [
+                {
+                  "name": "스마트폰 무선 충전",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28362.jpg"
+                },
+                {
+                  "name": "디지털 키 2 터치",
+                  "exp": "-아이폰, 애플워치 및 안드로이드 계열 스마트폰(예: 삼성 스마트폰)으로 도어 잠금/해제 및 시동이 가능하고, 최대 7개 디바이스까지 사용 권한을 공유할 수 있습니다. *지원 가능한 상세 기종은 현대자동차 홈페이지를 참조하세요.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28363.jpg"
+                },
+                {
+                  "name": "실외 V2L 커넥터",
+                  "exp": "-차량 외부에서도 실외 V2L 기능을 통해 다양한 전자기기 사용이 가능합니다. 실외 V2L 기능은 야외활동 시 여러 외부 환경 변화에서도 승객에게 편리한 경험을 제공합니다.\n*실내/외 V2L 기능은 충전잔량 20~100%일때만 사용 가능합니다.",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28364.jpg"
+                },
+                {
+                  "name": "LED 실내등(선바이저 램프, 러기지 램프)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28365.jpg"
+                },
+                {
+                  "name": "인터랙티브 픽셀 라이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28366.jpg"
+                },
+                {
+                  "name": "1열 터치타입 아웃사이드 도어 핸들",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28367.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363174",
+              "name": "컴포트(라운지전용)",
+              "price": 450000,
+              "code": "A21",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "USB C타입 단자(2열 충전 1개)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28372.jpg"
+                },
+                {
+                  "name": "동승석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28373.jpg"
+                },
+                {
+                  "name": "세이프티 파워 윈도우(동승석)",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28374.jpg"
+                },
+                {
+                  "name": "동승석 시트백 보드",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28376.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "363175",
+              "name": "파킹 어시스트",
+              "price": 690000,
+              "code": "A16",
+              "percent": 31,
+              "items": [
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28387.jpg"
+                },
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28388.jpg"
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4653/items/28389.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아틀라스 화이트(SAW)",
+              "colorHexadecimal": "f4f2f0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "톰보이 카키(TKS)",
+              "colorHexadecimal": "414337",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "언블리치드 아이보리(NES)",
+              "colorHexadecimal": "b4b0a4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "어비스 블랙 펄(A2B)",
+              "colorHexadecimal": "0f0f11",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "글로우 민트(TGW)-라운지 전용",
+              "colorHexadecimal": "a0baa8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 원톤",
+              "colorHexadecimal": "181818",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 0,
+              "colorName": "다크 그레이/다크 오렌지",
+              "colorHexadecimal": "494745/c49f88",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

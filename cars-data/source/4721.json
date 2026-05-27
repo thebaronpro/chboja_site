@@ -1,0 +1,46 @@
+{
+  "model_id": 4721,
+  "brand": "롤스로이스",
+  "name": "Ghost Series II",
+  "img": "https://autoimg.danawa.com/photo/4721/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53117,
+      "name": "가솔린 터보 6.75",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92447,
+          "trimName": "Standard Wheel Base",
+          "price": 524000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92448,
+          "trimName": "Extended Wheel Base",
+          "price": 577000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92449,
+          "trimName": "Black Badge",
+          "price": 624000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

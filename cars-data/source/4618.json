@@ -1,0 +1,170 @@
+{
+  "model_id": 4618,
+  "brand": "미니",
+  "name": "Cooper",
+  "img": "https://autoimg.danawa.com/photo/4618/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53541,
+      "name": "3도어 가솔린 2.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94020,
+          "trimName": "Cooper S Favoured 3 Door",
+          "price": 47500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94021,
+          "trimName": "JCW 3 Door",
+          "price": 55100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94841,
+          "trimName": "JCW 3 Door Victory Edition",
+          "price": 56100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53542,
+      "name": "5도어 가솔린 2.0",
+      "year": "2026년형",
+      "percent": 55,
+      "trims": [
+        {
+          "trimNo": 94022,
+          "trimName": "Cooper C Essential 5 Door",
+          "price": 37000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 94023,
+          "trimName": "Cooper C Classic 5 Door",
+          "price": 43300000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52645,
+      "name": "3도어 가솔린 2.0",
+      "year": "2025년형",
+      "percent": 23,
+      "trims": [
+        {
+          "trimNo": 91240,
+          "trimName": "Cooper C Essential 3 Door",
+          "price": 37000000,
+          "transmission": "",
+          "percent": 33,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91241,
+          "trimName": "Cooper C Classic 3 Door",
+          "price": 41800000,
+          "transmission": "",
+          "percent": 47,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91239,
+          "trimName": "Cooper S Favoured 3 Door",
+          "price": 47500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92800,
+          "trimName": "JCW 3 Door",
+          "price": 55100000,
+          "transmission": "",
+          "percent": 17,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93904,
+          "trimName": "JCW 3 Door Authentix",
+          "price": 57100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 52647,
+      "name": "5도어 가솔린 2.0",
+      "year": "2025년형",
+      "percent": 13,
+      "trims": [
+        {
+          "trimNo": 92455,
+          "trimName": "Cooper C Essential 5 Door",
+          "price": 38200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 92456,
+          "trimName": "Cooper C Classic 5 Door",
+          "price": 43100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 91245,
+          "trimName": "Cooper S Favoured 5 Door",
+          "price": 49100000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "model_id": 3746,
+  "brand": "람보르기니",
+  "name": "Huracan EVO",
+  "img": "https://autoimg.danawa.com/photo/3746/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 51262,
+      "name": "테크니카 쿠페 가솔린 5.2",
+      "year": "2023년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 85805,
+          "trimName": "LP640-4 Tecnica",
+          "price": 348000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 47842,
+      "name": "STO 쿠페 가솔린 5.2",
+      "year": "2020년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 71824,
+          "trimName": "LP640-2 STO",
+          "price": 435000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

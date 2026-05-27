@@ -1,0 +1,193 @@
+{
+  "model_id": 4761,
+  "brand": "제네시스",
+  "name": "GV60 MAGMA",
+  "img": "https://autoimg.danawa.com/photo/4761/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53520,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93998,
+          "trimName": "GV60 MAGMA",
+          "price": 96570000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "360394",
+              "name": "21인치 그라파이트 그레이 매트 경량 단조 휠 + 275/35R21 피렐리 썸머 타이어 + 마그마 도장 모노블럭(4P) 브레이크",
+              "price": 3700000,
+              "code": "A11",
+              "percent": 14,
+              "items": []
+            },
+            {
+              "seq": "360395",
+              "name": "21인치 그라파이트 그레이 매트 주조 휠 + 275/35R21 피렐리 썸머 타이어 + 블랙 도장 모노블럭(4P) 브레이크",
+              "price": 0,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "360396",
+              "name": "21인치 그라파이트 그레이 매트 경량 단조 휠 + 275/35R21 피렐리 썸머 타이어 + 블랙 도장 모노블럭(4P) 브레이크",
+              "price": 3700000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "마테호른 화이트(FT7)-유료(무광)",
+              "colorHexadecimal": "f0f1f0",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C06"
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(MPE)-유료(무광)",
+              "colorHexadecimal": "232d36",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "스토르 그린(MKG)-유료(무광)",
+              "colorHexadecimal": "0d1c15",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "세레스 블루(MSA)-유료(무광)",
+              "colorHexadecimal": "273a48",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "마그마 오렌지(8MB)-유료",
+              "colorHexadecimal": "df5f25",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "우유니 화이트(UYH)",
+              "colorHexadecimal": "f2f2f2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "세빌 실버(SSS)",
+              "colorHexadecimal": "767778",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "마칼루 그레이(NCM)",
+              "colorHexadecimal": "202a33",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "비크 블랙(PH3)",
+              "colorHexadecimal": "020c12",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "스토르 그린(KGN)",
+              "colorHexadecimal": "0d1613",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "카프리 블루(NRB)",
+              "colorHexadecimal": "00103c",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "세레스 블루(ASA)",
+              "colorHexadecimal": "203443",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "트롬소 그린(PBG)",
+              "colorHexadecimal": "16303e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "옵시디언 블랙 모노톤",
+              "colorHexadecimal": "09090a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

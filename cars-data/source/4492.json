@@ -1,0 +1,1296 @@
+{
+  "model_id": 4492,
+  "brand": "KG모빌리티",
+  "name": "토레스 EVX",
+  "img": "https://autoimg.danawa.com/photo/4492/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53664,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 60,
+      "trims": [
+        {
+          "trimNo": 94580,
+          "trimName": "E5",
+          "price": 46020000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361800",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361801",
+              "name": "휴대용 충전 케이블",
+              "price": 350000,
+              "code": "A19",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "361802",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361803",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A18",
+              "percent": 35,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 (WAA)",
+              "colorHexadecimal": "eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "라떼 그레이지 (EBL)",
+              "colorHexadecimal": "b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈 (ADE)",
+              "colorHexadecimal": "848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루 (BAS)",
+              "colorHexadecimal": "192032",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 (LAK)",
+              "colorHexadecimal": "1f1f1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2d2d2d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "c6c5cb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "9e6959",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94581,
+          "trimName": "E7",
+          "price": 48120000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361819",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A11",
+              "percent": 15,
+              "items": []
+            },
+            {
+              "seq": "361820",
+              "name": "휴대용 충전 케이블",
+              "price": 350000,
+              "code": "A19",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361821",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361822",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A18",
+              "percent": 14,
+              "items": []
+            },
+            {
+              "seq": "361823",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "361824",
+              "name": "20인치 다이아몬드 컷팅 휠 + 타이어",
+              "price": 650000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361825",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 (WAA)",
+              "colorHexadecimal": "eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "라떼 그레이지 (EBL)",
+              "colorHexadecimal": "b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈 (ADE)",
+              "colorHexadecimal": "848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루 (BAS)",
+              "colorHexadecimal": "192032",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 (LAK)",
+              "colorHexadecimal": "1f1f1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙/그랜드 화이트 (WAA)",
+              "colorHexadecimal": "1c1c1c/eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙/라떼 그레이지 (EBL)",
+              "colorHexadecimal": "1c1c1c/b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙/아이언 메탈 (ADE)",
+              "colorHexadecimal": "1c1c1c/848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙/포레스트 그린 (GAO)",
+              "colorHexadecimal": "1c1c1c/475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2d2d2d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "c6c5cb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A14"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "9e6959",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53665,
+      "name": "전기 (밴)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94582,
+          "trimName": "TV5",
+          "price": 44380000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361860",
+              "name": "휴대용 충전 케이블",
+              "price": 350000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361861",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361862",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361863",
+              "name": "스마트 파워 테일게이트",
+              "price": 750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4492/items/26702.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 (WAA)",
+              "colorHexadecimal": "eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "라떼 그레이지 (EBL)",
+              "colorHexadecimal": "b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈 (ADE)",
+              "colorHexadecimal": "848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루 (BAS)",
+              "colorHexadecimal": "192032",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 (LAK)",
+              "colorHexadecimal": "1f1f1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2d2d2d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이 투톤",
+              "colorHexadecimal": "c6c5cb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "9e6959",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94583,
+          "trimName": "TV7",
+          "price": 46290000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361876",
+              "name": "휴대용 충전 케이블",
+              "price": 350000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361877",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361878",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "361879",
+              "name": "스마트 파워 테일게이트",
+              "price": 750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4492/items/26702.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "361880",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 (WAA)",
+              "colorHexadecimal": "eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "라떼 그레이지 (EBL)",
+              "colorHexadecimal": "b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈 (ADE)",
+              "colorHexadecimal": "848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루 (BAS)",
+              "colorHexadecimal": "192032",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 (LAK)",
+              "colorHexadecimal": "1f1f1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2d2d2d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이 투톤",
+              "colorHexadecimal": "c6c5cb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A14"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "9e6959",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53156,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 32,
+      "trims": [
+        {
+          "trimNo": 92528,
+          "trimName": "E5",
+          "price": 46020000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348457",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349987",
+              "name": "휴대용 충전 케이블",
+              "price": 350000,
+              "code": "A19",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348459",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348460",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 (WAA)",
+              "colorHexadecimal": "eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "라떼 그레이지 (EBL)",
+              "colorHexadecimal": "b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈 (ADE)",
+              "colorHexadecimal": "848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루 (BAS)",
+              "colorHexadecimal": "192032",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 (LAK)",
+              "colorHexadecimal": "1f1f1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2d2d2d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "c6c5cb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A14"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "9e6959",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            }
+          ]
+        },
+        {
+          "trimNo": 92527,
+          "trimName": "E7",
+          "price": 48120000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348475",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "349988",
+              "name": "휴대용 충전 케이블",
+              "price": 350000,
+              "code": "A19",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348477",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348478",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A18",
+              "percent": 11,
+              "items": []
+            },
+            {
+              "seq": "348479",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "348480",
+              "name": "20인치 다이아몬드 컷팅 휠 + 타이어",
+              "price": 650000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "348481",
+              "name": "투톤 익스테리어 패키지",
+              "price": 500000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 (WAA)",
+              "colorHexadecimal": "eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "라떼 그레이지 (EBL)",
+              "colorHexadecimal": "b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈 (ADE)",
+              "colorHexadecimal": "848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루 (BAS)",
+              "colorHexadecimal": "192032",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 (LAK)",
+              "colorHexadecimal": "1f1f1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙/그랜드 화이트 (WAA)",
+              "colorHexadecimal": "1c1c1c/eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙/라떼 그레이지 (EBL)",
+              "colorHexadecimal": "1c1c1c/b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙/아이언 메탈 (ADE)",
+              "colorHexadecimal": "1c1c1c/848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙/포레스트 그린 (GAO)",
+              "colorHexadecimal": "1c1c1c/475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2d2d2d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "c6c5cb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A14"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "9e6959",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53287,
+      "name": "전기 (밴)",
+      "year": "2025년형",
+      "percent": 5,
+      "trims": [
+        {
+          "trimNo": 92883,
+          "trimName": "TV5",
+          "price": 44380000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350639",
+              "name": "휴대용 충전 케이블",
+              "price": 350000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350640",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350641",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350642",
+              "name": "스마트 파워 테일게이트",
+              "price": 750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4492/items/26702.jpg"
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 (WAA)",
+              "colorHexadecimal": "eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "라떼 그레이지 (EBL)",
+              "colorHexadecimal": "b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈 (ADE)",
+              "colorHexadecimal": "848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루 (BAS)",
+              "colorHexadecimal": "192032",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 (LAK)",
+              "colorHexadecimal": "1f1f1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2d2d2d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이 투톤",
+              "colorHexadecimal": "c6c5cb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A14"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "9e6959",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            }
+          ]
+        },
+        {
+          "trimNo": 92884,
+          "trimName": "TV7",
+          "price": 46290000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "350654",
+              "name": "휴대용 충전 케이블",
+              "price": 350000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350655",
+              "name": "그레이 투톤 인테리어 패키지",
+              "price": 250000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350656",
+              "name": "브라운 인테리어 패키지",
+              "price": 250000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350657",
+              "name": "스마트 파워 테일게이트",
+              "price": 750000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "스마트 테일게이트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4492/items/26702.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "350669",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "350670",
+              "name": "20인치 다이아몬드 컷팅 휠 + 타이어",
+              "price": 650000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트 (WAA)",
+              "colorHexadecimal": "eaebe9",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "라떼 그레이지 (EBL)",
+              "colorHexadecimal": "b8b294",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈 (ADE)",
+              "colorHexadecimal": "848599",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린 (GAO)",
+              "colorHexadecimal": "475556",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루 (BAS)",
+              "colorHexadecimal": "192032",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙 (LAK)",
+              "colorHexadecimal": "1f1f1f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "2d2d2d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "그레이 투톤",
+              "colorHexadecimal": "c6c5cb",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A14"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "9e6959",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A18"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

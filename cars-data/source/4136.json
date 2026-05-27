@@ -1,0 +1,78 @@
+{
+  "model_id": 4136,
+  "brand": "GMC",
+  "name": "Acadia",
+  "img": "https://autoimg.danawa.com/photo/4136/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 49303,
+      "name": "가솔린 터보 2.5",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 76922,
+          "trimName": "Denali Ultimate",
+          "price": 89900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Glacier White Tricoat",
+              "colorHexadecimal": "e3e4e8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Ebony Twilight Metallic",
+              "colorHexadecimal": "080808",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Sterling Metallic",
+              "colorHexadecimal": "717374",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Downpour Metallic",
+              "colorHexadecimal": "183c56",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Woodland Mahogany",
+              "colorHexadecimal": "2f2b28",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

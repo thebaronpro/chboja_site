@@ -1,0 +1,324 @@
+{
+  "model_id": 4708,
+  "brand": "BMW",
+  "name": "iX",
+  "img": "https://autoimg.danawa.com/photo/4708/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53354,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94796,
+          "trimName": "iX xDrive45 M Sport (P2)",
+          "price": 124800000,
+          "transmission": "",
+          "percent": 22,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "미네랄 화이트 메탈릭 (A96)",
+              "colorHexadecimal": "e2e1df",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 메탈릭 (475)",
+              "colorHexadecimal": "1d1d1d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아틱 레이스 블루 메탈릭 (C4F)",
+              "colorHexadecimal": "647e8d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "듄 그레이 메탈릭 (C7A)",
+              "colorHexadecimal": "acaa9e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아벤츄린 레드 메탈릭 (C7A)",
+              "colorHexadecimal": "65181e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙+아틀라스 그레이",
+              "colorHexadecimal": "262523/4b4d4a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94797,
+          "trimName": "iX xDrive45 M Sport (P2-0)",
+          "price": 124800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "미네랄 화이트 메탈릭 (A96)",
+              "colorHexadecimal": "e2e1df",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 메탈릭 (475)",
+              "colorHexadecimal": "1d1d1d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아틱 레이스 블루 메탈릭 (C4F)",
+              "colorHexadecimal": "647e8d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "듄 그레이 메탈릭 (C7A)",
+              "colorHexadecimal": "acaa9e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아벤츄린 레드 메탈릭 (C7A)",
+              "colorHexadecimal": "65181e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙+아틀라스 그레이",
+              "colorHexadecimal": "262523/4b4d4a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94671,
+          "trimName": "iX xDrive60 M Sport Pro (P2)",
+          "price": 153800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "미네랄 화이트 메탈릭 (A96)",
+              "colorHexadecimal": "e2e1df",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 메탈릭 (475)",
+              "colorHexadecimal": "1d1d1d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아틱 레이스 블루 메탈릭 (C4F)",
+              "colorHexadecimal": "647e8d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "듄 그레이 메탈릭 (C7A)",
+              "colorHexadecimal": "acaa9e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아벤츄린 레드 메탈릭 (C7A)",
+              "colorHexadecimal": "65181e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "아미도",
+              "colorHexadecimal": "363837",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "카스타니아",
+              "colorHexadecimal": "68382e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94672,
+          "trimName": "iX M70 xDrive (P2)",
+          "price": 177700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "미네랄 화이트 메탈릭 (A96)",
+              "colorHexadecimal": "e2e1df",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 메탈릭 (475)",
+              "colorHexadecimal": "1d1d1d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "스톰 베이 메탈릭 (C3N)",
+              "colorHexadecimal": "67717a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "듄 그레이 메탈릭 (C7A)",
+              "colorHexadecimal": "acaa9e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "아벤츄린 레드 메탈릭 (C7A)",
+              "colorHexadecimal": "65181e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "아미도",
+              "colorHexadecimal": "363837",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "카스타니아",
+              "colorHexadecimal": "68382e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

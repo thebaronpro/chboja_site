@@ -1,0 +1,76 @@
+{
+  "model_id": 4623,
+  "brand": "이스즈",
+  "name": "Forward",
+  "img": "https://autoimg.danawa.com/photo/4623/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 51719,
+      "name": "디젤 5.2 (5톤)",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 87484,
+          "trimName": "단축 캡 &amp; 샤시",
+          "price": 77900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 87485,
+          "trimName": "단축 스틸 카고",
+          "price": 85500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 87486,
+          "trimName": "장축 캡 &amp; 샤시",
+          "price": 78900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 87487,
+          "trimName": "장축 스틸 카고",
+          "price": 87800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 87488,
+          "trimName": "초장축 캡 &amp; 샤시",
+          "price": 79900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 87489,
+          "trimName": "초장축 스틸 카고",
+          "price": 89400000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

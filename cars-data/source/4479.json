@@ -1,0 +1,68 @@
+{
+  "model_id": 4479,
+  "brand": "BMW",
+  "name": "X5 M",
+  "img": "https://autoimg.danawa.com/photo/4479/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53509,
+      "name": "가솔린 4.4",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94823,
+          "trimName": "X5 M Competition (P1)",
+          "price": 191700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "블랙 사파이어 메탈릭",
+              "colorHexadecimal": "111111",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "미네랄 화이트 메탈릭",
+              "colorHexadecimal": "e4e3e1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "애들레이드 그레이",
+              "colorHexadecimal": "4d4740",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "타루마 브라운",
+              "colorHexadecimal": "503729",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

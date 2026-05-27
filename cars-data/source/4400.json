@@ -1,0 +1,146 @@
+{
+  "model_id": 4400,
+  "brand": "현대",
+  "name": "카운티 일렉트릭",
+  "img": "https://autoimg.danawa.com/photo/4400/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53394,
+      "name": "전기 (자가/영업)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93652,
+          "trimName": "디럭스 초장축 자가용 (23인승)",
+          "price": 202000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356770",
+              "name": "완속충전시스템",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93653,
+          "trimName": "디럭스 초장축 영업용 (23인승)",
+          "price": 202280000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356771",
+              "name": "완속충전시스템",
+              "price": 1000000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53395,
+      "name": "전기 (마을버스)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93654,
+          "trimName": "디럭스 초장축 전중문 (23인승)",
+          "price": 211600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356774",
+              "name": "디지털 타코그래프 미적용",
+              "price": -280000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93655,
+          "trimName": "디럭스 초장축 전중문 (20인승)",
+          "price": 212150000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356775",
+              "name": "디지털 타코그래프 미적용",
+              "price": -280000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    },
+    {
+      "lineupNo": 53396,
+      "name": "전기 (어린이버스)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93656,
+          "trimName": "디럭스 초장축 (30인승)",
+          "price": 202700000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356778",
+              "name": "완속충전시스템",
+              "price": 1000000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        },
+        {
+          "trimNo": 93657,
+          "trimName": "디럭스 초장축 (33인승)",
+          "price": 202900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "356779",
+              "name": "완속충전시스템",
+              "price": 1000000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

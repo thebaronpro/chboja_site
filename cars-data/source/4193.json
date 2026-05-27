@@ -1,0 +1,26 @@
+{
+  "model_id": 4193,
+  "brand": "테슬라",
+  "name": "Roadster",
+  "img": "https://autoimg.danawa.com/photo/4193/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 49690,
+      "name": "전기",
+      "year": "2022년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 79051,
+          "trimName": "Roadster",
+          "price": 0,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

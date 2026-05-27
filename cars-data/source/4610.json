@@ -1,0 +1,702 @@
+{
+  "model_id": 4610,
+  "brand": "테슬라",
+  "name": "Model 3",
+  "img": "https://autoimg.danawa.com/photo/4610/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53634,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94497,
+          "trimName": "Standard",
+          "price": 41990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "360837",
+              "name": "향상된 오토파일럿",
+              "price": 4522000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "360838",
+              "name": "풀 셀프 드라이빙(감독형)",
+              "price": 9043000,
+              "code": "A14",
+              "percent": 18,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pearl White Multi-Coat",
+              "colorHexadecimal": "f0f1f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C11"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "Diamond Black",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "Stealth Grey",
+              "colorHexadecimal": "2a2930",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "0f0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94498,
+          "trimName": "Premium",
+          "price": 52990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "360844",
+              "name": "19인치 노바 휠",
+              "price": 1929000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "360845",
+              "name": "Black+White 인테리어",
+              "price": 1286000,
+              "code": "A12",
+              "percent": 33,
+              "items": []
+            },
+            {
+              "seq": "360846",
+              "name": "향상된 오토파일럿",
+              "price": 4522000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "360847",
+              "name": "풀 셀프 드라이빙(감독형)",
+              "price": 9043000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pearl White Multi-Coat",
+              "colorHexadecimal": "f0f1f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C11"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "Diamond Black",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "Marine Blue",
+              "colorHexadecimal": "082350",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "Stealth Grey",
+              "colorHexadecimal": "2a2930",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "Ultra Red",
+              "colorHexadecimal": "ab0014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "Quicksilver",
+              "colorHexadecimal": "ababab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C06"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "0f0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Black+White",
+              "colorHexadecimal": "0f0f0f/c7c7c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            }
+          ]
+        },
+        {
+          "trimNo": 94499,
+          "trimName": "Performance",
+          "price": 59990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "360853",
+              "name": "Black+White 인테리어",
+              "price": 1286000,
+              "code": "A12",
+              "percent": 33,
+              "items": []
+            },
+            {
+              "seq": "360854",
+              "name": "향상된 오토파일럿",
+              "price": 4522000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "360855",
+              "name": "풀 셀프 드라이빙(감독형)",
+              "price": 9043000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pearl White Multi-Coat",
+              "colorHexadecimal": "f0f1f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C11"
+            },
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "Diamond Black",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "Marine Blue",
+              "colorHexadecimal": "082350",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "Stealth Grey",
+              "colorHexadecimal": "2a2930",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "Ultra Red",
+              "colorHexadecimal": "ab0014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "Quicksilver",
+              "colorHexadecimal": "ababab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C06"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "0f0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Black+White",
+              "colorHexadecimal": "0f0f0f/c7c7c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 51673,
+      "name": "전기",
+      "year": "2024년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 87279,
+          "trimName": "RWD",
+          "price": 51990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "309186",
+              "name": "19인치 노바 휠",
+              "price": 1929000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "309187",
+              "name": "Black+White 인테리어",
+              "price": 1286000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "309188",
+              "name": "향상된 오토파일럿",
+              "price": 4522000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "309189",
+              "name": "풀 셀프 드라이빙 구현 기능",
+              "price": 9043000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pearl White Multi-Coat",
+              "colorHexadecimal": "f0f1f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C11"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "Deep Blue Metallic",
+              "colorHexadecimal": "121c40",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "Stealth Grey",
+              "colorHexadecimal": "2a2930",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "Ultra Red",
+              "colorHexadecimal": "ab0014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "Quicksilver",
+              "colorHexadecimal": "ababab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C06"
+            },
+            {
+              "colorCode": "C05",
+              "colorType": 1,
+              "colorName": "Diamond Black",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C05"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "0f0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Black+White",
+              "colorHexadecimal": "0f0f0f/c7c7c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            }
+          ]
+        },
+        {
+          "trimNo": 87758,
+          "trimName": "Long Range",
+          "price": 59990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "309194",
+              "name": "19인치 노바 휠",
+              "price": 1929000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "309195",
+              "name": "Black+White 인테리어",
+              "price": 1286000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "309196",
+              "name": "향상된 오토파일럿",
+              "price": 4522000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "309197",
+              "name": "풀 셀프 드라이빙 구현 기능",
+              "price": 9043000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pearl White Multi-Coat",
+              "colorHexadecimal": "f0f1f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C11"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "Deep Blue Metallic",
+              "colorHexadecimal": "121c40",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "Stealth Grey",
+              "colorHexadecimal": "2a2930",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "Ultra Red",
+              "colorHexadecimal": "ab0014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "Quicksilver",
+              "colorHexadecimal": "ababab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C06"
+            },
+            {
+              "colorCode": "C05",
+              "colorType": 1,
+              "colorName": "Diamond Black",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C05"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "0f0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Black+White",
+              "colorHexadecimal": "0f0f0f/c7c7c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            }
+          ]
+        },
+        {
+          "trimNo": 87864,
+          "trimName": "Performance",
+          "price": 69390000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "311194",
+              "name": "Black+White 인테리어",
+              "price": 1286000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "311195",
+              "name": "향상된 오토파일럿",
+              "price": 4522000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "311196",
+              "name": "풀 셀프 드라이빙 구현 기능",
+              "price": 9043000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Pearl White Multi-Coat",
+              "colorHexadecimal": "f0f1f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C11"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "Deep Blue Metallic",
+              "colorHexadecimal": "121c40",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "Stealth Grey",
+              "colorHexadecimal": "2a2930",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C07",
+              "colorType": 1,
+              "colorName": "Ultra Red",
+              "colorHexadecimal": "ab0014",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C07"
+            },
+            {
+              "colorCode": "C06",
+              "colorType": 1,
+              "colorName": "Quicksilver",
+              "colorHexadecimal": "ababab",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C06"
+            },
+            {
+              "colorCode": "C05",
+              "colorType": 1,
+              "colorName": "Diamond Black",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C05"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Black",
+              "colorHexadecimal": "0f0f0f",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "Black+White",
+              "colorHexadecimal": "0f0f0f/c7c7c7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

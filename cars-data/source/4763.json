@@ -1,0 +1,4158 @@
+{
+  "model_id": 4763,
+  "brand": "기아",
+  "name": "디 올 뉴 셀토스",
+  "img": "https://autoimg.danawa.com/photo/4763/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53547,
+      "name": "가솔린 1.6 하이브리드",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94040,
+          "trimName": "트렌디",
+          "price": 28980000,
+          "transmission": "",
+          "percent": 23,
+          "options": [
+            {
+              "seq": "361217",
+              "name": "스타일",
+              "price": 1070000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "215/55 R18 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 LED 주간 주행등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361218",
+              "name": "컨비니언스",
+              "price": 630000,
+              "code": "A13",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "프리미엄 바이오 인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361219",
+              "name": "12.3인치 내비게이션",
+              "price": 530000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로 內 안전구간/곡선로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 AI 어시스턴트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361220",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 14,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361221",
+              "name": "12.3인치 내비게이션 + 12.3인치 클러스터",
+              "price": 930000,
+              "code": "A17",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "12.3인치 내비게이션",
+                  "exp": "12.3인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트), 내비게이션 기반 스마트 크루즈 컨트롤(고속도로 內 안전구간/곡선로), 고속도로 주행 보조, 스마트폰 무선충전 시스템, 레인센서, 기아 AI 어시스턴트\n※ 하이패스 적용 시, e hi-pass 기능 지원",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 클러스터",
+                  "exp": "슈퍼비전 클러스터(12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361222",
+              "name": "스마트 커넥트",
+              "price": 680000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "오토 플러시 도어 핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "100W C타입 USB 단자(충전용, 1열 2개/정품 충전 케이블 1개)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361223",
+              "name": "드라이브 와이즈",
+              "price": 1170000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94531,
+          "trimName": "프레스티지",
+          "price": 32080000,
+          "transmission": "",
+          "percent": 19,
+          "options": [
+            {
+              "seq": "361225",
+              "name": "스타일",
+              "price": 880000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "235/45 R19 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 LED 주간 주행등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361226",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 13,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361227",
+              "name": "12.3인치 클러스터",
+              "price": 390000,
+              "code": "A16",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361228",
+              "name": "스마트 커넥트",
+              "price": 680000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "오토 플러시 도어 핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "100W C타입 USB 단자(충전용, 1열 2개/정품 충전 케이블 1개)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361229",
+              "name": "드라이브 와이즈",
+              "price": 1170000,
+              "code": "A19",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361230",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361231",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361232",
+              "name": "컴포트",
+              "price": 1020000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361233",
+              "name": "실내 V2L",
+              "price": 680000,
+              "code": "A26",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 언더트레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361234",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 1,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 2,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 3,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94532,
+          "trimName": "시그니처",
+          "price": 34690000,
+          "transmission": "",
+          "percent": 42,
+          "options": [
+            {
+              "seq": "361236",
+              "name": "스타일",
+              "price": 880000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "235/45 R19 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 LED 주간 주행등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361237",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361238",
+              "name": "드라이브 와이즈",
+              "price": 780000,
+              "code": "A20",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361239",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361240",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361241",
+              "name": "컴포트",
+              "price": 440000,
+              "code": "A24",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361242",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 880000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 바이브로 사운드 시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361243",
+              "name": "실내 V2L",
+              "price": 680000,
+              "code": "A26",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 언더트레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361244",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361245",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A28",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 1,
+              "percent": 57,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 3,
+              "percent": 10,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 2,
+              "percent": 24,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+스노우 화이트 펄(CAS)",
+              "colorHexadecimal": "040406/f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+아이스버그 그린(CBG)",
+              "colorHexadecimal": "040406/657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운(마롱 브라운+미스티 그레이)",
+              "colorHexadecimal": "554944/919190",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94533,
+          "trimName": "X-Line",
+          "price": 35840000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361249",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361250",
+              "name": "드라이브 와이즈",
+              "price": 780000,
+              "code": "A20",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361251",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361252",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361253",
+              "name": "컴포트",
+              "price": 440000,
+              "code": "A24",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361254",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 880000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 바이브로 사운드 시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361255",
+              "name": "실내 V2L",
+              "price": 680000,
+              "code": "A26",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "실내 V2L 콘센트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 언더트레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361256",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361257",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A28",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+스노우 화이트 펄(CAS)",
+              "colorHexadecimal": "040406/f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+아이스버그 그린(CBG)",
+              "colorHexadecimal": "040406/657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버(ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마그마 매트 레드(MRM)",
+              "colorHexadecimal": "400d17",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 1,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운(마롱 브라운+미스티 그레이)",
+              "colorHexadecimal": "554944/919190",
+              "rank": 2,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙(스모키 블랙+헌터 그린)",
+              "colorHexadecimal": "2f3033/394545",
+              "rank": 3,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53648,
+      "name": "가솔린 터보 1.6",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94534,
+          "trimName": "트렌디 2WD",
+          "price": 24770000,
+          "transmission": "",
+          "percent": 19,
+          "options": [
+            {
+              "seq": "361280",
+              "name": "스타일",
+              "price": 1070000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "215/55 R18 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 LED 주간 주행등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361281",
+              "name": "컨비니언스",
+              "price": 630000,
+              "code": "A13",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "프리미엄 바이오 인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361282",
+              "name": "12.3인치 내비게이션",
+              "price": 1070000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "파노라믹 와이드 디스플레이(인포/공조 통합형)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로 內 안전구간/곡선로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "컬럼 타입 전자식 변속 레버",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "패들 쉬프트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "독립제어 풀오토 에어컨(운전석/동승석)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "공기청정 시스템(미세먼지 센서 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "오토디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 AI 어시스턴트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361283",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361284",
+              "name": "12.3인치 내비게이션 + 12.3인치 클러스터",
+              "price": 1470000,
+              "code": "A17",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "12.3인치 내비게이션",
+                  "exp": "12.3인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트), 파노라믹 와이드 디스플레이(인포/공조 통합형), 내비게이션 기반 스마트 크루즈 컨트롤(고속도로 內 안전구간/곡선로), 고속도로 주행 보조, 컬럼 타입 전자식 변속 레버, 패들 쉬프트, 스마트폰 무선충전 시스템, 레인센서, 독립제어 풀오토 에어컨(운전석/동승석), 공기청정 시스템(미세먼지 센서 포함), 오토디포그, 기아 AI 어시스턴트\n※ 하이패스 적용 시, e hi-pass 기능 지원",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 클러스터",
+                  "exp": "슈퍼비전 클러스터(12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361285",
+              "name": "스마트 커넥트",
+              "price": 680000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "오토 플러시 도어 핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "100W C타입 USB 단자(충전용, 1열 2개/정품 충전 케이블 1개)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361286",
+              "name": "드라이브 와이즈",
+              "price": 1170000,
+              "code": "A19",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 1,
+              "percent": 50,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 2,
+              "percent": 30,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94535,
+          "trimName": "트렌디 4WD",
+          "price": 27790000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361289",
+              "name": "컨비니언스",
+              "price": 630000,
+              "code": "A13",
+              "percent": 28,
+              "items": [
+                {
+                  "name": "프리미엄 바이오 인조가죽시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 통풍시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 시트백 포켓",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "하이패스 자동결제 시스템",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361290",
+              "name": "12.3인치 내비게이션",
+              "price": 1070000,
+              "code": "A14",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "파노라믹 와이드 디스플레이(인포/공조 통합형)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로 內 안전구간/곡선로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "컬럼 타입 전자식 변속 레버",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "패들 쉬프트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트폰 무선충전 시스템",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레인센서",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "독립제어 풀오토 에어컨(운전석/동승석)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "공기청정 시스템(미세먼지 센서 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "오토디포그",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 AI 어시스턴트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361291",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361292",
+              "name": "12.3인치 내비게이션 + 12.3인치 클러스터",
+              "price": 1470000,
+              "code": "A17",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "12.3인치 내비게이션",
+                  "exp": "12.3인치 내비게이션(기아 커넥트, 폰 프로젝션, 인카페이먼트), 파노라믹 와이드 디스플레이(인포/공조 통합형), 내비게이션 기반 스마트 크루즈 컨트롤(고속도로 內 안전구간/곡선로), 고속도로 주행 보조, 컬럼 타입 전자식 변속 레버, 패들 쉬프트, 스마트폰 무선충전 시스템, 레인센서, 독립제어 풀오토 에어컨(운전석/동승석), 공기청정 시스템(미세먼지 센서 포함), 오토디포그, 기아 AI 어시스턴트\n※ 하이패스 적용 시, e hi-pass 기능 지원",
+                  "image": ""
+                },
+                {
+                  "name": "12.3인치 클러스터",
+                  "exp": "슈퍼비전 클러스터(12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361293",
+              "name": "스마트 커넥트",
+              "price": 680000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "오토 플러시 도어 핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "100W C타입 USB 단자(충전용, 1열 2개/정품 충전 케이블 1개)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361294",
+              "name": "드라이브 와이즈",
+              "price": 1170000,
+              "code": "A19",
+              "percent": 12,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94536,
+          "trimName": "프레스티지 2WD",
+          "price": 28400000,
+          "transmission": "",
+          "percent": 23,
+          "options": [
+            {
+              "seq": "361296",
+              "name": "스타일",
+              "price": 880000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "235/45 R19 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 LED 주간 주행등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361297",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361298",
+              "name": "12.3인치 클러스터",
+              "price": 390000,
+              "code": "A16",
+              "percent": 22,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361299",
+              "name": "스마트 커넥트",
+              "price": 680000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "오토 플러시 도어 핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "100W C타입 USB 단자(충전용, 1열 2개/정품 충전 케이블 1개)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361300",
+              "name": "드라이브 와이즈",
+              "price": 1170000,
+              "code": "A19",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361301",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361302",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361303",
+              "name": "컴포트",
+              "price": 1020000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361304",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 2,
+              "percent": 18,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 1,
+              "percent": 55,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 3,
+              "percent": 9,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94537,
+          "trimName": "프레스티지 4WD",
+          "price": 30350000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361306",
+              "name": "스타일",
+              "price": 880000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "235/45 R19 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 LED 주간 주행등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361307",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361308",
+              "name": "12.3인치 클러스터",
+              "price": 390000,
+              "code": "A16",
+              "percent": 21,
+              "items": [
+                {
+                  "name": "슈퍼비전 클러스터(12.3인치 풀사이즈 칼라 TFT LCD)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361309",
+              "name": "스마트 커넥트",
+              "price": 680000,
+              "code": "A18",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "오토 플러시 도어 핸들",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "기아 디지털 키 2",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "100W C타입 USB 단자(충전용, 1열 2개/정품 충전 케이블 1개)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361310",
+              "name": "드라이브 와이즈",
+              "price": 1170000,
+              "code": "A19",
+              "percent": 19,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(전진 출차/주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 교차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "전자식 차일드락",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361311",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361312",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361313",
+              "name": "컴포트",
+              "price": 1020000,
+              "code": "A23",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 파워시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동승석 전동식 허리지지대",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 파워테일게이트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361314",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94538,
+          "trimName": "시그니처 2WD",
+          "price": 31010000,
+          "transmission": "",
+          "percent": 36,
+          "options": [
+            {
+              "seq": "361316",
+              "name": "스타일",
+              "price": 880000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "235/45 R19 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 LED 주간 주행등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361317",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361318",
+              "name": "드라이브 와이즈",
+              "price": 780000,
+              "code": "A20",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361319",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361320",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361321",
+              "name": "컴포트",
+              "price": 440000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361322",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 880000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 바이브로 사운드 시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361323",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361324",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A28",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 1,
+              "percent": 57,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 2,
+              "percent": 14,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 3,
+              "percent": 7,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+스노우 화이트 펄(CAS)",
+              "colorHexadecimal": "040406/f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+아이스버그 그린(CBG)",
+              "colorHexadecimal": "040406/657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운(마롱 브라운+미스티 그레이)",
+              "colorHexadecimal": "554944/919190",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94539,
+          "trimName": "시그니처 4WD",
+          "price": 32960000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361326",
+              "name": "스타일",
+              "price": 880000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "235/45 R19 타이어&amp;전면가공 휠",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프로젝션 LED 헤드램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프론트/리어 LED 턴시그널램프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "다이내믹 웰컴 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "프리미엄 LED 주간 주행등",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "LED 포그램프",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361327",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361328",
+              "name": "드라이브 와이즈",
+              "price": 780000,
+              "code": "A20",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361329",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361330",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361331",
+              "name": "컴포트",
+              "price": 440000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361332",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 880000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 바이브로 사운드 시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361333",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361334",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A28",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+스노우 화이트 펄(CAS)",
+              "colorHexadecimal": "040406/f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+아이스버그 그린(CBG)",
+              "colorHexadecimal": "040406/657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운(마롱 브라운+미스티 그레이)",
+              "colorHexadecimal": "554944/919190",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94540,
+          "trimName": "X-Line 2WD",
+          "price": 32170000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361338",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361339",
+              "name": "드라이브 와이즈",
+              "price": 780000,
+              "code": "A20",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361340",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361341",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361342",
+              "name": "컴포트",
+              "price": 440000,
+              "code": "A24",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361343",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 880000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 바이브로 사운드 시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361344",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361345",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A28",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 1,
+              "percent": 50,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 2,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 3,
+              "percent": 17,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+스노우 화이트 펄(CAS)",
+              "colorHexadecimal": "040406/f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+아이스버그 그린(CBG)",
+              "colorHexadecimal": "040406/657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버(ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마그마 매트 레드(MRM)",
+              "colorHexadecimal": "400d17",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 3,
+              "percent": 6,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운(마롱 브라운+미스티 그레이)",
+              "colorHexadecimal": "554944/919190",
+              "rank": 1,
+              "percent": 78,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙(스모키 블랙+헌터 그린)",
+              "colorHexadecimal": "2f3033/394545",
+              "rank": 2,
+              "percent": 17,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94541,
+          "trimName": "X-Line 4WD",
+          "price": 34120000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "361349",
+              "name": "빌트인 캠 2 플러스",
+              "price": 440000,
+              "code": "A15",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "빌트인캠 2 플러스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "증강현실 내비게이션",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361350",
+              "name": "드라이브 와이즈",
+              "price": 780000,
+              "code": "A20",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전방 충돌방지 보조(교차 차량/측방 접근차/추월시 대향차/회피 조향 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 충돌방지 보조(주행)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스마트 크루즈 컨트롤(운전 스타일 연동)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "내비게이션 기반 스마트 크루즈 컨트롤(고속도로/자동차 전용도로 內 진출입로)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "고속도로 주행 보조 2(차로변경 보조 기능 포함)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "운전자 전방 주시 경고 카메라",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361351",
+              "name": "모니터링",
+              "price": 1020000,
+              "code": "A21",
+              "percent": 16,
+              "items": [
+                {
+                  "name": "서라운드 뷰 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 모니터",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "리모트 360도 뷰(내 차 주변 영상)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "측방 주차 거리 경고",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후방 주차 충돌방지 보조",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "원격 스마트 주차 보조",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361352",
+              "name": "헤드업 디스플레이",
+              "price": 580000,
+              "code": "A22",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "헤드업 디스플레이",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361353",
+              "name": "컴포트",
+              "price": 440000,
+              "code": "A24",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "1열 이중접합 차음 글라스",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "앰비언트 라이트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "러기지 커버링 쉘프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 열선시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 센터 암레스트 슬라이딩 컵홀더",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 에어벤트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361354",
+              "name": "하만카돈 프리미엄 사운드",
+              "price": 880000,
+              "code": "A25",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "하만카돈 프리미엄 사운드(8스피커, 외장앰프)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "1열 바이브로 사운드 시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361355",
+              "name": "파노라마 선루프",
+              "price": 1070000,
+              "code": "A27",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "파노라마 선루프",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "니트 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "361356",
+              "name": "투톤 루프",
+              "price": 300000,
+              "code": "A28",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C10",
+              "colorType": 1,
+              "colorName": "스노우 화이트 펄(SWP)",
+              "colorHexadecimal": "f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C10"
+            },
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "아이스버그 그린(IEG)",
+              "colorHexadecimal": "657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그래비티 그레이(KDG)",
+              "colorHexadecimal": "53646b",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이보리 실버(ISG)",
+              "colorHexadecimal": "878887",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "프로스트 블루(EBB)",
+              "colorHexadecimal": "4b6a74",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "퓨전 블랙(FSB)",
+              "colorHexadecimal": "040406",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+스노우 화이트 펄(CAS)",
+              "colorHexadecimal": "040406/f4f4f4",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "퓨전 블랙+아이스버그 그린(CBG)",
+              "colorHexadecimal": "040406/657878",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A28"
+            },
+            {
+              "colorCode": "C09",
+              "colorType": 1,
+              "colorName": "아이보리 매트 실버(ISM)",
+              "colorHexadecimal": "bbbab1",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C09"
+            },
+            {
+              "colorCode": "C08",
+              "colorType": 1,
+              "colorName": "마그마 매트 레드(MRM)",
+              "colorHexadecimal": "400d17",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "C08"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이(휴먼 그레이+블랙)",
+              "colorHexadecimal": "67666a/17181a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운(마롱 브라운+미스티 그레이)",
+              "colorHexadecimal": "554944/919190",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙(스모키 블랙+헌터 그린)",
+              "colorHexadecimal": "2f3033/394545",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

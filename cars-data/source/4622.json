@@ -1,0 +1,1717 @@
+{
+  "model_id": 4622,
+  "brand": "KG모빌리티",
+  "name": "액티언",
+  "img": "https://autoimg.danawa.com/photo/4622/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53301,
+      "name": "가솔린 터보 1.5 하이브리드",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93135,
+          "trimName": "S8 2WD",
+          "price": 36950000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "352367",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352368",
+              "name": "투톤 익스테리어 패키지",
+              "price": 410000,
+              "code": "A10",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙 컬러 적용 부위 : 블랙 루프, 블랙 스포일러",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352369",
+              "name": "카멜/베이지 투톤 인테리어 패키지",
+              "price": 400000,
+              "code": "A11",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "카멜/베이지 투톤 천연 가죽 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28577.jpg"
+                },
+                {
+                  "name": "베이지 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "로즈골드 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 하이그로시 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "멜란지 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼/센터 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카멜 컬러 시트벨트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "천연가죽 시트, 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352370",
+              "name": "블랙 스웨이드 퀼팅 인테리어 패키지",
+              "price": 600000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙 스웨이드 퀼팅 시트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "티타늄 컬러 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카본 패턴 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 우드 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 컬러 시트벨트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스웨이드 적용 부위 : 시트 넥, 숄더, 헤드레스트, 도어 센터트림, 센터 콘솔 암레스트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스웨이드 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352371",
+              "name": "3D 어라운드뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 20,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352372",
+              "name": "딥 컨트롤 패키지II",
+              "price": 650000,
+              "code": "A16",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352373",
+              "name": "20인치 미쉐린 흡음형 타이어",
+              "price": 600000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352374",
+              "name": "[커스터마이징] 알파인 오디오 시스템",
+              "price": 620000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트",
+              "colorHexadecimal": "d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아이언 메탈",
+              "colorHexadecimal": "5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "라떼 그레이지",
+              "colorHexadecimal": "948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "포레스트 그린",
+              "colorHexadecimal": "4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "댄디 블루",
+              "colorHexadecimal": "2e364d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙",
+              "colorHexadecimal": "101010",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "블랙/그랜드 화이트",
+              "colorHexadecimal": "000000/d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C18",
+              "colorType": 1,
+              "colorName": "블랙/아이언 메탈",
+              "colorHexadecimal": "000000/5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙/라떼 그레이지",
+              "colorHexadecimal": "000000/948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙/포레스트 그린",
+              "colorHexadecimal": "000000/4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 인테리어",
+              "colorHexadecimal": "2f3034",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "카멜/베이지 투톤 인테리어",
+              "colorHexadecimal": "a38d78/c8c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "블랙 스웨이드 퀼팅 인테리어",
+              "colorHexadecimal": "2f3034",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53325,
+      "name": "가솔린 터보 1.5",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93112,
+          "trimName": "S8 2WD",
+          "price": 34170000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "352155",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352156",
+              "name": "투톤 익스테리어 패키지",
+              "price": 410000,
+              "code": "A10",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙 컬러 적용 부위 : 블랙 루프, 블랙 스포일러",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352157",
+              "name": "카멜/베이지 투톤 퀼팅 인테리어",
+              "price": 400000,
+              "code": "A11",
+              "percent": 18,
+              "items": [
+                {
+                  "name": "카멜/베이지 투톤 천연 가죽 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28577.jpg"
+                },
+                {
+                  "name": "베이지 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "로즈골드 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 하이그로시 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "멜란지 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼/센터 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카멜 컬러 시트벨트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "천연가죽 시트, 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352158",
+              "name": "블랙/레드 투톤 스웨이드 퀼팅 인테리어",
+              "price": 600000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙/레드 투톤 스웨이드 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28585.jpg"
+                },
+                {
+                  "name": "블랙 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "SUS 컬러 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카본 패턴 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 우드 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레드 컬러 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28586.jpg"
+                },
+                {
+                  "name": "스웨이드 적용 부위 : 시트 넥, 숄더, 헤드레스트, 도어 센터트림",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스웨이드 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352159",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 15,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352160",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 650000,
+              "code": "A16",
+              "percent": 45,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352161",
+              "name": "[커스터마이징] 액티브 배기 사운드",
+              "price": 1400000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352162",
+              "name": "[커스터마이징] 알파인 오디오 시스템",
+              "price": 620000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트",
+              "colorHexadecimal": "d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈",
+              "colorHexadecimal": "5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "라떼 그레이지",
+              "colorHexadecimal": "948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "포레스트 그린",
+              "colorHexadecimal": "4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "댄디 블루",
+              "colorHexadecimal": "2e364d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙",
+              "colorHexadecimal": "101010",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙/그랜드 화이트",
+              "colorHexadecimal": "000000/d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙/아이언 메탈",
+              "colorHexadecimal": "000000/5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "블랙/라떼 그레이지",
+              "colorHexadecimal": "000000/948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "블랙/포레스트 그린",
+              "colorHexadecimal": "000000/4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 인테리어",
+              "colorHexadecimal": "2f3034",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/레드 투톤 인테리어",
+              "colorHexadecimal": "1f2024/8c474a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "카멜/베이지 투톤 인테리어",
+              "colorHexadecimal": "a38d78/c8c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            }
+          ]
+        },
+        {
+          "trimNo": 93113,
+          "trimName": "S8 AWD",
+          "price": 36190000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "352174",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352175",
+              "name": "투톤 익스테리어 패키지",
+              "price": 410000,
+              "code": "A10",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙 컬러 적용 부위 : 블랙 루프, 블랙 스포일러",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352176",
+              "name": "카멜/베이지 투톤 퀼팅 인테리어",
+              "price": 400000,
+              "code": "A11",
+              "percent": 17,
+              "items": [
+                {
+                  "name": "카멜/베이지 투톤 천연 가죽 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28577.jpg"
+                },
+                {
+                  "name": "베이지 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "로즈골드 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 하이그로시 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "멜란지 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼/센터 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카멜 컬러 시트벨트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "천연가죽 시트, 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352177",
+              "name": "블랙/레드 투톤 스웨이드 퀼팅 인테리어",
+              "price": 600000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙/레드 투톤 스웨이드 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28585.jpg"
+                },
+                {
+                  "name": "블랙 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "SUS 컬러 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카본 패턴 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 우드 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레드 컬러 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28586.jpg"
+                },
+                {
+                  "name": "스웨이드 적용 부위 : 시트 넥, 숄더, 헤드레스트, 도어 센터트림",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스웨이드 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352178",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 9,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352179",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 650000,
+              "code": "A16",
+              "percent": 25,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352180",
+              "name": "[커스터마이징] 액티브 배기 사운드",
+              "price": 1400000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352181",
+              "name": "[커스터마이징] 알파인 오디오 시스템",
+              "price": 620000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트",
+              "colorHexadecimal": "d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈",
+              "colorHexadecimal": "5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "라떼 그레이지",
+              "colorHexadecimal": "948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "포레스트 그린",
+              "colorHexadecimal": "4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "댄디 블루",
+              "colorHexadecimal": "2e364d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙",
+              "colorHexadecimal": "101010",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙/그랜드 화이트",
+              "colorHexadecimal": "000000/d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙/아이언 메탈",
+              "colorHexadecimal": "000000/5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "블랙/라떼 그레이지",
+              "colorHexadecimal": "000000/948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "블랙/포레스트 그린",
+              "colorHexadecimal": "000000/4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 인테리어",
+              "colorHexadecimal": "2f3034",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/레드 투톤 인테리어",
+              "colorHexadecimal": "1f2024/8c474a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "카멜/베이지 투톤 인테리어",
+              "colorHexadecimal": "a38d78/c8c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53326,
+      "name": "LPG 1.5 (가솔린 바이퓨얼)",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 93114,
+          "trimName": "S8 2WD",
+          "price": 37470000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "352213",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352214",
+              "name": "투톤 익스테리어 패키지",
+              "price": 410000,
+              "code": "A10",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "블랙 컬러 적용 부위 : 블랙 루프, 블랙 스포일러",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352215",
+              "name": "카멜/베이지 투톤 퀼팅 인테리어",
+              "price": 400000,
+              "code": "A11",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "카멜/베이지 투톤 천연 가죽 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28577.jpg"
+                },
+                {
+                  "name": "베이지 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "로즈골드 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 하이그로시 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "멜란지 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼/센터 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카멜 컬러 시트벨트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "천연가죽 시트, 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352216",
+              "name": "블랙/레드 투톤 스웨이드 퀼팅 인테리어",
+              "price": 600000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙/레드 투톤 스웨이드 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28585.jpg"
+                },
+                {
+                  "name": "블랙 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "SUS 컬러 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카본 패턴 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 우드 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레드 컬러 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28586.jpg"
+                },
+                {
+                  "name": "스웨이드 적용 부위 : 시트 넥, 숄더, 헤드레스트, 도어 센터트림",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스웨이드 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352217",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 33,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352218",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 650000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352219",
+              "name": "[커스터마이징] 액티브 배기 사운드",
+              "price": 1400000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352220",
+              "name": "[커스터마이징] 알파인 오디오 시스템",
+              "price": 620000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트",
+              "colorHexadecimal": "d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈",
+              "colorHexadecimal": "5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "라떼 그레이지",
+              "colorHexadecimal": "948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "포레스트 그린",
+              "colorHexadecimal": "4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "댄디 블루",
+              "colorHexadecimal": "2e364d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙",
+              "colorHexadecimal": "101010",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙/그랜드 화이트",
+              "colorHexadecimal": "000000/d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙/아이언 메탈",
+              "colorHexadecimal": "000000/5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "블랙/라떼 그레이지",
+              "colorHexadecimal": "000000/948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "블랙/포레스트 그린",
+              "colorHexadecimal": "000000/4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 인테리어",
+              "colorHexadecimal": "2f3034",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/레드 투톤 인테리어",
+              "colorHexadecimal": "1f2024/8c474a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "카멜/베이지 투톤 인테리어",
+              "colorHexadecimal": "a38d78/c8c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            }
+          ]
+        },
+        {
+          "trimNo": 93115,
+          "trimName": "S8 AWD",
+          "price": 39490000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "352232",
+              "name": "파노라마 선루프",
+              "price": 1200000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352233",
+              "name": "투톤 익스테리어 패키지",
+              "price": 410000,
+              "code": "A10",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙 컬러 적용 부위 : 블랙 루프, 블랙 스포일러",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352234",
+              "name": "카멜/베이지 투톤 퀼팅 인테리어",
+              "price": 400000,
+              "code": "A11",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "카멜/베이지 투톤 천연 가죽 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28577.jpg"
+                },
+                {
+                  "name": "베이지 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "로즈골드 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 하이그로시 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "멜란지 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼/센터 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카멜 컬러 시트벨트",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "천연가죽 시트, 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352235",
+              "name": "블랙/레드 투톤 스웨이드 퀼팅 인테리어",
+              "price": 600000,
+              "code": "A12",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "블랙/레드 투톤 스웨이드 퀼팅 시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28585.jpg"
+                },
+                {
+                  "name": "블랙 헤드라이닝",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "SUS 컬러 몰딩라인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "카본 패턴 그레인",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "블랙 우드 패턴 가니쉬",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "소프트 인조가죽 감싸기(도어 어퍼 트림, 센터 콘솔 엣지 &amp; 암레스트)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "레드 컬러 시트벨트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/4622/items/28586.jpg"
+                },
+                {
+                  "name": "스웨이드 적용 부위 : 시트 넥, 숄더, 헤드레스트, 도어 센터트림",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "스웨이드 퀼팅 적용 부위 : 시트 숄더부위",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352236",
+              "name": "3D 어라운드 뷰 모니터링 시스템",
+              "price": 1100000,
+              "code": "A15",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "전측방 카메라(클리어 사이트 그라운드 뷰, 주행 중 후방 뷰, 어라운드 뷰 기능포함)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352237",
+              "name": "딥 컨트롤 패키지Ⅱ",
+              "price": 650000,
+              "code": "A16",
+              "percent": 0,
+              "items": [
+                {
+                  "name": "후측방 충돌 보조(BSA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 충돌 보조(RCTA)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 경고(BSW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "후측방 접근 경고(RCTW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "차선 변경 경고(LCW)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "안전 하차 경고(SEW)",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "352238",
+              "name": "[커스터마이징] 액티브 배기 사운드",
+              "price": 1400000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "352239",
+              "name": "[커스터마이징] 알파인 오디오 시스템",
+              "price": 620000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "그랜드 화이트",
+              "colorHexadecimal": "d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아이언 메탈",
+              "colorHexadecimal": "5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "라떼 그레이지",
+              "colorHexadecimal": "948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "포레스트 그린",
+              "colorHexadecimal": "4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "댄디 블루",
+              "colorHexadecimal": "2e364d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C17",
+              "colorType": 1,
+              "colorName": "스페이스 블랙",
+              "colorHexadecimal": "101010",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C19",
+              "colorType": 1,
+              "colorName": "블랙/그랜드 화이트",
+              "colorHexadecimal": "000000/d3d3d3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C20",
+              "colorType": 1,
+              "colorName": "블랙/아이언 메탈",
+              "colorHexadecimal": "000000/5b5d69",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C21",
+              "colorType": 1,
+              "colorName": "블랙/라떼 그레이지",
+              "colorHexadecimal": "000000/948f89",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            },
+            {
+              "colorCode": "C22",
+              "colorType": 1,
+              "colorName": "블랙/포레스트 그린",
+              "colorHexadecimal": "000000/4b5652",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A10"
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙 인테리어",
+              "colorHexadecimal": "2f3034",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "블랙/레드 투톤 인테리어",
+              "colorHexadecimal": "1f2024/8c474a",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A12"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "카멜/베이지 투톤 인테리어",
+              "colorHexadecimal": "a38d78/c8c1b7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": "A11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

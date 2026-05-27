@@ -1,0 +1,26 @@
+{
+  "model_id": 4035,
+  "brand": "맥라렌",
+  "name": "Artura",
+  "img": "https://autoimg.danawa.com/photo/4035/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 49050,
+      "name": "쿠페 가솔린 3.0 플러그인 하이브리드",
+      "year": "2021년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 75866,
+          "trimName": "V6",
+          "price": 299000000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

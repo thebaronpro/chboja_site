@@ -1,0 +1,452 @@
+{
+  "model_id": 4666,
+  "brand": "KG모빌리티",
+  "name": "무쏘 EV",
+  "img": "https://autoimg.danawa.com/photo/4666/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53071,
+      "name": "전기",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92167,
+          "trimName": "MX 2WD",
+          "price": 48000000,
+          "transmission": "",
+          "percent": 26,
+          "options": [
+            {
+              "seq": "345386",
+              "name": "선루프",
+              "price": 600000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "345391",
+              "name": "3D 어라운드뷰 모니터링 시스템",
+              "price": 1200000,
+              "code": "A19",
+              "percent": 28,
+              "items": []
+            },
+            {
+              "seq": "345387",
+              "name": "천연 가죽시트 패키지",
+              "price": 600000,
+              "code": "A15",
+              "percent": 24,
+              "items": [
+                {
+                  "name": "천연 가죽시트(블랙/그레이/브라운 컬러 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동반석 시트 (8way 전동시트, 전동식 2way 럼버서포트, 동승석 워크인 디바이스)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 히팅시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "345388",
+              "name": "유틸리티 루프랙",
+              "price": 200000,
+              "code": "A16",
+              "percent": 13,
+              "items": []
+            },
+            {
+              "seq": "349974",
+              "name": "휴대폰 무선 충전기",
+              "price": 160000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블레이징 골드(DAA)",
+              "colorHexadecimal": "e1c368",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아마조니아 그린(GAM)",
+              "colorHexadecimal": "293325",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "울트라 마린(BBE)",
+              "colorHexadecimal": "002e72",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이(ACM)",
+              "colorHexadecimal": "111822",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141216",
+              "rank": 1,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "623a2e",
+              "rank": 2,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "46484f",
+              "rank": 3,
+              "percent": 33,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 92267,
+          "trimName": "MX 4WD",
+          "price": 50500000,
+          "transmission": "",
+          "percent": 39,
+          "options": [
+            {
+              "seq": "346018",
+              "name": "선루프",
+              "price": 600000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "346019",
+              "name": "3D 어라운드뷰 모니터링 시스템",
+              "price": 1200000,
+              "code": "A19",
+              "percent": 25,
+              "items": []
+            },
+            {
+              "seq": "346020",
+              "name": "천연 가죽시트 패키지",
+              "price": 600000,
+              "code": "A15",
+              "percent": 23,
+              "items": [
+                {
+                  "name": "천연 가죽시트(블랙/그레이/브라운 컬러 중 택1)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "동반석 시트 (8way 전동시트, 전동식 2way 럼버서포트, 동승석 워크인 디바이스)",
+                  "exp": "",
+                  "image": ""
+                },
+                {
+                  "name": "2열 히팅시트",
+                  "exp": "",
+                  "image": ""
+                }
+              ]
+            },
+            {
+              "seq": "346021",
+              "name": "유틸리티 루프랙",
+              "price": 200000,
+              "code": "A16",
+              "percent": 16,
+              "items": []
+            },
+            {
+              "seq": "349978",
+              "name": "휴대폰 무선 충전기",
+              "price": 160000,
+              "code": "A21",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "블레이징 골드(DAA)",
+              "colorHexadecimal": "e1c368",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "아마조니아 그린(GAM)",
+              "colorHexadecimal": "293325",
+              "rank": 1,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "울트라 마린(BBE)",
+              "colorHexadecimal": "002e72",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C15",
+              "colorType": 1,
+              "colorName": "마블 그레이(ACM)",
+              "colorHexadecimal": "111822",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "161616",
+              "rank": 2,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141216",
+              "rank": 1,
+              "percent": 55,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 0,
+              "colorName": "브라운",
+              "colorHexadecimal": "623a2e",
+              "rank": 2,
+              "percent": 36,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "46484f",
+              "rank": 3,
+              "percent": 9,
+              "bundle": "",
+              "sAddOptionCode": "A15"
+            }
+          ]
+        },
+        {
+          "trimNo": 92202,
+          "trimName": "블랙 엣지 2WD",
+          "price": 50500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "345574",
+              "name": "선루프",
+              "price": 600000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "345576",
+              "name": "3D 어라운드뷰 모니터링 시스템",
+              "price": 1200000,
+              "code": "A19",
+              "percent": 41,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141216",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92268,
+          "trimName": "블랙 엣지 4WD",
+          "price": 53000000,
+          "transmission": "",
+          "percent": 26,
+          "options": [
+            {
+              "seq": "346048",
+              "name": "선루프",
+              "price": 600000,
+              "code": "A14",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "346049",
+              "name": "3D 어라운드뷰 모니터링 시스템",
+              "price": 1200000,
+              "code": "A19",
+              "percent": 30,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "그랜드 화이트(WAA)",
+              "colorHexadecimal": "f7f7f7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C16",
+              "colorType": 1,
+              "colorName": "스페이스 블랙(LAK)",
+              "colorHexadecimal": "161616",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "141216",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

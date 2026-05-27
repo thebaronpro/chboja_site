@@ -1,0 +1,78 @@
+{
+  "model_id": 4706,
+  "brand": "BYD",
+  "name": "SEALION 7",
+  "img": "https://autoimg.danawa.com/photo/4706/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53054,
+      "name": "전기",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92101,
+          "trimName": " SEALION 7",
+          "price": 44900000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "샤크 그레이",
+              "colorHexadecimal": "c1c4ca",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "아틀란티스 그레이",
+              "colorHexadecimal": "445873",
+              "rank": 1,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "오로라 화이트",
+              "colorHexadecimal": "dde0e2",
+              "rank": 3,
+              "percent": 20,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "코스모스 블랙",
+              "colorHexadecimal": "18171d",
+              "rank": 2,
+              "percent": 40,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "블랙",
+              "colorHexadecimal": "18171d",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "model_id": 4670,
+  "brand": "메르세데스-벤츠",
+  "name": "Maybach SL",
+  "img": "https://autoimg.danawa.com/photo/4670/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53533,
+      "name": "가솔린 4.0",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94011,
+          "trimName": "Maybach SL680",
+          "price": 342600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 가넷 레드 메탈릭 (393U)",
+              "colorHexadecimal": "ba1b28",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "MANUFAKTUR 오팔라이트 화이트 마그노 (659U)",
+              "colorHexadecimal": "f5f5f2",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

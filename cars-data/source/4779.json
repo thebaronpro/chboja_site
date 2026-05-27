@@ -1,0 +1,78 @@
+{
+  "model_id": 4779,
+  "brand": "GMC",
+  "name": "Canyon",
+  "img": "https://autoimg.danawa.com/photo/4779/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53655,
+      "name": "가솔린 터보 2.7",
+      "year": "2026년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 94544,
+          "trimName": "Denali",
+          "price": 76850000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "Onyx Black",
+              "colorHexadecimal": "010303",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "Sterling Metallic",
+              "colorHexadecimal": "5b5d5e",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "Volcanic Red Tintcoat",
+              "colorHexadecimal": "840e12",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "Glacier Metallic",
+              "colorHexadecimal": "7395a7",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "Jet Black, Teak point",
+              "colorHexadecimal": "151515",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

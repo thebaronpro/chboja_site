@@ -1,0 +1,76 @@
+{
+  "model_id": 3802,
+  "brand": "동풍",
+  "name": "Fengon ix5",
+  "img": "https://autoimg.danawa.com/photo/3802/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 45836,
+      "name": "가솔린 터보 1.5",
+      "year": "2020년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 65614,
+          "trimName": "기본형",
+          "price": 24800000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "82173",
+              "name": "파노라마 세이프티 썬루프",
+              "price": 1000000,
+              "code": "A11",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "스칼렛 레드",
+              "colorHexadecimal": "b22b29",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "코발트 블루",
+              "colorHexadecimal": "0558a8",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "스노우 화이트",
+              "colorHexadecimal": "f3f3f3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C14",
+              "colorType": 1,
+              "colorName": "다이아몬드 블랙",
+              "colorHexadecimal": "383838",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": []
+        }
+      ]
+    }
+  ]
+}

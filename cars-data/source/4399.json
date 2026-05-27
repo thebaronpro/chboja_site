@@ -1,0 +1,886 @@
+{
+  "model_id": 4399,
+  "brand": "현대",
+  "name": "포터2 일렉트릭",
+  "img": "https://autoimg.danawa.com/photo/4399/model_360.png",
+  "lineups": [
+    {
+      "lineupNo": 53555,
+      "name": "전기 (일렉트릭)",
+      "year": "2026년형",
+      "percent": 63,
+      "trims": [
+        {
+          "trimNo": 94097,
+          "trimName": "슈퍼캡 초장축 스타일 스페셜",
+          "price": 43500000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358833",
+              "name": "운전석 시트 패키지(열선시트/럼버서포트/통풍시트)",
+              "price": 350000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "358834",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "오닉스 블루(ZV)",
+              "colorHexadecimal": "3f4d70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "슬레이트 브라운 (RVB)",
+              "colorHexadecimal": "494441",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94098,
+          "trimName": "슈퍼캡 초장축 스마트 스페셜",
+          "price": 44850000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358835",
+              "name": "운전석 통풍시트",
+              "price": 200000,
+              "code": "A14",
+              "percent": 57,
+              "items": [
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3828/items/17748.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "358836",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A13",
+              "percent": 37,
+              "items": []
+            },
+            {
+              "seq": "358837",
+              "name": "[HGA] 플라스틱 적재함 커버",
+              "price": 630000,
+              "code": "A15",
+              "percent": 5,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "오닉스 블루(ZV)",
+              "colorHexadecimal": "3f4d70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "슬레이트 브라운 (RVB)",
+              "colorHexadecimal": "494441",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94099,
+          "trimName": "슈퍼캡 초장축 프리미엄 스페셜",
+          "price": 46450000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "358838",
+              "name": "[HGA] 플라스틱 적재함 커버",
+              "price": 630000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "오닉스 블루(ZV)",
+              "colorHexadecimal": "3f4d70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "슬레이트 브라운 (RVB)",
+              "colorHexadecimal": "494441",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53627,
+      "name": "전기 (내장탑차/파워게이트/윙바디)",
+      "year": "2026년형",
+      "percent": 11,
+      "trims": [
+        {
+          "trimNo": 94479,
+          "trimName": "하이내장탑차",
+          "price": 51130000,
+          "transmission": "",
+          "percent": 61,
+          "options": [
+            {
+              "seq": "360649",
+              "name": "미닫이 도어",
+              "price": 1000000,
+              "code": "A17",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94480,
+          "trimName": "내장탑차",
+          "price": 50250000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94481,
+          "trimName": "저상내장탑차",
+          "price": 49030000,
+          "transmission": "",
+          "percent": 22,
+          "options": [
+            {
+              "seq": "360650",
+              "name": "양면 미닫이 도어",
+              "price": 1670000,
+              "code": "A18",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94482,
+          "trimName": "파워게이트",
+          "price": 50000000,
+          "transmission": "",
+          "percent": 9,
+          "options": [
+            {
+              "seq": "360651",
+              "name": "확장형 리프트 판넬 (1520mm X 1420mm)",
+              "price": 200000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94483,
+          "trimName": "수동식 윙바디",
+          "price": 51030000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 94484,
+          "trimName": "전동식 윙바디",
+          "price": 55240000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 53110,
+      "name": "전기 (일렉트릭)",
+      "year": "2025년형",
+      "percent": 0,
+      "trims": [
+        {
+          "trimNo": 92367,
+          "trimName": "슈퍼캡 초장축 스타일 스페셜",
+          "price": 43250000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "347542",
+              "name": "운전석 시트 패키지(열선시트/럼버서포트/통풍시트)",
+              "price": 350000,
+              "code": "A12",
+              "percent": 0,
+              "items": []
+            },
+            {
+              "seq": "347543",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A13",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "오닉스 블루(ZV)",
+              "colorHexadecimal": "3f4d70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "슬레이트 브라운 (RVB)",
+              "colorHexadecimal": "494441",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92365,
+          "trimName": "슈퍼캡 초장축 스마트 스페셜",
+          "price": 44600000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "347544",
+              "name": "운전석 통풍시트",
+              "price": 200000,
+              "code": "A14",
+              "percent": 50,
+              "items": [
+                {
+                  "name": "운전석 통풍시트",
+                  "exp": "",
+                  "image": "https://autoimg.danawa.com/photo/3828/items/17748.jpg"
+                }
+              ]
+            },
+            {
+              "seq": "347545",
+              "name": "하이패스",
+              "price": 200000,
+              "code": "A13",
+              "percent": 43,
+              "items": []
+            },
+            {
+              "seq": "348806",
+              "name": "플라스틱 적재함 커버",
+              "price": 630000,
+              "code": "A15",
+              "percent": 7,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "오닉스 블루(ZV)",
+              "colorHexadecimal": "3f4d70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "슬레이트 브라운 (RVB)",
+              "colorHexadecimal": "494441",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92366,
+          "trimName": "슈퍼캡 초장축 프리미엄 스페셜",
+          "price": 46200000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "348807",
+              "name": "플라스틱 적재함 커버",
+              "price": 630000,
+              "code": "A15",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C12",
+              "colorType": 1,
+              "colorName": "오닉스 블루(ZV)",
+              "colorHexadecimal": "3f4d70",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            },
+            {
+              "colorCode": "C13",
+              "colorType": 1,
+              "colorName": "슬레이트 브라운 (RVB)",
+              "colorHexadecimal": "494441",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "lineupNo": 52273,
+      "name": "전기 (내장탑차/파워게이트/윙바디)",
+      "year": "2025년형",
+      "percent": 14,
+      "trims": [
+        {
+          "trimNo": 89818,
+          "trimName": "하이내장탑차",
+          "price": 50880000,
+          "transmission": "",
+          "percent": 31,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89816,
+          "trimName": "내장탑차",
+          "price": 50000000,
+          "transmission": "",
+          "percent": 21,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89817,
+          "trimName": "저상내장탑차",
+          "price": 48780000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89815,
+          "trimName": "파워게이트",
+          "price": 49220000,
+          "transmission": "",
+          "percent": 0,
+          "options": [
+            {
+              "seq": "325993",
+              "name": "확장형 리프트 판넬 (1520mm X 1420mm)",
+              "price": 200000,
+              "code": "A16",
+              "percent": 0,
+              "items": []
+            }
+          ],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 89814,
+          "trimName": "수동식 윙바디",
+          "price": 50780000,
+          "transmission": "",
+          "percent": 24,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        },
+        {
+          "trimNo": 92916,
+          "trimName": "전동식 윙바디",
+          "price": 54990000,
+          "transmission": "",
+          "percent": 0,
+          "options": [],
+          "exteriorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 1,
+              "colorName": "크리미 화이트 (YAW)",
+              "colorHexadecimal": "eeedf3",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ],
+          "interiorColors": [
+            {
+              "colorCode": "C11",
+              "colorType": 0,
+              "colorName": "그레이",
+              "colorHexadecimal": "433b38",
+              "rank": 0,
+              "percent": 0,
+              "bundle": "",
+              "sAddOptionCode": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
