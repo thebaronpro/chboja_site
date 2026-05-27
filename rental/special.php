@@ -10,7 +10,7 @@
 body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,sans-serif;background:#fff;color:#0a0a0a}
 a{text-decoration:none;color:inherit}
 .car-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1.5rem}
-.car-card{border:1px solid #e5e5e5;background:#fff;cursor:pointer;transition:box-shadow .2s,transform .2s}
+.car-card{border:1px solid #e5e5e5;background:#fff;cursor:pointer;transition:box-shadow .2s,transform .2s;border-radius:14px;overflow:hidden}
 .car-card:hover{transform:translateY(-4px);box-shadow:0 8px 32px rgba(0,0,0,.1)}
 .car-card img{width:100%;height:12rem;object-fit:contain;background:#fff}
 .car-info{padding:1.25rem}
@@ -18,7 +18,7 @@ a{text-decoration:none;color:inherit}
 .car-name{font-weight:900;font-size:1rem}
 .car-price{font-size:1.125rem;font-weight:900;margin-top:.35rem}
 .car-meta{font-size:.75rem;color:#a3a3a3;margin-top:.2rem}
-.car-btn{display:block;width:100%;margin-top:1.25rem;padding:.75rem;background:#0a0a0a;color:#fff;font-size:.875rem;font-weight:700;border:none;cursor:pointer;transition:background .15s;text-align:center}
+.car-btn{display:block;width:100%;margin-top:1.25rem;padding:.75rem;background:#0a0a0a;color:#fff;font-size:.875rem;font-weight:700;border:none;cursor:pointer;transition:background .15s;text-align:center;border-radius:8px}
 .car-btn:hover{background:#dc2626}
 footer{background:#0a0a0a;color:#737373;padding:2.5rem 0;margin-top:4rem}
 
@@ -107,10 +107,10 @@ function renderCars(list, isEv) {
 function setSpTab(name) {
   document.querySelectorAll('.sp-tab').forEach(b => {
     const on = b.dataset.tab === name;
-    b.style.background = on ? '#DEE7FB' : 'transparent';
+    b.style.background = on ? '#F0F4FE' : 'transparent';
     b.style.color = on ? '#1E4FCC' : '#737373';
     b.style.fontWeight = on ? '800' : '700';
-    b.style.boxShadow = on ? '0 0 0 1px #2858E0 inset' : 'none';
+    b.style.boxShadow = on ? '0 0 0 1px #BFD2F8 inset' : 'none';
   });
   if (name === 'ev') renderCars(EV_CARS, true);
   else renderCars(GENERAL_CARS, false);

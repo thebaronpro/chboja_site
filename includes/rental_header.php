@@ -69,7 +69,8 @@ body { overflow-x: clip; padding-bottom: 4rem; width: 100%; }
 header { position:sticky !important; top:0 !important; left:0 !important; right:0 !important; z-index:50 !important; background:#fff !important; width:100% !important; view-transition-name: top-gnb; }
 @media (max-width:768px) { header { position:static !important; } }
 .logo { display:inline-flex; align-items:center; text-decoration:none; line-height:1; }
-.logo img { height:24px; width:auto; display:block; }
+.logo img { height:20px; width:auto; display:block; }
+@media (min-width:769px) { .logo img { height:24px; } }
 .logo-bar { display:flex; align-items:center; justify-content:flex-start; height:52px; position:relative; padding-left:1rem; }
 @media (min-width:769px) { .logo-bar { justify-content:space-between; height:44px; padding-left:0; } }
 .topright { display:none; }
@@ -149,7 +150,29 @@ header > nav { display:none !important; }
 .page-search-input { flex:1; font-size:.875rem; border:none; outline:none; background:transparent; font-family:inherit; color:#0a0a0a; }
 .page-search-input::placeholder { color:#a3a3a3; }
 .page-search-clear { cursor:pointer; color:#a3a3a3; font-size:.9rem; border:none; background:none; display:none; }
-@media (max-width:768px) { .page-search-wrap { display:none; margin-top:0; } }
+@media (max-width:768px) {
+  .page-search-wrap { display:none; margin-top:0; }
+  /* 검색 모드(search.php) : 상단 sticky 검색바 노출 — 한국 모바일 앱 표준 패턴 */
+  .page-search-wrap.inline-search {
+    display:block;
+    position:sticky;
+    top:0;
+    z-index:46;
+    margin:0;
+    border-radius:0;
+    background:#fff;
+    border-bottom:1px solid #e5e5e5;
+    transform:none !important;
+    opacity:1 !important;
+  }
+  .page-search-wrap.inline-search .page-search-inner {
+    padding:.8rem 1rem;
+    background:#f3f4f6;
+    border-radius:999px;
+    margin:.55rem 1rem;
+  }
+  .page-search-wrap.inline-search .page-search-input { font-size:.95rem; }
+}
 
 /* 우측 EVENT */
 .header-right { display:flex; align-items:center; gap:.55rem; flex-shrink:0; }
@@ -233,11 +256,11 @@ $_searchPlaceholders = [
 $_isInlineSearch = isset($_searchPlaceholders[$subnav_active]);
 $_searchPh = $_searchPlaceholders[$subnav_active] ?? '전체 차종 검색(전체차량, 빠른출고, 특가차량)';
 ?>
-<div class="page-search-wrap"<?= $_isInlineSearch ? '' : ' onclick="window.location.href=\'' . h($site_root) . 'rental/search.php\'"' ?>>
+<div class="page-search-wrap<?= $_isInlineSearch ? ' inline-search' : '' ?>"<?= $_isInlineSearch ? '' : ' onclick="window.location.href=\'' . h($site_root) . 'rental/search.php\'"' ?>>
   <div class="page-search-inner">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#737373" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
     <?php if ($_isInlineSearch): ?>
-      <input id="qi" class="page-search-input" type="text" placeholder="<?= htmlspecialchars($_searchPh) ?>" autocomplete="off"<?= $subnav_active === 'search' ? ' autofocus' : '' ?>>
+      <input id="qi" class="page-search-input" type="text" placeholder="<?= htmlspecialchars($_searchPh) ?>" autocomplete="off">
       <button id="qc" class="page-search-clear" type="button">✕</button>
     <?php else: ?>
       <span class="placeholder"><?= htmlspecialchars($_searchPh) ?></span>

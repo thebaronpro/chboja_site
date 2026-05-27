@@ -8,6 +8,9 @@
 <title>장기렌트 — RENT insight</title>
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jua&display=swap">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body { font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif; background:#fff; color:#0a0a0a; padding-bottom:4rem; }
@@ -172,20 +175,21 @@ a{text-decoration:none;color:inherit}
 .mob-card-info { display: none; }
 .limited-grid article > .m-stock { display: none; }
 .limited-bg-name {
-  position: absolute; top: 21%; left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 2.2rem; font-weight: 900; letter-spacing: -.05em;
-  color: rgba(0,0,0,.32); white-space: nowrap; pointer-events: none;
-  text-shadow: 0 1px 2px rgba(255,255,255,.4); font-family: inherit;
+  position: absolute; top: .55rem; right: .85rem;
+  font-size: 1.2rem; font-weight: 400; letter-spacing: -.02em;
+  color: rgba(0,0,0,.32);
+  white-space: nowrap; pointer-events: none;
+  text-shadow: 0 1px 2px rgba(255,255,255,.4);
+  font-family: 'Jua', 'Pretendard Variable', Pretendard, sans-serif;
   z-index: 1;
-  transition: font-size .45s cubic-bezier(.2,.7,.2,1), color .3s ease, text-shadow .3s ease, z-index 0s linear .45s;
+  transition: font-size .35s cubic-bezier(.2,.7,.2,1), color .3s ease, text-shadow .3s ease, z-index 0s linear .35s;
 }
 .zoom-card:hover .limited-bg-name {
-  font-size: 2.6rem;
-  color: rgba(0,0,0,.7);
-  text-shadow: 0 1.5px 2px rgba(255,255,255,.6);
+  font-size: 1.4rem;
+  color: var(--wm-hover, #C4B5D6);
+  text-shadow: none;
   z-index: 5;
-  transition: font-size .45s cubic-bezier(.2,.7,.2,1), color .3s ease, text-shadow .3s ease, z-index 0s linear 0s;
+  transition: font-size .35s cubic-bezier(.2,.7,.2,1), color .3s ease, text-shadow .3s ease, z-index 0s linear 0s;
 }
 @media (max-width: 768px) {
   .limited-grid article > div.mob-card-info { display: flex !important; }
@@ -460,7 +464,7 @@ require __DIR__ . '/../includes/rental_header.php';
     <div class="limited-head" style="margin-bottom:2rem">
       <h2 class="limited-title text-3xl font-black" style="letter-spacing:-.02em;color:#0E0E12"><span>빠른출고</span> <span class="font-light">·</span> <span class="font-light">한정재고</span></h2>
       <p class="limited-sub mt-1 text-sm font-semibold text-neutral-400">수량 한정 · 소진 시 종료</p>
-      <p class="limited-sub-mob" style="display:none;font-size:.78rem;color:#737373;margin-top:.35rem">오늘 즉시 출고 가능한 차량만</p>
+      <p class="limited-sub-mob mt-1 text-sm font-semibold text-neutral-400" style="display:none">일주일 내 출고 가능한 차량만</p>
     </div>
     <div style="min-width:0">
       <div id="mob-cats-wrap" style="margin-bottom:1.2rem;display:none;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin-left:-1rem;margin-right:-1rem">
@@ -505,10 +509,10 @@ require __DIR__ . '/../includes/rental_header.php';
           <p class="mt-1 text-sm font-semibold text-neutral-400">이번 달 가장 많이 선택한 차량</p>
         </div>
         <div class="popular-arrows flex gap-2">
-          <button onclick="popularScroll(-1)" class="h-9 w-9 flex items-center justify-center border border-neutral-200 hover:bg-neutral-900 hover:text-white transition" aria-label="이전">
+          <button onclick="popularScroll(-1)" class="h-9 w-9 flex items-center justify-center border border-neutral-200 hover:bg-neutral-900 hover:text-white transition rounded-md" aria-label="이전">
             <span style="display:inline-block;width:9px;height:9px;border-left:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg) translate(2px,-2px)"></span>
           </button>
-          <button onclick="popularScroll(1)" class="h-9 w-9 flex items-center justify-center border border-neutral-200 hover:bg-neutral-900 hover:text-white transition" aria-label="다음">
+          <button onclick="popularScroll(1)" class="h-9 w-9 flex items-center justify-center border border-neutral-200 hover:bg-neutral-900 hover:text-white transition rounded-md" aria-label="다음">
             <span style="display:inline-block;width:9px;height:9px;border-right:2px solid currentColor;border-top:2px solid currentColor;transform:rotate(45deg) translate(-2px,2px)"></span>
           </button>
         </div>
@@ -599,7 +603,7 @@ require __DIR__ . '/../includes/rental_footer.php';
 @media(max-width:768px){.fab-consult{display:inline-flex}}
 
 /* 데스크탑 빠른상담 카드 (우측 고정) */
-.quick-consult-card{display:none;position:fixed;right:1.5rem;top:50%;transform:translateY(-50%);z-index:9998;width:18rem;background:#fff;border-radius:1rem;box-shadow:0 10px 32px rgba(0,0,0,.18),0 1px 4px rgba(0,0,0,.08);font-family:inherit;overflow:hidden}
+.quick-consult-card{display:none;position:fixed;right:1.5rem;top:50%;transform:translateY(-50%);z-index:9998;width:18rem;background:#fff;border:3px solid #fff;border-radius:1rem;box-shadow:0 10px 32px rgba(0,0,0,.22),0 1px 4px rgba(0,0,0,.1),0 0 0 1px rgba(0,0,0,.08);font-family:inherit;overflow:hidden}
 @media (min-width: 769px){
   .quick-consult-card{display:block;animation:qcPopIn .28s cubic-bezier(.2,.9,.3,1.2)}
 }
@@ -977,6 +981,23 @@ function getLimitedFloor(name) {
   }
   return `linear-gradient(rgba(0,0,0,.22), rgba(0,0,0,.22)), ${base}`;
 }
+function getLimitedBase(name) {
+  const s = name.replace(/^(현대|기아|제네시스|르노|쉐보레)\s+/, '');
+  for (const k in LIMITED_CARD_BG) {
+    if (s.indexOf(k) !== -1) return LIMITED_CARD_BG[k];
+  }
+  return '#2a2a2a';
+}
+function lightenHex(hex, amount) {
+  hex = hex.replace('#','');
+  const r = parseInt(hex.substr(0,2),16);
+  const g = parseInt(hex.substr(2,2),16);
+  const b = parseInt(hex.substr(4,2),16);
+  const lr = Math.round(r + (255-r)*amount);
+  const lg = Math.round(g + (255-g)*amount);
+  const lb = Math.round(b + (255-b)*amount);
+  return '#' + [lr,lg,lb].map(v => v.toString(16).padStart(2,'0')).join('');
+}
 
 // 색상명 → 실제 컬러 매핑 (베이지/브라운 우선순위 → 카키/그린 순)
 const COLOR_CHIP_MAP = [
@@ -1009,16 +1030,21 @@ function renderLimitedCards() {
   if (!grid) return;
   const mob = isMobile();
   const list = mob ? MOB_CARS.filter(c => c.cat.indexOf(mobFilter) !== -1) : CARS;
-  let html = list.map(car => `
-    <article class="border border-neutral-200 bg-white overflow-hidden zoom-card" style="cursor:pointer;position:relative;border-radius:14px" onclick="location.href='variants.php?name=${encodeURIComponent(car.name)}'">
+  let html = list.map(car => {
+    const _wmBase = getLimitedBase(car.name);
+    const _wmDefault = lightenHex(_wmBase, 0.75); // 기본: 배경 톤의 매우 옅은 버전 (subtle)
+    const _wmHover   = _wmBase; // hover: 배경 톤의 원본 saturated 컬러 (완전 선명)
+    return `
+    <article class="border border-neutral-200 bg-white overflow-hidden zoom-card" style="--wm-default:${_wmDefault};--wm-hover:${_wmHover};cursor:pointer;position:relative;border-radius:14px" onclick="location.href='variants.php?name=${encodeURIComponent(car.name)}'">
       <div class="limited-img-wrap" style="position:relative;background:${getLimitedBg(car.name)};height:200px;overflow:hidden">
-        <span class="limited-bg-name">${car.name}</span>
+        <span class="limited-bg-name">${car.name.indexOf('아반떼') !== -1 ? '인기차량 · 빠른출고' : '빠른출고'}</span>
         <img src="${car.image}" alt="${car.name}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;z-index:2" onerror="this.style.opacity='.2'">
       </div>
       ${car.colors ? `
       <div class="limited-trim-info px-4 pt-1 pb-1">
         ${car.tagline ? `<div style="display:inline-flex;align-items:center;gap:.3rem;background:#0E0E12;color:#F5B042;font-size:.65rem;font-weight:800;padding:.18rem .5rem;border-radius:4px;margin-bottom:.4rem;letter-spacing:-.01em">${car.tagline}</div>` : ''}
-        <p style="font-size:.75rem;color:#0a0a0a;font-weight:700;margin-bottom:.4rem">${car.trimRange}</p>
+        <p style="font-size:1rem;color:#0a0a0a;font-weight:800;margin-bottom:.2rem;letter-spacing:-.02em;line-height:1.2">${car.name}</p>
+        <p style="font-size:.75rem;color:#525252;font-weight:700;margin-bottom:.4rem">${car.trimRange}</p>
         <div style="display:flex;flex-wrap:wrap;gap:.25rem;margin-bottom:.4rem;min-height:4.6rem;align-content:flex-start;overflow:hidden">
           ${car.colors.map(c => { const cc = getColorChip(c); const lt = cc.bg === '#ffffff' ? 'border:1px solid #d4d4d4;' : ''; return `<span style="font-size:.65rem;color:#404040;display:inline-flex;align-items:center;gap:.3rem;white-space:nowrap;padding:.1rem .15rem"><span style="display:inline-block;width:.6rem;height:.6rem;border-radius:50%;background:${cc.bg};${lt}flex-shrink:0"></span>${c}</span>`; }).join('')}
         </div>
@@ -1026,7 +1052,7 @@ function renderLimitedCards() {
       </div>` : ''}
       <div class="p-4 desktop-bottom" style="display:flex;justify-content:space-between;align-items:center">
         <p class="font-black text-neutral-950 text-base">${car.price30}</p>
-        <span class="bg-neutral-900 text-white text-sm font-black px-3 py-1">${car.stock}대</span>
+        <span class="bg-neutral-900 text-white text-sm font-black px-3 py-1 rounded-md">${car.stock}대</span>
       </div>
       <div class="mob-card-info">
         <p class="m-name">${car.name}</p>
@@ -1034,8 +1060,9 @@ function renderLimitedCards() {
       </div>
       <span class="m-stock">${car.stock}대</span>
     </article>
-  `).join('');
-  html += `<a href="limited.php" style="grid-column:1 / -1;display:flex;align-items:center;justify-content:center;gap:.5rem;padding:.95rem;border:1px solid #0a0a0a;background:#0a0a0a;text-decoration:none;font-weight:700;font-size:.875rem;color:#fff;transition:background .15s;border-radius:12px" onmouseenter="this.style.background='#262626'" onmouseleave="this.style.background='#0a0a0a'">빠른출고 차량 전체보기 →</a>`;
+  `;
+  }).join('');
+  html += `<a href="limited.php" style="grid-column:1 / -1;display:flex;align-items:center;justify-content:center;gap:.5rem;padding:.95rem;border:1px solid #BFD2F8;background:#F0F4FE;text-decoration:none;font-weight:800;font-size:.875rem;color:#1E4FCC;transition:background .15s,border-color .15s;border-radius:12px" onmouseenter="this.style.background='#DBEAFE';this.style.borderColor='#2858E0'" onmouseleave="this.style.background='#F0F4FE';this.style.borderColor='#BFD2F8'">빠른출고 차량 전체보기 →</a>`;
   grid.innerHTML = html;
 }
 
@@ -1095,23 +1122,36 @@ function popularScroll(dir) {
 }
 
 /* ===================== 이번 주 특가 ===================== */
+/* 뱃지 색상 매핑 — 카테고리별 직관적 컬러 */
+const TAG_BG = {
+  '특가':'#DC2626',  '할인':'#DC2626',  '한정특가':'#DC2626',
+  '인기':'#EA580C',  '인기차종':'#EA580C',  'HOT':'#EA580C',
+  '신차':'#2858E0',  'NEW':'#2858E0',
+  '한정':'#7C3AED',  '리미티드':'#7C3AED',
+  'EV':'#16a34a',  '전기차':'#16a34a',  '친환경':'#16a34a',
+  '빠른배송':'#0F766E',  '즉시출고':'#0F766E',
+  '베스트':'#B45309',  'BEST':'#B45309',
+};
+function getTagBg(tag){ return TAG_BG[tag] || '#0a0a0a'; }
 function renderWeekly() {
   const grid = document.getElementById('weekly-grid');
   if (!grid) return;
-  grid.innerHTML = WEEKLY_CARS.map(car => `
-    <article class="border border-neutral-200 bg-white overflow-hidden">
+  grid.innerHTML = WEEKLY_CARS.map(car => {
+    const tag = car.tag || car.type;
+    return `
+    <article class="border border-neutral-200 bg-white overflow-hidden" style="border-radius:14px">
       <div class="overflow-hidden">
         <img src="${car.image}" alt="${car.name}" class="h-48 w-full object-contain bg-white">
       </div>
       <div class="p-5">
-        ${(car.tag || car.type) ? `<span class="car-badge mb-3 inline-flex bg-neutral-800 px-3 py-1 text-xs font-black text-white">${car.tag || car.type}</span>` : ''}
+        ${tag ? `<span class="car-badge mb-3 inline-flex px-3 py-1 text-xs font-black text-white rounded-md" style="background:${getTagBg(tag)}">${tag}</span>` : ''}
         <h3 class="font-black text-neutral-950">${car.name}</h3>
         <p class="mt-1 font-black text-neutral-950">${car.price}</p>
         <p class="mt-1 text-sm font-semibold text-neutral-500">${car.meta}</p>
-        <button class="mt-8 w-full py-3 text-sm font-bold text-white transition" style="background:#2858E0" onmouseover="this.style.background='#1E4FCC'" onmouseout="this.style.background='#2858E0'">견적 신청하기</button>
+        <button class="mt-8 w-full py-3 text-sm font-bold text-white transition rounded-lg" style="background:#2858E0" onmouseover="this.style.background='#1E4FCC'" onmouseout="this.style.background='#2858E0'">견적 신청하기</button>
       </div>
-    </article>
-  `).join('');
+    </article>`;
+  }).join('');
 }
 
 /* ===================== EV BANNER ===================== */
@@ -1431,9 +1471,6 @@ renderWeekly();
   const row = document.querySelector('.mob-cat-row');
   if (!row) return;
 
-  const MAX_OFFSET    = 95;
-  const TRIGGER_RANGE = 400;
-
   let userInteracted = false;
   let autoRunning    = false;
   ['touchstart','pointerdown','wheel'].forEach(ev =>
@@ -1446,16 +1483,19 @@ renderWeekly();
 
   function runAutoCycle(){
     autoRunning = true;
-    const outDur  = 850;
-    const holdDur = 380;
-    const backDur = 800;
+    const fullMax = Math.max(0, row.scrollWidth - row.clientWidth);
+    if (fullMax <= 0) { autoRunning = false; return Promise.resolve(); }
+
+    const outDur  = 1500;
+    const holdDur = 450;
+    const backDur = 1300;
 
     return new Promise(resolve => {
       const t0 = performance.now();
       function phaseOut(now){
         if (userInteracted) { autoRunning = false; resolve(); return; }
         const t = Math.min((now - t0) / outDur, 1);
-        row.scrollLeft = MAX_OFFSET * easeInOutCubic(t);
+        row.scrollLeft = fullMax * easeInOutCubic(t);
         if (t < 1) requestAnimationFrame(phaseOut);
         else setTimeout(() => requestAnimationFrame(phaseBack), holdDur);
       }
@@ -1464,7 +1504,7 @@ renderWeekly();
         if (userInteracted) { autoRunning = false; resolve(); return; }
         if (!t1) t1 = now;
         const t = Math.min((now - t1) / backDur, 1);
-        row.scrollLeft = MAX_OFFSET * (1 - easeInOutCubic(t));
+        row.scrollLeft = fullMax * (1 - easeInOutCubic(t));
         if (t < 1) requestAnimationFrame(phaseBack);
         else { row.scrollLeft = 0; autoRunning = false; resolve(); }
       }
@@ -1472,30 +1512,7 @@ renderWeekly();
     });
   }
 
-  let rafId = null;
-  let lastY = -1;
-  function scrollLinkedLoop(){
-    if (userInteracted || autoRunning) { rafId = null; return; }
-    const y = window.scrollY || window.pageYOffset || 0;
-    if (y !== lastY) {
-      lastY = y;
-      const ratio = Math.max(0, Math.min(y / TRIGGER_RANGE, 1));
-      const eased = 1 - Math.pow(1 - ratio, 4);
-      row.scrollLeft = MAX_OFFSET * eased;
-    }
-    rafId = requestAnimationFrame(scrollLinkedLoop);
-  }
-
-  setTimeout(() => {
-    runAutoCycle().then(() => {
-      if (!userInteracted && rafId == null) {
-        rafId = requestAnimationFrame(scrollLinkedLoop);
-        window.addEventListener('scroll', () => {
-          if (rafId == null && !userInteracted) rafId = requestAnimationFrame(scrollLinkedLoop);
-        }, { passive: true });
-      }
-    });
-  }, 600);
+  setTimeout(() => { runAutoCycle(); }, 600);
 })();
 </script>
 

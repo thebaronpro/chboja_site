@@ -59,7 +59,7 @@ require __DIR__ . '/../includes/header.php';
     </form>
     <div class="mt-4 flex gap-2">
       <?php foreach ($filters as $f): $on = ($f === $active_filter); ?>
-        <a href="?<?= http_build_query(['f' => $f, 'q' => $query]) ?>" class="px-5 py-2 text-xs font-black border rounded-full transition <?= $on ? 'bg-[#DEE7FB] text-[#1E4FCC] border-[#2858E0]' : 'border-neutral-200 text-neutral-500 hover:border-neutral-900 hover:text-neutral-900' ?>"><?= h($f) ?></a>
+        <a href="?<?= http_build_query(['f' => $f, 'q' => $query]) ?>" class="px-5 py-2 text-xs font-black border rounded-full transition <?= $on ? 'bg-[#F0F4FE] text-[#1E4FCC] border-[#BFD2F8]' : 'border-neutral-200 text-neutral-500 hover:border-neutral-900 hover:text-neutral-900' ?>"><?= h($f) ?></a>
       <?php endforeach; ?>
     </div>
   </div>

@@ -59,3 +59,41 @@ function get_color_hex_map(): array
     }
     return $map;
 }
+
+/**
+ * 색상 가격 매칭용 정규화 키 — "-유료" 텍스트 및 괄호 제거하여 핵심 색상명만 추출.
+ * JS의 colorPriceKey()와 동일 로직이어야 함.
+ */
+function color_price_key(string $name): string
+{
+    $clean = preg_replace('/[-–—]?\s*유료\s*(\([^)]*\))?/u', '', $name);
+    $clean = preg_replace('/\([^)]*\)/u', '', $clean);
+    $clean = preg_replace('/\s+/u', '', $clean);
+    return mb_strtolower(trim($clean ?? ''));
+}
+
+/**
+ * 유료 색상 → 가격(원) 맵. DB의 option_color 테이블에서 price > 0 인 행만.
+ */
+function get_color_price_map(): array
+{
+    $rows = db_all(
+        "SELECT color_name, price
+         FROM " . car_table('option_color') . "
+         WHERE " . not_header_clause('option_color') . "
+           AND CAST(price AS UNSIGNED) > 0
+           AND color_name != ''"
+    );
+
+    $map = [];
+    foreach ($rows as $r) {
+        $name  = $r['color_name'];
+        $price = (int) $r['price'];
+        if ($price <= 0) continue;
+        $key = color_price_key($name);
+        if ($key !== '' && !isset($map[$key])) {
+            $map[$key] = $price;
+        }
+    }
+    return $map;
+}

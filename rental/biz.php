@@ -20,16 +20,16 @@ a{text-decoration:none;color:inherit}
 .car-card:hover{transform:translateY(-4px);box-shadow:0 8px 32px rgba(0,0,0,.1)}
 .car-card img{width:100%;height:12rem;object-fit:contain;background:#f8f8f8;padding:.5rem}
 .car-info{padding:1.25rem}
-.badge{display:inline-block;background:#16a34a;color:#fff;padding:.2rem .6rem;font-size:.7rem;font-weight:900;margin-bottom:.5rem;border-radius:3px;letter-spacing:.02em}
+.badge{display:inline-block;background:#1E3A8A;color:#fff;padding:.2rem .6rem;font-size:.7rem;font-weight:900;margin-bottom:.5rem;border-radius:3px;letter-spacing:.02em}
 .car-name{font-weight:900;font-size:1rem}
 .car-price{font-size:1.125rem;font-weight:900;margin-top:.35rem}
 .car-meta{font-size:.75rem;color:#a3a3a3;margin-top:.2rem}
 .car-btn{display:block;width:100%;margin-top:1.25rem;padding:.75rem;background:#0a0a0a;color:#fff;font-size:.875rem;font-weight:700;border:none;cursor:pointer;transition:background .15s;text-align:center;border-radius:6px}
-.car-btn:hover{background:#16a34a}
+.car-btn:hover{background:#1E3A8A}
 .biz-benefits{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-bottom:2rem}
 @media(max-width:768px){.biz-benefits{grid-template-columns:1fr;gap:.5rem}}
-.biz-benefit{background:#f0fdf4;border:1px solid #dcfce7;border-radius:10px;padding:1rem 1.25rem}
-.biz-benefit p:first-child{font-size:.75rem;font-weight:800;color:#16a34a;letter-spacing:.04em;margin-bottom:.3rem}
+.biz-benefit{background:#EFF6FF;border:1px solid #DBEAFE;border-radius:10px;padding:1rem 1.25rem}
+.biz-benefit p:first-child{font-size:.75rem;font-weight:800;color:#1E3A8A;letter-spacing:.04em;margin-bottom:.3rem}
 .biz-benefit p:last-child{font-size:.95rem;font-weight:700;color:#0a0a0a;line-height:1.35}
 </style>
 </head>
@@ -38,7 +38,7 @@ a{text-decoration:none;color:inherit}
 
 <main style="max-width:1280px;margin:0 auto;padding:2.5rem 1.5rem 3rem">
   <div style="margin-bottom:1.75rem">
-    <h1 style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em">사업자 <span style="color:#16a34a">렌트</span></h1>
+    <h1 style="font-size:2.2rem;font-weight:900;letter-spacing:-.02em">사업자 <span style="color:#1E3A8A">렌트</span></h1>
     <p style="margin-top:.55rem;font-size:.95rem;color:#737373;font-weight:500">법인·개인사업자 전용 세제 혜택 차량</p>
   </div>
   <div class="biz-benefits">

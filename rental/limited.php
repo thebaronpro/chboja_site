@@ -10,7 +10,7 @@
 body{font-family:'Pretendard Variable',Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,sans-serif;background:#fff;color:#0a0a0a}
 a{text-decoration:none;color:inherit}
 .car-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1.5rem}
-.car-card{border:1px solid #e5e5e5;background:#fff;cursor:pointer;transition:box-shadow .2s,transform .2s}
+.car-card{border:1px solid #e5e5e5;background:#fff;cursor:pointer;transition:box-shadow .2s,transform .2s;border-radius:14px;overflow:hidden}
 .car-card:hover{transform:translateY(-3px);box-shadow:0 6px 24px rgba(0,0,0,.1)}
 .car-card img{width:100%;height:12rem;object-fit:contain;background:#fff}
 .car-card{position:relative}
@@ -25,7 +25,7 @@ footer{background:#0a0a0a;color:#737373;padding:2.5rem 0;margin-top:5rem}
 
 .filter-tab { padding:.55rem 1.1rem;font-size:.875rem;font-weight:600;color:#525252;border:1px solid #E2E0DA;background:#fff;cursor:pointer;border-radius:999px;transition:all .15s;white-space:nowrap;flex-shrink:0;font-family:inherit; }
 .filter-tab:hover { color:#0a0a0a;border-color:#C8C7CD;background:#F7F5F0; }
-.filter-tab.active { color:#1E4FCC;font-weight:800;background:#DEE7FB;border-color:#2858E0; }
+.filter-tab.active { color:#1E4FCC;font-weight:800;background:#F0F4FE;border-color:#BFD2F8; }
 
 @media (max-width: 768px) {
   .filter-tab { padding: .6rem .9rem; font-size: .8rem; }

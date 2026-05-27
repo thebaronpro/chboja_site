@@ -58,7 +58,8 @@ a{text-decoration:none;color:inherit}
 .dt-pop-title{font-size:1.35rem;font-weight:900;color:#0a0a0a;letter-spacing:-.02em;margin-bottom:.45rem}
 .dt-pop-sub{font-size:.85rem;color:#a3a3a3;font-weight:500;margin-bottom:1.75rem;letter-spacing:.02em}
 .dt-pop-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-bottom:1.5rem;max-width:920px;margin-left:auto;margin-right:auto}
-.dt-pop-card{background:#fff;border-radius:14px;padding:1rem 1rem 1.25rem;text-align:left;position:relative}
+.dt-pop-card{background:#fff;border-radius:14px;padding:1rem 1rem 1.25rem;text-align:left;position:relative;cursor:pointer;transition:box-shadow .15s,transform .15s}
+.dt-pop-card:hover{box-shadow:0 4px 18px rgba(0,0,0,.08);transform:translateY(-2px)}
 .dt-pop-img{position:relative;background:#f5f5f5;border-radius:10px;padding:1.25rem 1rem;height:160px;display:flex;align-items:center;justify-content:center;margin-bottom:.65rem}
 .dt-pop-img img{max-width:100%;max-height:100%;object-fit:contain}
 .dt-fast-badge{position:absolute;top:.65rem;left:.65rem;background:#dc2626;color:#fff;font-size:.62rem;font-weight:800;padding:.2rem .5rem;border-radius:5px;letter-spacing:-.01em;z-index:2}
@@ -152,7 +153,6 @@ a{text-decoration:none;color:inherit}
         </div>
         <div class="dt-banner-visual">
           <span class="dt-banner-zero">0</span>
-          <span class="dt-banner-tag">신차 인기차량</span>
         </div>
       </div>
       <button class="dt-arrow next" aria-label="다음">›</button>
@@ -167,7 +167,13 @@ a{text-decoration:none;color:inherit}
       <p class="dt-pop-sub">#봄맞이 특별할인 #선착순 한정 #1개월 무료</p>
       <div class="dt-pop-grid">
         <?php foreach ($SK_POPULAR as $c): ?>
-        <article class="dt-pop-card">
+        <article class="dt-pop-card"
+          data-name="<?= h($c['name']) ?>"
+          data-img="<?= h($c['img']) ?>"
+          data-color="<?= h($c['color']) ?>"
+          data-price="<?= h($c['price']) ?>"
+          data-stock="3"
+          onclick="dtGoToCar(this)">
           <div class="dt-pop-img">
             <span class="dt-fast-badge">빠른배송</span>
             <img src="<?= h($c['img']) ?>" alt="<?= h($c['name']) ?>" onerror="this.style.opacity=.2">
@@ -199,7 +205,12 @@ a{text-decoration:none;color:inherit}
       </div>
       <div class="dt-grid">
         <?php foreach ($SK_GRID as $c): ?>
-        <article class="dt-card">
+        <article class="dt-card"
+          data-name="<?= h($c['name']) ?>"
+          data-img="<?= h($c['img']) ?>"
+          data-price="<?= h($c['price']) ?>"
+          data-stock="3"
+          onclick="dtGoToCar(this)">
           <div class="dt-card-img">
             <span class="<?= $c['tag']==='빠른배송'?'dt-tag-fast':'dt-tag-custom' ?>"><?= h($c['tag']) ?></span>
             <img src="<?= h($c['img']) ?>" alt="<?= h($c['name']) ?>" onerror="this.style.opacity=.2">
@@ -256,6 +267,28 @@ document.querySelectorAll('.dt-tab').forEach(btn => {
     });
   });
 });
+
+// 다이렉트 카드 → 견적화면 (빠른출고와 동일 흐름)
+function dtGoToCar(el) {
+  const priceNum = (el.dataset.price || '').replace(/[^\d]/g, '');
+  const qp = new URLSearchParams({
+    name: el.dataset.name || '',
+    from: 'limited',
+    img: el.dataset.img || '',
+    trim: '',
+    color_ext: el.dataset.color || '',
+    color_int: '',
+    options: '',
+    price30: priceNum,
+    price0: priceNum,
+    stock: el.dataset.stock || '3',
+    period: '60',
+    mileage: '10000',
+    prepay: '30',
+    deposit: '0'
+  });
+  location.href = 'car.php?' + qp.toString();
+}
 </script>
 </body>
 </html>
